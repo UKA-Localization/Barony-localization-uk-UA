@@ -35,6 +35,7 @@ LANG = "uk-UA"  # тека в po/ і код мови компонента у Web
 GROUPS = {
     "data/story/*.json": "data/story",
     "data/scripts/*/script.json": "data/scripts",
+    "books/*.txt": "books",  # 34 книги, по одному рядку кожна — один компонент
 }
 
 HEADER = """msgid ""
