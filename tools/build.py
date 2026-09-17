@@ -25,6 +25,7 @@ from pathlib import Path
 
 from barony import (
     ASSETS_DIR, BUILD_DIR, DEFAULT_GAME_DIR, FILES, FILES_DIR, JSON_FILES, PUBLISH_DIR, SOURCE_DIR, TXT_ENTRY_LIMIT, TXT_FILES,
+    WHOLE_FILES, WHOLE_KEY,
     apply_json, dump_json_compact, game_files, json_size_limit, load_json, read_strings_tsv, read_text, rel, render_txt,
 )
 
@@ -88,6 +89,15 @@ def build(drafts: bool = False) -> Path:
         write(OUTPUT / file, data)
         total += n
         print(f"  {n:5d}  {file}")
+
+    # книги: увесь файл — один рядок; у гру — з CRLF, як в оригіналі
+    for path in game_files(SOURCE_DIR, WHOLE_FILES):
+        file = rel(path, SOURCE_DIR)
+        text = translations.get(file, {}).get(WHOLE_KEY)
+        if text:
+            write(OUTPUT / file, (text.replace("\n", "\r\n") + "\r\n").encode("utf-8"))
+            total += 1
+            print(f"      1  {file}")
 
     files = 0
     for path in game_files(SOURCE_DIR, FILES):
