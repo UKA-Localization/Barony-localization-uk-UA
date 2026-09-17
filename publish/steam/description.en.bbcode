@@ -13,15 +13,23 @@ Ukrainian localization of Barony: the interface, items, monsters, spells, compen
 [/olist]
 
 [h2]Alternative installation[/h2]
-The mod files can be copied straight into the game folder — Ukrainian is then on from the start, without picking the mod in the menu:
+The mod files can be copied straight into the game folder — Ukrainian is then on from the start, without picking the mod in the menu.
 
-[code]Steam\steamapps\workshop\content\371970\3711160804[/code]
+[olist]
+[*]Subscribe to the mod and wait until Steam downloads it.
+[*]Open the mod folder. With a default Steam install it is:
+[code]C:\Program Files (x86)\Steam\steamapps\workshop\content\371970\3711160804[/code]
+If Steam or the game is elsewhere: in your Steam library right-click Barony → [b]Manage → Browse local files[/b] — that opens the game folder; the mod folder is next to it, in [code]...\steamapps\workshop\content\371970\3711160804[/code].
+[*]Copy [b]everything[/b] from the mod folder (the [code]lang[/code], [code]data[/code], [code]items[/code], [code]books[/code], [code]fonts[/code], [code]themes[/code] folders) into the game folder — by default:
+[code]C:\Program Files (x86)\Steam\steamapps\common\Barony[/code]
+and confirm replacing the files.
+[/olist]
 
-Copy the contents of this folder into the folder where Barony is installed, replacing the existing files.
+[i]Back up the game folder first: verifying the game files in Steam restores the originals and undoes the changes.[/i]
 
-[i]Back up first: verifying the game files in Steam restores the originals and undoes the changes.[/i]
-
-The same files are available as an archive on GitHub (Releases) for installing without the Workshop: unpack into [code]<game folder>\mods\Barony Ukrainian Localization\[/code] and enable it via [b]Custom Content → Local Mods[/b].
+Without the Workshop: download the archive from GitHub (Releases) and unpack it so that you get the folder
+[code]C:\Program Files (x86)\Steam\steamapps\common\Barony\mods\Barony Ukrainian Localization[/code]
+(i.e. inside [code]mods[/code] there is a [code]Barony Ukrainian Localization[/code] folder with the mod files). Then in the game: [b]Custom Content → Local Mods → Barony Ukrainian Localization → Load Mod[/b].
 
 [h2]What is translated[/h2]
 [list]
@@ -35,12 +43,14 @@ The same files are available as an archive on GitHub (Releases) for installing w
 
 [h2]Known issues[/h2]
 [list]
-[*]The translation is not proofread — see "Status" above
-[*]Some lines may not fit narrow interface elements
-[*]Garbled characters (mojibake) appear in some places — being worked on, will be fixed in upcoming releases
-[*]Some letters in the fonts are drawn incorrectly and are hard to recognize — will also be fixed in upcoming releases
-[*]A few abbreviations are hard-coded in the game and stay in Latin (e.g. «LVL» above the XP bar) — may be resolved with a new version of the game
-[*][code]books/compiled_books.json[/code]: the game compiles the mod's books into this file and does not always restore the original after the mod is disabled — the books then stay in Ukrainian or the game complains on start. If that happens, delete the file or verify the game files in Steam. Likely to be resolved with a new version of the game
+[*][b]Not proofread yet.[/b] All texts are in Ukrainian, but an editor has not reviewed them — expect occasional inaccuracies, awkward wording and typos. Proofreading is in progress.
+[*][b]Long lines.[/b] Some labels may not fit narrow buttons, tables or tooltips.
+[*][b]Garbled characters.[/b] In some places broken symbols appear instead of letters. Being worked on, will be fixed in upcoming releases.
+[*][b]Fonts.[/b] Some letters are drawn incorrectly and are hard to recognize. Will be fixed in upcoming releases.
+[*][b]Labels from the game code.[/b] A few abbreviations are hard-coded in the game and stay in Latin (e.g. «LVL» above the XP bar). May be resolved with a new version of the game.
+[*][b]Books after disabling the mod.[/b] The game compiles the books into
+[code]books\compiled_books.json[/code]
+in its own folder and does not always restore the original after the mod is disabled — the books then stay in Ukrainian or the game complains on start. If that happens, delete the file or verify the game files in Steam. Likely to be resolved with a new version of the game.
 [/list]
 
 [h2]Bugs and suggestions[/h2]
