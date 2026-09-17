@@ -1,0 +1,2298 @@
+id	term	variants	translation	stem	forms	note	category	status
+baron_herx	Baron Herx	Baron|Baron's|BARON HERX's	Барон Геркс				Персонажі	
+orpheus	Orpheus	Orpheus'	Орфей				Персонажі	
+merlin	Merlin		Мерлін				Персонажі	
+gnome_king	Gnome King		король гномів				Персонажі	
+lich	Lich	Liches|LICH'S|liches'	ліч				Персонажі	
+barbarian	Barbarian	Barbarians	варвар				Класи	
+warrior	Warrior	Warriors	воїн				Класи	
+healer	Healer	Healers	цілитель				Класи	
+rogue	Rogue	Rogues	пройдисвіт				Класи	
+wanderer	Wanderer	Wanderers|Wanderer's	мандрівник				Класи	
+cleric	Cleric	Clerics	клірик				Класи	
+merchant	Merchant	Merchants|MERCHANTS'|Merchant's	торговець				Класи	
+wizard	Wizard	Wizards	чарівник				Класи	
+arcanist	Arcanist	Arcanists	арканіст				Класи	
+joker	Joker	Jokers|JOKER'S	блазень				Класи	
+sexton	Sexton	Sextons	паламар				Класи	
+ninja	Ninja	Ninjas	ніндзя				Класи	
+monk	Monk	Monks|Monk's	монах				Класи	
+human	Human	Humans|non-human|Non-humans	людина				Раси	
+skeleton	Skeleton	Skeletons	скелет				Раси	
+vampire	Vampire	Vampires|vampiric	вампір				Раси	
+succubus	Succubus	Succubi	сукуб				Раси	
+goatman	Goatman	Goatmen|Goatman's	козолюд				Раси	
+automaton	Automaton	Automatons|Automata	автоматон				Раси	
+incubus	Incubus	Incubi	інкуб				Раси	
+goblin	Goblin	Goblins	гоблін				Раси	
+insectoid	Insectoid	Insectoids	комахолюд				Раси	
+rat	Rat	Rats	Щур				Істоти	
+spider	Spider	Spiders|spider's	Павук				Істоти	
+troll	Troll	Trolls	Троль				Істоти	
+ghoul	Ghoul	Ghouls	упир				Істоти	
+minotaur	Minotaur	Minotaurs|minotaur's	Мінотавр				Істоти	
+shopkeeper	Shopkeeper	Shopkeepers|shopkeep|shopkeeper's	Крамар				Істоти	
+slime	Slime	Slimes|slimy blob	слиз				Істоти	
+dungeon	Dungeon	Dungeons|dungeoning|dungeon floors|dungeon's	Підземелля				Механіки	
+mines	Mines	mine|mined	Шахти				Механіки	
+swamp	Swamp		Болото				Механіки	
+labyrinth	Labyrinth	labyrinths	Лабіринт				Механіки	
+ruins	Ruins		Руїни				Механіки	
+hell	Hell	Hell's	Пекло				Механіки	
+hunger	Hunger		Голод				Механіки	
+level	Level	Levels|level-ups	Рівень				Механіки	
+spell	Spell	Spells|spell's	Закляття				Механіки	
+scroll	Scroll	Scrolls	Сувій				Механіки	
+potion	Potion	Potions	Зілля				Механіки	
+new_game	New Game		Нова гра				Інтерфейс	
+load_game	Load Game		Завантажити гру				Інтерфейс	
+settings	Settings		Налаштування				Інтерфейс	
+quit	Quit		Вийти				Інтерфейс	
+landguard	landguard		Землеварт			Назва варіанта зовнішності.	Загальне	
+northborn	northborn		Північнороджений			Назва варіанта зовнішності.	Загальне	
+firebrand	firebrand		Вогнеклеймо			Назва варіанта зовнішності.	Загальне	
+hardbred	hardbred		Суворовихований			Назва варіанта зовнішності.	Загальне	
+highwatch	highwatch		Високоварт			Назва варіанта зовнішності.	Загальне	
+gloomforge	gloomforge		Морококузня			Назва варіанта зовнішності.	Загальне	
+pyrebloom	pyrebloom		Вогнецвіт			Назва варіанта зовнішності.	Загальне	
+snakestone	snakestone		Змієкамінь			Назва варіанта зовнішності.	Загальне	
+windclan	windclan		Вітроклан			Назва варіанта зовнішності.	Загальне	
+warblood	warblood		Бойовокровний			Назва варіанта зовнішності.	Загальне	
+millbound	millbound		Млиноприв'язаний			Назва варіанта зовнішності.	Загальне	
+sunstalk	sunstalk		Сонцестебло			Назва варіанта зовнішності.	Загальне	
+claymount	claymount		Глинокряж			Назва варіанта зовнішності.	Загальне	
+stormward	stormward		Буреварт			Назва варіанта зовнішності.	Загальне	
+tradefall	tradefall		Торгоспад			Назва варіанта зовнішності.	Загальне	
+nighthill	nighthill		Нічний пагорб			Назва варіанта зовнішності.	Загальне	
+baytower	baytower		Вежа затоки			Назва варіанта зовнішності.	Загальне	
+whetsong	whetsong		Гостропісня			Назва варіанта зовнішності.	Загальне	
+bat	Bat	bats	кажан			Вид істоти.	Істоти	
+scorpion	Scorpion	scorpions	скорпіон			Вид істоти.	Істоти	
+imp	Imp	imps	імп			Вид монстра.	Істоти	
+crab	Crab	crabs|crab's	краб			Вид істоти.	Істоти	
+gnome	Gnome	gnomes|gnomes'	гном			Вид істоти.	Істоти	
+demon	Demon	demons|Demon's	демон			Вид монстра.	Істоти	
+mimic	Mimic	mimics|MIMIC'S	мімік			Монстр, що маскується під скриню.	Істоти	
+devil	Devil	devils|Devils'	диявол			Назва боса-диявола.	Персонажі	
+cheats	Cheats	cheat codes|cheated	чити			Параметр сервера, що дозволяє чити.	Механіки	
+friendly_fire	Friendly Fire		вогонь по своїх			Можливість завдавати шкоди союзникам.	Механіки	
+trap	Trap	Traps|[Traps]|trap-infested	пастка			Пастки; параметр сервера керує їхньою наявністю.	Механіки	
+adrian	Adrian		Адріан			Ім’я крамаря.	Персонажі	
+bob	Bob		Боб			Ім’я крамаря.	Персонажі	
+carmack	Carmack		Кармак			Ім’я крамаря.	Персонажі	
+derek	Derek		Дерек			Ім’я крамаря.	Персонажі	
+error	Error		Еррор			Ім’я крамаря.	Персонажі	
+felix	Felix		Фелікс			Ім’я крамаря.	Персонажі	
+geoff	Geoff		Джефф			Ім’я крамаря.	Персонажі	
+harold	Harold		Гарольд			Ім’я крамаря.	Персонажі	
+izchak	Izchak		Іцхак			Ім’я крамаря.	Персонажі	
+jesse	Jesse		Джессі			Ім’я крамаря.	Персонажі	
+ken	Ken		Кен			Ім’я крамаря.	Персонажі	
+luke	Luke		Люк			Ім’я крамаря.	Персонажі	
+marty	Marty		Марті			Ім’я крамаря.	Персонажі	
+norian	Norian		Норіан			Ім’я крамаря.	Персонажі	
+oliver	Oliver		Олівер			Ім’я крамаря.	Персонажі	
+peter	Peter		Пітер			Ім’я крамаря.	Персонажі	
+quentin	Quentin		Квентін			Ім’я крамаря.	Персонажі	
+romero	Romero		Ромеро			Ім’я крамаря.	Персонажі	
+sidney	Sidney		Сідні			Ім’я крамаря.	Персонажі	
+tom	Tom		Том			Ім’я крамаря.	Персонажі	
+ulf	Ulf		Ульф			Ім’я крамаря.	Персонажі	
+vern	Vern		Верн			Ім’я крамаря.	Персонажі	
+wallace	Wallace		Воллес			Ім’я крамаря.	Персонажі	
+xavier	Xavier		Ксав'єр			Ім’я крамаря.	Персонажі	
+yoshi	Yoshi		Йоші			Ім’я крамаря.	Персонажі	
+zeb	Zeb		Зеб			Ім’я крамаря.	Персонажі	
+none	None	[None]	немає			Рівень володіння навичкою.	Механіки	
+novice	Novice	novices	новачок			Рівень володіння навичкою.	Механіки	
+basic	Basic		базовий			Рівень володіння навичкою.	Механіки	
+skilled	Skilled		вправний			Рівень володіння навичкою.	Механіки	
+expert	Expert		експерт			Рівень володіння навичкою.	Механіки	
+master	Master	master's	майстер			Рівень володіння навичкою.	Механіки	
+legend	Legend	Legends|LEGENDARY|legendary skill|legendary ability	легенда			Рівень володіння навичкою.	Механіки	
+chest	chest	chests|chest's	скриня			Скриня для зберігання предметів.	Предмети	
+mana	mana		мана			Ресурс для застосування заклять.	Механіки	
+cloak	cloak	CLOAKS	плащ			Плащ; тип спорядження.	Предмети	
+amulet	amulet	AMULETS	амулет			Амулет; тип спорядження.	Предмети	
+shield	shield	SHIELDS|shielded	щит			Щит; тип спорядження.	Предмети	
+door	door	doors	двері			Двері; об'єкт оточення.	Предмети	
+chair	chair		стілець			Стілець; предмет меблів.	Предмети	
+table	table		стіл			Стіл; предмет меблів.	Предмети	
+confused	confused	[Confused]	спантеличений			Стан спантеличення.	Механіки	
+slowed	slowed		уповільнений			Стан уповільнення.	Механіки	
+asleep	asleep		сон			Стан сну.	Механіки	
+gate	gate	gates	брама			Брама; об'єкт оточення.	Предмети	
+boulder	boulder	boulders|[Boulders]	валун			Валун; рухомий об'єкт і небезпека.	Предмети	
+sokoban	Sokoban		Сокобан			Назва рівня-головоломки; відсилання до однойменної гри.	Локації	
+defending	defending	defense|Defend	захист			Захисна дія, що перешкоджає чаклуванню.	Механіки	
+unsustain	unsustain	Unsustaining	припинити підтримування			Припинення підтримування закляття.	Механіки	
+swimming	swimming	Swim	плавання			Плавання; спосіб пересування.	Механіки	
+arrow	arrow	Arrows	стріла			Стріла; боєприпас.	Предмети	
+armor	armor	armored|armors	обладунок			Обладунок; захисне спорядження.	Предмети	
+poison	poison	poisons|poisoned|[Poison/Slow]|[Poison]|[Poison/Knockback]|poisonous	отруєння			Накладання отруєння.	Механіки	
+beartrap	beartrap	beartraps	капкан			Капкан; пастка.	Предмети	
+torch	torch	torches	смолоскип			Смолоскип; джерело світла.	Предмети	
+fountain	fountain	Fountains	фонтан			Фонтан; інтерактивний об'єкт.	Предмети	
+holy_water	holy water		свята вода			Свята вода.	Предмети	
+bless	bless	blesses	благословляти			Надання спорядженню благословення.	Механіки	
+equipment	equipment	Equips	спорядження			Загальна назва спорядження.	Предмети	
+gold_piece	gold piece	gold pieces|gold|[Gold]|G	золота монета			Золота монета; одиниця валюти.	Предмети	
+johnny_yeast	Johnny Yeast		Джонні Дріжджі			Ім'я в жартівливій епітафії.	Персонажі	
+blake	Blake		Блейк			Ім'я в жартівливій епітафії.	Персонажі	
+weird_ed	Weird Ed		Дивний Ед			Ім'я в епітафії; відсилання до іншої гри.	Персонажі	
+rest_in_peace	Rest in Peace		Спочивай з миром			Усталена формула епітафії.	Загальне	
+r_i_p	R.I.P.		R.I.P.			Усталене скорочення надгробної формули.	Загальне	
+sir_jim	Sir Jim		сер Джим			Ім'я з титулом у жартівливій епітафії.	Персонажі	
+mary_poppins	Mary Poppins		Мері Поппінс			Ім'я персонажки; культурне відсилання.	Персонажі	
+horace_p_fetch	Horace P. Fetch		Горацій П. Фетч			Ім'я в жартівливій епітафії.	Персонажі	
+julian	Julian		Джуліан			Ім'я в жартівливій епітафії.	Персонажі	
+ingrid	Ingrid		Інгрід			Ім'я в жартівливій епітафії.	Персонажі	
+sir_robin	Sir Robin		сер Робін			Ім'я з титулом; культурне відсилання.	Персонажі	
+russian_roulette	Russian Roulette		російська рулетка			Назва гри, згаданої в епітафії.	Загальне	
+mitch	Mitch		Мітч			Ім'я в жартівливій епітафії.	Персонажі	
+the_proto_pegasus	The Proto Pegasus		Протопегас			Власна назва в жартівливій епітафії.	Персонажі	
+headstone	headstone		надгробок			Надгробок; об'єкт з епітафією.	Предмети	
+party	party	parties	група			Група гравців для спільного проходження.	Механіки	
+ladder	ladder		драбина			Драбина для переходу між рівнями.	Предмети	
+exit	exit	Exits|[Exits]	вихід			Вихід із поточного рівня.	Локації	
+portal	portal	[Portal]	портал			Портал для переходу між локаціями.	Предмети	
+ring_of_conflict	ring of conflict	rings of conflict	перстень розбрату			Магічний перстень, що спричиняє ворожнечу навколо носія.	Предмети	
+lamp_oil	lamp oil		лампова олія			Лампова олія у жартівливій пропозиції крамаря.	Предмети	
+rope	rope		мотузка			Мотузка у переліку товарів.	Предмети	
+bomb	bomb	Bombs	бомба			Бомби у переліку товарів.	Предмети	
+ruby	ruby		рубін			Коштовне каміння, згадане як оплата.	Предмети	
+enchanted	enchanted		зачарований			Наявність магічних властивостей у предмета.	Механіки	
+cursed	cursed		проклятий			Проклятий стан предмета.	Механіки	
+weapon	weapon	Weapons|weaponry	зброя			Категорія зброї.	Предмети	
+picture_book	picture book	picture books	книжка з малюнками			Книжка з малюнками.	Предмети	
+skill	skill	skills	навичка			Навички, що поліпшуються від використання.	Механіки	
+canned_food	canned food		консервована їжа			Консервована їжа.	Предмети	
+greasy	greasy	[Greasy]	засмальцьований			Стан забруднених жиром рук.	Механіки	
+towel	towel	towels	рушник			Рушник для очищення.	Предмети	
+paralysis	paralysis	paralyze|[Paralysis]|[Paralyze]	параліч			Ефект паралічу від ужалення.	Механіки	
+mirror	mirror	Mirrors	дзеркало			Дзеркало з особливими ефектами.	Предмети	
+identification	identification	identify|identifying|[Identify]|Identifies	визначення			Визначення властивостей предмета.	Механіки	
+tinkering	Tinkering	TINKERED|tinkering skill|tinkerers|tinkerer|[Tinkering]|tinker|tinkerer's|[Tinker]	майстрування			Назва навички.	Механіки	
+stealth	Stealth	stealthy|[Stealth]	потайність			Назва навички.	Механіки	
+trading	Trading	trade skill|TRADING SKILL|trades|trade	торгівля			Назва навички.	Механіки	
+lore	Lore	LORE BOOKS	знання			Назва навички.	Механіки	
+thaumaturgy	Thaumaturgy	[Thaumaturgy]|Thauma	тавматургія			Назва магічної навички.	Механіки	
+leader	Leader		лідерство			Назва навички лідерства в цьому списку.	Механіки	
+mysticism	Mysticism	[Mysticism]	містицизм			Назва магічної навички.	Механіки	
+sorcery	Sorcery	[Sorcery]	чаклунство			Назва магічної навички.	Механіки	
+ranged	Ranged	ranged attack|ranged attacks|ranged skill|[Ranged]	дальній бій			Навичка дистанційної зброї.	Механіки	
+sword	Sword	SWORDS|[Swords]	меч			Навичка володіння мечами.	Механіки	
+mace	Mace	MACES|MACE SKILL|[Maces]|[Mace]	булава			Навичка володіння булавами.	Механіки	
+axe	Axe	AXES|[Axes]	сокира			Навичка володіння сокирами.	Механіки	
+polearm	Polearm	POLEARMS|POLEARM SKILL|[Polearm]	древкова зброя			Навичка древкової зброї.	Механіки	
+wall_mounted_torch	wall-mounted torch		настінний смолоскип			Настінний смолоскип.	Предмети	
+campfire	campfire		багаття			Багаття як об'єкт оточення.	Предмети	
+sink	sink	sinks	раковина			Інтерактивна раковина.	Предмети	
+iron_portcullis	iron portcullis		залізна опускна решітка			Залізна опускна решітка.	Предмети	
+spike_trap	spike trap	Spikes|Spike Traps	пастка з шипами			Пастка із шипами.	Предмети	
+lever	lever	LEVERS	важіль			Інтерактивний важіль.	Предмети	
+mysterious_portal	mysterious portal		таємничий портал			Таємничий портал як об'єкт переходу.	Предмети	
+multiplayer	multiplayer		багатокористувацька гра			Багатокористувацький режим гри.	Механіки	
+noclip	noclip		проходження крізь перешкоди			Чит проходження крізь перешкоди.	Механіки	
+god_mode	god mode		режим бога			Чит-режим невразливості.	Механіки	
+buddha_mode	buddha mode		режим Будди			Назва чит-режиму.	Механіки	
+friendly_mode	friendly mode		дружній режим			Назва режиму дружнього ставлення істот.	Механіки	
+singleplayer	singleplayer		однокористувацька гра			Однокористувацький режим гри.	Механіки	
+identified	identified		розпізнаний			Стан предмета з визначеними властивостями.	Механіки	
+appraisal	Appraisal	Appraising|appraised|Appraise	оцінювання			Процес оцінювання предмета.	Механіки	
+spellbook	spellbook	Spellbooks	книга заклять			Книга заклять як тип предмета.	Предмети	
+uncursed	uncursed		непроклятий			Непроклятий стан предмета.	Механіки	
+scroll_of_identify	scroll of identify		сувій розпізнавання			Сувій ідентифікації предметів.	Предмети	
+bleeding	bleeding	[Bleeding]	кровотеча			Стан кровотечі.	Механіки	
+tin	tin	tins|tinned	консерва			Консерви як їстівний предмет.	Предмети	
+tin_opener	tin opener	Tin Openers	консервний ніж			Інструмент для відкривання консервів.	Предмети	
+blindness	blindness	blind|blinded|[Blindness]	сліпота			Стан сліпоти.	Механіки	
+pie	pie		пиріг			Пиріг як їстівний предмет.	Предмети	
+unidentified	Unidentified		нерозпізнаний			Стан нерозпізнаного предмета.	Механіки	
+gem	Gem	gems	коштовний камінь			Коштовні камені як категорія предметів.	Предмети	
+king_arthur	King Arthur	King Arthur's	король Артур			Іменний персонаж, власник Dyrnwyn.	Персонажі	
+dyrnwyn	Dyrnwyn		Дірнвін			Іменний меч-артефакт.	Предмети	
+han	Han		Хан			Ім’я в алюзії на Гана Соло.	Персонажі	
+ring	Ring	rings	перстень			Каблучки як категорія спорядження.	Предмети	
+gungnir	Gungnir		Ґунґнір			Іменний спис-артефакт.	Предмети	
+khryselekatos	Khryselekatos		Хриселекатос			Іменний лук-артефакт.	Предмети	
+poison_arrow	Poison Arrow	poison arrows	отруйна стріла			Отруйні стріли, якими стріляє артефакт.	Предмети	
+minetown	Minetown		Шахтарське містечко			Назва шахтарського поселення.	Локації	
+underworld	Underworld	underworld's	Потойбіччя			Прихована підземна локація.	Локації	
+minotaur_maze	Minotaur Maze		Лабіринт Мінотавра			Назва лабіринту Мінотавра.	Локації	
+funny_bones	Funny Bones	Funny Bones'	Веселі Кістки			Іменний персонаж, власник Parashu.	Персонажі	
+parashu	Parashu		Парашу			Іменна сокира-артефакт.	Предмети	
+superfly	Superfly		Суперфлай			Ім’я персонажа у відсиланні до Daikatana.	Персонажі	
+mimiga	Mimiga		міміґа			Раса у відсиланні до Cave Story.	Раси	
+sue	Sue		Сью			Ім’я персонажки у відсиланні до Cave Story.	Персонажі	
+teleportitis	Teleportitis		телепортит			Стан, що спричиняє мимовільні телепортації.	Механіки	
+lava	Lava		лава			Небезпечний тип поверхні.	Механіки	
+water	Water		вода			Вода як середовище, що гасить горіння.	Механіки	
+invisibility	Invisibility	invisible|[Invisibility]	невидимість			Закляття невидимості.	Закляття	
+levitation	Levitation	levitate|levitates|[Levitation]|Levitating	левітація			Закляття левітації.	Закляття	
+hungry	Hungry		голодний			Стан голоду.	Механіки	
+very_hungry	Very Hungry		дуже голодний			Стадія сильного голоду.	Механіки	
+starving	Starving		вмирає з голоду			Стадія критичного голоду.	Механіки	
+level_up	Level Up	[Level Up: +INT]	підвищення рівня			Підвищення рівня персонажа.	Механіки	
+staff	staff		посох			Магічний посох	Предмети	
+pickaxe	pickaxe	pickaxes	кирка			Кирка	Предмети	
+paralyzed	paralyzed	paralyzing	паралізований			Стан паралічу	Механіки	
+critical_hit	critical hit	critically hit	критичне влучання			Критичне влучання	Механіки	
+auto_kick	Auto-kick	Auto-kicking	автовиключення			Автоматичне виключення гравця	Механіки	
+auto_disconnect	Auto disconnect		автовід'єднання			Автоматичне від'єднання від сервера	Механіки	
+barony	Barony		Barony			Назва гри	Загальне	
+choking	choking		задуха			Стан задухи	Механіки	
+moe	Moe		Мо			Автор листа	Персонажі	
+maggie	Maggie		Меґґі			Адресатка листа	Персонажі	
+lord_jabu_jabu	Lord Jabu Jabu		лорд Джабу-Джабу			Ім'я істоти в цитованому листі	Персонажі	
+ruto	Ruto		Руто			Авторка листа	Персонажі	
+dopefish	Dopefish		Допфіш			Іменована істота у відсиланні	Персонажі	
+devil_s_bastion	Devil's Bastion		Бастіон Диявола			Назва бастіону	Локації	
+avatar	Avatar		Аватар			Ім'я або титул адресата у відсиланні	Персонажі	
+host	Host	hosting	організатор			Гравець, який веде мережеву гру.	Механіки	
+critical_strike	critical strike	CRITICAL STRIKES|[Critical]|[Critical] strikes|Crits|critical	критичний удар			Посилений удар після утримання кнопки атаки.	Механіки	
+spellcasting	spellcasting	Casting|Spellbook-Cast|Spellbook-Casting	чаклування			Процес чаклування, який можна перервати.	Механіки	
+ally	ally	ally(s)	союзник			Союзна істота або персонаж.	Механіки	
+magic_tower	magic tower		магічна вежа			Магічна вежа, джерело смертельної атаки.	Предмети	
+ceiling_magic_trap	ceiling magic trap		стельова магічна пастка			Стельова магічна пастка.	Предмети	
+arrow_trap	arrow trap	arrow traps	стрілова пастка			Пастка, що стріляє стрілами.	Предмети	
+undead	undead		нежить			Збірна назва нежиті.	Істоти	
+broken	broken		зламаний			Стан предмета.	Механіки	
+decrepit	decrepit		ветхий			Стан предмета.	Механіки	
+worn	worn		зношений			Стан предмета.	Механіки	
+serviceable	serviceable	SERVICABLE	справний			Стан предмета.	Механіки	
+excellent	excellent		відмінний			Стан предмета.	Механіки	
+destroyed	destroyed		знищений			Стан предмета.	Механіки	
+cracked	cracked		тріснутий			Стан предмета.	Механіки	
+rough	rough		необроблений			Стан предмета.	Механіки	
+flawed	flawed		дефектний			Стан предмета.	Механіки	
+flawless	flawless		бездоганний			Стан предмета.	Механіки	
+evaporated	evaporated		випаруваний			Стан зілля.	Механіки	
+cloudy	cloudy		каламутний			Стан зілля.	Механіки	
+swirly	swirly		вихристий			Стан зілля.	Механіки	
+plain	plain		звичайний			Стан зілля.	Механіки	
+bubbly	bubbly		шипучий			Стан зілля.	Механіки	
+shredded	shredded		пошматований			Стан паперового предмета.	Механіки	
+torn	torn		порваний			Стан паперового предмета.	Механіки	
+faded	faded		вицвілий			Стан паперового предмета.	Механіки	
+marked	marked	Marks|MARK	позначений			Стан паперового предмета.	Механіки	
+brand_new	brand new		новісінький			Стан предмета.	Механіки	
+rotten	rotten		гнилий			Стан їжі.	Механіки	
+mouldy	mouldy		запліснявілий			Стан їжі.	Механіки	
+aged	aged	Slightly-aged	залежаний			Стан їжі.	Механіки	
+slightly_aged	slightly aged		трохи залежаний			Стан їжі.	Механіки	
+fresh	fresh	[Fresh]	свіжий			Стан їжі.	Механіки	
+sharur	Sharur		Шарур			Ім'я розмовної булави.	Персонажі	
+lockpick	lockpick	pick|lockpicking|lockpicked|lockpicks	відмичка			Інструмент для відмикання замків.	Предмети	
+baphomet	Baphomet	Baphomet's	Бафомет			Іменний бос.	Персонажі	
+zap_brigade	ZAP Brigade		бригада «ЗАП»			Назва загону, що прибуває на допомогу.	Фракції	
+kobold	Kobold	kobolds	кобольд			Вид монстра.	Істоти	
+scarab	Scarab	scarabs	скарабей			Жук-монстр.	Істоти	
+crystal_golem	Crystal Golem	crystal golems	кристалічний голем			Кристалічний голем.	Істоти	
+shadow	Shadow	shadows	тінь			Тіньовий монстр.	Істоти	
+cockatrice	Cockatrice	cockatrices|Cockatrice's	кокатрис			Вид монстра.	Істоти	
+frosty_lich	Frosty Lich		крижаний ліч			Крижаний ліч, бос.	Персонажі	
+fiery_lich	Fiery Lich		вогняний ліч			Вогняний ліч, бос.	Персонажі	
+sentrybot	Sentrybot	sentry bots|sentry bot|sentrybots	робот-вартовий			Робот-вартовий.	Істоти	
+spellbot	Spellbot	spell bots	робот-заклинач			Робот-заклинач.	Істоти	
+gyrobot	Gyrobot	gyrobots|GYROBOT'S	гіробот			Летючий робот.	Істоти	
+dummybot	Dummybot	dummybots	робот-манекен			Робот-манекен.	Істоти	
+erudyce	Erudyce	Erudyce's	Ерудіса			Ім’я боса у присвійній формі.	Персонажі	
+fist	fist	fists	кулак			Позначення атаки кулаками.	Механіки	
+thrown	thrown	throwing	метальний			Категорія атаки метальними предметами.	Механіки	
+melee	melee	Melee Fighting|melee attack|melee attacks|melee damage	ближній бій			Категорія атаки ближнього бою.	Механіки	
+total_attack	Total Attack		загальна атака			Сумарне значення атаки.	Механіки	
+str	STR		СИЛ			скорочення від «сила»; в оригіналі STR	Механіки	
+dex	DEX	-DEX	СПР			скорочення від «спритність»; в оригіналі DEX	Механіки	
+tool	tool	TOOLS	інструмент			Категорія інструментів.	Предмети	
+damage	Damage	Damaging|[Damaging Spells]|damaged	шкода			Величина завданої шкоди.	Механіки	
+atk	ATK		АТК			скорочення від «атака»; в оригіналі ATK	Механіки	
+guild	Guild	Guilds	гільдія			Гільдія, яка прислала прибульців.	Фракції	
+caves	Caves	Cave	Печери			Печери, вхід до яких запечатано.	Локації	
+herx	Herx	Herx's	Геркс			Ім’я померлого володаря.	Персонажі	
+monster	monster	monsters|[Monsters]	монстр			Загальна назва монстрів.	Істоти	
+crystal	crystal	CRYSTALS	кристал			Кристал, з яким можна взаємодіяти.	Предмети	
+empty_bottle	empty bottle	empty bottles	порожня пляшка			Порожня пляшка.	Предмети	
+pedestal	pedestal		п'єдестал			П'єдестал для розміщення сфери.	Предмети	
+primordial_artifact	primordial artifact		первісний артефакт			Опис потрібного п'єдесталу артефакту.	Предмети	
+orb	orb	orbs	сфера			Сфера для механізму п'єдесталу.	Предмети	
+boots	boots		чоботи			Чоботи як спорядження.	Предмети	
+footwear	footwear		взуття			Загальна категорія взуття.	Предмети	
+life_force	life force		життєва сила			Життєва сила, яку висмоктує магія.	Механіки	
+reflect_magic	Reflect Magic		відбиття магії			Закляття відбиття магії.	Закляття	
+vampiric_aura	Vampiric Aura		вампірична аура			Закляття вампіричної аури.	Закляття	
+hat	hat	HATS	капелюх			Капелюх як спорядження.	Предмети	
+invisibility_cloak	invisibility cloak		плащ невидимості			Плащ, що надає невидимість.	Предмети	
+bed	bed		ліжко			Ліжко як об'єкт оточення.	Предмети	
+bunkbed	bunkbed		двоярусне ліжко			Двоярусне ліжко.	Предмети	
+podium	podium		трибуна			Трибуна як об'єкт оточення.	Предмети	
+piston	piston	pistons	поршень			Поршні як об'єкти оточення.	Предмети	
+column	column		колона			Колона як об'єкт оточення.	Предмети	
+stalagmite	stalagmite		сталагміт			Сталагміт як об'єкт оточення.	Предмети	
+stalactite	stalactite	stalagtite	сталактит			Сталактит; в оригінальному рядку описка.	Предмети	
+bolt	bolt		болт			Болт як снаряд.	Предмети	
+arcane_protection	arcane protection		магічний захист			Магічний захист від відмикання.	Механіки	
+helmet	helmet	helmets	шолом			Шолом.	Предмети	
+breastpiece	breastpiece		нагрудник			Нагрудний обладунок.	Предмети	
+gloves	gloves		рукавички			Парне спорядження для рук.	Предмети	
+charm	charm	charmed|[Charm]	причарування			Ефект магічного підкорення істоти.	Механіки	
+polymorph	polymorph	polymorphs|[Polymorph]|polymorphed	перетворення			Ефект зміни форми істоти.	Механіки	
+potion_of_polymorph	potion of polymorph		зілля поліморфії			Зілля зміни форми.	Предмети	
+soul	soul	souls	душа			Душа призваного союзника, що повертається до власника.	Механіки	
+rank	rank		ранг			Ранг розвитку призваного союзника.	Механіки	
+curse	curse	Curses|[Curse]	прокляття			Прокляття персонажа.	Механіки	
+unarmed	Unarmed		без зброї			Позначення бою без зброї.	Механіки	
+stunned	stunned		оглушений			Стан оглушення.	Механіки	
+knockback	knockback	knocked back|knock|[Knockback]	відкидання			Ефект відкидання персонажа.	Механіки	
+blessed	blessed		благословенний			Благословенний стан предмета.	Механіки	
+conjurer	Conjurer		прикликач			Ігровий клас.	Класи	
+accursed	Accursed		проклятий			Ігровий клас.	Класи	
+mesmer	Mesmer	Mesmers	месмерист			Ігровий клас.	Класи	
+brewer	Brewer	brewers|brewer's	бровар			Ігровий клас.	Класи	
+mechanist	Mechanist	mechanists	механіст			Ігровий клас.	Класи	
+punisher	Punisher	Punishers	каратель			Ігровий клас.	Класи	
+shaman	Shaman	Shamans	шаман			Ігровий клас.	Класи	
+hunter	Hunter	Hunters|HUNTERS'	мисливець			Ігровий клас.	Класи	
+hangover	hangover	Hangovers	похмілля			Стан похмілля.	Механіки	
+health	health		здоров'я			Ресурс здоров'я персонажа.	Механіки	
+hamlet	Hamlet	Hamlet's	Поселення			Поселення.	Локації	
+crystal_caves	Crystal Caves		Кришталеві печери			Назва печер.	Локації	
+magicians_guild	Magicians' Guild	Magicians’ Guild	гільдія магів			Гільдія магів.	Фракції	
+hunters_guild	Hunters' Guild		гільдія мисливців			Гільдія мисливців.	Фракції	
+magician	Magician	Magicians|MAGICIANS'|Magician's	маг			Члени гільдії магів.	Загальне	
+archmagister	Archmagister	Archmagisters|Archmagisters'	архімагістр			Титул керівників гільдії магів.	Загальне	
+masons_guild	Masons' Guild		гільдія мулярів			Гільдія мулярів.	Фракції	
+church	Church		Церква			Релігійна організація.	Фракції	
+merchants_guild	Merchants' Guild		гільдія торговців			Гільдія торговців.	Фракції	
+artifact	artifact	artifacts	артефакт			Рідкісні артефакти.	Предмети	
+shrine	shrine	Shrines	святиня			Святиня, що надає посилення.	Предмети	
+blindfold	blindfold		пов'язка на очі			Пов'язка на очі.	Предмети	
+cape	cape		плащ			Плащ.	Предмети	
+brawler_mode	Brawler-mode		режим забіяки			Режим з обмеженнями способів атаки.	Механіки	
+brawler	Brawler	Brawler Achievement	Забіяка			Досягнення за дотримання бойових обмежень.	Механіки	
+leadership	Leadership	LEADERSHIP SKILL	лідерство			навичка керування союзниками	Механіки	
+simple	simple		простий			рівень складності або якості предмета	Механіки	
+complex	complex		складний			рівень складності або якості предмета	Механіки	
+intricate	intricate		вигадливий			рівень складності або якості предмета	Механіки	
+artisan	artisan		майстерний			рівень складності або якості предмета	Механіки	
+noisemaker	noisemaker		шумова приманка			пристрій-приманка, що створює шум	Предмети	
+item	Item	items|item's	предмет			предмети в інвентарі	Предмети	
+empty_flask	Empty Flask	empty flasks	порожня колба			порожня колба для рідин	Предмети	
+alchemy	Alchemy		алхімія			механіка алхімії	Механіки	
+base_alchemy_ingredient	Base Alchemy Ingredient		основний алхімічний інгредієнт			основний алхімічний інгредієнт	Механіки	
+secondary_alchemy_ingredient	Secondary Alchemy Ingredient		додатковий алхімічний інгредієнт			додатковий алхімічний інгредієнт	Механіки	
+strength	Strength	strengths|full-strength|[Strength]	сила			характеристика сили	Механіки	
+vitality	Vitality		життєва сила			життєва сила персонажа	Механіки	
+shapeshift	Shapeshift	[Shapeshift]	зміна форми			механіка зміни форми	Механіки	
+food	Food	foods|Foodstuffs|[Food]	їжа			їжа як ігровий ресурс	Механіки	
+web	Web	webs	павутина			павутина, що обплутує ціль	Механіки	
+form	Form	forms|form's	форма			поточна форма персонажа	Механіки	
+fear	Fear	[Fear]|Feared|[Fear/Holy Fire]	страх			ефект страху	Механіки	
+primordial_roar	Primordial Roar		первісний рев			особлива здібність реву	Закляття	
+elemental_spell_power	Elemental Spell Power		сила стихійних заклять			сила стихійних заклять	Механіки	
+elemental_focus	Elemental Focus	[Elemental Focus]	стихійне зосередження			магічний ефект стихійного зосередження	Закляття	
+teleport	Teleport	[Teleport]|[Teleports]	телепортація			механіка телепортації	Механіки	
+whip	Whip	whip's	батіг			тип зброї	Предмети	
+arcane_mark	Arcane Mark		магічна мітка			магічна мітка на цілі	Закляття	
+inner_demon	Inner Demon		внутрішній демон			викликана демонічна істота	Істоти	
+ht	HT		ТЕП			скорочення від «тепло котла автоматона»; в оригіналі HT	Механіки	
+health_regeneration	Health Regeneration		відновлення здоров'я			відновлення здоров'я	Механіки	
+mana_regeneration	Mana Regeneration		відновлення мани			відновлення мани	Механіки	
+venom	Venom		отрута			отрута персонажа	Механіки	
+follower	Follower	followers	послідовник			найняті послідовники	Механіки	
+boiler	Boiler		котел			котел і механіка тепла автомата	Механіки	
+heat	Heat		тепло			показник тепла	Механіки	
+material	material	materials	матеріал			ресурси для ремонту	Механіки	
+fuel	fuel	fuels	паливо			паливо для котла	Механіки	
+metal_scrap	metal scrap	[Metal Scrap]	металевий брухт			металевий брухт для майстрування	Предмети	
+magic_scrap	magic scrap	[Magic Scrap]	магічний брухт			магічний брухт для винаходів	Предмети	
+gear	gear	gears	шестерня			механізми механічного персонажа	Механіки	
+system	system	systems	система			системи механічного персонажа	Механіки	
+inscription	inscription		вписування			процес вписування закляття	Механіки	
+demeanor	demeanor		постава			показник ставлення або поведінки	Механіки	
+flaming_arrow	flaming arrow		запальна стріла			запальна стріла	Предмети	
+silver_arrow	silver arrow		срібна стріла			срібна стріла	Предмети	
+hunting_arrow	hunting arrow		мисливська стріла			мисливська стріла	Предмети	
+quiver	quiver	Quivers|[Quiver]	сагайдак			сагайдак для стріл	Предмети	
+firing_spring	firing spring		бойова пружина			пружина механізму гіробота	Предмети	
+tinkering_machine	tinkering machine	tinkering machines	майструвальна машина			машини, створені ремісничою механікою	Предмети	
+goldsmith	goldsmith		ювелір			торговець або майстер-ювелір	Персонажі	
+jewel	jewel	jewels	коштовність			коштовність	Предмети	
+ranger_mode	Ranger-mode		режим слідопита			режим обмеження дозволеної зброї	Механіки	
+ranger_achievement	Ranger Achievement		досягнення слідопита			досягнення режиму Ranger	Механіки	
+bony_baron	Bony Baron		Кістлявий барон			назва досягнення	Механіки	
+class	class	CLASSES	клас			ігровий клас	Механіки	
+race	race	RACES	раса			ігрова раса	Механіки	
+bucktooth_baron	Bucktooth Baron		Зубатий барон			назва досягнення	Механіки	
+bombshell_baron	Bombshell Baron		Вибуховий барон			назва досягнення	Механіки	
+bleating_baron	Bleating Baron		Мекливий барон			назва досягнення	Механіки	
+boilerplate_baron	Boilerplate Baron		Бляшаний барон			назва досягнення	Механіки	
+bad_boy_baron	Bad Boy Baron		Барон-поганець			назва досягнення	Механіки	
+bayou_baron	Bayou Baron		Болотяний барон			назва досягнення	Механіки	
+buggar_baron	Buggar Baron		Комашиний барон			назва досягнення	Механіки	
+shard	shard		уламок			уламок матеріалу	Предмети	
+gravestone	gravestone	gravestones	надгробок			надгробок	Предмети	
+switch	switch		перемикач			перемикач	Предмети	
+sign	sign		табличка			табличка	Предмети	
+trapdoor	trapdoor		люк			люк	Предмети	
+secret_level	secret level		таємний рівень			таємний рівень	Локації	
+floor	floor	floors	поверх			поверх підземелля	Механіки	
+trial	trial	trials|trial's	випробування			випробувальна зона	Локації	
+bonus	bonus	bonuses	бонус			бонус ступеня майстерності	Механіки	
+metal	Metal	metals	метал			ремісничий ресурс металу	Механіки	
+magic	Magic	magics|magical attack|magical|magic attacks|magical power|magical attacks|magical effects	магія			магічний ресурс	Механіки	
+tier	Tier	[Tier %s]|Tier I|Tier II|Tier III|Tier IV	ступінь			ступінь або ранг	Механіки	
+instant	Instant		миттєвий			миттєвий тип застосування	Механіки	
+any	Any		будь-який			будь-який допустимий тип	Механіки	
+guised	Guised		замаскований			стан маскування або зміненого вигляду	Механіки	
+signpost	signpost		вказівник			вказівник	Предмети	
+buyback	Buyback	Buyback Items	викуп			викуп раніше проданих предметів	Механіки	
+store_markup	Store Markup		магазинна націнка			магазинна націнка	Механіки	
+resale_penalty	Resale Penalty		штраф за перепродаж			штраф під час перепродажу	Механіки	
+tinkering_kit	Tinkering Kit	tinkering kits	набір для майстрування			набір для майстрування	Предмети	
+alchemy_combination	Alchemy combination		алхімічне поєднання			поєднання алхімічних складників	Механіки	
+duplication_chance	Duplication Chance		імовірність дублювання			імовірність дублювання зілля	Механіки	
+recipe	Recipe	RECIPES	рецепт			алхімічний рецепт	Механіки	
+charge	Charge	charged|[Charge]|charges|Recharged|Recharge	заряд			заряд предмета	Механіки	
+feather	feather	feathers	перо			перо для написання сувоїв	Предмети	
+blank_scroll	blank scroll	Blank scrolls	порожній сувій			порожній сувій для написання	Предмети	
+blueprint	Blueprint	Blueprints	креслення			креслення для майстрування	Предмети	
+effect	Effect	effects	ефект			ефект предмета	Механіки	
+chr	CHR		ХАР			скорочення від «харизма»; в оригіналі CHR	Механіки	
+statue	statue		статуя			статуя у світі гри	Предмети	
+burning	Burning	[Burning]|[Burn]|[Burns]	горіння			ефект горіння	Механіки	
+box	box		ящик			контейнер, який можна зламати	Предмети	
+object	object	objects|object's	об'єкт			загальний тип об'єкта світу	Загальне	
+wall	wall	walls	стіна			стіна ігрового середовища	Загальне	
+foliage	foliage		рослинність			рослинність ігрового середовища	Загальне	
+webbing	webbing		павутиння			об'єкт павутиння	Предмети	
+barricade	barricade		барикада			руйнівна барикада	Предмети	
+status_effect	Status Effect	Status Effects	ефект стану			активні стани персонажа	Механіки	
+boulder_trap	boulder trap	boulder traps	пастка з валуном			пастка з валуном	Предмети	
+magic_trap	magic trap		магічна пастка			магічна пастка	Предмети	
+grave	grave		могила			могила у світі гри	Предмети	
+secret_entrance	secret entrance	secret entrances	таємний вхід			прихований вхід	Локації	
+secret_exit	secret exit		таємний вихід			прихований вихід	Локації	
+level_exit	level exit		вихід із рівня			вихід із поточного рівня	Локації	
+dlc	DLC		DLC			завантажуваний вміст гри	Загальне	
+nintendo_eshop	Nintendo eShop		Nintendo eShop			цифровий магазин Nintendo	Загальне	
+myths_and_outcasts_dlc	Myths and Outcasts DLC		DLC «Міфи та вигнанці»			назва доповнення	Загальне	
+legends_and_pariahs_dlc	Legends and Pariahs DLC		DLC «Легенди та парії»			назва доповнення	Загальне	
+passive_effect	Passive Effect	passive effects	пасивний ефект			пасивні ефекти персонажа	Механіки	
+hardcore_mode	Hardcore Mode	hardcore|Hardcore\nDifficulty	режим хардкору			режим підвищеної складності	Механіки	
+classic_mode	Classic Mode	Classic\nEndings|Classic	класичний режим			класичний режим	Механіки	
+extra_life	Extra Life		додаткове життя			додаткове життя	Механіки	
+amulet_of_life_saving	amulet of life saving	Amulet of Life-Saving	амулет порятунку життя			амулет порятунку життя	Предмети	
+xp	XP		ОД			скорочення від «очки досвіду»; в оригіналі XP	Механіки	
+kills	Kills	Kill	убивства			кількість убивств	Механіки	
+time	Time	Times	час			час проходження	Механіки	
+score	Score	scores	рахунок			рахунок	Механіки	
+voluntary_challenge	Voluntary Challenge	Voluntary Challenges	добровільне випробування			добровільні випробування	Механіки	
+mod	Mod	mods|MODDED|mod(s)	мод			модифікації гри	Механіки	
+con	CON		СТА			скорочення від «статура»; в оригіналі CON	Механіки	
+int	INT		ІНТ			скорочення від «інтелект»; в оригіналі INT	Механіки	
+per	PER		ЧУТ			скорочення від «чуття»; в оригіналі PER	Механіки	
+achievement	Achievement	ACHIEVEMENTS	досягнення			досягнення	Механіки	
+challenge	Challenge	challenges	випробування			ігрові випробування	Механіки	
+hidden_achievement	Hidden Achievement	Hidden achievements	приховане досягнення			приховані досягнення	Механіки	
+ping	Ping	Pings	пінг			мережева затримка	Механіки	
+crossplay	Crossplay		міжплатформова гра			міжплатформова мережева гра	Механіки	
+room_code	Room Code	roomcode	код кімнати			код мережевої кімнати	Механіки	
+udp	UDP		UDP			мережевий протокол	Загальне	
+modded_lobby	Modded Lobby		лобі з модами			мережеве лобі з модифікаціями	Механіки	
+game_flag	Game Flag	Game Flags	параметр гри			параметри правил гри	Механіки	
+invite_only	Invite Only		лише за запрошенням			режим доступу до лобі за запрошенням	Механіки	
+friends_only	Friends Only		лише для друзів			режим доступу до лобі лише для друзів	Механіки	
+player_count	Player Count	Player\nCount	кількість гравців			кількість гравців	Механіки	
+instant_restart	Instant Restart		миттєвий перезапуск			миттєвий перезапуск гри	Механіки	
+gameover	Gameover		кінець гри			стан завершення гри	Механіки	
+npc	NPC	NPCs	неігровий персонаж			неігровий персонаж	Істоти	
+blood	Blood		кров			відображення крові	Механіки	
+crustacean	Crustacean		ракоподібний			ворожі ракоподібні	Істоти	
+screen_tearing	Screen Tearing	screen-tearing	розрив кадру			розриви кадру	Загальне	
+gameplay_sound_effect	Gameplay Sound Effect	game sound effects	ігровий звуковий ефект			ігрові звукові ефекти	Загальне	
+aim_assist	Aim Assist		допомога в наведенні			допомога при наведенні	Механіки	
+interactable_object	Interactable Object	interactable objects	об'єкт взаємодії			об'єкти, з якими можна взаємодіяти	Механіки	
+epic_online_services	Epic Online Services		Epic Online Services			мережевий сервіс Epic Games	Загальне	
+hp	HP	[HP Regen]|[HP/MP]	ОЗ			скорочення від «очки здоров'я»; в оригіналі HP	Механіки	
+healing	Healing	heals|Heal|healed|[Healing Spells]|[Healing]	зцілення			відновлення здоров'я	Механіки	
+epic_online	Epic Online	Epic|Epic Games, Inc.	Epic Online			мережевий сервіс Epic	Загальне	
+steam	Steam		Steam			ігрова платформа	Загальне	
+online_play	Online Play		мережева гра			мережевий режим гри	Механіки	
+wireless_connection	Wireless Connection		бездротове з'єднання			бездротове мережеве з'єднання	Механіки	
+local_area_network	Local Area Network		локальна мережа			локальна мережа	Механіки	
+adventure	Adventure		пригода			ігрове проходження	Механіки	
+online_party	Online Party		мережева група			мережева група гравців	Механіки	
+tutorial	Tutorial		навчання			навчальний режим	Механіки	
+save_game	Save Game	savegame	збереження гри			збережене проходження	Механіки	
+modded_save_game	Modded Save Game		збереження з модифікаціями			збереження з модифікаціями	Механіки	
+unmodded_save_game	Unmodded Save Game		збереження без модифікацій			збереження без модифікацій	Механіки	
+save_file	Save File	save files|savefile|Savegames	файл збереження			файли збереження	Механіки	
+online_host	Online Host		мережевий хост			власник мережевої гри	Механіки	
+online_client	Online Client		мережевий клієнт			клієнт мережевої гри	Механіки	
+local_client	Local Client		локальний клієнт			клієнт локальної гри	Механіки	
+player	Player	Players	гравець			керований учасник гри	Механіки	
+hall_of_trials	Hall of Trials		Зала випробувань			зала навчальних випробувань	Локації	
+tradefell	tradefell		Торгокряж			частина згенерованого імені	Загальне	
+race_ability	race ability	race abilities	расова здібність			особливі здібності раси	Механіки	
+mp	MP	[MP]	ОМ			скорочення від «очки мани»; в оригіналі MP	Механіки	
+survival	Survival	survive	виживання			оцінка виживання класу	Механіки	
+complexity	Complexity		складність			оцінка складності класу	Механіки	
+wireless	Wireless		бездротовий режим			бездротовий режим підключення	Механіки	
+private_lobby	Private Lobby		закрите лобі			закрита мережева кімната	Механіки	
+life	Life		життя			додаткове життя гравця	Механіки	
+ip_address	IP Address	IP\nAddress	IP-адреса			мережева адреса сервера	Механіки	
+tutorial_hub	Tutorial Hub		Навчальний осередок			центральна зона навчальних випробувань	Локації	
+the_hall_of_trials	The Hall of Trials		Зала випробувань			зал навчальних випробувань	Локації	
+bow	bow	Bows	лук			луки як вид зброї	Предмети	
+throwing_weapon	throwing weapon	Throwing Weapons	метальна зброя			метальна зброя	Предмети	
+sneak_attack	sneak attack	Sneak Attacks	прихована атака			атаки з прихованого стану	Механіки	
+follower_recruiting	Follower Recruiting		найм послідовників			наймання послідовників	Механіки	
+follower_command	Follower Command	Follower commands	команда послідовнику			команди послідовникам	Механіки	
+shop	shop	Shops|shop's|shopping	крамниця			крамниці торговців	Локації	
+minecraft	Minecraft		Minecraft			назва іншої гри	Загальне	
+betrayal	Betrayal		зрада			причина смерті через зраду	Механіки	
+attempted_robbery	Attempted Robbery		спроба пограбування			спроба пограбування	Механіки	
+trespassing	Trespassing		незаконне проникнення			порушення меж володіння	Механіки	
+bear_trap	Bear Trap		капкан			капкан	Предмети	
+bomb_trap	Bomb Trap		пастка з бомбою			пастка з бомбою	Предмети	
+hot_water	Hot Water		гаряча вода			гаряча вода як причина смерті	Механіки	
+invocation	Invocation		прикликання			магічне прикликання як причина смерті	Механіки	
+starvation	Starvation	starve	голодна смерть			смерть від голоду	Механіки	
+strangulation	Strangulation	[Strangulation]	удушення			удушення	Механіки	
+funny_potion	Funny Potion		кумедне зілля			кумедне зілля	Предмети	
+bottomless_pit	Bottomless Pit		бездонна прірва			бездонна прірва як небезпека	Механіки	
+nintendo	Nintendo		Nintendo			ігрова платформа Nintendo	Загальне	
+load_order	Load Order		порядок завантаження			порядок завантаження модів	Механіки	
+steam_workshop	Steam Workshop	Steam\nWorkshop	Майстерня Steam			майстерня модифікацій Steam	Загальне	
+workshop_subscription	Workshop Subscription		підписка на майстерню			підписки на вміст майстерні	Механіки	
+workshop_item	Workshop Item	Workshop items|Workshop\nItems	матеріал майстерні			власні матеріали користувача в майстерні	Механіки	
+local_mod	Local Mod	local mod folders|Local\nMods|Local Mods	локальний мод			локально встановлені модифікації	Механіки	
+mods_directory	mods Directory		каталог модів			каталог локальних модифікацій	Механіки	
+modded_game	Modded Game		гра з модами			гра з активними модами	Механіки	
+workshop_mod	Workshop Mod		мод для майстерні			нова модифікація для майстерні	Механіки	
+game_version	Game Version		версія гри			поточна версія гри	Механіки	
+mod_folder	Mod Folder		тека мода			тека модифікації	Механіки	
+preview_png	preview.png		preview.png			файл зображення попереднього перегляду	Загальне	
+workshop_tag	Workshop Tag		позначка майстерні			позначки матеріалу майстерні	Механіки	
+preview_image	Preview Image		зображення попереднього перегляду			зображення попереднього перегляду мода	Механіки	
+mod_file	Mod File	modded files	файл мода			файли модифікації	Механіки	
+workshop_upload	Workshop Upload		завантаження до майстерні			завантаження в майстерню	Механіки	
+update_handle	Update Handle		ідентифікатор оновлення			службовий ідентифікатор оновлення	Механіки	
+workshop_content	Workshop Content		вміст майстерні			вміст матеріалу майстерні	Механіки	
+content_folder	Content Folder		тека вмісту			тека вмісту для завантаження	Механіки	
+custom_difficulty	Custom Difficulty		налаштовувана складність			режим власного налаштування складності	Механіки	
+stat	Stat		характеристика			характеристика персонажа	Механіки	
+leaderboard	Leaderboard	Leaderboards	таблиця лідерів			таблиця результатів гравців	Механіки	
+progress	Progress		прогрес			прогрес виконання випробування	Механіки	
+kill_count	Kill Count		кількість убивств			лічильник убивств	Механіки	
+furniture	Furniture		меблі			меблі як руйнівні об'єкти	Предмети	
+game_mode	Game Mode		режим гри			режим гри	Механіки	
+active_event	Active Event		активна подія			активна ігрова подія	Механіки	
+breaker	Breaker		руйнівник			титул або роль персонажа у випробуванні	Класи	
+slayer	Slayer		винищувач			титул або роль персонажа у випробуванні	Класи	
+one_shot	One-Shot		одна спроба			режим або тип залікової спроби	Механіки	
+run	Run	Runs	проходження			окреме проходження гри	Механіки	
+seed_event	Seed Event	Seed Events	подія зерна генерації			події, пов'язані з ігровим зерном генерації	Механіки	
+class_combination	class combination		поєднання класів			поєднання класів персонажів	Механіки	
+denizen	Denizen	Denizens	мешканець			мешканці ігрового світу в кодексі	Істоти	
+record	Record	RECORDS	рекорд			ігрові рекорди	Механіки	
+recipe_chart	Recipe Chart		таблиця рецептів			таблиця алхімічних рецептів	Механіки	
+stats	Stats		характеристики			характеристики істоти або предмета	Механіки	
+damage_type	Damage Type	Damage-Types	тип шкоди			тип завданої шкоди	Механіки	
+effectiveness	Effectiveness		ефективність			ефективність типу шкоди	Механіки	
+ability	Ability	ABILITIES	здібність			здібності істоти або персонажа	Механіки	
+lore_point	Lore Point	LORE POINTS	очко знань			очки для відкриття відомостей кодексу	Механіки	
+undiscovered	Undiscovered		невідкритий			стан ще не відкритого запису кодексу	Механіки	
+pwr	PWR		ПОТ			скорочення від «потужність магії»; в оригіналі PWR	Механіки	
+ac	AC	[AC]|[AC/Speed]	КЗ			скорочення від «клас захисту»; в оригіналі AC	Механіки	
+spd	SPD		ШВД			скорочення від «швидкість»; в оригіналі SPD	Механіки	
+humanoid	Humanoid	HUMANOIDS	гуманоїд			тип гуманоїдних істот	Істоти	
+beastfolk	Beastfolk		звіролюд			тип звіролюдних істот	Істоти	
+beast	Beast	BEASTS	звір			тип звіриних істот	Істоти	
+demonic	Demonic	DEMONICS	демонічна істота			тип демонічних істот	Істоти	
+construct	Construct	CONSTRUCTS|[Construct]	конструкт			тип штучно створених істот	Істоти	
+elemental	Elemental	elementals	елементаль			тип стихійних істот	Істоти	
+pts	PTS		ОЧК			скорочення від «очки»; в оригіналі PTS	Механіки	
+total_completion	Total Completion		загальне завершення			загальний показник завершення кодексу	Механіки	
+research	Research		Дослідження			дослідження записів кодексу	Механіки	
+shop_sign	Shop Sign	SHOP SIGNS	вивіска крамниці			вивіски крамниць	Предмети	
+preloading	Preloading		Попереднє завантаження			попереднє завантаження ресурсів	Механіки	
+system_memory	system memory		системна пам'ять			системна пам’ять	Загальне	
+among_us	Among Us		Серед нас			назва музичної композиції	Загальне	
+fatal_shrine	Fatal Shrine		Згубне святилище			назва музичної композиції	Загальне	
+tormented_souls	Tormented Souls		Змучені душі			назва музичної композиції	Загальне	
+evil_returns	Evil Returns		Зло повертається			назва музичної композиції	Загальне	
+friday_the_13th	Friday the 13th		П'ятниця, 13-те			назва музичної композиції	Загальне	
+october_31st	October 31st		31 жовтня			назва музичної композиції	Загальне	
+the_order_s_theme	The Order's Theme		Тема Ордену			назва музичної композиції	Загальне	
+soul_rail	Soul Rail		Шлях душ			назва музичної композиції	Загальне	
+echo	Echo		Відлуння			назва музичної композиції	Загальне	
+ghost_town	Ghost Town		Місто-привид			назва музичної композиції	Загальне	
+countdown	Countdown		Зворотний відлік			назва музичної композиції	Загальне	
+untold_secrets	Untold Secrets		Нерозказані таємниці			назва музичної композиції	Загальне	
+final_showdown	Final Showdown		Останнє протистояння			назва музичної композиції	Загальне	
+living_in_the_dark	Living in the Dark		Життя в темряві			назва музичної композиції	Загальне	
+silent_turmoil	Silent Turmoil		Тихе сум'яття			назва музичної композиції	Загальне	
+look_out	Look Out		Стережіться!			назва музичної композиції	Загальне	
+haunted_house	Haunted House		Будинок із привидами			назва музичної композиції	Загальне	
+nebula	Nebula		Туманність			назва музичної композиції	Загальне	
+strange_vision	Strange Vision		Дивне видіння			назва музичної композиції	Загальне	
+the_crypt	The Crypt		Склеп			назва музичної композиції	Загальне	
+haunted_by_screams	Haunted By Screams		Переслідуваний криками			назва музичної композиції	Загальне	
+run_2	Run!		Тікай!			назва музичної композиції	Загальне	
+cornered	Cornered		Загнаний у кут			назва музичної композиції	Загальне	
+you_re_next	You're Next		Ти наступний			назва музичної композиції	Загальне	
+into_the_depths	Into the Depths		У глибини			назва музичної композиції	Загальне	
+the_backrooms	The Backrooms		Залаштунки			назва музичної композиції	Загальне	
+metamorphosis	Metamorphosis		Метаморфоза			назва музичної композиції	Загальне	
+carnival_freaks	Carnival Freaks		Карнавальні виродки			назва музичної композиції	Загальне	
+poltergeist	Poltergeist		Полтергейст			назва музичної композиції	Загальне	
+abyss	Abyss		Безодня			назва музичної композиції	Загальне	
+danger	Danger	dangerous	Небезпека			назва музичної композиції	Загальне	
+growing_shadows	Growing Shadows		Згущення тіней			назва музичної композиції	Загальне	
+extinction	Extinction		Вимирання			назва музичної композиції	Загальне	
+sleigh_bells	Sleigh Bells		Дзвіночки саней			назва музичної композиції	Загальне	
+deck_the_halls	Deck the Halls		Прикрасьте зали			назва музичної композиції	Загальне	
+snow_wonders	Snow Wonders		Снігові дива			назва музичної композиції	Загальне	
+jingle_bells	Jingle Bells		Дзвін бубонців			назва музичної композиції	Загальне	
+underneath_the_christmas_tree	Underneath the Christmas Tree		Під різдвяною ялинкою			назва музичної композиції	Загальне	
+god_rest_ye_merry_gentlemen	God Rest Ye Merry Gentlemen		Хай Бог вас звеселить, панове			назва музичної композиції	Загальне	
+disintegrating	Disintegrating		Розпад			назва музичної композиції	Загальне	
+santa_s_tricks	Santa's Tricks		Витівки Санти			назва музичної композиції	Загальне	
+winter_trouble	Winter Trouble		Зимова халепа			назва музичної композиції	Загальне	
+krampus_is_here	Krampus is Here		Крампус уже тут			назва музичної композиції	Загальне	
+ice_land_part_1	Ice Land (Part 1)		Крижана земля (частина 1)			назва музичної композиції	Загальне	
+holiday_macabre	Holiday Macabre		Моторошне свято			назва музичної композиції	Загальне	
+silent_night	Silent Night		Тиха ніч			назва музичної композиції	Загальне	
+carol_of_the_bells	Carol of the Bells		Щедрик			назва музичної композиції	Загальне	
+angels_we_have_heard_on_high	Angels We Have Heard on High		Чули ми ангелів у височині			назва музичної композиції	Загальне	
+ice_land_part_2	Ice Land (Part 2)		Крижана земля (частина 2)			назва музичної композиції	Загальне	
+rudolph_the_red_nosed_reindeer	Rudolph the Red Nosed Reindeer		Рудольф, червононосий олень			назва музичної композиції	Загальне	
+dance_of_the_sugar_plum_fairy	Dance of the Sugar Plum Fairy		Танець Феї Драже			назва музичної композиції	Загальне	
+what_child_is_this	What Child is This		Що це за дитя?			назва музичної композиції	Загальне	
+holiday_theme	Holiday Theme	holiday	Святкова тема			активна святкова тема	Механіки	
+chill	Chill		Холод			здібність привида	Механіки	
+haunt	Haunt		Переслідування			здібність привида	Механіки	
+ghost	Ghost	ghosts	привид			привид	Істоти	
+party_wipe	Party Wipe		Загибель групи			повна загибель групи	Механіки	
+custom_seed	Custom Seed		Власне зерно			власне зерно генерації	Механіки	
+seed	Seed		Зерно			зерно генерації світу	Механіки	
+penniless_mode	Penniless Mode	Penniless-mode	Режим без грошей			режим без грошей	Механіки	
+gold_pickup	gold pickup		підбирання золота			підбирання золота	Механіки	
+penniless_achievement	Penniless Achievement		Досягнення без грошей			досягнення режиму без грошей	Механіки	
+wins	Wins	Win	Перемоги			кількість перемог	Механіки	
+losses	Losses		Поразки			кількість поразок	Механіки	
+solo	Solo		Одиночна гра			одиночний режим гри	Механіки	
+co_op	Co-op		Спільна гра			кооперативний режим гри	Механіки	
+normal_difficulty	Normal Difficulty	Normal	Звичайна складність			звичайний рівень складності	Механіки	
+citadel	Citadel		Цитадель			Цитадель	Локації	
+depth	Depth		Глибина			глибина проходження підземелля	Механіки	
+skeleton_key	skeleton key		універсальний ключ			універсальний ключ для замків	Предмети	
+goggles	goggles		захисні окуляри			захисні окуляри	Предмети	
+explosion	explosion		вибух			вибуховий ефект	Механіки	
+res	RES	[RES]	ОПР			скорочення від «опір»; в оригіналі RES	Механіки	
+rgn	RGN		РЕГ			скорочення від «регенерація»; в оригіналі RGN	Механіки	
+wgt	WGT		ВАГ			скорочення від «вага»; в оригіналі WGT	Механіки	
+bounty	bounty	[Bounty]	замовлення			завдання за винагороду	Механіки	
+bounty_target	bounty target		ціль замовлення			ціль завдання за винагороду	Механіки	
+effects_modifier	Effects Modifier		Модифікатор ефектів			модифікатор ефектів стану	Механіки	
+expiry_time	expiry time		час завершення			час завершення події	Механіки	
+one_shot_challenge	One-Shot Challenge	One-Shot\nChallenge	Випробування з однією спробою			випробування з єдиною спробою	Механіки	
+unlimited_challenge	Unlimited Challenge	Unlimited\nChallenge	Випробування без обмежень			випробування без обмеження спроб	Механіки	
+event_challenge	Event Challenge	Event\nChallenge	Подієве випробування			подієве випробування	Механіки	
+connectivity	connectivity		з'єднання			стан мережевого з’єднання	Механіки	
+event_update	Event Update		Оновлення події			оновлення ігрової події	Механіки	
+weekly_set_dungeon	Weekly Set Dungeon	weekly set dungeons	Щотижневе задане підземелля			щотижневі підземелля з заданими умовами	Механіки	
+event	Event		Подія			ігрова подія	Механіки	
+lid	LID		LID			ідентифікатор сумісності збереження	Механіки	
+attempt	attempt		спроба			спроба проходження випробування	Механіки	
+scored_leaderboard_rank	scored leaderboard rank		місце в рейтингу за результатом			рейтингова позиція за результатом	Механіки	
+myths_outcasts_dlc	Myths & Outcasts DLC		Доповнення «Міфи й вигнанці»			назва доповнення гри	Загальне	
+legends_pariahs_dlc	Legends & Pariahs DLC		Доповнення «Легенди й парії»			назва доповнення гри	Загальне	
+challenge_event	Challenge Event		Подія-випробування			подія-випробування	Механіки	
+myconid	myconid	myconids	міконід			вид грибоподібних монстрів	Істоти	
+salamander	salamander	salamanders	саламандра			вид монстрів	Істоти	
+gremlin	gremlin	gremlins	гремлін			вид монстрів	Істоти	
+lock	lock	locks|unlocks|[Locks]|[Unlock]|UNLOCK	замок			замок, який можна скинути	Механіки	
+key	key	KEYS	ключ			ключ	Предмети	
+button	button	BUTTONS	кнопка			інтерактивна кнопка	Механіки	
+jar	jar		глек			розбивна посудина	Предмети	
+basket	basket		кошик			розбивний контейнер	Предмети	
+casket	casket		труна			скринька або домовина	Предмети	
+cage	cage		клітка			клітка	Предмети	
+urn	urn		урна			розбивна посудина	Предмети	
+sack	sack	Sacks	мішок			мішок-контейнер	Предмети	
+sarcophagus	sarcophagus		саркофаг			саркофаг	Предмети	
+pot	pot		горщик			розбивний горщик	Предмети	
+cart	cart		візок			візок	Предмети	
+pallet	pallet		піддон			піддон	Предмети	
+crate	crate		ящик			ящик-контейнер	Предмети	
+tent	tent		намет			намет	Предмети	
+reliquary	reliquary		релікварій			релікварій	Предмети	
+bulb	bulb		цибулина			цибулина або колба	Предмети	
+iron_maiden	iron maiden		залізна діва			залізна діва	Предмети	
+wheelbarrow	wheelbarrow		тачка			тачка	Предмети	
+cabinet	cabinet		шафа			шафа-контейнер	Предмети	
+capsule	capsule		капсула			капсула	Предмети	
+barrel	barrel		бочка			бочка	Предмети	
+stump	stump		пень			пень	Предмети	
+grease	grease		мастило			слизька речовина-пастка	Механіки	
+magma	magma		магма			небезпечна речовина	Механіки	
+corrosive_sludge	corrosive sludge		їдкий слиз			їдка речовина-пастка	Механіки	
+slippery	slippery	[Slippery]	слизький			ефект слизьких рук	Механіки	
+miss	Miss		Промах			результат невлучної атаки	Механіки	
+bugbear	Bugbear	bugbears|Bugbear's	багбір			монстр-багбір	Істоти	
+daedalus	Daedalus		Дедал			власне ім'я, якому присвячене святилище	Персонажі	
+bell	bell	BELLS	дзвін			дзвін	Предмети	
+clapper	clapper		язик дзвона			язик дзвона	Предмети	
+stamina	Stamina		витривалість			характеристика витривалості	Механіки	
+agility	Agility		спритність			характеристика спритності	Механіки	
+mentality	Mentality		ментальність			характеристика ментальності	Механіки	
+projectile	projectile	projectiles|[Projectile]|[Projectiles]	снаряд			летючий снаряд	Механіки	
+thief	Thief		злодій			клас або роль злодія	Класи	
+enchant_weapon	Enchant Weapon		зачарування зброї			закляття зачарування зброї	Закляття	
+enchant_armor	Enchant Armor		зачарування обладунку			закляття зачарування обладунку	Закляття	
+blessing	blessing	blessings	благословення			рівень благословення предмета	Механіки	
+assistance	Assistance	Assisted	допомога			система полегшення пригоди	Механіки	
+score_penalty	Score Penalty		штраф до рахунку			штраф до підсумкового рахунку	Механіки	
+character	Character	characters|character's	персонаж			ігровий персонаж	Механіки	
+server	server		сервер			сервер мережевої гри	Механіки	
+assist_item	Assist Item	ASSIST ITEMS	предмет допомоги			допоміжні стартові предмети	Предмети	
+assist_shrine	Assist Shrine		святилище допомоги			святилище системи допомоги	Предмети	
+difficulty	Difficulty		складність			складність гри	Механіки	
+assistance_point	Assistance Point	Assistance points	очко допомоги			очки системи допомоги	Механіки	
+dryad	Dryad	dryads|dryad-	дріада			дріада	Істоти	
+stone	stone		камінь			тип замка	Механіки	
+spirit	spirit	spirits	дух			тип замка	Механіки	
+bronze	bronze	[Bronze]	бронза			тип замка	Механіки	
+iron	iron	[Iron]	залізо			тип замка	Механіки	
+silver	silver	[Silver]	срібло			тип замка	Механіки	
+machine	machine		механізм			тип замка	Механіки	
+song	song		пісня			ефект пісні	Механіки	
+parry	parry	parries|parrying|[Parry]	парирування			парирування удару	Механіки	
+proximity_effect	proximity effect		ефект відстані			просторове затухання голосу	Механіки	
+guard	Guard	guards	охорона			захисна дія	Механіки	
+protection	protection		захист			захисний ефект	Механіки	
+ward	ward	warded	оберіг			захисне благословення	Механіки	
+nimble_grace	nimble grace		спритна грація			благословення спритності	Механіки	
+greater_might	greater might		велика міць			благословення сили	Механіки	
+wise_counsel	wise counsel		мудра порада			благословення мудрості	Механіки	
+sturdy_toughness	sturdy toughness		незламна витривалість			благословення витривалості	Механіки	
+holy_wrath	holy wrath		священний гнів			священний каральний ефект	Механіки	
+peril	peril	perils	небезпека			небезпеки, що виявляються здібністю	Механіки	
+treasure	treasure	treasures	скарб			скарби	Предмети	
+penance	penance		покута			покаяння	Механіки	
+providence	providence	[Providence]	провидіння			божественна допомога	Механіки	
+falling_bell	falling bell		падаючий дзвін			падаючий дзвін-пастка	Предмети	
+divine_forces	Divine forces		божественні сили			божественна сила-навігатор	Механіки	
+enemy	enemy	Enemies	ворог			ворожий персонаж або істота	Механіки	
+holy_exorcism	holy exorcism		священний екзорцизм			священний екзорцизм	Закляття	
+impurities	impurities		домішки			отрути та інші домішки	Механіки	
+interrupt	interrupt	interrupted	переривання			переривання закляття	Механіки	
+sustain_spell	sustain spell		підтримання закляття			підтримання активного закляття	Механіки	
+ward_against_impurities	ward against impurities		оберіг від домішок			захист від домішок	Механіки	
+noble_purpose	noble purpose		шляхетний поклик			благословення крові	Механіки	
+holy_light	holy light		священне світло			священне світло на атаках	Механіки	
+smite	smite	smites|[Smite]	священний удар			священний удар	Механіки	
+alter_instrument	Alter Instrument	altered	зміна інструмента			закляття зміни інструмента	Закляття	
+instrument	instrument	INSTRUMENTS	музичний інструмент			музичний інструмент	Предмети	
+transmutation	transmutation	transmute|transforms|Transmutes Into|Transmuted|[Transmutes]	трансмутація			перетворення предмета	Механіки	
+weaken	weaken	weakened|weak	ослаблення			ефект ослаблення	Механіки	
+befuddle	befuddle	befuddled	спантеличення			ефект спантеличення	Механіки	
+spell_focus	spell focus		сила заклять			сила або фокус заклять	Механіки	
+humble	humble	humbles	упокорення			ефект приниження	Механіки	
+will	will		воля			магічна сила волі	Механіки	
+raw_magical_energy	raw magical energy		сира магічна енергія			необроблена магічна енергія	Механіки	
+compelled	compelled	compel|compelling|[Compels]	примусове підкорення			стан примусового підкорення	Механіки	
+metallurgy	Metallurgy		металургія			тип трансмутації	Механіки	
+geomancy	Geomancy		геомантія			тип трансмутації	Механіки	
+forge_key	Forge Key		викувати ключ			дія кування ключа	Механіки	
+forge_jewel	Forge Jewel		викувати коштовність			дія кування коштовності	Механіки	
+enhance_weapon	Enhance Weapon		покращити зброю			покращення зброї	Механіки	
+reshape_weapon	Reshape Weapon		переформувати зброю			переформування зброї	Механіки	
+alter_arrow	Alter Arrow		перетворити стрілу			перетворення стріли	Механіки	
+void_chest	void chest		скриня Порожнечі			скриня, пов’язана з Порожнечею	Предмети	
+void_mimic	void mimic		мімік Порожнечі			мімік Порожнечі	Істоти	
+void	Void		Порожнеча			сховище Порожнечі	Механіки	
+revenant_skull	revenant skull	revenant skulls|[Revenant Skull]	череп ревенанта			череп ревенанта	Істоти	
+minimimic	minimimic	minimimics	міні-мімік			малий мімік	Істоти	
+spirit_weapon	spirit weapon	[Spirit Weapon]	духовна зброя			оживлена духовна зброя	Предмети	
+adorcised_possession	adorcised possession	adorcised possessions	одержимий предмет			оживлений закляттям предмет	Істоти	
+flame_elemental	flame elemental	flame elementals|[Flame Elemental]	вогняний елементаль			вогняний елементаль	Істоти	
+hologram	hologram	holograms|[Hologram]	голограма			голографічний двійник	Істоти	
+moth	moth	moths	міль			міль	Істоти	
+earth_sprite	earth sprite	earth sprites|[Earth Sprite]	земляний дух			земляний дух	Істоти	
+duck	duck	ducks	качка			качка	Істоти	
+monster_unused_6	monster_unused_6	monster_unused_6s	невикористаний монстр 6			невикористана службова назва монстра	Істоти	
+monster_unused_7	monster_unused_7	monster_unused_7s	невикористаний монстр 7			невикористана службова назва монстра	Істоти	
+monster_unused_8	monster_unused_8	monster_unused_8s	невикористаний монстр 8			невикористана службова назва монстра	Істоти	
+adorcise	Adorcise	adorcised|[Adorcise]	одухотворення			закляття оживлення предмета	Закляття	
+numb	Numb	numbed|[Numb]	оніміння			стан оніміння	Механіки	
+delayed_pain	Delayed Pain	Delay Pain	відкладений біль			відкладене отримання болю	Механіки	
+unstoppable	Unstoppable		нестримність			стан невразливої рішучості	Механіки	
+courage	Courage		хоробрість			бойовий стан хоробрості	Механіки	
+foe	foe	foes|foe's	ворог			ворожі цілі	Механіки	
+encouraged	Encouraged		підбадьорення			стан підбадьорення	Механіки	
+scapegoat	Scapegoat		цап-відбувайло			стан або роль цапа-відбувайла	Механіки	
+spore_pod	spore pod	spore pods	спорова капсула			спорові нарости персонажа	Механіки	
+provisions	provisions		провіант			запаси їжі	Предмети	
+greater_abundance	Greater Abundance		великий достаток			посилене закляття достатку	Закляття	
+abundance	Abundance		достаток			закляття достатку	Закляття	
+magic_barrier	magic barrier		магічний бар'єр			магічний захисний бар’єр	Механіки	
+sabotage	Sabotage	sabotaged	саботаж			саботування пастки	Механіки	
+mist_form	mist form	mist	туманна форма			форма туману	Механіки	
+demesne_door	demesne door		двері володіння			створені володінням двері	Предмети	
+doorway	doorway		дверний прохід			дверний прохід	Предмети	
+mothballed	mothballed		законсервований			стан вилучення або консервації	Механіки	
+off_hand	off-hand	[Off-Hand]	друга рука			додаткова рука або комірка спорядження	Механіки	
+defensive_force	defensive force		захисна сила			захисний ефект	Механіки	
+magic_reflection	magic reflection	Magic reflect|[Magic Reflection]	відбиття магії			ефект відбиття магії	Механіки	
+dizzied	dizzied		запаморочення			стан запаморочення	Механіки	
+vandalize	Vandalize	vandalized	понівечити			дія осквернення предмета	Механіки	
+desecrate	Desecrate	desecrated	осквернити			дія наруги над предметом	Механіки	
+sanctify	Sanctify	sanctified	освятити			дія освячення предмета	Механіки	
+cleanse	Cleanse	cleansed	очищення			дія очищення	Механіки	
+bottle	bottle	bottles	пляшка			пляшка	Предмети	
+well_of_magic	well of magic		магічне джерело			джерело магічної енергії	Механіки	
+ritual_preparation	ritual preparation		ритуальна підготовка			підготовчий ритуальний ефект	Механіки	
+flame_cloak	flame cloak	[Flame Cloak]	вогняний покров			вогняний захисний покрив	Закляття	
+protective_flames	protective flames		захисне полум'я			захисний вогняний ефект	Механіки	
+rooting_seed	rooting seed		укорінювальна насінина			насінина, що вкорінює ціль	Предмети	
+poison_seed	poison seed		отруйна насінина			отруйна насінина	Предмети	
+mushroom	mushroom	mushrooms|[Mushroom]	гриб			грибна істота	Істоти	
+shimmering_dust	shimmering dust		мерехтливий пил			мерехтливий ефект або речовина	Механіки	
+thick_fog	thick fog		густий туман			густий туман як ігровий ефект	Механіки	
+telekinetic_force	telekinetic force		телекінетична сила			сила телекінезу	Механіки	
+vortex	vortex		вихор			вихор, що захоплює ціль	Механіки	
+leaves	Leaves		листя			листя як ігровий об'єкт або боєприпас	Предмети	
+ensnared	ensnared		у пастці			стан знерухомлення пасткою	Механіки	
+bolas	bolas		бола			метальна зброя для сплутування цілі	Предмети	
+ration	ration	rations	пайок			порції провіанту	Предмети	
+shrub	shrub	[Shrub]	кущ			кущ як об'єкт оточення	Предмети	
+footlocker	footlocker		скриня			скриня або контейнер	Предмети	
+weapon_rack	weapon rack		стійка для зброї			стійка для зброї	Предмети	
+deserters_disciples	Deserters & Disciples		Дезертири й послідовники			назва доповнення	Загальне	
+bard	bard	Bards|Bard's	бард			клас барда	Класи	
+sapper	sapper	Sappers	сапер			клас сапера	Класи	
+scion	scion	Scion's	нащадок			клас нащадка	Класи	
+hermit	hermit	Hermits	відлюдник			клас відлюдника	Класи	
+paladin	paladin	Paladin's	паладин			клас паладина	Класи	
+thorns	Thorns	[Thorns]	шипи			захисний ефект шипів	Механіки	
+bladevine	Bladevine	bladevines	лезолоза			захисні леза-лози	Механіки	
+mycelium	Mycelium		міцелій			грибна система закріплення	Механіки	
+root	Root	roots	корінь			корені, що закріплюють персонажа	Механіки	
+revenant_skeleton	Revenant Skeleton	[Revenant Skeleton]	скелет-ревенант			скелет-ревенант	Істоти	
+splinter	Splinter		розколювання			руйнування конструкції цілі	Механіки	
+splintered_armor	Splintered Armor		розколота броня			стан розколотої броні	Механіки	
+shattered_armor	Shattered Armor		розтрощена броня			стан зруйнованої броні	Механіки	
+dresser	dresser		комод			предмет меблів	Предмети	
+drawer	drawer		шухляда			шухляда меблів	Предмети	
+candelabra	candelabra		канделябр			підсвічник	Предмети	
+peace	Peace	[Peace]	мир			вид благословення	Механіки	
+justice	Justice	[Justice]	справедливість			вид благословення	Механіки	
+purity	Purity	[Purity]	чистота			вид благословення	Механіки	
+sanctuary	Sanctuary	[Sanctuary]	прихисток			вид благословення	Механіки	
+depleted	Depleted	deplete	вичерпаний			стан повного вичерпання заряду	Механіки	
+icon	icon		ікона			священний предмет	Предмети	
+stasis	Stasis	[Stasis]	стазис			ефект знерухомлення в часі	Механіки	
+light	Light	[Light]	світло			створене магічне світло	Закляття	
+tablet	tablet	tablets	кам'яна табличка			кам'яна табличка	Предмети	
+velocity	Velocity		швидкість			швидкість руху об'єкта	Механіки	
+resource	Resource	resources	ресурс			ресурси для виконання дії	Механіки	
+absorb	Absorb	absorbs|[Absorbs]|absorption|[Absorb]	поглинання			поглинання атаки	Механіки	
+absorbed_magic	Absorbed Magic		поглинута магія			накопичена поглинута магія	Механіки	
+flame	Flame	flaming|flames|[Flames]	полум'я			вогняний ефект	Механіки	
+magical_bubble	Magical Bubble		магічна бульбашка			захисна магічна бульбашка	Механіки	
+divine_guard	Divine Guard		божественний захист			божественний захисний ефект	Механіки	
+spirit_projection	Spirit Projection		проєкція духу			відокремлення духу від тіла	Механіки	
+rot	Rot		гниль			ефект гниття	Механіки	
+vandalism	Vandalism		вандалізм			ефект або бонус за руйнування	Механіки	
+shrivel	Shrivel	shrivels	всихання			ефект зменшення цілі	Механіки	
+enlarge	Enlarge	enlarged	збільшення			ефект збільшення розміру	Механіки	
+diminish	Diminish	diminished|[Diminish]	зменшення			ефект зменшення розміру	Механіки	
+stature	Stature		зріст			поточний розмір персонажа	Механіки	
+scry	Scry		ясновидіння			магічний пошук цілей	Механіки	
+spell_power	Spell Power	[Spell Power]	сила заклять			сила заклять	Механіки	
+appearance	Appearance		вигляд			зовнішній вигляд персонажа	Механіки	
+cauldron	Cauldron	Cauldrons	казан			казан для створення або взаємодії	Предмети	
+dousing_flames	Dousing Flames		гасильне полум'я			ефект гасіння полум'я	Механіки	
+fervor	Fervor		запал			накопичуваний бойовий запал	Механіки	
+impervious_armor	Impervious Armor		невразлива броня			ефект невразливої броні	Механіки	
+radiance	Radiance		сяйво			ефект сяйва	Механіки	
+impervious_stone	Impervious Stone		непроникний камінь			непроникний кам'яний стан	Механіки	
+temperance	Temperance		стриманість			ефект стриманості	Механіки	
+symbol	Symbol	symbols	священний символ			священний символ	Предмети	
+nutrition	Nutrition		живлення			живлення рослинності	Механіки	
+prayer	Prayer	pray	молитва			молитовний ефект	Механіки	
+healing_prayer	Healing Prayer		цілюща молитва			молитва зцілення	Механіки	
+blood_ward	Blood Ward		кров'яний оберіг			кровний захисний ефект	Механіки	
+poisoning	Poisoning		отруєння			стан отруєння	Механіки	
+donation	Donation		пожертва			пожертва за божественну винагороду	Механіки	
+divine_providence	Divine Providence		божественне провидіння			божественна винагорода	Механіки	
+gift_of_divine_providence	Gift of Divine Providence		дар Божого Провидіння			дар божественного провидіння	Предмети	
+divine_precision	Divine Precision		божественна точність			божественний бойовий ефект	Механіки	
+divine_sigil	Divine Sigil		божественна сигіла			божественна сигіла, що покриває область	Закляття	
+divine_sanctuary	Divine Sanctuary		божественне святилище			божественне святилище, що покриває область	Закляття	
+dominate	Dominate	[Dominates]|Dominated|Dominating	підкорення			підкорення істот	Механіки	
+creature	creature	creatures	істота			істоти, яких можна підкорити	Істоти	
+curse_of_weakness	Curse of Weakness		прокляття слабкості			прокляття, що спричиняє слабкість	Механіки	
+greater_curse_of_weakness	Greater Curse of Weakness		велике прокляття слабкості			посилене прокляття слабкості	Механіки	
+influence	influence		вплив			ресурс для примушення цілей	Механіки	
+workbench	workbench	workbenches	верстак			робоча станція	Предмети	
+mailbox	mailbox		поштова скринька			поштова скринька	Предмети	
+deserters_and_disciples	Deserters and Disciples		Дезертири й послідовники			назва доповнення	Загальне	
+slop_ball	slop ball	Slop Balls	куля з помиїв			летючий снаряд із помиями	Предмети	
+snowman	snowman	snowmen	сніговик			снігова істота	Істоти	
+elf	elf	elfs	ельф			раса ельфів	Раси	
+santa_s_helper	Santa's helper	Santa's helpers	помічник Санти			помічник Санти	Істоти	
+blitzen	Blitzen		Блискавка			ім'я персонажа	Персонажі	
+cupid	Cupid		Купідон			ім'я персонажа	Персонажі	
+comet	Comet		Комета			ім'я персонажа	Персонажі	
+dasher	Dasher		Спритник			ім'я персонажа	Персонажі	
+dancer	Dancer		Танцюрист			ім'я персонажа	Персонажі	
+donner	Donner		Грім			ім'я персонажа	Персонажі	
+kringle	Kringle		Крінґл			ім'я персонажа	Персонажі	
+father_xmas	Father Xmas		Батечко Різдво			ім'я різдвяного персонажа	Персонажі	
+claus	Claus		Клаус			ім'я персонажа	Персонажі	
+sanctus	Sanctus		Санктус			ім'я персонажа	Персонажі	
+papa_noel	Papa Noel		Папа Ноель			ім'я різдвяного персонажа	Персонажі	
+drummer	Drummer		Барабанщик			ім'я персонажа	Персонажі	
+niklaus	Niklaus		Ніклаус			ім'я персонажа	Персонажі	
+nicholas	Nicholas		Ніколас			ім'я персонажа	Персонажі	
+nicolas	Nicolas		Нікола			ім'я персонажа	Персонажі	
+prancer	Prancer		Гарцювальник			ім'я персонажа	Персонажі	
+rudolph	Rudolph		Рудольф			ім'я різдвяного персонажа	Персонажі	
+jack	Jack		Джек			ім'я персонажа	Персонажі	
+santa	Santa		Санта			різдвяний персонаж	Персонажі	
+st_nick	St.Nick		Святий Миколай			ім'я різдвяного персонажа	Персонажі	
+nicolo	Nicolo		Ніколо			ім'я персонажа	Персонажі	
+nikola	Nikola		Нікола			ім'я персонажа	Персонажі	
+frosty	Frosty		Фрості			ім'я персонажа	Персонажі	
+scrooge	Scrooge		Скрудж			ім'я персонажа	Персонажі	
+ebenezer	Ebenezer		Ебенезер			ім'я персонажа	Персонажі	
+yul	Yul		Юл			ім'я персонажа	Персонажі	
+christmas	Christmas	Christmastime	Різдво			назва свята	Загальне	
+portcullis	portcullis		підйомна решітка			декорована підйомна решітка	Предмети	
+giant_snowball	giant snowball	giant snowballs	велетенська снігова куля			велика снігова куля	Предмети	
+christmas_tree	Christmas tree	christmas trees	різдвяна ялинка			різдвяне дерево	Предмети	
+mistletoe	Mistletoe		омела			омела	Предмети	
+nargle	Nargle	nargles	нарґл			вигадані істоти, що живуть в омелі	Істоти	
+sleigh	Sleigh		сани			сани Санти	Предмети	
+last_year_s	last year's	last year	торішній			сезонний модифікатор предмета	Механіки	
+leftover	leftover		залишковий			сезонний модифікатор предмета	Механіки	
+re_gifted	re-gifted		передарований			сезонний модифікатор предмета	Механіки	
+naughty_list	Naughty List		список нечемних			список неслухняних Санти	Механіки	
+holiday_element	Holiday Element	holiday elements	святковий елемент			святковий сюжетний елемент	Предмети	
+receptacle	Receptacle		вмістилище			вмістилище для святкового елемента	Предмети	
+ornament	Ornament		прикраса			магічна різдвяна прикраса	Предмети	
+snowball	Snowball		снігова куля			снігова куля	Предмети	
+extra_nice_list	Extra-Nice List	Extra-Nice	список найчемніших			список особливо чемних дітей Санти	Механіки	
+snowball_trap	Snowball Trap		пастка зі сніжкою			пастка зі сніговою кулею	Механіки	
+ash	Ash		Еш			ім’я персонажа	Персонажі	
+bateman	Bateman		Бейтман			ім’я персонажа	Персонажі	
+chucky	Chucky		Чакі			ім’я персонажа	Персонажі	
+damien	Damien		Демієн			ім’я персонажа	Персонажі	
+eggers	Eggers		Еґґерс			ім’я персонажа	Персонажі	
+freddy	Freddy		Фредді			ім’я персонажа	Персонажі	
+ghostface	Ghostface		Примарне обличчя			ім’я персонажа	Персонажі	
+hannibal	Hannibal		Ганнібал			ім’я персонажа	Персонажі	
+ichabod	Ichabod		Ікабод			ім’я персонажа	Персонажі	
+jigsaw	Jigsaw		Пила			ім’я персонажа	Персонажі	
+krueger	Krueger		Крюгер			ім’я персонажа	Персонажі	
+leatherface	Leatherface		Шкіряне обличчя			ім’я персонажа	Персонажі	
+myers	Myers		Маєрс			ім’я персонажа	Персонажі	
+norman	Norman		Норман			ім’я персонажа	Персонажі	
+orlok	Orlok		Орлок			ім’я персонажа	Персонажі	
+pennywise	Pennywise		Пеннівайз			ім’я персонажа	Персонажі	
+qliphoth	Qliphoth		Кліпот			ім’я персонажа	Персонажі	
+slender	Slender		Слендер			ім’я персонажа	Персонажі	
+torrence	Torrence		Торренс			ім’я персонажа	Персонажі	
+umibozu	Umibozu		Умібодзу			ім’я персонажа	Персонажі	
+voorhees	Voorhees		Вурхіз			ім’я персонажа	Персонажі	
+wilkes	Wilkes		Вілкс			ім’я персонажа	Персонажі	
+xing_tian	Xing Tian		Сін Тянь			ім’я персонажа	Персонажі	
+ygor	Ygor		Ігор			ім’я персонажа	Персонажі	
+zito	Zito		Зіто			ім’я персонажа	Персонажі	
+confection	Confection	Confections	солодощі			категорія солодощів	Предмети	
+candy	candy		цукерка			цукерки	Предмети	
+candy_bar	candy bar	candy bars	солодкий батончик			батончики солодощів	Предмети	
+spirit_pit	spirit pit		яма духів			яма духів	Локації	
+pumpkin	pumpkin	pumpkins	гарбуз			гарбуз	Предмети	
+johnny	Johnny		Джонні			ім’я персонажа	Персонажі	
+vlad	Vlad		Влад			ім’я персонажа	Персонажі	
+boogeyman	boogeyman		бабай			міфічна страхітлива істота	Істоти	
+angel	Angel	Angels	ангел			ангели	Істоти	
+bear	bear		ведмідь			ведмідь	Істоти	
+scissors	scissors		ножиці			ножиці	Предмети	
+attribute	Attribute	Attributes	характеристика			характеристики персонажа	Механіки	
+giantism	Giantism		гігантизм			стан або явище гігантизму	Механіки	
+minecart	minecart		вагонетка			шахтарський вагонетковий транспорт	Предмети	
+pirate_king	Pirate King		Король піратів			титул персонажа, короля піратів	Персонажі	
+emily	Emily		Емілі			ім'я персонажа	Персонажі	
+winny	Winny	Winny's	Вінні			присвійна форма імені персонажа	Персонажі	
+chocolate_bar	chocolate bar	chocolate bars	шоколадний батончик			шоколадні батончики	Предмети	
+dark_chocolate_bar	dark chocolate bar	dark chocolate bars	батончик із чорного шоколаду			батончики з чорного шоколаду	Предмети	
+white_chocolate_bar	white chocolate bar	white chocolate bars	батончик із білого шоколаду			батончики з білого шоколаду	Предмети	
+hard_candy	hard candy		льодяник			тверді цукерки	Предмети	
+sucker	sucker	suckers	льодяник на паличці			льодяники на паличці	Предмети	
+taffy	taffy		цукерка-тягучка			тягучі цукерки	Предмети	
+lemon_ball	lemon ball	lemon balls	лимонна кулька			лимонні цукерки-кульки	Предмети	
+fruit_square	fruit square	fruit squares	фруктовий квадратик			фруктові цукерки-квадратики	Предмети	
+caramel_cookie	caramel cookie	caramel cookies	карамельне печиво			карамельне печиво	Предмети	
+fruit_twist	fruit twist	fruit twists	фруктова спіраль			кручені фруктові цукерки	Предмети	
+chocolate_chew	chocolate chew	chocolate chews	жувальна шоколадна цукерка			жувальні шоколадні цукерки	Предмети	
+malt_ball	malt ball	malt balls	солодова кулька			солодові цукерки-кульки	Предмети	
+yogurt_raisin	yogurt raisin	yogurt raisins	родзинка в йогуртовій глазурі			родзинки в йогуртовій глазурі	Предмети	
+nut_square	nut square	nut squares	горіховий квадратик			горіхові цукерки-квадратики	Предмети	
+sugar_dust	sugar dust		цукрова пудра			цукрова пудра	Предмети	
+vanilla_cookie	vanilla cookie	vanilla cookies	ванільне печиво			ванільне печиво	Предмети	
+licorice_bit	licorice bit	licorice bits	шматочок лакриці			шматочки лакриці	Предмети	
+sugar_straw	sugar straw	sugar straws	цукрова трубочка			цукрові трубочки	Предмети	
+honey_chew	honey chew	honey chews	медова жувальна цукерка			жувальні медові цукерки	Предмети	
+coconut_bar	coconut bar	coconut bars	кокосовий батончик			кокосові батончики	Предмети	
+oatmeal_cookie	oatmeal cookie	oatmeal cookies	вівсяне печиво			вівсяне печиво	Предмети	
+candy_button	candy button	candy buttons	цукерка-ґудзик			цукерки-ґудзики	Предмети	
+hot_cinnamon	hot cinnamon		гостра кориця			гостра кориця як складник страви	Предмети	
+build_and_eat_kit	build-and-eat kit		їстівний набір-конструктор			їстівний набір для складання	Предмети	
+expired_vitamin	expired vitamin	expired vitamins	прострочений вітамін			прострочені вітаміни	Предмети	
+orange_gummy	orange gummy	orange gummies	апельсинова желейна цукерка			апельсинові желейні цукерки	Предмети	
+circus_peanut	circus peanut	circus peanuts	цукерка-арахіс			цукерки у формі арахісу	Предмети	
+loose_cracker	loose cracker	loose crackers	розсипаний крекер			розсипані крекери	Предмети	
+animal_cookie	animal cookie	animal cookies	печиво-звірятко			печиво у формі тварин	Предмети	
+pudding_cup	pudding cup	pudding cups	стаканчик із пудингом			стаканчики з пудингом	Предмети	
+toffee_bit	toffee bit	toffee bits	шматочок ірису			шматочки ірису	Предмети	
+peppermint	peppermint	peppermints	м'ятна цукерка			м'ятні цукерки	Предмети	
+silver_shamrock	Silver Shamrock		Срібний трилисник			вигадана компанія з гелловінського гасла	Фракції	
+handbook_for_the_recently_diseased	Handbook for the Recently Diseased		Довідник для нещодавно захворілих			жартівлива назва довідника	Предмети	
+wolf_man	Wolf-Man		людина-вовк			людина-вовк із кінематографічного гасла	Істоти	
+mummy	Mummy		мумія			мумія у гелловінському гаслі	Істоти	
+candyman	Candyman		Кендімен			персонаж із гелловінського гасла	Персонажі	
+bloody_mary	Bloody Mary		Кривава Мері			персонаж міської легенди	Персонажі	
+danny	Danny		Денні			персонаж, до якого звертаються	Персонажі	
+michael	Michael		Майкл			персонаж, до якого звертаються	Персонажі	
+puzzle_box	puzzle box		скринька-головоломка			скринька-головоломка	Предмети	
+mask	mask	MASKS	маска			маска у гаслі	Предмети	
+pumpkin_carol	Pumpkin Carol	Pumpkin Carols	гарбузова колядка			гелловінські гарбузові колядки	Загальне	
+cell	cell		камера			тюремна камера	Локації	
+giant_pumpkin	Giant Pumpkin		велетенський гарбуз			велетенський гарбуз-монстр	Істоти	
+wooden_shield	wooden shield		дерев'яний щит			дерев'яний щит	Предмети	
+quarter_staff	quarter staff		бойовий посох			бойовий посох	Предмети	
+slingshot	slingshot	Slingshots	рогатка			метальна зброя	Предмети	
+spear	spear		спис			тип зброї	Предмети	
+shortbow	shortbow	Shortbows	короткий лук			тип лука	Предмети	
+steel	steel		сталь			матеріал предмета	Механіки	
+halberd	halberd		алебарда			тип зброї	Предмети	
+magic_resistance	magic resistance	magical resistance|[Magic Resistance]	опір магії			опір магії	Механіки	
+crossbow	crossbow	crossbows	арбалет			тип зброї	Предмети	
+leather_gloves	leather gloves		шкіряні рукавички			шкіряні рукавички	Предмети	
+dexterity	Dexterity		спритність			характеристика спритності	Механіки	
+bracers	bracers		наручі			наручі	Предмети	
+constitution	Constitution		статура			характеристика статури	Механіки	
+gauntlets	gauntlets		латні рукавиці			латні рукавиці	Предмети	
+leather_boots	leather boots		шкіряні чоботи			шкіряні чоботи	Предмети	
+speed	speed	[Speed]	швидкість			ефект швидкості	Механіки	
+water_walking	water walking		ходіння по воді			ходіння по воді	Механіки	
+leather_breastpiece	leather breastpiece		шкіряний нагрудник			шкіряний нагрудник	Предмети	
+phrygian_hat	phrygian hat		фригійський ковпак			фригійський капелюх	Предмети	
+hood	hood	HOODS	каптур			каптур	Предмети	
+jester	Jester		блазень			клас блазня	Класи	
+leather_helm	leather helm		шкіряний шолом			шкіряний шолом	Предмети	
+helm	helm		шолом			шолом	Предмети	
+sex_change	sex change	[Sex Change]	зміна статі			зміна статі персонажа	Механіки	
+poison_resistance	poison resistance	[Poison Resistance]	опір отруті			опір отруті	Механіки	
+booze	booze		хмільний напій			алкогольний напій	Предмети	
+fruit_juice	fruit juice		фруктовий сік			фруктовий сік	Предмети	
+sickness	sickness		хвороба			ефект хвороби	Механіки	
+confusion	confusion	[Confusion]	спантеличення			ефект спантеличення	Механіки	
+extra_healing	extra healing		посилене зцілення			посилене зцілення	Механіки	
+cure_ailment	cure ailment	[Cures]|Cures	лікування недуг			лікування негативних станів	Механіки	
+restore_magic	restore magic		відновлення магії			відновлення магії	Механіки	
+acid	acid		кислота			кислота	Механіки	
+piece_of_mail	piece of mail		лист			поштове повідомлення	Предмети	
+stamped_scroll	stamped scroll		сувій із печаткою			сувій із печаткою	Предмети	
+scroll_of_fire	scroll of fire	scrolls of fire	сувій вогню			магічний сувій	Предмети	
+scroll_of_food	scroll of food		сувій їжі			магічний сувій	Предмети	
+scroll_of_magic_mapping	scroll of magic mapping		сувій магічного картографування			магічний сувій	Предмети	
+magic_mapping	Magic Mapping		магічне картографування			закляття створення мапи	Закляття	
+scroll_of_repair	scroll of repair	Scrolls of repair	сувій ремонту			магічний сувій	Предмети	
+scroll_of_destroy_armor	scroll of destroy armor		сувій знищення обладунків			магічний сувій	Предмети	
+destroy_armor	Destroy Armor		знищення обладунку			ефект знищення обладунку	Закляття	
+scroll_of_teleportation	scroll of teleportation		сувій телепортації			магічний сувій	Предмети	
+teleportation	Teleportation	teleporting|[Teleportation]|Teleports|Teleportations	телепортація			закляття телепортації	Закляття	
+scroll_of_summon	scroll of summon		сувій виклику			магічний сувій	Предмети	
+summon	Summon	Summons	виклик			закляття виклику	Закляття	
+magicstaff_of_light	magicstaff of light		магічний посох світла			магічний посох	Предмети	
+magicstaff	magicstaff	MAGICSTAFFS	магічний посох			тип магічного посоха	Предмети	
+magicstaff_of_digging	magicstaff of digging		магічний посох копання			магічний посох	Предмети	
+magicstaff_of_locking	magicstaff of locking		магічний посох замикання			магічний посох	Предмети	
+locking	Locking	lock spell	замикання			закляття замикання	Закляття	
+magicstaff_of_magic_missile	magicstaff of magic missile		магічний посох магічного снаряда			магічний посох	Предмети	
+magic_missile	Magic Missile	[Magic Missile]	магічний снаряд			закляття магічного снаряда	Закляття	
+magicstaff_of_opening	magicstaff of opening		магічний посох відмикання			магічний посох	Предмети	
+opening	Opening		відмикання			закляття відмикання	Закляття	
+magicstaff_of_slow	magicstaff of slow		магічний посох уповільнення			магічний посох	Предмети	
+slow	Slow	slowing|[Slow]|Slows	сповільнення			закляття сповільнення	Закляття	
+magicstaff_of_cold	magicstaff of cold		магічний посох холоду			магічний посох	Предмети	
+cold	Cold	[Cold]	холод			закляття холоду	Закляття	
+magicstaff_of_fire	magicstaff of fire		магічний посох вогню			магічний посох	Предмети	
+fire	Fire	fires	вогонь			закляття вогню	Закляття	
+magicstaff_of_lightning	magicstaff of lightning		магічний посох блискавки			магічний посох	Предмети	
+lightning	Lightning	[Lightning]	блискавка			закляття блискавки	Закляття	
+magicstaff_of_sleep	magicstaff of sleep		магічний посох сну			магічний посох	Предмети	
+sleep	Sleep	[Sleep]|Sleeping	сон			закляття сну	Закляття	
+ring_of_adornment	ring of adornment		перстень привабливості			магічний перстень	Предмети	
+adornment	Adornment		оздоба			властивість прикрашання	Механіки	
+ring_of_slow_digestion	ring of slow digestion		перстень повільного травлення			магічний перстень	Предмети	
+slow_digestion	Slow Digestion	[Slow Digestion]	сповільнене травлення			сповільнене травлення	Механіки	
+ring_of_protection	ring of protection		перстень захисту			магічний перстень	Предмети	
+ring_of_warning	ring of warning		перстень перестороги			магічний перстень	Предмети	
+warning	Warning	[Warning]	попередження			попередження про небезпеку	Механіки	
+ring_of_might	ring of might		перстень могутності			магічний перстень	Предмети	
+ring_of_constitution	ring of constitution		перстень витривалості			магічний перстень	Предмети	
+ring_of_invisibility	ring of invisibility		перстень невидимості			магічний перстень	Предмети	
+ring_of_magic_resistance	ring of magic resistance		перстень опору магії			магічний перстень	Предмети	
+ring_of_levitation	ring of levitation		перстень левітації			магічний перстень	Предмети	
+ring_of_regeneration	ring of regeneration		перстень регенерації			магічний перстень	Предмети	
+regeneration	Regeneration	regenerate|regen|Regenerates	регенерація			відновлення здоров’я	Механіки	
+ring_of_teleportation	ring of teleportation		перстень телепортації			магічний перстень	Предмети	
+spellbook_of_forcebolt	spellbook of forcebolt		книга заклять силового заряду			книга заклять	Предмети	
+forcebolt	Forcebolt		силовий снаряд			силовий снаряд	Закляття	
+spellbook_of_magic_missile	spellbook of magic missile		книга заклять магічного снаряда			книга заклять	Предмети	
+spellbook_of_cold	spellbook of cold		книга заклять холоду			книга заклять	Предмети	
+spellbook_of_fireball	spellbook of fireball		книга заклять вогняної кулі			книга заклять	Предмети	
+fireball	Fireball	[Fireball]|fireballs	вогняна куля			закляття вогняної кулі	Закляття	
+spellbook_of_light	spellbook of light		книга заклять світла			книга заклять	Предмети	
+spellbook_of_remove_curse	spellbook of remove curse		книга заклять зняття прокляття			книга заклять	Предмети	
+remove_curse	Remove Curse		зняття прокляття			закляття зняття прокляття	Закляття	
+spellbook_of_lightning	spellbook of lightning		книга заклять блискавки			книга заклять	Предмети	
+spellbook_of_identify	spellbook of identify		книга заклять розпізнавання			книга заклять	Предмети	
+spellbook_of_magic_mapping	spellbook of magic mapping		книга заклять магічного картографування			книга заклять	Предмети	
+spellbook_of_sleep	spellbook of sleep		книга заклять сну			книга заклять	Предмети	
+spellbook_of_confuse	spellbook of confuse		книга заклять спантеличення			книга заклять	Предмети	
+confuse	Confuse	[Confuse]	спантеличення			закляття спантеличення	Закляття	
+spellbook_of_slow	spellbook of slow		книга заклять уповільнення			книга заклять	Предмети	
+spellbook_of_opening	spellbook of opening		книга заклять відмикання			книга заклять	Предмети	
+spellbook_of_locking	spellbook of locking		книга заклять замикання			книга заклять	Предмети	
+spellbook_of_levitation	spellbook of levitation		книга заклять левітації			книга заклять	Предмети	
+spellbook_of_invisibility	spellbook of invisibility		книга заклять невидимості			книга заклять	Предмети	
+spellbook_of_teleportation	spellbook of teleportation		книга заклять телепортації			книга заклять	Предмети	
+spellbook_of_healing	spellbook of healing		книга заклять зцілення			книга заклять	Предмети	
+spellbook_of_extra_healing	spellbook of extra healing		книга заклять посиленого зцілення			книга заклять	Предмети	
+spellbook_of_cure_ailment	spellbook of cure ailment		книга заклять лікування недуг			книга заклять	Предмети	
+spellbook_of_dig	spellbook of dig		книга заклять риття			книга заклять	Предмети	
+luckstone	luckstone		камінь удачі			камінь удачі	Предмети	
+garnet	garnet		гранат			коштовний камінь	Предмети	
+jacinth	jacinth		гіацинт			коштовний камінь	Предмети	
+amber	amber		бурштин			коштовний камінь	Предмети	
+citrine	citrine		цитрин			коштовний камінь	Предмети	
+jade	jade		нефрит			коштовний камінь	Предмети	
+emerald	emerald	Emeralds	смарагд			коштовний камінь	Предмети	
+sapphire	sapphire		сапфір			коштовний камінь	Предмети	
+aquamarine	aquamarine		аквамарин			коштовний камінь	Предмети	
+amethyst	amethyst		аметист			коштовний камінь	Предмети	
+fluorite	fluorite		флюорит			коштовний камінь	Предмети	
+opal	opal		опал			коштовний камінь	Предмети	
+diamond	diamond		діамант			коштовний камінь	Предмети	
+jetstone	jetstone		гагат			коштовний камінь	Предмети	
+obsidian	obsidian		обсидіан			коштовний камінь	Предмети	
+piece_of_worthless_glass	piece of worthless glass		шматок безвартісного скла			імітація самоцвіту	Предмети	
+lantern	lantern	LANTERNS|LANTERS	ліхтар			джерело світла	Предмети	
+pair_of_glasses	pair of glasses		окуляри			окуляри	Предмети	
+bread	bread		хліб			хліб	Предмети	
+cream_pie	cream pie		вершковий пиріг			вершковий пиріг	Предмети	
+cheese	cheese		сир			сир	Предмети	
+apple	apple		яблуко			яблуко	Предмети	
+meat	meat	meats	м'ясо			м’ясо	Предмети	
+fish	fish		риба			риба	Предмети	
+book	book	books	книга			книга	Предмети	
+readable_book	readable book		книга для читання			книга, яку можна прочитати	Предмети	
+magic_sword	magic sword		магічний меч			нерозпізнаний артефактний меч	Предмети	
+magic_mace	magic mace		магічна булава			нерозпізнана артефактна булава	Предмети	
+magic_spear	magic spear		магічний спис			нерозпізнаний артефактний спис	Предмети	
+magic_axe	magic axe		магічна сокира			нерозпізнана артефактна сокира	Предмети	
+khryselakatos	Khryselakatos		Хриселакатос			артефактний лук	Предмети	
+magic_bow	magic bow		магічний лук			нерозпізнаний артефактний лук	Предмети	
+dragon_s_mail	Dragon's Mail		Драконяча кольчуга			артефактний нагрудник	Предмети	
+artifact_breastpiece	artifact breastpiece		артефактний нагрудник			нерозпізнаний артефактний нагрудник	Предмети	
+sphinx_s_casque	Sphinx's Casque		Шолом Сфінкса			артефактний шолом	Предмети	
+artifact_helm	artifact helm		артефактний шолом			нерозпізнаний артефактний шолом	Предмети	
+oracle_s_treads	Oracle's Treads		Чоботи Оракула			артефактні чоботи	Предмети	
+artifact_boots	artifact boots		артефактні чоботи			нерозпізнані артефактні чоботи	Предмети	
+wraith_s_gown	Wraith's Gown		Плащ Примари			артефактний плащ	Предмети	
+artifact_cloak	artifact cloak		артефактний плащ			нерозпізнаний артефактний плащ	Предмети	
+djinni_s_brace	Djinni's Brace		Рукавиці Джина			артефактні рукавиці	Предмети	
+artifact_gloves	artifact gloves		артефактні рукавиці			нерозпізнані артефактні рукавиці	Предмети	
+crystal_breastpiece	crystal breastpiece		кристалічний нагрудник			кристалічний нагрудник	Предмети	
+crystal_helm	crystal helm		кристалічний шолом			кристалічний шолом	Предмети	
+crystal_boots	crystal boots		кристалічні чоботи			кристалічні чоботи	Предмети	
+crystal_shield	crystal shield		кристалічний щит			кристалічний щит	Предмети	
+crystal_gauntlets	crystal gauntlets		кристалічні латні рукавиці			кристалічні латні рукавиці	Предмети	
+vampire_doublet	vampire doublet		дублет вампіра			дублет вампіра	Предмети	
+doublet	doublet		дублет			дублет	Предмети	
+wizard_doublet	wizard doublet		дублет чарівника			дублет чарівника	Предмети	
+healer_doublet	healer doublet		дублет цілителя			дублет цілителя	Предмети	
+mirror_shield	mirror shield	Mirror Shields	дзеркальний щит			дзеркальний щит	Предмети	
+brass_knuckles	brass knuckles		латунний кастет			кастет	Предмети	
+knuckles	knuckles		кастет			кастет	Предмети	
+iron_knuckles	iron knuckles		залізний кастет			залізний кастет	Предмети	
+spiked_gauntlets	spiked gauntlets		шиповані латні рукавиці			шиповані латні рукавиці	Предмети	
+tomalley	tomalley	Tomalleys	томалі			їстівний томалі	Предмети	
+crystal_shard	crystal shard	CRYSTAL SHARDS	кристалічний уламок			кристалічний уламок	Предмети	
+crystal_sword	crystal sword	Crystal Swords	кристалічний меч			кристалічний меч	Предмети	
+crystal_spear	crystal spear		кристалічний спис			кристалічний спис	Предмети	
+crystal_axe	crystal axe		кристалічна сокира			кристалічна сокира	Предмети	
+crystal_mace	crystal mace		кристалічна булава			кристалічна булава	Предмети	
+bronze_tomahawk	bronze tomahawk		бронзовий томагавк			бронзовий томагавк	Предмети	
+tomahawk	tomahawk	TOMAHAWKS	томагавк			тип метальної сокири	Предмети	
+iron_dagger	iron dagger		залізний кинджал			залізний кинджал	Предмети	
+dagger	dagger	DAGGERS	кинджал			тип зброї	Предмети	
+steel_chakram	steel chakram		сталевий чакрам			сталевий чакрам	Предмети	
+chakram	chakram	CHAKRAMS	чакрам			тип метальної зброї	Предмети	
+crystal_shuriken	crystal shuriken		кристалічний сюрикен			кристалічний сюрикен	Предмети	
+shuriken	shuriken	SHURIKENS	сюрикен			тип метальної зброї	Предмети	
+black_cloak	black cloak		чорний плащ			чорний плащ	Предмети	
+magicstaff_of_stoneblood	magicstaff of stoneblood		магічний посох кам'яної крові			магічний посох із закляттям	Предмети	
+stoneblood	Stoneblood		кам'яна кров			закляття кам’яної крові	Закляття	
+magicstaff_of_bloodletting	magicstaff of bloodletting		магічний посох кровопускання			магічний посох із закляттям	Предмети	
+bloodletting	Bloodletting		кровопускання			закляття кровопускання	Закляття	
+magicstaff_of_conjure_skeleton	magicstaff of conjure skeleton		магічний посох виклику скелета			магічний посох із закляттям	Предмети	
+conjure_skeleton	Conjure Skeleton		виклик скелета			закляття виклику скелета	Закляття	
+blindfold_of_free_action	blindfold of free action		пов'язка вільної дії			пов’язка з ефектом вільної дії	Предмети	
+free_action	Free Action	[Free Action]	вільна дія			ефект вільної дії	Механіки	
+blindfold_of_telepathy	blindfold of telepathy		пов'язка телепатії			пов’язка з телепатією	Предмети	
+telepathy	Telepathy	[Telepathy]	телепатія			ефект телепатії	Механіки	
+spellbook_of_conjure_skeleton	spellbook of conjure skeleton		книга заклять виклику скелета			книга закляття виклику скелета	Предмети	
+spellbook_of_stoneblood	spellbook of stoneblood		книга заклять кам'яної крові			книга закляття кам’яної крові	Предмети	
+spellbook_of_bloodletting	spellbook of bloodletting		книга заклять кровопускання			книга закляття кровопускання	Предмети	
+spellbook_of_reflect_magic	spellbook of reflect magic		книга заклять відбиття магії			книга відбиття магії	Предмети	
+spellbook_of_spray_acid	spellbook of spray acid		книга заклять розпилення кислоти			книга закляття розпилення кислоти	Предмети	
+spray_acid	Spray Acid		розпилення кислоти			закляття розпилення кислоти	Закляття	
+spellbook_of_steal_weapon	spellbook of steal weapon		книга заклять викрадення зброї			книга закляття викрадення зброї	Предмети	
+steal_weapon	Steal Weapon	[Steal]	викрадення зброї			закляття викрадення зброї	Закляття	
+spellbook_of_drain_soul	spellbook of drain soul		книга заклять висмоктування душі			книга закляття висмоктування душі	Предмети	
+drain_soul	Drain Soul		висмоктування душі			закляття висмоктування душі	Закляття	
+spellbook_of_vampiric_aura	spellbook of vampiric aura		книга заклять вампіричної аури			книга вампіричної аури	Предмети	
+spellbook_of_charm_monster	spellbook of charm monster		книга заклять зачарування істоти			книга закляття зачарування істоти	Предмети	
+charm_monster	Charm Monster		зачарування монстра			закляття зачарування істоти	Закляття	
+blue_mystic_orb	blue mystic orb		синя містична сфера			синя містична сфера	Предмети	
+red_mystic_orb	red mystic orb		червона містична сфера			червона містична сфера	Предмети	
+purple_mystic_orb	purple mystic orb		фіолетова містична сфера			фіолетова містична сфера	Предмети	
+green_mystic_orb	green mystic orb		зелена містична сфера			зелена містична сфера	Предмети	
+tunic	tunic		туніка			туніка	Предмети	
+fez	fez		феска			феска	Предмети	
+magicstaff_of_charm_monster	magicstaff of charm monster	Magicstaffs of Charm Monster	магічний посох зачарування істоти			магічний посох зачарування істоти	Предмети	
+vial_of_blood	vial of blood		флакон крові			флакон крові	Предмети	
+backpack	backpack	BACKPACKS	наплічник			наплічник	Предмети	
+alembic	alembic	ALEMBICS	аламбік			алхімічний перегінний апарат	Предмети	
+potion_of_firestorm	potion of firestorm		зілля вогняної бурі			зілля вогняної бурі	Предмети	
+firestorm	Firestorm		вогняна буря			вогняна буря	Закляття	
+unstable_potion	unstable potion	unstable potions	нестабільне зілля			нестабільне зілля	Предмети	
+potion_of_icestorm	potion of icestorm		зілля крижаної бурі			зілля крижаної бурі	Предмети	
+icestorm	Icestorm		крижана буря			крижана буря	Закляття	
+potion_of_thunderstorm	potion of thunderstorm		зілля грозової бурі			зілля грозової бурі	Предмети	
+thunderstorm	Thunderstorm		гроза			грозова буря	Закляття	
+suede_boots	suede boots		замшеві чоботи			замшеві чоботи	Предмети	
+suede_gloves	suede gloves		замшеві рукавички			замшеві рукавички	Предмети	
+silver_cloak	silver cloak		срібний плащ			срібний плащ	Предмети	
+silver_hood	silver hood		срібний каптур			срібний каптур	Предмети	
+red_hood	red hood		червоний каптур			червоний каптур	Предмети	
+silver_doublet	silver doublet		срібний дублет			срібний дублет	Предмети	
+revert_form	Revert Form		відновлення форми			закляття повернення форми	Закляття	
+rat_form	Rat Form		форма щура			закляття форми щура	Закляття	
+arthropod_form	Arthropod Form		форма членистоногого			закляття форми членистоногого	Закляття	
+troll_form	Troll Form		форма троля			закляття форми троля	Закляття	
+imp_form	Imp Form		форма біса			закляття форми біса	Закляття	
+spray_web	Spray Web	[Spray Web]	викид павутини			закляття створення павутини	Закляття	
+power_strike	Power Strike	[Power Strike]	потужний удар			закляття потужного удару	Закляття	
+detect_food	Detect Food	[Detect Food]	виявлення їжі			закляття виявлення їжі	Закляття	
+weakness	Weakness	weaknesses|[Weakness]	слабкість			закляття слабкості	Закляття	
+shaman_mask	shaman mask		маска шамана			маска шамана	Предмети	
+teleport_other	Teleport Other		телепортація іншого			закляття телепортації іншої цілі	Закляття	
+troll_s_blood	Troll's Blood	[Troll's Blood]	кров троля			закляття крові троля	Закляття	
+flutter	Flutter		пурхання			закляття пурхання	Закляття	
+dash	Dash	[Dash]	ривок			закляття ривка	Закляття	
+detonator	detonator	Detonators	детонатор			детонатор	Предмети	
+flame_trap	flame trap		вогняна пастка			вогняна пастка	Предмети	
+sleep_trap	sleep trap		пастка сну			пастка сну	Предмети	
+freeze_trap	freeze trap	freeze traps	заморожувальна пастка			заморожувальна пастка	Предмети	
+teleportation_trap	teleportation trap		телепортаційна пастка			телепортаційна пастка	Предмети	
+leather_apron	leather apron		шкіряний фартух			шкіряний фартух	Предмети	
+enchanted_feather	enchanted feather		зачароване перо			зачароване перо	Предмети	
+executioner_hood	executioner hood		каптур ката			каптур ката	Предмети	
+charging	Charging		заряджання			закляття заряджання	Закляття	
+quiver_of_silver_ammo	quiver of silver ammo		сагайдак зі срібними боєприпасами			сагайдак зі срібними боєприпасами	Предмети	
+quiver_of_piercing_ammo	quiver of piercing ammo		сагайдак із пробивними боєприпасами			сагайдак із пробивними боєприпасами	Предмети	
+quiver_of_swift_ammo	quiver of swift ammo		сагайдак зі швидкісними боєприпасами			сагайдак зі швидкими боєприпасами	Предмети	
+quiver_of_fire_ammo	quiver of fire ammo		сагайдак із запалювальними боєприпасами			сагайдак із вогняними боєприпасами	Предмети	
+quiver_of_springshot_ammo	quiver of springshot ammo		сагайдак із пружинними боєприпасами			сагайдак із пружинними боєприпасами	Предмети	
+quiver_of_crystal_ammo	quiver of crystal ammo		сагайдак із кристалічними боєприпасами			сагайдак із кристалічними боєприпасами	Предмети	
+quiver_of_hunting_ammo	quiver of hunting ammo		сагайдак із мисливськими боєприпасами			сагайдак із мисливськими боєприпасами	Предмети	
+longbow	longbow	Longbows	довгий лук			довгий лук	Предмети	
+compound_bow	compound bow	Compound	блочний лук			блочний лук	Предмети	
+arbalest	arbalest	Arbalests	арбалет			арбалет	Предмети	
+boomerang	boomerang		бумеранг			бумеранг	Предмети	
+conjure_arrow	Conjure Arrow		створення стріли			закляття створення стріли	Закляття	
+monocle	monocle		монокль			монокль	Предмети	
+death_box	death box		скринька смерті			контейнер із майном загиблого гравця	Предмети	
+bandit_mask	bandit mask	Bandit Masks	маска бандита			маска бандита	Предмети	
+eyepatch	eyepatch		пов'язка на око			пов'язка на око	Предмети	
+masquerade_mask	masquerade mask	Masquerade Masks	маскарадна маска			маска для маскараду	Предмети	
+rose	rose	Roses	троянда			троянда	Предмети	
+golden_mask	golden mask		золота маска			золота маска	Предмети	
+spooky_mask	spooky mask	Spooky Masks	моторошна маска			моторошна маска	Предмети	
+tech_goggles	tech goggles		технічні окуляри			технічні окуляри	Предмети	
+hazard_goggles	hazard goggles		захисні окуляри			протинебезпечні окуляри	Предмети	
+phantom_mask	phantom mask	Phantom Masks	маска фантома			маска фантома	Предмети	
+pipe	pipe	Pipes	люлька			люлька	Предмети	
+sweetgrass_sprig	sweetgrass sprig		стебло зубрівки			гілочка запашної трави	Предмети	
+plague_mask	plague mask		чумна маска			захисна маска	Предмети	
+mouth_knife	mouth knife		ніж у зубах			ніж для носіння в роті	Предмети	
+silken_bow	silken bow		шовковий бант			шовкова прикраса-бантик	Предмети	
+plumed_cap	plumed cap		шапка з пером			шапка з пером	Предмети	
+bycocket	bycocket	Bycockets	бікокет			головний убір	Предмети	
+top_hat	top hat		циліндр			високий капелюх	Предмети	
+bandana	bandana	Bandanas	бандана			головний убір	Предмети	
+circlet_of_mysticism	circlet of mysticism		обруч містицизму			магічний обруч	Предмети	
+circlet	circlet		обруч			головний обруч	Предмети	
+crown	crown	CROWNS	корона			головний убір	Предмети	
+laurels	laurels		лавровий вінок			лавровий головний убір	Предмети	
+turban	turban		тюрбан			головний убір	Предмети	
+crowned_helmet	crowned helmet		коронований шолом			коронований шолом	Предмети	
+warm_hat	warm hat		тепла шапка			теплий капелюх	Предмети	
+wolf_hood	wolf hood		вовчий каптур			вовчий каптур	Предмети	
+wolf	wolf		вовк			вовк	Істоти	
+bear_hood	bear hood		ведмежий каптур			ведмежий каптур	Предмети	
+stag_hood	stag hood		оленячий каптур			оленячий каптур	Предмети	
+stag	stag		олень			олень	Істоти	
+bunny_hood	bunny hood		кролячий каптур			кролячий каптур	Предмети	
+bunny	bunny		кролик			кролик	Істоти	
+bounty_hunter_s_hat	bounty hunter's hat		капелюх мисливця за головами			капелюх мисливця за винагородами	Предмети	
+priestly_miter	priestly miter		жрецька митра			жрецький головний убір	Предмети	
+magus_headdress	magus' headdress		головний убір мага			головний убір мага	Предмети	
+chef_s_toque	chef's toque		кухарський ковпак			кухарський головний убір	Предмети	
+mining_helmet	mining helmet		шахтарський шолом			шахтарський шолом	Предмети	
+steel_visor	steel visor		сталеве забрало			сталеве забрало	Предмети	
+crystal_visor	crystal visor		кришталеве забрало			кришталеве забрало	Предмети	
+valkyrie_s_veil	Valkyrie's Veil		Вуаль валькірії			унікальне артефактне забрало	Предмети	
+artifact_visor	artifact visor		артефактне забрало			нерозпізнане артефактне забрало	Предмети	
+circlet_of_wisdom	circlet of wisdom		обруч мудрості			обруч мудрості	Предмети	
+apprentice_s_hood	apprentice's hood		каптур учня			каптур учня	Предмети	
+assassin_s_hood	assassin's hood		каптур убивці			каптур убивці	Предмети	
+hood_of_whispers	hood of whispers		каптур шепотів			магічний каптур	Предмети	
+ring_of_resolve	ring of resolve		перстень рішучості			перстень рішучості	Предмети	
+cloak_of_the_guardian	cloak of the guardian		плащ охоронця			плащ охоронця	Предмети	
+marigold	marigold		чорнобривець			маска-квітка	Предмети	
+stone_key	stone key		кам'яний ключ			кам'яний ключ	Предмети	
+spirit_key	spirit key		ключ духів			духовний ключ	Предмети	
+bronze_key	bronze key		бронзовий ключ			бронзовий ключ	Предмети	
+iron_key	iron key		залізний ключ			залізний ключ	Предмети	
+silver_key	silver key		срібний ключ			срібний ключ	Предмети	
+gold_key	gold key		золотий ключ			золотий ключ	Предмети	
+crystal_key	crystal key		кришталевий ключ			кришталевий ключ	Предмети	
+machine_key	machine key		механічний ключ			машинний ключ	Предмети	
+focus_of_flames	focus of flames		фокус полум'я			магічний фокус вогню	Предмети	
+focus	focus		магічний фокус			магічний фокус	Предмети	
+flute	flute	[Flute]	флейта			музичний інструмент	Предмети	
+lyre	lyre	[Lyre]	ліра			музичний інструмент	Предмети	
+drum	drum	[Drum]	барабан			музичний інструмент	Предмети	
+lute	lute	[Lute]	лютня			музичний інструмент	Предмети	
+horn	horn	[Horn]	ріг			музичний інструмент	Предмети	
+rapier	rapier	rapier's	рапіра			колюча зброя	Предмети	
+amulet_of_burning_resistance	amulet of burning resistance		амулет опору горінню			амулет опору горінню	Предмети	
+grease_ball	grease ball		куля мастила			куля мастила	Предмети	
+branch_staff	branch staff		посох із гілки			посох із гілки	Предмети	
+branch_bow	branch bow		лук із гілки			лук із гілки	Предмети	
+infected_branch_bow	infected branch bow		заражений лук із гілки			заражений лук із гілки	Предмети	
+dust_ball	dust ball		куля пилу			куля пилу	Предмети	
+steel_flail	steel flail		сталевий ціп			сталевий ціп	Предмети	
+spicy_ration	spicy ration		гострий пайок			гострий пайок	Предмети	
+sour_ration	sour ration		кислий пайок			кислий пайок	Предмети	
+bitter_ration	bitter ration		гіркий пайок			гіркий пайок	Предмети	
+hearty_ration	hearty ration		ситний пайок			ситний пайок	Предмети	
+herbal_ration	herbal ration		трав'яний пайок			трав'яний пайок	Предмети	
+sweet_ration	sweet ration		солодкий пайок			солодкий пайок	Предмети	
+frypan	frypan		сковорода			сковорода	Предмети	
+cleats	cleats		черевики з шипами			взуття із шипами	Предмети	
+bandit_leather	bandit leather		бандитський шкіряний обладунок			бандитський шкіряний обладунок	Предмети	
+blouse	blouse		блуза			предмет одягу	Предмети	
+bone_breastpiece	bone breastpiece		кістяний нагрудник			кістяний нагрудник	Предмети	
+blackiron_breastpiece	blackiron breastpiece		нагрудник із чорного заліза			нагрудник із чорного заліза	Предмети	
+silver_breastpiece	silver breastpiece		срібний нагрудник			срібний нагрудник	Предмети	
+iron_pauldrons	iron pauldrons		залізні наплічники			залізні наплічники	Предмети	
+quilted_gambeson	quilted gambeson		стьобаний гамбезон			стьобаний обладунок	Предмети	
+cultist_robe	cultist robe		мантія культиста			мантія культиста	Предмети	
+healer_robe	healer robe		мантія цілителя			мантія цілителя	Предмети	
+monk_robe	monk robe		мантія монаха			чернеча мантія	Предмети	
+wizard_robe	wizard robe		мантія чарівника			магічна роба	Предмети	
+shawl	shawl	Shawls	шаль			предмет одягу	Предмети	
+chain_hauberk	chain hauberk		кольчужний обладунок			кольчужний обладунок	Предмети	
+bone_bracers	bone bracers		кістяні наручі			кістяні наручі	Предмети	
+blackiron_gauntlets	blackiron gauntlets		латні рукавиці з чорного заліза			латні рукавиці з чорного заліза	Предмети	
+silver_gauntlets	silver gauntlets		срібні латні рукавиці			срібні латні рукавиці	Предмети	
+quilted_gloves	quilted gloves		стьобані рукавички			стьобані рукавички	Предмети	
+chain_gloves	chain gloves		кольчужні рукавички			кольчужні рукавички	Предмети	
+bone_boots	bone boots		кістяні чоботи			кістяні чоботи	Предмети	
+blackiron_boots	blackiron boots		чоботи з чорного заліза			чоботи з чорного заліза	Предмети	
+silver_boots	silver boots		срібні чоботи			срібні чоботи	Предмети	
+quilted_boots	quilted boots		стьобані чоботи			стьобані чоботи	Предмети	
+loafers	loafers		лофери			тип взуття	Предмети	
+chain_boots	chain boots		кольчужні чоботи			кольчужні чоботи	Предмети	
+scutum	scutum	Scutums	скутум			тип щита	Предмети	
+bone_shield	bone shield		кістяний щит			кістяний щит	Предмети	
+blackiron_shield	blackiron shield		щит із чорного заліза			щит із чорного заліза	Предмети	
+silver_shield	silver shield		срібний щит			срібний щит	Предмети	
+dendrite_cloak	dendrite cloak		дендритовий плащ			дендритовий плащ	Предмети	
+bone_helm	bone helm		кістяний шолом			кістяний шолом	Предмети	
+blackiron_helm	blackiron helm		шолом із чорного заліза			шолом із чорного заліза	Предмети	
+silver_helm	silver helm		срібний шолом			срібний шолом	Предмети	
+felt_hat	felt hat		фетровий капелюх			фетровий капелюх	Предмети	
+quilted_cap	quilted cap		стьобана шапка			стьобаний головний убір	Предмети	
+teal_hood	teal hood		бірюзовий каптур			бірюзовий каптур	Предмети	
+chain_coif	chain coif		кольчужний каптур			кольчужний каптур	Предмети	
+mushroom_slice	mushroom slice	Mushroom Slices	скибка гриба			їстівна скибка гриба	Предмети	
+nut	nut	Nuts	горіх			їстівний предмет	Предмети	
+focus_of_snow	focus of snow		фокус снігу			магічний фокус снігу	Предмети	
+focus_of_needles	focus of needles		фокус голок			магічний фокус голок	Предмети	
+focus_of_arcs	focus of arcs		фокус дуг			магічний фокус дуг	Предмети	
+focus_of_sandblast	focus of sandblast		фокус піщаного вибуху			магічний фокус піщаного вибуху	Предмети	
+icon_of_claim_life	icon of claim life		ікона поглинання життя			темна магічна ікона	Предмети	
+icon_of_void_rift	icon of void rift		ікона розлому порожнечі			темна магічна ікона	Предмети	
+icon_of_silence	icon of silence		ікона тиші			темна магічна ікона	Предмети	
+icon_of_vengeance	icon of vengeance		ікона помсти			темна магічна ікона	Предмети	
+icon_of_suppression	icon of suppression		ікона придушення			темна магічна ікона	Предмети	
+symbol_of_peace	symbol of peace		символ миру			світлий магічний символ	Предмети	
+symbol_of_justice	symbol of justice		символ справедливості			світлий магічний символ	Предмети	
+symbol_of_providence	symbol of providence		символ провидіння			світлий магічний символ	Предмети	
+symbol_of_purity	symbol of purity		символ чистоти			світлий магічний символ	Предмети	
+symbol_of_sanctuary	symbol of sanctuary		символ прихистку			світлий магічний символ	Предмети	
+archon_scepter	archon scepter		скіпетр архонта			магічний скіпетр архонта	Предмети	
+scepter	scepter		скіпетр			тип магічного предмета	Предмети	
+circlet_of_sorcery	circlet of sorcery		вінець чарівництва			магічний вінець чарівництва	Предмети	
+circlet_of_thaumaturgy	circlet of thaumaturgy		вінець тауматургії			магічний вінець тауматургії	Предмети	
+shillelagh	shillelagh	SHILLELAGHS	шилейла			тип ударної зброї	Предмети	
+claymore	claymore	Claymores	клеймор			тип дворучного меча	Предмети	
+anelace	anelace		анелас			тип клинкової зброї	Предмети	
+lance	lance		лицарський спис			тип древкової зброї	Предмети	
+steel_falshion	steel falshion		сталевий фальшіон			сталевий фальшіон	Предмети	
+steel_greataxe	steel greataxe		сталева дворучна сокира			сталева дворучна сокира	Предмети	
+blackiron_axe	blackiron axe		сокира з чорного заліза			сокира з чорного заліза	Предмети	
+blackiron_crossbow	blackiron crossbow		арбалет із чорного заліза			арбалет із чорного заліза	Предмети	
+blackiron_dart	blackiron dart		дротик із чорного заліза			метальний дротик із чорного заліза	Предмети	
+blackiron_mace	blackiron mace		булава з чорного заліза			булава з чорного заліза	Предмети	
+blackiron_sword	blackiron sword		меч із чорного заліза			меч із чорного заліза	Предмети	
+blackiron_trident	blackiron trident		тризуб із чорного заліза			тризуб із чорного заліза	Предмети	
+bone_axe	bone axe		кістяна сокира			кістяна сокира	Предмети	
+bone_mace	bone mace		кістяна булава			кістяна булава	Предмети	
+bone_shortbow	bone shortbow		кістяний короткий лук			кістяний короткий лук	Предмети	
+bone_spear	bone spear		кістяний спис			кістяний спис	Предмети	
+bone_sword	bone sword		кістяний меч			кістяний меч	Предмети	
+bone	bone		кістка			метальна кістка	Предмети	
+silver_axe	silver axe		срібна сокира			срібна сокира	Предмети	
+silver_glaive	silver glaive		срібна глефа			срібна глефа	Предмети	
+silver_mace	silver mace		срібна булава			срібна булава	Предмети	
+silver_plumbata	silver plumbata		срібна плюмбата			срібна метальна зброя	Предмети	
+silver_sword	silver sword		срібний меч			срібний меч	Предмети	
+quiver_of_bone_ammo	quiver of bone ammo		сагайдак із кістяними боєприпасами			сагайдак із кістяними боєприпасами	Предмети	
+quiver_of_blackiron_ammo	quiver of blackiron ammo		сагайдак із боєприпасами з чорного заліза			сагайдак із боєприпасами з чорного заліза	Предмети	
+meteor	Meteor		метеор			назва закляття	Закляття	
+ice_wave	Ice Wave		крижана хвиля			назва закляття	Закляття	
+guard_body	Guard Body		захист тіла			назва закляття	Закляття	
+guard_spirit	Guard Spirit		захист духу			назва закляття	Закляття	
+nimbleness	Nimbleness		спритність			назва закляття	Закляття	
+counsel	Counsel		настанова			назва закляття	Закляття	
+sturdiness	Sturdiness		міцність			назва закляття	Закляття	
+blessed_meals	Blessed Meals	[Blessed Meals]	благословенні страви			назва закляття	Закляття	
+pinpoint	Pinpoint		визначення місця			назва закляття	Закляття	
+scry_allies	Scry Allies		пошук союзників			назва закляття	Закляття	
+scry_traps	Scry Traps		пошук пасток			назва закляття	Закляття	
+scry_treasures	Scry Treasures		пошук скарбів			назва закляття	Закляття	
+detect_enemy	Detect Enemy		виявлення ворога			назва закляття	Закляття	
+exorcise	Exorcise		екзорцизм			назва закляття	Закляття	
+minor_heal_other	Minor Heal Other		мале зцілення іншого			назва закляття	Закляття	
+divine_zeal	Divine Zeal		божественний запал			назва закляття	Закляття	
+maximise	Maximise		збільшення			назва закляття	Закляття	
+minimise	Minimise		зменшення			назва закляття	Закляття	
+incoherence	Incoherence	[Incoherence]	незв'язність			назва закляття	Закляття	
+overcharge	Overcharge	[Overcharge]	надзаряджання			назва закляття	Закляття	
+envenom_weapon	Envenom Weapon		отруєння зброї			назва закляття	Закляття	
+psychic_spear	Psychic Spear		психічний спис			назва закляття	Закляття	
+defy_flesh	Defy Flesh		непокора плоті			назва закляття	Закляття	
+grease_spray	Grease Spray		розбризкування мастила			назва закляття	Закляття	
+blood_waves	Blood Waves		хвилі крові			назва закляття	Закляття	
+lead_bolt	Lead Bolt		свинцева стріла			назва закляття	Закляття	
+numbing_bolt	Numbing Bolt		стріла заціпеніння			назва закляття	Закляття	
+curse_flesh	Curse Flesh		прокляття плоті			назва закляття	Закляття	
+cowardice	Cowardice	[Cowardice]	боягузтво			назва закляття	Закляття	
+seek_ally	Seek Ally		пошук союзника			назва закляття	Закляття	
+deep_shade	Deep Shade	[Deep Shade]	глибока тінь			назва закляття	Закляття	
+spores	Spores	[Spores]	спори			назва закляття	Закляття	
+windgate	Windgate	[Windgate]	брама вітру			назва закляття	Закляття	
+telekinesis	Telekinesis		телекінез			назва закляття	Закляття	
+preserve	Preserve		збереження			назва закляття	Закляття	
+kinetic_defense	Kinetic Defense		кінетичний захист			назва закляття	Закляття	
+splinter_armor	Splinter Armor		розщеплення обладунку			назва закляття	Закляття	
+attract_items	Attract Items		притягання предметів			назва закляття	Закляття	
+absorb_magic	Absorb Magic		поглинання магії			назва закляття	Закляття	
+null_area	Null Area		антимагічна зона			назва закляття	Закляття	
+summon_fire_sprite	Summon Fire Sprite		виклик вогняного духа			назва закляття	Закляття	
+fire_sprite	Fire Sprite	FIRE SPRITES|[Fire Sprite]	вогняний дух			викликана вогняна істота	Істоти	
+spin	Spin	Spinning	обертання			назва закляття	Закляття	
+cleanse_food	Cleanse Food		очищення їжі			назва закляття	Закляття	
+lightning_bolt	Lightning Bolt		блискавка			назва закляття	Закляття	
+disrupt_earth	Disrupt Earth		розкол землі			назва закляття	Закляття	
+fire_wall	Fire Wall		вогняна стіна			назва закляття	Закляття	
+lift	Lift		підняття			назва закляття	Закляття	
+shatter_objects	Shatter Objects		трощення предметів			назва закляття	Закляття	
+kinetic_field	Kinetic Field	[Kinetic Field]	кінетичне поле			назва закляття	Закляття	
+magicians_bubble	Magicians' Bubble		бульбашка чарівників			назва закляття	Закляття	
+minor_heal	Minor Heal		мале зцілення			назва закляття	Закляття	
+holy_sigil	Holy Sigil		священна печать			назва закляття	Закляття	
+divine_fortress	Divine Fortress		божественна фортеця			назва закляття	Закляття	
+holy_beam	Holy Beam		священний промінь			назва закляття	Закляття	
+stone_blood	Stone Blood		кам'яна кров			назва закляття	Закляття	
+ghostbolt	Ghostbolt		примарна стріла			назва закляття	Закляття	
+slime_spray_acid	Slime Spray (Acid)		бризки слизу (кислота)			назва закляття	Закляття	
+slime_spray_water	Slime Spray (Water)		бризки слизу (вода)			назва закляття	Закляття	
+slime_spray_magma	Slime Spray (Magma)		бризки слизу (магма)			назва закляття	Закляття	
+slime_spray_tar	Slime Spray (Tar)		бризки слизу (смола)			назва закляття	Закляття	
+tar	Tar		смола			смоляна речовина	Механіки	
+slime_spray_metal	Slime Spray (Metal)		бризки слизу (метал)			назва закляття	Закляття	
+summon_earth_sprite	Summon Earth Sprite		виклик духа землі			назва закляття	Закляття	
+germinate	Germinate		пророщення			назва закляття	Закляття	
+conjure_food	Conjure Food		створити їжу			назва закляття	Закляття	
+scry_shrines	Scry Shrines		пошук святинь			назва закляття	Закляття	
+call_allies	Call Allies		покликати союзників			назва закляття	Закляття	
+sacred_path	Sacred Path		священний шлях			назва закляття	Закляття	
+manifest_destiny	Manifest Destiny		явити долю			назва закляття	Закляття	
+detect_enemies	Detect Enemies		виявити ворогів			назва закляття	Закляття	
+true_blood	True Blood		істинна кров			назва закляття	Закляття	
+jump	Jump		стрибок			назва закляття	Закляття	
+booby_trap	Booby Trap		міна-пастка			назва закляття	Закляття	
+puncture_void	Puncture Void		проколоти порожнечу			назва закляття	Закляття	
+mercury_bolt	Mercury Bolt		ртутна стріла			назва закляття	Закляття	
+revenant_curse	Revenant Curse		прокляття ревенанта			назва закляття	Закляття	
+seek_foe	Seek Foe		знайти ворога			назва закляття	Закляття	
+shade_bolt	Shade Bolt		тіньова стріла			назва закляття	Закляття	
+adorcism	Adorcism		причарування			назва закляття	Закляття	
+wonderlight	Wonderlight		дивосвітло			назва закляття	Закляття	
+spore_bomb	Spore Bomb		спорова бомба			назва закляття	Закляття	
+kinetic_push	Kinetic Push		кінетичний поштовх			назва закляття	Закляття	
+strip	Strip		зняття			назва закляття	Закляття	
+restore	Restore		відновлення			назва закляття	Закляття	
+harvest_trap	Harvest Trap		зібрати пастку			назва закляття	Закляття	
+reflector	Reflector		відбивач			назва закляття	Закляття	
+lighten_load	Lighten Load		полегшити ношу			назва закляття	Закляття	
+return_items	Return Items		повернення предметів			назва закляття	Закляття	
+seize_magic	Seize Magic		відібрати магію			назва закляття	Закляття	
+deface	Deface		спотворення			назва закляття	Закляття	
+sunder_monument	Sunder Monument		розтрощити монумент			назва закляття	Закляття	
+sphere_of_silence	Sphere of Silence		сфера тиші			назва закляття	Закляття	
+forge_metal	Forge Metal		кувати метал			назва закляття	Закляття	
+forge_magic	Forge Magic		кувати магію			назва закляття	Закляття	
+dizzy	Dizzy		запаморочення			назва закляття	Закляття	
+vandalise	Vandalise		нівечення			назва закляття	Закляття	
+sanctify_water	Sanctify Water		освятити воду			назва закляття	Закляття	
+adorcise_instrument	Adorcise Instrument		причарувати інструмент			назва закляття	Закляття	
+critical_spell	Critical Spell		критичне закляття			назва закляття	Закляття	
+magic_well	Magic Well		магічний колодязь			назва закляття	Закляття	
+flame_shield	Flame Shield		полум'яний щит			назва закляття	Закляття	
+earth_spines	Earth Spines		земляні шипи			назва закляття	Закляття	
+lightning_nexus	Lightning Nexus		осередок блискавок			назва закляття	Закляття	
+ice_block	Ice Block		крижаний блок			назва закляття	Закляття	
+meteor_shower	Meteor Shower		метеоритний дощ			назва закляття	Закляття	
+chronomic_field	Chronomic Field		хрономічне поле			назва закляття	Закляття	
+eternals_gaze	Eternals' Gaze		погляд Вічних			назва закляття	Закляття	
+shatter_earth	Shatter Earth		розкол землі			назва закляття	Закляття	
+mycelium_spores	Mycelium Spores		спори міцелію			назва закляття	Закляття	
+heal_pulse	Heal Pulse		цілющий імпульс			назва закляття	Закляття	
+bastion	Bastion		бастіон			назва закляття	Закляття	
+breathe_fire	Breathe Fire		вогняний подих			назва закляття	Закляття	
+holy_fire	Holy Fire		священний вогонь			назва закляття	Закляття	
+elf_headgear	elf headgear		ельфійський головний убір			ельфійський головний убір	Предмети	
+festive_headgear	festive headgear		святковий головний убір			святковий головний убір	Предмети	
+fruitcake	fruitcake		фруктовий кекс			святкова випічка	Предмети	
+candy_cane	candy cane		льодяникова тростина			різдвяна льодяникова тростина	Предмети	
+pie_slice	pie slice		шматок пирога			шматок пирога	Предмети	
+turkey	turkey		запечена індичка			святкова страва з індички	Предмети	
+cookie	cookie	cookies	печиво			святкове печиво	Предмети	
+santa_s_mail	Santa's Mail		Кольчуга Санти			іменний артефактний обладунок Санти	Предмети	
+santa_s_veil	Santa's Veil		Вуаль Санти			іменний артефактний шолом Санти	Предмети	
+santa_s_treads	Santa's Treads		Чоботи Санти			іменні артефактні чоботи Санти	Предмети	
+santa_s_gown	Santa's Gown		Мантія Санти			іменний артефактний плащ Санти	Предмети	
+santa_s_brace	Santa's Brace		Рукавиці Санти			іменні артефактні рукавиці Санти	Предмети	
+cranberry_sauce	cranberry sauce		журавлиновий соус			журавлиновий соус	Предмети	
+blue_gift	blue gift		синій подарунок			синій подарунок	Предмети	
+red_stocking	red stocking		червона різдвяна панчоха			червона різдвяна панчоха	Предмети	
+purple_ornament	purple ornament		фіолетова ялинкова прикраса			фіолетова ялинкова прикраса	Предмети	
+green_tiny_tree	green tiny tree		маленька зелена ялинка			маленька зелена різдвяна ялинка	Предмети	
+elf_hat	elf hat		ельфійський капелюх			ельфійський капелюх	Предмети	
+gift_sack	gift sack		мішок із подарунками			мішок із подарунками	Предмети	
+experience	Experience	EXPERIENCE POINTS|EXP	досвід			категорія досягнень	Механіки	
+teamwork	Teamwork		командна робота			категорія досягнень	Механіки	
+technique	Technique		техніка			категорія досягнень	Механіки	
+butcher_knife	butcher knife		ніж м'ясника			тематичний ніж м’ясника	Предмети	
+cleaver	cleaver		тесак			тематичний тесак	Предмети	
+pitchfork	pitchfork		вила			тематичні вила	Предмети	
+iron_cutlass	iron cutlass		залізний абордажний меч			залізний абордажний меч	Предмети	
+iron_hammer	iron hammer		залізний молот			залізний молот	Предмети	
+iron_hook	iron hook		залізний гак			залізний гак	Предмети	
+steel_scythe	steel scythe		сталева коса			сталева коса	Предмети	
+batwing_axe	batwing axe		кажанокрила сокира			сокира у стилі крила кажана	Предмети	
+back_costume	back costume		костюм на спину			костюм, що носиться на спині	Предмети	
+back_costume_of_magic_reflection	back costume of magic reflection		костюм на спину з відбиттям магії			костюм із відбиттям магії	Предмети	
+back_costume_of_invisibility	back costume of Invisibility		костюм на спину з невидимістю			костюм із невидимістю	Предмети	
+back_costume_of_protection	back costume of protection		костюм на спину із захистом			костюм із захистом	Предмети	
+pharaoh_headdress	pharaoh headdress		головний убір фараона			головний убір фараона	Предмети	
+head_costume	head costume		костюмний головний убір			тематичний костюм для голови	Предмети	
+scary_mask	scary mask		страшна маска			страшна маска	Предмети	
+witch_hat	witch hat		відьомський капелюх			відьомський капелюх	Предмети	
+clown_wig	clown wig		клоунська перука			перука клоуна	Предмети	
+comedy_headband	comedy headband		комедійна пов'язка			комедійна пов’язка на голову	Предмети	
+warlock_helmet	warlock helmet		шолом чаклуна			шолом чаклуна	Предмети	
+costume_helmet	costume helmet		костюмний шолом			костюмний шолом	Предмети	
+scroll_of_candy	scroll of candy		сувій цукерок			сувій, пов’язаний із цукерками	Предмети	
+spirit_flame	spirit flame		примарне полум'я			тематичне примарне полум’я	Предмети	
+jack_o_lantern	jack-o-lantern		гарбузовий ліхтар			геловінський гарбузовий ліхтар	Предмети	
+disguise_glasses	disguise glasses		маскувальні окуляри			окуляри для маскування	Предмети	
+lollipop	lollipop		льодяник на паличці			льодяник на паличці	Предмети	
+caramel_apple	caramel apple		яблуко в карамелі			яблуко в карамелі	Предмети	
+king_size_candy_bar	king-size candy bar		великий солодкий батончик			великий цукерковий батончик	Предмети	
+candy_skull	candy skull		цукерковий череп			цукерка у формі черепа	Предмети	
+fun_size_sack	fun-size sack		маленький мішечок			малий святковий мішечок	Предмети	
+blue_bat_symbol	blue bat symbol		синій символ кажана			синій символ кажана	Предмети	
+orange_punkin_symbol	orange punkin symbol		помаранчевий символ гарбузика			помаранчевий символ гарбуза	Предмети	
+violet_ghost_symbol	violet ghost symbol		фіолетовий символ привида			фіолетовий символ привида	Предмети	
+green_skull_symbol	green skull symbol		зелений символ черепа			зелений символ черепа	Предмети	
+kitty_ears	kitty ears		котячі вушка			котячі вушка як головний аксесуар	Предмети	
+pillow_case	pillow case		наволочка			наволочка для збирання ласощів	Предмети	
+spellbook_of_detect_candy	spellbook of Detect Candy		книга заклять виявлення цукерок			книга закляття виявлення цукерок	Предмети	
+detect_candy	Detect Candy		виявлення цукерок			закляття виявлення цукерок	Закляття	
+alignment	Alignment		світогляд			світогляд персонажа	Механіки	
+leveling_up	Leveling Up		підвищення рівня			підвищення рівня	Механіки	
+metastats	Metastats		похідні характеристики			похідні характеристики	Механіки	
+action	Action	ACTIONS	дія			дії персонажа	Механіки	
+flanking_strike	Flanking Strike	FLANKING STRIKES	фланговий удар			флангові удари	Механіки	
+backstabbing	Backstabbing		удар у спину			удар у спину	Механіки	
+sneaking	Sneaking	sneak|sneaky	скрадання			приховане пересування	Механіки	
+legendary_strike	Legendary Strike	LEGENDARY STRIKES	легендарний удар			легендарні удари	Механіки	
+blocking	Blocking	block|block skill|[Blocking]|Blocked	блокування			блокування атак	Механіки	
+strafe	Strafe		рух боком			рух боком	Механіки	
+backpedal	Backpedal		відступ			рух назад	Механіки	
+memorized_casting	Memorized Casting		творення запам'ятованих заклять			творення запам’ятованих заклять	Механіки	
+missile_attack	Missile Attack	MISSILE ATTACKS	снарядна атака			атаки метальними снарядами	Механіки	
+item_degradation	Item Degradation		зношення предметів			погіршення стану предметів	Механіки	
+wanted_status	Wanted Status		статус розшуку			статус розшуку	Механіки	
+intelligence	Intelligence		інтелект			характеристика інтелекту	Механіки	
+perception	Perception		чуття			характеристика сприйняття	Механіки	
+charisma	Charisma		харизма			характеристика харизми	Механіки	
+armor_class	Armor Class		клас захисту			клас захисту	Механіки	
+health_points	Health Points		очки здоров'я			очки здоров’я	Механіки	
+magic_points	Magic Points		очки магії			очки магії	Механіки	
+magic_resist	Magic Resist	[Magic Resist]	опір магії			опір магії	Механіки	
+magic_power	Magic Power		сила магії			сила магії	Механіки	
+weight	Weight	weights	вага			вага спорядження	Механіки	
+item_durability	Item Durability		міцність предметів			міцність предметів	Механіки	
+piercing_ammo	piercing ammo		пробивні боєприпаси			тип пробивних боєприпасів	Предмети	
+springshot_ammo	springshot ammo		пружинні боєприпаси			тип механічних боєприпасів	Предмети	
+leather_armor	leather armor	LEATHER	шкіряний обладунок			шкіряний обладунок	Предмети	
+quilted_armor	quilted armor		стьобаний обладунок			стьобаний обладунок	Предмети	
+chain_armor	chain armor		кольчужний обладунок			кольчужний обладунок	Предмети	
+iron_armor	iron armor		залізний обладунок			залізний обладунок	Предмети	
+steel_armor	steel armor		сталевий обладунок			сталевий обладунок	Предмети	
+crystal_armor	crystal armor		кристалічний обладунок			кристалічний обладунок	Предмети	
+clothing	clothing		одяг			категорія одягу	Предмети	
+headdress	headdress	HEADDRESSES	головний убір			головний убір	Предмети	
+face_accessory	face accessory	FACE ACCESSORIES	лицьовий аксесуар			лицьові аксесуари	Предмети	
+visor	visor	VISORS	забрало			забрало	Предмети	
+greatsword	greatsword	GREATSWORDS	дворучний меч			дворучний меч	Предмети	
+flail	flail	FLAILS	бойовий ціп			ціп	Предмети	
+missile_weapon	missile weapon	MISSILE WEAPONS	дистанційна зброя			дистанційна зброя	Предмети	
+hunting_ammo	hunting ammo		мисливські боєприпаси			мисливські боєприпаси	Предмети	
+crystal_ammo	crystal ammo		кристалічні боєприпаси			кристалічні боєприпаси	Предмети	
+sludge_ball	sludge ball	SLUDGE BALLS	куля зі слизу			кулі зі слизу	Предмети	
+mystic_orb	mystic orb	mystical orbs	містична сфера			містична сфера	Предмети	
+morsel	morsel	MORSELS	кусень їжі			шматок їжі	Предмети	
+vial	vial	VIALS	флакон			флакон	Предмети	
+mining_pick	mining pick	MINING PICKS	шахтарське кайло			шахтарське кайло	Предмети	
+gadget	gadget	GADGETS	пристрій			категорія пристроїв	Предмети	
+mail	mail		пошта			поштові записи	Предмети	
+dart	dart	DARTS	метальний дротик			метальний дротик	Предмети	
+plumbata	plumbata		плюмбата			обтяжений метальний дротик	Предмети	
+source_focus	Source Focus	SOURCE FOCI	фокус Джерела			магічні фокуси Джерела	Предмети	
+dark_icon	Dark Icon	DARK ICONS	темна ікона			темні ікони	Предмети	
+musical_instrument	Musical Instrument	MUSICAL INSTRUMENTS	музичний інструмент			музичні інструменти	Предмети	
+arcana	Arcana		таємні знання			розділ магічних знань	Механіки	
+evocation	Evocation		евокація			магічна дисципліна	Механіки	
+contravention	Contravention		контравенція			магічна дисципліна	Механіки	
+kinesis	Kinesis		кінезис			магічна дисципліна	Механіки	
+temulturgy	Temulturgy		темултургія			магічна дисципліна	Механіки	
+divination	Divination	DIVINATIONS	віщування			магічні віщування	Механіки	
+miraculous_feat	Miraculous Feat	MIRACULOUS FEATS	чудесне діяння			чудесні магічні діяння	Механіки	
+meditation	Meditation	MEDITATIONS	медитація			магічні медитації	Механіки	
+sarkomancy	Sarkomancy		Саркомантія			містична дисципліна	Механіки	
+psianimus	Psianimus		Псіанімус			містична дисципліна	Механіки	
+daimonia	Daimonia		Даймонія			містична дисципліна	Механіки	
+impeturia	Impeturia		Імпетурія			містична дисципліна	Механіки	
+the_potato_king	The Potato King		Картопляний король			іменований персонаж	Персонажі	
+mysterious_merchant	Mysterious Merchant		Таємничий торговець			особливий торговець	Персонажі	
+algernon	Algernon		Елджернон			іменований персонаж	Персонажі	
+shelob	Shelob		Шелоб			іменована істота	Персонажі	
+bubbles	Bubbles		Бульбашка			іменована істота	Персонажі	
+thumpus	Thumpus		Тумпус			іменована істота	Персонажі	
+skrabblag	Skrabblag		Скрабблаг			іменована істота	Персонажі	
+xyggi	Xyggi		Ксіґґі			іменована істота	Персонажі	
+gharbad	Gharbad		Ґарбад			іменований персонаж	Персонажі	
+coral_grimes	Coral Grimes		Корал Граймс			іменований персонаж	Персонажі	
+enslaved_ghoul	Enslaved Ghoul	ENSLAVED GHOULS|ENSLAVED	поневолений гуль			поневолений різновид гуля	Істоти	
+bram_kindly	Bram Kindly		Брам Добряк			іменований персонаж	Персонажі	
+artemisia	Artemisia		Артемісія			іменований персонаж	Персонажі	
+baratheon	Baratheon		Баратеон			іменований персонаж	Персонажі	
+lilith	Lilith		Ліліт			іменований персонаж	Персонажі	
+succubus_consort	Succubus Consort	SUCCUBUS CONSORTS	консорт сукуба			різновид демонічної істоти	Істоти	
+deu_de_breau	Deu De'Breau		Деу Де'Бро			іменований персонаж	Персонажі	
+wall_lock	Wall Lock	WALL LOCKS	настінний замок			настінній замок	Механіки	
+murky_water	Murky Water		каламутна вода			каламутна вода	Механіки	
+container	Container	CONTAINERS	контейнер			контейнери для предметів	Механіки	
+breakable_barrier	Breakable Barrier	BREAKABLE BARRIERS	руйнівна перепона			руйнівні перепони	Механіки	
+minehead	Minehead		Вхід до шахт			вхідна зона копалень	Локації	
+lich_s_bastion	Lich's Bastion		Бастіон ліча			Бастіон ліча	Локації	
+the_molten_throne	The Molten Throne		Розплавлений трон			Розплавлений трон	Локації	
+transition_floor	Transition Floor	transition floors	Перехідний поверх			перехідний поверх	Локації	
+citadel_sanctum	Citadel Sanctum		Святилище Цитаделі			Святилище цитаделі	Локації	
+swamps	Swamps		болото			болотний тип підземелля	Механіки	
+arcane_citadel	Arcane Citadel		Магічна цитадель			Таємнича цитадель	Локації	
+daedalus_shrine	Daedalus Shrine		святилище Дедала			святилище Дедала	Предмети	
+obelisk	Obelisk	obelisks	обеліск			обеліск	Предмети	
+summoning_trap	Summoning Trap	summon traps	пастка викликання			пастка викликання	Предмети	
+brimstone_boulder	Brimstone Boulder	brimstone boulders	сірчаний валун			сірчаний валун	Предмети	
+arcane_boulder	Arcane Boulder	Arcane boulders	магічний валун			магічний валун	Предмети	
+ceiling_trap	Ceiling Trap		стельова пастка			стельова пастка	Предмети	
+gnomish_mines	Gnomish Mines		Гномські копальні			Гномські копальні	Локації	
+temple	Temple	Temple's	храм			храм	Локації	
+haunted_castle	Haunted Castle		Замок із привидами			Замок із привидами	Локації	
+mystic_library	Mystic Library		Містична бібліотека			Містична бібліотека	Локації	
+cockatrice_lair	Cockatrice Lair		Лігво кокатриса			Лігво кокатриса	Локації	
+bram_s_castle	Bram's Castle		Замок Брама			Замок Брама	Локації	
+bram	Bram	BRAM'S	Брам			Брам у присвійній формі	Персонажі	
+advantage	Advantage		перевага			ігрова перевага	Механіки	
+alchemist	Alchemist	alchemists	алхімік			алхіміки	Класи	
+primary_ingredient	Primary Ingredient		основний інгредієнт			основний алхімічний інгредієнт	Механіки	
+secondary_ingredient	Secondary Ingredient		додатковий інгредієнт			додатковий алхімічний інгредієнт	Механіки	
+duplication	Duplication	duplicating	дублювання			алхімічне дублювання	Механіки	
+loremaster	Loremaster	loremasters	знавець переказів			знавці навички Lore	Класи	
+obstacle	Obstacle	obstacles	перешкода			перешкода	Механіки	
+blade	Blade	blades	лезо			лезо зброї	Предмети	
+hacking_power	Hacking Power		рубальна сила			рубальна сила сокири	Механіки	
+backstab	Backstab	backstabs|[Backstab]	удар у спину			удар у спину	Механіки	
+strike	Strike	strikes	удар			удар	Механіки	
+assassination	Assassination	assassinate	убивство ударом у спину			убивство ударом у спину	Механіки	
+prey	Prey		здобич			ціль переслідування	Механіки	
+assault	Assault		натиск			безперервний напад	Механіки	
+private_stock	Private Stock	private	прихований асортимент			прихований асортимент крамаря	Механіки	
+en	EN	ENERGY|Energy (EN)	ЕН			скорочення від «енергія»; в оригіналі EN	Механіки	
+st	ST		ПАР			скорочення від «пара автоматона»; в оригіналі ST	Механіки	
+resourcefulness	Resourcefulness		винахідливість			винахідливість персонажа	Механіки	
+skirmishing	Skirmishing		маневрений бій			тактика рухливого бою	Механіки	
+equipment_degradation	Equipment Degradation	equipment breakage	зношення спорядження			погіршення стану спорядження	Механіки	
+magic_item	Magic Item	magic items	магічний предмет			магічний предмет	Предмети	
+pristine	Pristine		бездоганний			бездоганний стан предмета	Механіки	
+condition	Condition		стан			стан предмета	Механіки	
+flanking_damage	Flanking Damage		шкода з флангу			додаткова шкода від атаки з флангу	Механіки	
+flanking	Flanking	flank|Flanks	флангування			атака цілі з флангу	Механіки	
+max_hp	Max HP	maximum HP|[Max HP]	макс. ОЗ			максимальний запас здоров'я	Механіки	
+memorize_spell	Memorize Spell	memorized|memory|memorized spell|memorize|memorize spells	запам'ятати закляття			вивчення закляття напам'ять	Механіки	
+last_hit	Last Hit		добивальний удар			удар, що добиває ворога	Механіки	
+confidence	Confidence	Confident	упевненість			показник упевненості послідовника	Механіки	
+skill_point	Skill Point	skill points	очко навички			очки розвитку навички	Механіки	
+weapon_skill	Weapon Skill		навичка володіння зброєю			навичка володіння зброєю	Механіки	
+max_mp	Max MP	[Max MP]	макс. ОМ			максимальний запас магічних очок	Механіки	
+missile	missile	MISSILES	снаряд			метальні снаряди	Предмети	
+special_ammo	special ammo		особливі боєприпаси			особливі боєприпаси	Предмети	
+vampire_blood_magic	Vampire Blood Magic		вампірська магія крові			расова магія вампірів	Механіки	
+channeled_spell	channeled spell	channeled spells	підтримуване закляття			підтримувані закляття	Механіки	
+automaton_steam	Automaton Steam		пара автоматона			расова система пари автоматонів	Механіки	
+insectoid_energy	Insectoid Energy		енергія інсектоїда			расова система енергії інсектоїдів	Механіки	
+energy_pool	energy pool		запас енергії			запас енергії інсектоїда	Механіки	
+resistance	Resistance	resistances	опір			опір певним впливам	Механіки	
+allegiance	Allegiance	allegiances	приналежність			відносини рас із фракціями	Фракції	
+archer	Archer		лучник			персонаж, що використовує лук	Загальне	
+item_quality	Item Quality		якість предмета			стан якості предмета	Механіки	
+short_bow	short bow		короткий лук			різновид лука	Предмети	
+kiting	Kiting		кайтинг			тактика утримання ворога на відстані	Механіки	
+duration	Duration	Durations	тривалість			тривалість ефекту	Механіки	
+ammunition	ammunition		боєприпаси			боєприпаси для дистанційної зброї	Предмети	
+darkness	Darkness		темрява			темрява, що впливає на прихованість	Механіки	
+bleed	bleed	[Bleed]	кровотеча			ефект кровотечі	Механіки	
+bandolier	bandolier		бандольєра			перев'язь для метальної зброї	Предмети	
+sentry	sentry	sentries	вартовий			механічні вартові	Істоти	
+consumable	consumable	consumables	витратний предмет			витратні предмети	Предмети	
+wanted	Wanted	[Wanted!]	у розшуку			статус розшуку	Механіки	
+hostile	hostile		ворожий			вороже ставлення істот	Механіки	
+mundane	mundane		звичайний			звичайна якість предмета	Механіки	
+spellcaster	spellcaster	spellcasters	заклинач			користувачі заклять	Класи	
+sorcerer	Sorcerer	sorcerer's|sorcerers	чаклун			чаклун, що практикує Sorcery	Класи	
+grimoire	grimoire		гримуар			книга заклять	Предмети	
+thaumaturge	Thaumaturge	thaumaturges	тавматург			користувачі Thaumaturgy	Класи	
+mystic	Mystic	mystics|mystic's	містик			користувачі Mysticism	Класи	
+dominion	dominion		підкорення			магічне підкорення	Механіки	
+off_hand_casting	Off-hand Casting		чаклування з другої руки			чаклування предметом у другій руці	Механіки	
+channeling	channeling		каналювання			підтримування магічного предмета	Механіки	
+buff	buff	buffs	підсилення			позитивні статусні ефекти	Механіки	
+vendor	vendor		продавець			торговець	Персонажі	
+djinni	Djinni		джин			джин	Істоти	
+dragon	Dragon		дракон			дракон	Істоти	
+water_pump	water pump	water pumps	водяна помпа			водяні помпи	Предмети	
+fire_ammo	fire ammo		запалювальні боєприпаси			запалювальні боєприпаси	Предмети	
+silver_ammo	silver ammo		срібні боєприпаси			срібні боєприпаси	Предмети	
+bullet	bullet	bullets	кулька			боєприпаси для рогатки	Предмети	
+sphinx	Sphinx		сфінкс			міфічна істота	Істоти	
+swift_ammo	swift ammo		швидкі боєприпаси			швидкі боєприпаси	Предмети	
+thaumaturgist	thaumaturgist	thaumaturgists	тауматург			практик тауматургії	Загальне	
+caster	caster	caster's	заклинач			той, хто застосовує закляття	Механіки	
+malus	malus		штраф			негативний модифікатор	Механіки	
+gemstone	gemstone	gemstones	коштовний камінь			коштовне каміння	Предмети	
+spearhead	spearhead	spearheads	наконечник списа			наконечники списів	Предмети	
+entangled	Entangled	Entangling	сплутаний			ефект сплутування цілі	Механіки	
+taunt	Taunt		провокація			здатність привертати увагу ворогів	Механіки	
+necromancy	necromancy		некромантія			некромантична магія	Механіки	
+gnome_thief	Gnome Thief		гном-злодій			гном-злодій	Істоти	
+lay_trap	Lay Trap		установити пастку			здатність установлення пастки	Механіки	
+mouthknife	mouthknife	Mouthknives	ротовий ніж			ротові ножі	Предмети	
+grass_sprig	grass sprig	Grass Sprigs	пучок трави			гілочки трави	Предмети	
+animal_hat	animal hat	Animal Hats	капелюх у вигляді тварини			капелюхи у вигляді тварин	Предмети	
+magus_headdress_2	magus headdress	Magus Headdresses	головний убір мага			головні убори мага	Предмети	
+detection	Detection		виявлення			здатність виявлення	Механіки	
+eternal	Eternal	Eternals	Вічний			спільнота Вічних	Фракції	
+mimic_other	Mimic Other		імітувати іншого			здатність імітації іншого	Механіки	
+indominable	Indominable		непоборність			особлива здатність істоти	Механіки	
+self_destruct	Self Destruct		самознищення			самознищення автоматона	Механіки	
+evasion	Evasion	[Evasion]	ухилення			ухилення від атак	Механіки	
+bleeding_attacks	Bleeding Attacks		кровоточиві атаки			атаки, що спричиняють кровотечу	Механіки	
+verona	Verona		Верона			ім'я персонажки	Персонажі	
+aleera	Aleera		Аліра			ім'я персонажки	Персонажі	
+marishka	Marishka		Марішка			ім'я персонажки	Персонажі	
+poisoned_attacks	Poisoned Attacks		отруєні атаки			отруєні атаки	Механіки	
+strafing	Strafing		рух боком			рух боком під час бою	Механіки	
+shield_bash	Shield Bash		удар щитом			удар щитом	Механіки	
+double_strike	Double Strike		подвійний удар			подвійний удар	Механіки	
+bounty_hunter_hat	Bounty Hunter Hat		капелюх мисливця за головами			капелюх мисливця за головами	Предмети	
+fireball_spray	Fireball Spray		залп вогняних куль			залп вогняних куль	Закляття	
+conjure_hellspawn	Conjure Hellspawn		виклик пекельної істоти			виклик пекельної істоти	Закляття	
+hellspawn	Hellspawn		породження пекла			пекельна істота	Істоти	
+conjure_shadows	Conjure Shadows		виклик тіней			виклик тіней	Закляття	
+hail_of_boulders	Hail of Boulders		град валунів			град валунів	Закляття	
+lava_portal	Lava Portal		лавовий портал			лавовий портал	Закляття	
+lightning_volley	Lightning Volley		залп блискавок			залп блискавок	Закляття	
+command_darkness	Command Darkness		керування темрявою			керування темрявою	Закляття	
+call_firestorm	Call Firestorm		виклик вогняної бурі			виклик вогняної бурі	Закляття	
+blood_field	Blood Field		криваве поле			криваве поле	Закляття	
+magic_missile_volley	Magic Missile Volley		залп магічних снарядів			залп магічних снарядів	Закляття	
+command_automata	Command Automata		керування автоматонами			керування автоматонами	Закляття	
+devour_equipment	Devour Equipment		пожерти спорядження			здібність пожирання спорядження	Механіки	
+destroy_obstacle	Destroy Obstacle		зруйнувати перешкоду			здатність руйнувати перешкоди	Механіки	
+jester_hat	Jester Hat		капелюх блазня			капелюх блазня	Предмети	
+cloak_of_magic_reflection	cloak of Magic Reflection	Cloaks of Magic Reflection	плащ відбиття магії			плащі відбиття магії	Предмети	
+cursing_attack	Cursing Attack	Cursing Attacks	атака з прокляттям			атаки, що накладають прокляття	Механіки	
+radiant_form	Radiant Form		сяйна форма			сяйна форма саламандри	Механіки	
+stone_form	Stone Form		кам'яна форма			кам'яна форма саламандри	Механіки	
+silver_weapon	silver weapon	Silver Weapons	срібна зброя			срібна зброя	Предмети	
+fire_spirit	fire spirit	fire spirits	дух вогню			вогняні духи	Істоти	
+fire_dart	Fire Dart		вогняний дротик			закляття вогняного дротика	Закляття	
+cave_in	Cave In		обвал			здатність обвалу печери	Закляття	
+distract	Distract	[Distract]	відволікання			здатність відволікання	Закляття	
+invulnerable	Invulnerable		невразливий			стан невразливості	Механіки	
+wooden	wooden		дерев'яний			Дерев'яний матеріал або рівень якості спорядження.	Механіки	
+waterwalking	Waterwalking	[Waterwalking]	ходіння по воді			Здатність пересуватися по воді.	Механіки	
+lavawalking	Lavawalking		ходіння по лаві			Здатність пересуватися по лаві.	Механіки	
+spray_water	Spray Water		розбризкування води			Здатність розбризкувати воду.	Закляття	
+spray_flames	Spray Flames		розбризкування полум'я			Здатність розбризкувати полум'я.	Закляття	
+spray_tar	Spray Tar		розбризкування смоли			Здатність розбризкувати смолу.	Закляття	
+spray_sludge	Spray Sludge		розбризкування багна			Здатність розбризкувати багно.	Закляття	
+black_iron	black iron	Blackiron	чорне залізо			Матеріал або рівень якості спорядження.	Механіки	
+forest	forest	forests	ліс			Лісовий тип місцевості.	Локації	
+branch_weapon	branch weapon	Branch Weapons	зброя з гілки			Зброя з гілок.	Предмети	
+wood	Wood		деревина			деревина як матеріал перешкоди	Предмети	
+flammable	Flammable	[Flammable]	займистий			вразливість до вогню	Механіки	
+brick	Brick		цегла			цегла як матеріал перешкоди	Предмети	
+cordage	Cordage		мотуззя			волокнистий матеріал перешкоди	Предмети	
+thicket	Thicket		зарості			густі зарості	Механіки	
+force	Force		сила			силовий тип магії	Закляття	
+brimstone	Brimstone		сірка			пекельний мінерал	Предмети	
+summoning	Summoning	summoned	прикликання			прикликання	Механіки	
+minion	Minion	minions	поплічник			прикликані поплічники	Істоти	
+jewelry	jewelry		коштовності			ювелірні вироби	Предмети	
+garbage	garbage		непотріб			непотріб як категорія вмісту	Предмети	
+rift	rift	rifts	розлом			міжвимірні розломи	Механіки	
+dimension	dimension		вимір			інший вимір	Локації	
+combat	combat		бій			бій	Механіки	
+enraged	enraged		розлючений			стан люті після загибелі союзника	Механіки	
+maze	maze		лабіринт			кобольдський лабіринт	Локації	
+puzzle	puzzle	puzzles	головоломка			головоломки лабіринту	Механіки	
+lair	lair		лігво			лігво кокатрисів	Локації	
+enchantment	enchantment	enchantments	зачарування			захисні зачарування	Механіки	
+tunnel	tunnel	tunnels	тунель			тунелі лабіринту	Локації	
+coin	coin	coins	монета			монети	Предмети	
+satiation	Satiation		ситість			показник ситості	Механіки	
+lesser_incubus	Lesser Incubus		нижчий інкуб			слабший різновид інкуба	Раси	
+foocubus	Foocubus	Foocubi	фукуб			узагальнена назва сукуба або інкуба	Раси	
+green_orb	Green Orb		зелена сфера			зелена сфера	Предмети	
+red_orb	Red Orb		червона сфера			червона сфера	Предмети	
+blue_orb	Blue Orb		синя сфера			синя сфера	Предмети	
+ambush	ambush	ambushing|ambushes	засідка			тактика раптового нападу	Механіки	
+geomancer	Geomancer	Geomancers	геомант			маги, що вивчають землю	Загальне	
+adventurer	Adventurer	adventurers	шукач пригод			шукачі пригод у підземеллі	Загальне	
+pylon	pylon	pylons	пілон			магічні пілони-пастки	Предмети	
+location	location		місце			місце у світі гри	Локації	
+durability	durability		міцність			міцність предмета	Механіки	
+spell_memorization	spell memorization		вивчення закляття			вивчення закляття з книги	Механіки	
+baron_herx_s_mercenary_army	Baron Herx's mercenary army		наймане військо барона Геркса			наймане військо Геркса	Фракції	
+hamlet_miner	Hamlet miner	Hamlet miners	шахтар Гамлета			шахтарі Гамлета	Фракції	
+recruit	recruit	Recruits|Recruited|recruitable	найм			найм союзника	Механіки	
+lake	lake		озеро			озеро	Локації	
+gatehouse_lever	gatehouse lever	gatehouse levers	важіль надбрамної споруди			важелі надбрамної споруди	Предмети	
+amulet_of_olympic_swimming	amulet of olympic swimming		амулет олімпійського плавання			амулет олімпійського плавання	Предмети	
+magic_user	magic-user	magic-users	користувач магії			користувачі магії	Загальне	
+non_magic_user	non-magic user	Non-magic users	персонаж без магії			персонажі, що не користуються магією	Загальне	
+gravity	gravity		сила тяжіння			дія сили тяжіння	Механіки	
+death	death	Deaths	смерть			смерть персонажа	Механіки	
+plant	plant	plants	рослина			рослини як елемент оточення	Загальне	
+hydrophilic_flora	hydrophilic flora		водолюбна флора			водолюбна флора боліт	Загальне	
+vegetation	vegetation		рослинність			рослинність боліт	Загальне	
+psychosis	psychosis		психоз			негативний стан від споживання рослин	Механіки	
+threat	threat	threats	загроза			небезпеки рівня	Механіки	
+evil_god	evil god		злий бог			божество, якому поклоняються гобліни	Персонажі	
+worship	worship		поклоніння			поклоніння божеству	Механіки	
+secret_area	secret area	secret areas	таємна ділянка			приховані ділянки рівня	Локації	
+organization	organization		організація			організоване об'єднання	Фракції	
+miner	miner	miners	шахтар			шахтарі	Загальне	
+bridge	bridge		міст			міст між шарами	Локації	
+week	week	weeks	тиждень			одиниця часу	Механіки	
+catacombs	catacombs		катакомби			катакомби Підземного світу	Локації	
+reward	reward	rewards	нагорода			нагорода	Механіки	
+fixture	fixture		обладнання			стаціонарний об'єкт приміщення	Предмети	
+decanting	decanting		зливання			об'єднання зіль у казані	Механіки	
+indigestion	indigestion	[Indigestion]	нетравлення			негативний ефект від їжі	Механіки	
+mechanism	mechanism	mechanisms	механізм			механізми підземелля	Механіки	
+access	access		доступ			доступ до ділянки	Механіки	
+penalty	penalty		штраф			штраф до навички	Механіки	
+base_ingredient	Base Ingredient		основний інгредієнт			основний алхімічний інгредієнт	Механіки	
+main_hand	main-hand		основна рука			основна рука	Механіки	
+area	Area	[Area]|areas	область			область дії закляття	Механіки	
+self_effect	Self-effect		ефект на себе			ефект на заклинача	Механіки	
+sustained	Sustained	[Sustained]	підтримуваний			підтримуване закляття	Механіки	
+ground_target	Ground Target	[Ground Target]	ціль на землі			тип цілі закляття	Механіки	
+wall_target	Wall Target	[Wall Target]	ціль на стіні			тип цілі закляття	Механіки	
+touch_target	Touch Target	[Touch Target]	контактна ціль			тип цілі закляття	Механіки	
+object_target	Object Target		ціль-об'єкт			тип цілі закляття	Механіки	
+divine_target	Divine Target		божественна ціль			тип цілі закляття	Механіки	
+lightweight	Lightweight	[Lightweight]	легкий			ефект малої ваги	Механіки	
+waterbreathing	Waterbreathing	[Waterbreathing]	підводне дихання			дихання під водою	Механіки	
+hunting	Hunting	[Hunting]	мисливський			мисливський модифікатор	Механіки	
+armor_pierce	Armor Pierce	[Armor Pierce]	пробиття броні			пробиття броні	Механіки	
+swift_reload	Swift Reload	[Swift Reload]	Швидке перезаряджання			прискорене перезаряджання	Механіки	
+lesser_warning	Lesser Warning	[Lesser Warning]	Слабке попередження			слабше попередження про небезпеку	Механіки	
+conflict	Conflict	[Conflict]	Ворожнеча			ефект ворожнечі	Механіки	
+unbreakable	Unbreakable	[Unbreakable]	Незламність			незламність предмета	Механіки	
+burning_resistance	Burning Resistance	[Burning Resistance]	Опір горінню			опір горінню	Механіки	
+cold_resistance	Cold Resistance	[Cold Resistance]	Опір холоду			опір холоду	Механіки	
+noodles	Noodles		Локшинка			ім’я качки	Персонажі	
+quackers	Quackers		Крякер			ім’я качки	Персонажі	
+billy	Billy		Біллі			ім’я качки	Персонажі	
+verdana	Verdana		Вердана			ім’я качки	Персонажі	
+quillard	Quillard		Квіллард			ім’я качки	Персонажі	
+wingnut	Wingnut		Крилько			ім’я качки	Персонажі	
+charlotte	Charlotte		Шарлотта			ім’я качки	Персонажі	
+flip	Flip		Фліп			ім’я качки	Персонажі	
+ducklas	Ducklas		Кряклас			ім’я качки	Персонажі	
+quackson	Quackson		Кряксон			ім’я качки	Персонажі	
+buzz	Buzz		Базз			ім’я качки	Персонажі	
+plops	Plops		Плюх			ім’я качки	Персонажі	
+llardo	Llardo		Салько			ім’я качки	Персонажі	
+mal	Mal		Мал			ім’я качки	Персонажі	
+bobby	Bobby		Боббі			ім’я качки	Персонажі	
+guin	Guin		Гвін			ім’я качки	Персонажі	
+byrd	Byrd		Берд			ім’я качки	Персонажі	
+al	Al		Ел			ім’я качки	Персонажі	
+echolas	Echolas		Еколас			ім’я качки	Персонажі	
+peking	Peking		Пекін			ім’я качки	Персонажі	
+swimbledon	Swimbledon		Свімблдон			ім’я качки	Персонажі	
+moby	Moby		Мобі			ім’я качки	Персонажі	
+rolly	Rolly		Роллі			ім’я качки	Персонажі	
+drake	Drake		Дрейк			ім’я качки	Персонажі	
+grapes	Grapes		Виноградинка			ім’я качки	Персонажі	
+gordon	Gordon		Гордон			ім’я качки	Персонажі	
+pato	Pato		Пато			ім’я качки	Персонажі	
+canardo	Canardo		Канардо			ім’я качки	Персонажі	
+anatra	Anatra		Анатра			ім’я качки	Персонажі	
+anka	Anka		Анка			ім’я качки	Персонажі	
+waddles	Waddles		Чалапко			ім’я качки	Персонажі	
+wade	Wade		Вейд			ім’я качки	Персонажі	
+hennifer	Hennifer		Генніфер			ім’я качки	Персонажі	
+norris	Norris		Норріс			ім’я качки	Персонажі	
+chan	Chan		Чан			ім’я качки	Персонажі	
+paddy	Paddy		Педді			ім’я качки	Персонажі	
+daphne	Daphne		Дафна			ім’я качки	Персонажі	
+croucho	Croucho		Краучо			ім’я качки	Персонажі	
+doodle	Doodle		Каракуля			ім’я качки	Персонажі	
+tape	Tape		Скотч			ім’я качки	Персонажі	
+muri	Muri		Мурі			ім’я качки	Персонажі	
+activation	activation		активація			активація предмета	Механіки	
+rate_of_fire	rate of fire		швидкострільність			швидкострільність	Механіки	
+turn_rate	turn rate		швидкість повороту			швидкість повороту	Механіки	
+target_acquisition	target acquisition		захоплення цілі			захоплення цілі	Механіки	
+tile	tile		клітинка			одиниця відстані рівня	Механіки	
+radius	radius		радіус			радіус дії	Механіки	
+cooldown	cooldown		час відновлення			час відновлення	Механіки	
+lure	lure	lures|[Lures]	приманювання			приманювання цілі	Механіки	
+target	target	targets|target's	ціль			ціль	Механіки	
+fragile	Fragile	[Fragile]	Крихкість			властивість крихкого спорядження	Механіки	
+reload_time	reload time		час перезаряджання			час перезаряджання	Механіки	
+life_saving	Life Saving		Порятунок життя			тег рятування життя	Механіки	
+silver_quiver	silver quiver		срібний сагайдак			тег срібного сагайдака	Предмети	
+piercing_quiver	piercing quiver		пробивний сагайдак			тег пробивного сагайдака	Предмети	
+swift_quiver	swift quiver		швидкий сагайдак			тег швидкого сагайдака	Предмети	
+brittle_shield	brittle shield		крихкий щит			тег крихкого щита	Предмети	
+fire_quiver	fire quiver		вогняний сагайдак			тег вогняного сагайдака	Предмети	
+knockback_quiver	knockback quiver		сагайдак відкидання			тег сагайдака відкидання	Предмети	
+hunting_quiver	hunting quiver		мисливський сагайдак			тег мисливського сагайдака	Предмети	
+crystal_quiver	crystal quiver		кришталевий сагайдак			тег кришталевого сагайдака	Предмети	
+bleed_energize	Bleed Energize		Енергія від кровотечі			тег отримання енергії від кровотечі	Механіки	
+chef	Chef		кухар			тег ефекту кухаря	Класи	
+inspiration	Inspiration	[Inspiration]	Натхнення			тег натхнення	Механіки	
+celebration	Celebration	[Celebration]	Святкування			тег святкування	Механіки	
+follower_damage_resistance	Follower Damage Resistance		Опір шкоді послідовників			тег опору шкоді для послідовників	Механіки	
+guardian_cloak	guardian cloak		плащ охоронця			тег плаща-охоронця	Предмети	
+rooted	Rooted	[Rooted]	Укорінення			тег укорінення	Механіки	
+tile_radius	tile radius		радіус у клітинках			радіус дії у клітинках	Механіки	
+mana_efficiency	mana efficiency		ефективність мани			ефективність витрати мани	Механіки	
+static	Static	[Static]	Статичний заряд			заряд статичної електрики	Механіки	
+lifesteal	Lifesteal	[Lifesteal]	Викрадення здоров'я			викрадення здоров'я	Механіки	
+webbed	Webbed	[Webbed]	Обплутання павутиною			стан обплутування павутиною	Механіки	
+nullify	Nullify	[Nullify]	Нейтралізація			пригнічення магічних ефектів	Механіки	
+provoke	Provoke	[Provoke]	Провокація			ефект провокації	Механіки	
+disoriented	Disoriented	[Disoriented]	Дезорієнтація			стан дезорієнтації	Механіки	
+ground	Ground		земля			поверхня, на якій лежать предмети	Механіки	
+flight	Flight		Політ			механіка польоту	Механіки	
+racial_traits	racial traits		расові особливості			расові особливості	Раси	
+phases	Phases	[Phases]	Фазування			проходження крізь перешкоди	Механіки	
+ice_spine	Ice Spine	[Ice Spines]	крижаний шип			крижані шипи, створені закляттям	Предмети	
+hazard	hazard		небезпека			небезпечна перешкода	Механіки	
+ac_res	AC / RES	[AC / RES]	КЗ / ОПР			показники броні та магічного опору	Механіки	
+tiered_effect	Tiered Effect		Рівневий ефект			ефект із рівнями сили	Механіки	
+wrath	Wrath	[Wrath]	Гнів			ефект божественного гніву	Механіки	
+breakable	breakable		руйнований			руйнівний об'єкт	Механіки	
+vision	vision	visions	видіння			магічне виявлення	Механіки	
+treasure_sight	Treasure Sight	[Treasure Sight]	бачення скарбів			ефект виявлення скарбів	Механіки	
+turning	Turning	[Turning]	вигнання			ефект вигнання нежиті	Механіки	
+unholy	Unholy		нечестивий			нечестивий тип істоти	Механіки	
+hp_restore	HP Restore	[HP Restore]	відновлення ОЗ			відновлення здоров’я з часом	Механіки	
+immunity	Immunity	[Immunity]	імунітет			несприйнятливість до ефектів	Механіки	
+enhance	Enhance	[Enhance]	посилення			ефект посилення характеристик	Механіки	
+torment	Torment	[Torment]	мука			негативний статусний ефект	Механіки	
+void_storage	Void Storage	[Void Storage]	сховище Порожнечі			позапросторове сховище	Механіки	
+undying	Undying	[Undying]	невмирущість			ефект тимчасового безсмертя	Механіки	
+lesser_haunting	Lesser Haunting	[Lesser Haunting]	слабке переслідування			ефект слабшого переслідування	Механіки	
+greater_haunting	Greater Haunting	[Greater Haunting]	посилене переслідування			посилений ефект переслідування	Закляття	
+retreat	Retreat	[Retreat]	відступ			примусовий відступ	Механіки	
+wgt_reduction	WGT Reduction	[WGT Reduction]	зниження ваги			зменшення ваги	Механіки	
+attract	Attract	[Attracts]	притягання			притягування предметів	Механіки	
+destroy	Destroy	[Destroy]|Destroys	знищення			знищення об'єкта	Механіки	
+enchant	Enchant	[Enchants]	зачарування			накладання чарів	Механіки	
+null_magic	Null Magic	[Null Magic]	нейтралізація магії			поле придушення магії	Закляття	
+advancement	advancement		розвиток			прогрес розвитку навички	Механіки	
+nullified	Nullified		нейтралізований			стан нейтралізованої цілі	Механіки	
+drunk	Drunk	[Drunk]|Drunks|drunkenness	сп'яніння			стан сп'яніння	Механіки	
+key_item	Key Item		ключовий предмет			ключовий сюжетний предмет	Предмети	
+dusted	Dusted		запилення			стан покриття спорами	Механіки	
+visibility	visibility		видимість			видимість істоти	Механіки	
+letter	letter		лист			лист як предмет	Предмети	
+disorient	Disorient	[Disorient]	дезорієнтація			ефект дезорієнтації	Механіки	
+retaliation	Retaliation	[Retaliation]	удар у відповідь			ефект удару у відповідь	Механіки	
+invulnerability	Invulnerability	[Invulnerability]	невразливість			ефект невразливості	Механіки	
+fowl_spirit	Fowl Spirit	[Fowl Spirit]	пташиний дух			форма духа-птаха	Істоти	
+damage_resistance	Damage Resistance	[Damage Resistance]|damage resistances	опір пошкодженням			опір пошкодженню	Механіки	
+pacify	Pacify	[Pacify]	умиротворення			ефект умиротворення	Механіки	
+returned	Returned	[Returned]	відбиття			ефект повернення шкоди	Механіки	
+nourished	Nourished	[Nourished]	ситість			стан ситості	Механіки	
+break	Break	[Breaks]	ламання			ламання обладунку	Механіки	
+not_yet_learnable	Not Yet Learnable	[Not yet learnable]	ще не можна вивчити			стан недоступності для вивчення	Механіки	
+learnable	Learnable	[Learnable]	можна вивчити			стан доступності для вивчення	Механіки	
+unlearnable	Unlearnable	[Unlearnable]	неможливо вивчити			стан неможливості вивчення	Механіки	
+spell_already_known	Spell Already Known	[Spell already known]	закляття вже відоме			стан уже вивченого закляття	Механіки	
+messy	Messy	[Messy]	забруднення			стан забруднення	Механіки	
+upgradeable	Upgradeable	[Upgradeable]	можна поліпшити			стан можливості поліпшення	Механіки	
+irrepairable	Irrepairable	[Irrepairable]	не підлягає ремонту			стан неможливості ремонту	Механіки	
+digging	Digging	[Digging]	копання			копання	Механіки	
+push	Push	[Push]	відштовхування			ефект відштовхування	Механіки	
+revival	Revival	[Revival]	відродження			ефект відродження	Механіки	
+snow	Snow	[Snow]	сніг			закляття снігу	Закляття	
+sandblast	Sandblast	[Sandblast]	піщаний удар			закляття піщаного удару	Закляття	
+arcs	Arcs	[Arcs]	електричні дуги			закляття електричних дуг	Закляття	
+needles	Needles	[Needles]	голки			закляття голок	Закляття	
+critical_speed	Critical Speed		критична швидкість			швидкість критичної дії	Механіки	
+trap_resistance	Trap Resistance	[Trap Resistance]	опір пасткам			опір пасткам	Механіки	
+mp_regen	MP Regen	[MP Regen]	відновлення ОМ			відновлення мани	Механіки	
+shapeshifted	Shapeshifted	[Shapeshifted]	змінена форма			стан зміненої форми	Механіки	
+stability	Stability	[Stability]	стійкість			ефект стійкості	Механіки	
+touch_distance_cast_speed	Touch Distance/Cast Speed	[Touch Distance/Cast Speed]	дальність дотику/швидкість чаклування			дальність дотику та швидкість чаклування	Механіки	
+touch_distance	Touch Distance	[Touch Distance]	дальність дотику			дальність контактних заклять	Механіки	
+touch_spell	Touch Spell	Touch spells	контактне закляття			категорія контактних заклять	Закляття	
+debuff	Debuff	debuffs	негативний ефект			негативний ефект	Механіки	
+deploy_speed	Deploy Speed	[Deploy Speed]	швидкість установлення			швидкість установлення пристроїв	Механіки	
+neutrality	Neutrality	[Neutrality]	нейтральність			ефект нейтральності істот	Механіки	
+sneak_vision	Sneak Vision	[Sneak Vision]	огляд крадькома			огляд під час прихованого пересування	Механіки	
+disguise	Disguise	[Disguise]	маскування			ефект маскування	Механіки	
+boulder_resistance	Boulder Resistance	[Boulder Resistance]	опір валунам			опір шкоді від валунів	Механіки	
+backstep	Backstep		відступ			рух назад	Механіки	
+gold_weight_reduction	Gold Weight Reduction	[Gold Weight Reduction]	зменшення ваги золота			зменшення ваги золота	Механіки	
+splash_immunity	Splash Immunity	[Splash Immunity]	імунітет до бризок			імунітет до бризок і вибухів	Механіки	
+distance	Distance	[Distance]	дальність			дальність атаки	Механіки	
+draw_speed	Draw Speed	[Draw Speed]	швидкість натягування			швидкість натягування лука	Механіки	
+melee_weapon	Melee Weapon	[Melee Weapon]	зброя ближнього бою			навичка зброї ближнього бою	Механіки	
+hunger_speed	Hunger Speed	[Hunger Speed]	швидкість голодування			швидкість зростання голоду	Механіки	
+food_satiation	Food Satiation	[Food Satiation]	ситність їжі			насичення від їжі	Механіки	
+regenerating	Regenerating	[Regenerating]	регенерація			стан регенерації	Механіки	
+hp_restoration	HP Restoration	[HP Restoration]	відновлення ОЗ			відновлення очок здоров'я	Механіки	
+nausea_resistance	Nausea Resistance	[Nausea Resistance]	опір нудоті			опір нудоті	Механіки	
+interacting	Interacting	[Interacting]	взаємодія			взаємодія з ігровим об'єктом	Механіки	
+riposte	Riposte	[Riposte]|Ripostes	рипост			контратака після захисту	Механіки	
+disarming_strike	Disarming Strike		обеззброювальний удар			удар, що обеззброює	Механіки	
+disarm	Disarm		обеззброєння			механіка обеззброєння	Механіки	
+immobile	Immobile	[Immobile]	нерухомість			стан нерухомості	Механіки	
+throwable	Throwable	[Throwable]	метальний			властивість предмета, який можна кинути	Механіки	
+dracula	Dracula		Дракула			ім'я персонажа	Персонажі	
+mp_restore	MP Restore	[MP Restore]|MP Restoration	відновлення ОМ			відновлення магії	Механіки	
+heavy	Heavy	[Heavy]	важкий			властивість важкого предмета	Механіки	
+identity	Identity	[Identity]	особа			ідентичність персонажа	Механіки	
+sleep_bomb	sleep bomb		бомба сну			бомба сну	Предмети	
+artifact_armor	Artifact Armor		артефактні обладунки			комплект артефактної броні	Предмети	
+executioner_s_hood	Executioner's Hood		каптур ката			назва головного убору	Предмети	
+crossbow_sentry	crossbow sentry		арбалетна турель			арбалетна механічна турель	Істоти	
+magic_sentry	magic sentry		магічна турель			магічна механічна турель	Істоти	
+gyrocopter	gyrocopter		гірокоптер			механічний літальний помічник	Істоти	
+master_s_wing	Master's Wing		Крило майстра			крило Зали випробувань	Локації	
+superheated	superheated		перегрітий			стан перегріву	Механіки	
+worthless_glass	Worthless Glass		безвартісне скло			коштовний камінь-підробка	Предмети	
+magic_quill	Magic Quill		магічне перо			магічне перо	Предмети	
+skeleton_familiar	Skeleton Familiar	Skeleton Familiars	скелет-фамільяр			викликаний скелет-фамільяр	Істоти	
+odin	Odin	Odin's	Одін			власник легендарного списа	Персонажі	
+swift_ammunition	swift ammunition		швидкі боєприпаси			швидкі боєприпаси	Предмети	
+scrap	Scrap		брухт			ресурс майстрування	Предмети	
+essence	Essence		есенція			ресурс майстрування	Предмети	
+tinkering_toolkit	Tinkering Toolkit	Tinkering Toolkits	набір інструментів майстра			набір інструментів майстра	Предмети	
+young_vampire	Young Vampire		молодий вампір			молодий вампір	Істоти	
+deceased	Deceased		загиблий			стан загиблого гравця	Механіки	
+teleporter	teleporter		телепорт			пристрій телепортації	Предмети	
+compendium	Compendium		Довідник			внутрішньоігровий довідник	Механіки	
+compendium_entry	Compendium Entry		запис довідника			запис ігрового довідника	Механіки	
+bardic_song	Bardic Song		бардова пісня			пісня барда	Механіки	
+holy_symbol	Holy Symbol		священний символ			священний символ	Предмети	
+bard_song	Bard Song		пісня барда			пісня барда	Механіки	
+fire_creature	fire creature		вогняна істота			вогняна істота	Істоти	
+seasoned_ration	seasoned ration		приправлений пайок			приправлений харчовий пайок	Предмети	
+myconid_mushroom	Myconid Mushroom	Myconid Mushrooms	гриб міконоїда			урожай міконоїда	Предмети	
+dryad_nut	Dryad Nut	Dryad Nuts	горіх дріади			урожай дріади	Предмети	
+radiant	Radiant		сяйний			стан саламандри	Механіки	
+stony	Stony		кам'яний			стан саламандри	Механіки	
+null	Null	Null spells	нейтралізація			закляття нейтралізації магії	Закляття	
+sorcery_focus	Sorcery Focus	Sorcery Foci	чаклунський фокус			магічні фокуси чаклунства	Предмети	
+hp_regen	HP Regen		відновлення ОЗ			модифікатор відновлення здоров’я	Механіки	
+baphomet_s_domain	Baphomet's Domain		Володіння Бафомета			володіння Бафомета	Локації	
+sanctum	Sanctum		Святилище			Святилище	Локації	
+alcoholism	Alcoholism		алкоголізм			расовий стан алкогольної залежності	Механіки	
+salvage	Salvage	[Salvage]|salvaged|salvaging	утилізація			назва вродженого закляття	Закляття	
+growth	Growth		зростання			показник зростання	Механіки	
+dmg	DMG		ШКД			скорочення від «шкода»; в оригіналі DMG	Механіки	
+clown	Clown	Clowns	клоун			клоуни як цілі кремових пирогів	Істоти	
+barrier	barrier	Barriers	перепона			руйнівні перепони	Предмети	
+spell_trap	spell trap	Spell Traps	пастка заклять			пастки, що застосовують закляття	Предмети	
+proficiency_roll	Proficiency Roll	Proficiency Rolls	перевірка вправності			перевірки підвищення характеристики	Механіки	
+lvl	LVL	LVLs	РІВ			скорочення від «рівень»; в оригіналі LVL	Механіки	
+fizzle	Fizzle	Fizzles	зрив			невдале спрацьовування закляття	Механіки	
+hexed	hexed		зурочений			стан дії прокляття	Механіки	
+ritual	Ritual	Rituals	ритуал			ігрові ритуали	Механіки	
+restoration	Restoration		відновлення			відновлювальний позитивний ефект	Механіки	
+red_riding_hood	Red Riding Hood		Червона Шапочка			іменована NPC	Персонажі	
+robin_hood	Robin Hood		Робін Гуд			іменований NPC	Персонажі	
+conan_the_barbarian	Conan the Barbarian		Конан-варвар			іменований NPC	Персонажі	
+othello	Othello		Отелло			іменований NPC	Персонажі	
+anansi	Anansi		Анансі			іменований NPC	Персонажі	
+oya	Oya		Оя			іменована NPC	Персонажі	
+vishpala	Vishpala		Вішпала			іменована NPC	Персонажі	
+kali	Kali		Калі			іменована NPC	Персонажі	
+zap_brigadier	ZAP Brigadier		Бригадир ZAP			іменований NPC	Персонажі	
+skeleton_knight	Skeleton Knight		лицар-скелет			різновид скелета	Істоти	
+skeleton_sentinel	Skeleton Sentinel		скелетний вартовий			різновид скелета	Істоти	
+golem	Golem		голем			коротка назва кристального голема	Істоти	
+johann	Johann		Йоганн			іменований монстр	Персонажі	
+gyro	Gyro		Джайро			коротка назва гіроробота	Істоти	
+dummy	Dummy		манекен			коротка назва тренувального робота	Істоти	
+sherman	Sherman		Шерман			ім'я персонажа	Персонажі	
+phrenes	Phrenes		Френес			частина назви братства	Фракції	
+zymon	Zymon		Зімон			частина назви братства	Фракції	
+rheontes	Rheontes		Реонтес			частина назви братства	Фракції	
+balrog	Balrog	Balrog's	балрог			балрог	Істоти	
+balrog_s_grog_storage	Balrog's Grog Storage		Сховище грогу Балрога			іменоване сховище грогу	Локації	
+basileus_brew	Basileus Brew		вариво Басілея			іменований напій	Предмети	
+sthenos	Sthenos		Стенос			частина назви братства	Фракції	
+kratesis	Kratesis		Кратесіс			частина назви братства	Фракції	
+ypistos	Ypistos		Іпістос			частина назви братства	Фракції	
+trophy_viewing_room	Trophy Viewing Room		Зала огляду трофеїв			кімната огляду трофеїв	Локації	
+thorubos	Thorubos		Торубос			частина назви братства	Фракції	
+xenos	Xenos		Ксенос			частина назви братства	Фракції	
+omilos	Omilos		Омілос			частина назви братства	Фракції	
+damien_the_mascot_s_room	Damien the Mascot's Room		Кімната маскота Демієна			іменована кімната Демієна	Локації	
+latin_quarter	Latin Quarter		Латинський квартал			Латинський квартал	Локації	
+trial_hub	Trial Hub		Центр випробувань			центр вибору навчальних випробувань	Локації	
+inventory	inventory		інвентар			інвентар персонажа	Механіки	
+hotbar	hotbar		панель швидкого доступу			панель швидкого доступу	Механіки	
+character_sheet	Character Sheet		характеристики персонажа			екран характеристик персонажа	Механіки	
+introductory_trial	Introductory Trial		Вступне випробування			вступне навчальне випробування	Локації	
+jeweler	Jeweler	Jewelers	ювелір			крамарі коштовностей	Класи	
+general_store	General Store		Універсальна крамниця			універсальна крамниця	Локації	
+skeletal_guardian	skeletal guardian	skeletal guardians	скелетний охоронець			Скелетні вартові	Істоти	
+kelly	Kelly		Келлі			Ім’я персонажа	Персонажі	
+auto_scrap	auto-scrap		авторозбирання			режим автоматичного розбирання	Механіки	
+west_hall	West Hall		Західна зала			західна зала	Локації	
+courtyard	Courtyard		Внутрішній двір			внутрішній двір	Локації	
+east_hall	East Hall		Східна зала			східна зала	Локації	
+adventurers_garden	Adventurers' Garden		Сад шукачів пригод			сад шукачів пригод	Локації	
+class_courtyard	Class Courtyard		Двір класів			двір класів	Локації	
+adventure_archives	Adventure Archives		Архів пригод			архів пригод	Локації	
+bishop	Bishop		єпископ			клас персонажа	Класи	
+oversatiated	Oversatiated		пересичення			стан надмірної ситості	Механіки	
+nominal	Nominal		норма			нормальний стан котла	Механіки	
+critically_low	Critically Low		критично низький			критично низький рівень котла	Механіки	
+degeneration	Degeneration		дегенерація			стан припинення природного відновлення	Механіки	
+strangled	Strangled		задушення			стан задушення	Механіки	
+lifesaving	Lifesaving		порятунок життя			ефект порятунку від смерті	Механіки	
+vandal	Vandal		вандал			накопичуваний ефект руйнування	Механіки	
+cast_speed	Cast Speed		швидкість застосування			швидкість застосування заклять	Механіки	
+cast	Cast	casts	застосування			застосування закляття	Механіки	
+wealth	Wealth		багатство			накопичуваний ефект багатства	Механіки	
+vomiting	Vomiting		блювання			стан блювання	Механіки	
+vampiric_curse	Vampiric Curse		вампірське прокляття			вампірське прокляття	Закляття	
+red_shrine_buff	Red Shrine Buff		благословення червоного святилища			назва ефекту червоного святилища	Механіки	
+green_shrine_buff	Green Shrine Buff		благословення зеленого святилища			назва ефекту зеленого святилища	Механіки	
+blue_shrine_buff	Blue Shrine Buff		благословення синього святилища			назва ефекту синього святилища	Механіки	
+pacified	Pacified		умиротворення			стан умиротворення	Механіки	
+hungover	Hungover		похмілля			стан похмілля	Механіки	
+arcane_marked	Arcane Marked		магічна мітка			стан магічної мітки	Механіки	
+rally	Rally	Rallied	згуртування			ефект згуртування	Механіки	
+marigold_healing	Marigold Healing		лікування чорнобривцем			лікувальний ефект чорнобривця	Механіки	
+critical_charge_speed	Critical Charge Speed		швидкість заряджання критичного удару			швидкість заряджання критичного удару	Механіки	
+lifted	Lifted		знятий			стан підняття	Механіки	
+trap_guard	Trap Guard		захист від пасток			захист від пасток	Механіки	
+cursed_flesh	Cursed Flesh		проклята плоть			ефект проклятої плоті	Механіки	
+seek_other	Seek Other		пошук іншого			ефект пошуку іншої істоти	Механіки	
+kinetic_shield	Kinetic Shield		кінетичний щит			назва ефекту кінетичного щита	Механіки	
+return	Return		повернення			назва ефекту повернення предмета	Механіки	
+physical_resistance	Physical Resistance		опір фізичній шкоді			опір фізичній шкоді	Механіки	
+disrupted	Disrupted		Порушення			назва негативного стану	Механіки	
+frostbitten	Frostbitten		Обмороження			назва стану обмороження	Механіки	
+radiant_heart	Radiant Heart		сяйливе серце			назва форми серця	Механіки	
+stone_heart	Stone Heart		кам'яне серце			назва форми серця	Механіки	
+fr	FR		ЗАП			скорочення від «запал саламандри»; в оригіналі FR	Механіки	
+healing_word	Healing Word		цілюще слово			назва закляття	Закляття	
+sigil	Sigil		печатка			назва магічного ефекту	Закляття	

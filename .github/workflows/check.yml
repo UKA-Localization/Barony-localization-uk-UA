@@ -1,0 +1,35 @@
+name: check
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Глосарій — формат і дублікати
+        run: python tools/glossary.py --check
+
+      - name: Плейсхолдери в перекладах
+        run: python tools/validate.py
+
+      - name: translation/ відповідає source/ і glossary.tsv
+        run: |
+          python tools/glossary.py
+          python tools/extract.py
+          git diff --exit-code -- translation \
+            || { echo "::error::translation/ не відповідає source/ або glossary.tsv — запусти tools/extract.py і tools/glossary.py та закоміть результат"; exit 1; }
+
+      - name: Збірка мода і PO для Weblate
+        run: |
+          python tools/build.py
+          python tools/weblate.py export "$RUNNER_TEMP/po"

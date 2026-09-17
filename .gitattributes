@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.py text eol=lf
+*.tsv text eol=lf
+*.ttf binary
+# файли гри зберігаємо побайтово
+*.txt -text
+*.json -text

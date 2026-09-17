@@ -1,0 +1,27 @@
+# Збірки та тимчасові файли
+build/
+dist/
+*.zip
+*.7z
+*.rar
+
+# Ігрові бінарники / ресурси — не комітимо
+*.assets
+*.bundle
+*.resS
+*.dll
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Редактори / ОС
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini

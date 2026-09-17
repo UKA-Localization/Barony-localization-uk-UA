@@ -1,0 +1,113 @@
+# Технічний опис файлів проєкту: формати таблиць, плейсхолдери, групування рядків.
+# Шляхи — відносно кореня репозиторію.
+
+[project]
+name = "Barony"
+source_language = "en"
+target_language = "uk-UA"
+
+# --- Таблиця рядків -----------------------------------------------------------
+
+[strings]
+path = "translation/strings.tsv"
+format = "tsv"                       # табуляція, без лапок; у полях \n \t \\ екрановані
+columns = { file = "file", key = "key", source = "original", target = "translation", status = "status", context = "context", entities = "entities", tone = "tone" }
+draft_status = "fuzzy"               # status чернетки; порожній status = готовий переклад
+unresolved_status = "unresolved"     # чернетка, у якій є терміни без затвердженого перекладу в глосарії
+# context  — опис рядка (розділ файлу гри, хто говорить, де показується)
+# entities — id термінів глосарію, що є в рядку, через «|» («-» — нема)
+# tone     — характер рядка, теги з [analysis].tones через «|» («-» — нейтрально)
+
+# --- Стиль і глосарій ------------------------------------------------------------
+
+[style]
+path = "translation/STYLE.md"        # правопис, тон, звертання
+
+[glossary]
+path = "translation/glossary.tsv"
+columns = { id = "id", term = "term", variants = "variants", target = "translation", note = "note", forms = "forms", category = "category", status = "status" }
+list_separator = "|"                 # у variants і forms
+# status: порожньо — затверджено; fuzzy — переклад не вичитано; new — перекладу ще нема.
+
+# --- Категорії термінів і характер рядків -----------------------------------------
+
+[analysis]
+# Термін — усе, що має перекладатися однаково в усій грі: імена, назви предметів/монстрів/локацій/заклять/фракцій,
+# абревіатури.
+entity_categories = ["Персонажі", "Класи", "Раси", "Істоти", "Предмети", "Закляття", "Локації", "Механіки", "Фракції", "Загальне"]
+
+# Теги характеру рядка: id = пояснення
+[analysis.tones]
+neutral = "нейтральний інформаційний тон"
+joke = "жарт, гумор, каламбур — зберегти або компенсувати"
+sarcasm = "сарказм, іронія, глузування"
+threat = "погроза, зловісність"
+sad = "сум, жаль, скорбота"
+solemn = "урочисто, піднесено (оповідь, сюжет)"
+archaic = "старосвітська, архаїчна мова (thou, hast)"
+rude = "грубо, образливо, але без нецензурного"
+command = "наказ, інструкція, підказка — наказовий спосіб"
+technical = "технічний/системний текст, повідомлення програми"
+excited = "радість, захват, вигук"
+fear = "страх, паніка"
+
+# --- Логічні блоки (що перекладається разом) ----------------------------------
+
+[batching]
+max_source_chars = 3000              # ліміт оригіналу на один виклик; більший блок ділиться, менші сусідні склеюються
+max_rows = 60
+skip = ["DEPRECATED", "DEPRECATED_ITEM_NAME", "DEPRECATED_SPELL_NAME", "null"]  # службові заглушки гри — не перекладаються
+
+# Правила групування рядків у блоки: перше, що збіглося за files, і застосовується.
+[[batching.groups]]
+files = ["lang/en.txt", "themes/*/lang/en.txt"]
+mode = "context"                     # сусідні рядки з однаковим context (= розділ файлу гри)
+
+[[batching.groups]]
+files = ["data/story/*.json"]
+mode = "file"                        # сцена — один блок
+
+[[batching.groups]]
+files = ["data/scripts/*/script.json"]
+mode = "key_prefix"                  # одна табличка: script_entries/<id>/sign/*
+pattern = '^(script_entries/[^/]+)/'
+
+[[batching.groups]]
+files = ["items/item_tooltips.json"]
+mode = "key_prefix"                  # один tooltip або один шаблон
+pattern = '^(tooltips/[^/]+|templates/[^/]+|adjectives/[^/]+)'
+
+[[batching.groups]]
+files = ["lang/compendium_lang/lang_*.json"]
+mode = "key_prefix"                  # одна стаття компендіуму: <id>/blurb/*, <id>/details/*
+pattern = '^([^/]+)/'
+
+[[batching.groups]]
+files = ["*.json"]
+mode = "key_prefix"                  # решта JSON: батьківський шлях ключа
+pattern = '^(.*)/[^/]+$'
+
+# --- Плейсхолдери: не чіпати в перекладі, перевіряти у відповіді ------------
+
+[placeholders]
+# printf-подібні: набір реальних токенів збирається з оригіналів таблиці цим регексом (як у tools/validate.py),
+# у перекладі має бути той самий список у тому ж порядку
+printf_pattern = '%(?:%|[-+#0]*\d*(?:\.\d*)?(?:hh|h|ll|l)?[a-zA-Z])'
+count_equal = ["$"]                  # значок клавіші в навчальних табличках
+protect = ["\\n"]                    # перенос рядка — має залишитися
+
+[[placeholders.rules]]
+files = ["data/story/*.json"]
+count_equal = ["^"]                  # зміна картинки
+pattern_equal = '\*\d'               # розмір вікна *2, *3
+note = "# і ## — паузи в оповіді: зберігати, можна пересувати на межі речень"
+
+[[placeholders.rules]]
+files = ["lang/en.txt", "themes/*/lang/en.txt"]
+forbidden = ["#"]                    # завершує запис у форматі гри
+
+# --- Формат результату ------------------------------------------------------------
+
+[output]
+format = "json"                      # об'єкт {"<key>": "<переклад>"} рівно з ключами батча
+retry_failed_rows = 1                # рядок, що не пройшов перевірку, перезапитується окремо стільки разів
