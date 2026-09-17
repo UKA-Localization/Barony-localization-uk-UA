@@ -1,0 +1,1924 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. blank lines are ignored
+#. сутності: creature → істота
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "95"
+msgid "creature"
+msgstr "істота"
+
+#. blank lines are ignored
+#. сутності: creature → істота
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "116"
+msgid "creatures"
+msgstr "істоти"
+
+#. blank lines are ignored
+#. сутності: Ash → Еш
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "158"
+msgid "Ash"
+msgstr "Еш"
+
+#. blank lines are ignored
+#. сутності: Bateman → Бейтман
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "159"
+msgid "Bateman"
+msgstr "Бейтман"
+
+#. blank lines are ignored
+#. сутності: Chucky → Чакі
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "160"
+msgid "Chucky"
+msgstr "Чакі"
+
+#. blank lines are ignored
+#. сутності: Damien → Демієн
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "161"
+msgid "Damien"
+msgstr "Демієн"
+
+#. blank lines are ignored
+#. сутності: Eggers → Еґґерс
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "162"
+msgid "Eggers"
+msgstr "Еґґерс"
+
+#. blank lines are ignored
+#. сутності: Freddy → Фредді
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "163"
+msgid "Freddy"
+msgstr "Фредді"
+
+#. blank lines are ignored
+#. сутності: Ghostface → Примарне обличчя
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "164"
+msgid "Ghostface"
+msgstr "Примарне обличчя"
+
+#. blank lines are ignored
+#. сутності: Hannibal → Ганнібал
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "165"
+msgid "Hannibal"
+msgstr "Ганнібал"
+
+#. blank lines are ignored
+#. сутності: Ichabod → Ікабод
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "166"
+msgid "Ichabod"
+msgstr "Ікабод"
+
+#. blank lines are ignored
+#. сутності: Jigsaw → Пила
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "167"
+msgid "Jigsaw"
+msgstr "Пила"
+
+#. blank lines are ignored
+#. сутності: Krueger → Крюгер
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "168"
+msgid "Krueger"
+msgstr "Крюгер"
+
+#. blank lines are ignored
+#. сутності: Leatherface → Шкіряне обличчя
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "169"
+msgid "Leatherface"
+msgstr "Шкіряне обличчя"
+
+#. blank lines are ignored
+#. сутності: Myers → Маєрс
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "170"
+msgid "Myers"
+msgstr "Маєрс"
+
+#. blank lines are ignored
+#. сутності: Norman → Норман
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "171"
+msgid "Norman"
+msgstr "Норман"
+
+#. blank lines are ignored
+#. сутності: Orlok → Орлок
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "172"
+msgid "Orlok"
+msgstr "Орлок"
+
+#. blank lines are ignored
+#. сутності: Pennywise → Пеннівайз
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "173"
+msgid "Pennywise"
+msgstr "Пеннівайз"
+
+#. blank lines are ignored
+#. сутності: Qliphoth → Кліпот
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "174"
+msgid "Qliphoth"
+msgstr "Кліпот"
+
+#. blank lines are ignored
+#. сутності: Slender → Слендер
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "176"
+msgid "Slender"
+msgstr "Слендер"
+
+#. blank lines are ignored
+#. сутності: Torrence → Торренс
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "177"
+msgid "Torrence"
+msgstr "Торренс"
+
+#. blank lines are ignored
+#. сутності: Umibozu → Умібодзу
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "178"
+msgid "Umibozu"
+msgstr "Умібодзу"
+
+#. blank lines are ignored
+#. сутності: Voorhees → Вурхіз
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "179"
+msgid "Voorhees"
+msgstr "Вурхіз"
+
+#. blank lines are ignored
+#. сутності: Wilkes → Вілкс
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "180"
+msgid "Wilkes"
+msgstr "Вілкс"
+
+#. blank lines are ignored
+#. сутності: Xing Tian → Сін Тянь
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "181"
+msgid "Xing Tian"
+msgstr "Сін Тянь"
+
+#. blank lines are ignored
+#. сутності: Ygor → Ігор
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "182"
+msgid "Ygor"
+msgstr "Ігор"
+
+#. blank lines are ignored
+#. сутності: Zito → Зіто
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "183"
+msgid "Zito"
+msgstr "Зіто"
+
+#. blank lines are ignored
+#. сутності: Confection → солодощі
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "190"
+msgid "Confections"
+msgstr "Солодощі"
+
+#. blank lines are ignored
+#. тон: excited
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "194"
+msgid "Trick or treat!"
+msgstr "Цукерки або капості!"
+
+#. blank lines are ignored
+#. тон: fear, excited
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "195"
+msgid "BOO!"
+msgstr "БУ!"
+
+#. blank lines are ignored
+#. тон: excited
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "196"
+msgid "You're here!"
+msgstr "Ви тут!"
+
+#. blank lines are ignored
+#. тон: threat, solemn
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "217"
+msgid "Most people are so\nungrateful to be alive.\nBut not you. \nNot anymore."
+msgstr "Більшість людей зовсім\nне цінує життя.\nАле не ви.\nВже ні."
+
+#. blank lines are ignored
+#. сутності: creature → істота
+#. тон: command, archaic
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "221"
+msgid "The creature ignores thee if\nthou keepest thy distance!"
+msgstr "Істота не зважатиме на вас,\nякщо триматиметеся віддалік!"
+
+#. blank lines are ignored
+#. тон: threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "224"
+msgid "Do you like scary movies?"
+msgstr "Вам подобаються страшні фільми?"
+
+#. blank lines are ignored
+#. сутності: Ghost → привид
+#. тон: joke, threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "227"
+msgid "I'm the ghost with the most,\nbabe. Go ahead. Make my\nmillennium!"
+msgstr "Я привид — вищий клас,\nкрихітко. Ну ж бо. Зроби моє\nтисячоліття!"
+
+#. blank lines are ignored
+#. сутності: towel → рушник, sack → мішок, candy → цукерка
+#. тон: command, archaic
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "228"
+msgid "Sacks of candy may have\nmelted sugar pooled up inside.\nUse a towel to clean thyself."
+msgstr "У мішках із цукерками міг\nнатекти розтоплений цукор.\nВитріться рушником."
+
+#. blank lines are ignored
+#. сутності: Rat → Щур, candy → цукерка, candy bar → солодкий батончик
+#. тон: joke, excited
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "230"
+msgid "The rats are generous! They\noffer full size candy bars."
+msgstr "Щури щедрі! Вони дарують\nповнорозмірні солодкі батончики."
+
+#. blank lines are ignored
+#. сутності: weaken → ослаблення, candy → цукерка
+#. тон: command
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "233"
+msgid "I'd avoid stale candy if I\nwere you. It can be too much\nfor weak tummies."
+msgstr "На вашому місці я б оминав\nчерстві цукерки. Слабкому шлунку\nвони не до снаги."
+
+#. blank lines are ignored
+#. сутності: spirit → дух, Flame → полум'я
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "255"
+msgid "You see a trapped flaming spirit."
+msgstr "Ви бачите полоненого духа в полум'ї."
+
+#. blank lines are ignored
+#. сутності: spirit → дух, spirit pit → яма духів
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "260"
+msgid "You see a spirit pit."
+msgstr "Ви бачите яму духів."
+
+#. blank lines are ignored
+#. сутності: pumpkin → гарбуз
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "270"
+msgid "You see a gigantic, award-winning pumpkin."
+msgstr "Ви бачите велетенський гарбуз-переможець."
+
+#. blank lines are ignored
+#. сутності: table → стіл
+#. тон: threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "274"
+msgid "You see a table built for torture."
+msgstr "Ви бачите стіл, створений для тортур."
+
+#. blank lines are ignored
+#. сутності: Spell → Закляття, pumpkin → гарбуз
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "405"
+msgid "Your spell destroys the gigantic pumpkin!"
+msgstr "Ваше закляття знищує велетенський гарбуз!"
+
+#. blank lines are ignored
+#. сутності: pumpkin → гарбуз
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "455"
+msgid "You are struck by a huge pumpkin!"
+msgstr "Вас вдарив величезний гарбуз!"
+
+#. blank lines are ignored
+#. сутності: Strength → сила, pumpkin → гарбуз
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "456"
+msgid "You lack the might to move the pumpkin."
+msgstr "Вам бракує сили зрушити гарбуз."
+
+#. blank lines are ignored
+#. сутності: spirit → дух, spirit pit → яма духів
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "457"
+msgid "You coax a lost spirit from the pit."
+msgstr "Ви виманюєте заблукалого духа з ями."
+
+#. blank lines are ignored
+#. сутності: spirit → дух, Diminish → зменшення, Flame → полум'я
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "458"
+msgid "The spirit flames have diminished."
+msgstr "Полум'я духа зменшилося."
+
+#. blank lines are ignored
+#. сутності: Cauldron → казан
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "467"
+msgid "The cauldron is stagnant."
+msgstr "Казан застиг."
+
+#. blank lines are ignored
+#. сутності: bless → благословляти, equipment → спорядження, Cauldron → казан
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "473"
+msgid "The cauldron blesses your equipment."
+msgstr "Казан благословляє ваше спорядження."
+
+#. blank lines are ignored
+#. сутності: Cauldron → казан
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "474"
+msgid "There's no more use for the cauldron."
+msgstr "Казан більше ні на що не придатний."
+
+#. blank lines are ignored
+#. сутності: table → стіл, Blood → кров
+#. тон: threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "477"
+msgid "The torture table is sticky with blood."
+msgstr "Стіл для тортур липкий від крові."
+
+#. blank lines are ignored
+#. сутності: Johnny → Джонні
+#. тон: threat, excited
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "485"
+msgid "Here's Johnny!!"
+msgstr "Ось і Джонні!!"
+
+#. blank lines are ignored
+#. сутності: Food → їжа, Ghost → привид
+#. тон: joke, threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "486"
+msgid "There'll be food and drink\n  and ghosts ... perhaps even a\n  few murders. You're all invited."
+msgstr "Будуть їжа й напої,\n  і привиди... а може, навіть\n  кілька вбивств. Запрошуємо всіх."
+
+#. blank lines are ignored
+#. сутності: Blake → Блейк
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "487"
+msgid "Here lies the body of Blake\n  Hit the gas instead of the brake\""
+msgstr "Тут лежить тіло Блейка —\n  Тиснув газ, а треба брейка\""
+
+#. blank lines are ignored
+#. сутності: Vlad → Влад
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "488"
+msgid "Here lies Vlad. He\n  never drank ... wine."
+msgstr "Тут лежить Влад. Він\n  ніколи не пив... вина."
+
+#. blank lines are ignored
+#. тон: threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "489"
+msgid "A boy's best friend\n  is his mother."
+msgstr "Найкращий друг хлопчика —\n  його мати."
+
+#. blank lines are ignored
+#. сутності: R.I.P. → R.I.P.
+#. тон: solemn, sad
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "490"
+msgid "R.I.P."
+msgstr "R.I.P."
+
+#. blank lines are ignored
+#. тон: threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "491"
+msgid "We all go a little\n  mad sometimes."
+msgstr "Усі ми часом трохи\n  божеволіємо."
+
+#. blank lines are ignored
+#. тон: solemn
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "492"
+msgid "To die -- to be really dead\n  that must be glorious."
+msgstr "Померти — бути справді мертвим,\n  мабуть, це має бути велично."
+
+#. blank lines are ignored
+#. тон: threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "493"
+msgid "You're doing to\n  die up there.\""
+msgstr "Ти там нагорі\n  помреш.\""
+
+#. blank lines are ignored
+#. тон: threat, sarcasm
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "494"
+msgid "Your mother's in here. Would\n  you like to leave a message?\n  I'll see that she gets it."
+msgstr "Ваша мати тут. Хочете\n  лишити повідомлення?\n  Я передам його їй."
+
+#. blank lines are ignored
+#. тон: threat, solemn
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "495"
+msgid "Sin never dies."
+msgstr "Гріх ніколи не вмирає."
+
+#. blank lines are ignored
+#. сутності: Skeleton → скелет, Ingrid → Інгрід
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "496"
+msgid "Here lies Ingrid\n  Spooked by a scary skeleton"
+msgstr "Тут спочила Інгрід\n  Скелета злякалась до смерті"
+
+#. blank lines are ignored
+#. сутності: Hell → Пекло, will → воля
+#. тон: threat, solemn
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "497"
+msgid "When there's no more room\n  in hell, the dead will roam\n  the earth."
+msgstr "Коли в Пеклі забракне\n  місця, мерці блукатимуть\n  землею."
+
+#. blank lines are ignored
+#. сутності: Jack → Джек
+#. тон: threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "498"
+msgid "All work and no play\n  makes Jack a dull boy."
+msgstr "Сама робота, жодних забав —\n  і Джек стає нудним хлопчиськом."
+
+#. blank lines are ignored
+#. тон: threat, fear
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "499"
+msgid "Come and play with us.\n  Forever ...  and ever ...\n  and ever."
+msgstr "Пограйтеся з нами.\n  Навіки... і назавжди...\n  і назавжди."
+
+#. blank lines are ignored
+#. тон: command, threat, fear
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "500"
+msgid "Be afraid. Be\n  very afraid."
+msgstr "Бійтеся. Бійтеся\n  по-справжньому."
+
+#. blank lines are ignored
+#. тон: threat, solemn
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "501"
+msgid "Sometimes dead is better."
+msgstr "Іноді краще бути мертвим."
+
+#. blank lines are ignored
+#. тон: joke, threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "538"
+msgid "\"Did you know?\"\n\"I ate his liver with some fava beans and a nice chianti.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Я з'їв його печінку з бобами й добрим к'янті.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "539"
+msgid "\"Did you know?\"\n\"I'm your number one fan.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Я ваша найпалкіша шанувальниця.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. сутності: Blood → кров
+#. тон: threat, solemn
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "540"
+msgid "\"Did you know?\"\n\"What is innocent blood if not for shedding?\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Навіщо невинна кров, як не для пролиття?\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. тон: fear
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "541"
+msgid "\"Did you know?\"\n\"I see dead people.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Я бачу мертвих людей.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. тон: threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "542"
+msgid "\"Did you know?\"\n\"I know what you did last summer.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Я знаю, що ви зробили минулого літа.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. сутності: boogeyman → бабай
+#. тон: threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "543"
+msgid "\"Did you know?\"\n\"You can't kill the boogeyman.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Бабая не вбити.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. тон: threat, sarcasm
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "544"
+msgid "\"Did you know?\"\n\"I guess everyone's entitled to one good scare.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Гадаю, кожен заслуговує на добрий переляк.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. тон: threat, solemn
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "545"
+msgid "\"Did you know?\"\n\"Evil is real.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Зло існує.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. тон: command, threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "546"
+msgid "\"Did you know?\"\n\"You should never say 'I'll be right back'.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Ніколи не кажіть: 'Я зараз повернуся'.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. сутності: soul → душа
+#. тон: threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "547"
+msgid "\"Did you know?\"\n\"We'll tear your soul apart.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Ми розірвемо вашу душу.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. сутності: Demon → демон, Angel → ангел
+#. тон: solemn, threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "548"
+msgid "\"Did you know?\"\n\"Angels to some, demons to others.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Для одних — ангели, для інших — демони.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. тон: threat, command
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "549"
+msgid "\"Did you know?\"\n\"Save your breath for screaming.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Бережіть подих для крику.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. сутності: asleep → сон
+#. тон: command, threat, fear
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "550"
+msgid "\"Did you know?\"\n\"Whatever you do, don't fall asleep.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Що б ви не робили — не засинайте.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. тон: joke, threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "551"
+msgid "\"Did you know?\"\n\"I'm into murders and executions, mostly.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Я здебільшого займаюся вбивствами і стратами.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. тон: joke, threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "552"
+msgid "\"Did you know?\"\n\"My family's always been in meat.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Моя родина завжди мала справу з м'ясом.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. тон: rude, sarcasm
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "553"
+msgid "\"Did you know?\"\n\"You're a regular barynard exhibit.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Та ви справжній експонат баронського звіринця.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. тон: sarcasm, joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "554"
+msgid "\"Did you know?\"\n\"Psychos do not explode when sunlight hits them.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Психи не вибухають від сонячного світла.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. тон: sarcasm
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "555"
+msgid "\"Did you know?\"\n\"I'm sure it's a lot scarier at night.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Уночі тут, певно, набагато страшніше.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "556"
+msgid "\"Did you know?\"\n\"You've got red on you.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"На вас щось червоне.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. тон: command, threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "557"
+msgid "\"Did you know?\"\n\"Do not read the latin.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Не читайте латину.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. сутності: bear → ведмідь
+#. тон: joke, fear
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "558"
+msgid "\"Did you know?\"\n\"So we just gonna ignore the bear then?\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"То ми просто не зважатимемо на ведмедя?\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. тон: threat, fear
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "559"
+msgid "\"Did you know?\"\n\"Have you checked the children lately?\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Ви давно перевіряли дітей?\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. сутності: Hell → Пекло
+#. тон: threat, solemn
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "560"
+msgid "\"Did you know?\"\n\"Hell is only a word. The reality is much worse.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Пекло — лише слово. Дійсність значно гірша.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. тон: fear
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "561"
+msgid "\"Did you know?\"\n\"I got this feeling ... a weird feeling.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"У мене якесь... дивне передчуття.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. тон: threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "562"
+msgid "\"Did you know?\"\n\"Seven days.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Сім днів.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. тон: sad
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "563"
+msgid "\"Did you know?\"\n\"They just don't believe like they used to.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Тепер уже ніхто не вірить, як колись.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. тон: threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "564"
+msgid "\"Did you know?\"\n\"It's not the house that's haunted.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Привиди не в будинку.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. тон: threat, fear
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "565"
+msgid "\"Did you know?\"\n\"We all float down here.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Тут унизу ми всі літаємо.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. тон: sad, rude
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "566"
+msgid "\"Did you know?\"\n\"I never wanted to be your mother.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Я ніколи не хотіла бути вашою матір'ю.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. сутності: monster → монстр
+#. тон: sarcasm, threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "567"
+msgid "\"Did you know?\"\n\"Do I look like some kind of monster?\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Я що, схожий на якогось монстра?\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. тон: technical, threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "568"
+msgid "\"Did you know?\"\n\"This thing needs trauma to spread.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Цій штуці потрібна травма, щоб поширюватися.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. тон: fear
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "569"
+msgid "\"Did you know?\"\n\"They mostly come out at night. Mostly.\"\n\"It's true!\""
+msgstr "\"Чи знали ви?\"\n\"Вони здебільшого виходять уночі. Здебільшого.\"\n\"Це правда!\""
+
+#. blank lines are ignored
+#. сутності: wall → стіна, spirit → дух, Flame → полум'я
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "589"
+msgid "You take the spirit flame from the wall."
+msgstr "Ви забираєте примарне полум'я зі стіни."
+
+#. blank lines are ignored
+#. сутності: pumpkin → гарбуз
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "663"
+msgid "You destroy the pumpkin!"
+msgstr "Ви знищуєте гарбуз!"
+
+#. blank lines are ignored
+#. сутності: pumpkin → гарбуз
+#. тон: fear
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "716"
+msgid "You hear the faint crash of huge rolling pumpkins."
+msgstr "Ви чуєте глухий гуркіт величезних гарбузів, що котяться."
+
+#. blank lines are ignored
+#. сутності: sack → мішок
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "764"
+msgid "You scarf down the sack of\n %s."
+msgstr "Ви хутко наминаєте мішок\n %s."
+
+#. blank lines are ignored
+#. сутності: creature → істота
+#. тон: joke, sad
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "801"
+msgid "This is an old scrawled note:\n \"Mee wurst creature evurr\n  nobuddy pay brijj tole"
+msgstr "Це стара нашкрябана записка:\n \"Я найгірша істота\n  ніхто ни платить мистовий збир"
+
+#. blank lines are ignored
+#. сутності: creature → істота
+#. тон: joke, sad
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "802"
+msgid "  me nott sceary enuf\n  mee gett drunc an kil sellf\n  creature droun\""
+msgstr "  я ни досить страшна\n  я напюся й вбю сибе\n  істота втопилася\""
+
+#. blank lines are ignored
+#. сутності: sack → мішок, candy → цукерка, scissors → ножиці
+#. тон: technical
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "886"
+msgid "You can open candy sacks while carrying scissors."
+msgstr "Ви можете відкривати мішки з цукерками, маючи ножиці."
+
+#. blank lines are ignored
+#. сутності: candy → цукерка
+#. тон: rude, excited
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "908"
+msgid "Blecch! This candy's gone bad!"
+msgstr "Бе-е! Ці цукерки зіпсувалися!"
+
+#. blank lines are ignored
+#. сутності: candy → цукерка
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "916"
+msgid "You feel sick from eating too much candy."
+msgstr "Вам зле від надміру цукерок."
+
+#. blank lines are ignored
+#. сутності: candy → цукерка
+#. тон: joke, excited
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "917"
+msgid "URP! Too much candy!"
+msgstr "БУЕ! Забагато цукерок!"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "918"
+msgid "sticky"
+msgstr "липка"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "919"
+msgid "chewy"
+msgstr "тягуча"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "920"
+msgid "crunchy"
+msgstr "хрустка"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "921"
+msgid "gummy"
+msgstr "желейна"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "922"
+msgid "spicy"
+msgstr "гостра"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "923"
+msgid "sour"
+msgstr "кисла"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "924"
+msgid "gooey"
+msgstr "в'язка"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "925"
+msgid "stale"
+msgstr "черства"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "926"
+msgid "frosted"
+msgstr "в цукровій глазурі"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "927"
+msgid "glazed"
+msgstr "глазурована"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: candy → цукерка
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "928"
+msgid "candy-coated"
+msgstr "в цукровій оболонці"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "929"
+msgid "cartoon themed"
+msgstr "у стилі мультфільму"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "930"
+msgid "super hero"
+msgstr "супергеройська"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: monster → монстр
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "931"
+msgid "monster themed"
+msgstr "у стилі монстрів"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "932"
+msgid "cakey"
+msgstr "бісквітна"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "933"
+msgid "melty"
+msgstr "тануча"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: chocolate bar → шоколадний батончик
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "934"
+msgid " chocolate bars"
+msgstr " шоколадні батончики"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: chocolate bar → шоколадний батончик, dark chocolate bar → батончик із чорного шоколаду
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "935"
+msgid " dark chocolate bars"
+msgstr " батончики з чорного шоколаду"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: chocolate bar → шоколадний батончик, white chocolate bar → батончик із білого шоколаду
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "936"
+msgid " white chocolate bars"
+msgstr " батончики з білого шоколаду"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: candy → цукерка, hard candy → льодяник
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "937"
+msgid " hard candy"
+msgstr " льодяники"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: sucker → льодяник на паличці
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "938"
+msgid " suckers"
+msgstr " льодяники на паличці"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: taffy → цукерка-тягучка
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "939"
+msgid " taffy"
+msgstr " цукерки-тягучки"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: lemon ball → лимонна кулька
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "940"
+msgid " lemon balls"
+msgstr " лимонні кульки"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: fruit square → фруктовий квадратик
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "941"
+msgid " fruit squares"
+msgstr " фруктові квадратики"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: caramel cookie → карамельне печиво
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "942"
+msgid " caramel cookies"
+msgstr " карамельне печиво"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: fruit twist → фруктова спіраль
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "943"
+msgid " fruit twists"
+msgstr " фруктові спіралі"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: chocolate chew → жувальна шоколадна цукерка
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "944"
+msgid " chocolate chews"
+msgstr " жувальні шоколадні цукерки"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: malt ball → солодова кулька
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "945"
+msgid " malt balls"
+msgstr " солодові кульки"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: yogurt raisin → родзинка в йогуртовій глазурі
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "946"
+msgid " yogurt raisins"
+msgstr " родзинки в йогуртовій глазурі"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: nut square → горіховий квадратик
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "947"
+msgid " nut squares"
+msgstr " горіхові квадратики"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: sugar dust → цукрова пудра
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "948"
+msgid " sugar dust"
+msgstr " цукрова пудра"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: vanilla cookie → ванільне печиво
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "949"
+msgid " vanilla cookies"
+msgstr " ванільне печиво"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: licorice bit → шматочок лакриці
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "950"
+msgid " and licorice bits"
+msgstr " і шматочки лакриці"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: sugar straw → цукрова трубочка
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "951"
+msgid " and sugar straws"
+msgstr " і цукрові трубочки"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: honey chew → медова жувальна цукерка
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "952"
+msgid " and honey chews"
+msgstr " і медові жувальні цукерки"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: coconut bar → кокосовий батончик
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "953"
+msgid " and coconut bars"
+msgstr " і кокосові батончики"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: oatmeal cookie → вівсяне печиво
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "954"
+msgid " and oatmeal cookies"
+msgstr " і вівсяне печиво"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: candy → цукерка, candy button → цукерка-ґудзик
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "955"
+msgid " and candy buttons"
+msgstr " і цукерки-ґудзики"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: hot cinnamon → гостра кориця
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "956"
+msgid " with hot cinnamon"
+msgstr " з гострою корицею"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: build-and-eat kit → їстівний набір-конструктор
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "957"
+msgid " build-and-eat kit"
+msgstr " їстівний набір-конструктор"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: expired vitamin → прострочений вітамін
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "958"
+msgid " and expired vitamins"
+msgstr " і прострочені вітаміни"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: orange gummy → апельсинова желейна цукерка
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "959"
+msgid " and orange gummies"
+msgstr " і апельсинові желейні цукерки"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: circus peanut → цукерка-арахіс
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "960"
+msgid " and circus peanuts"
+msgstr " і цукерки-арахіс"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: loose cracker → розсипаний крекер
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "961"
+msgid " with loose crackers"
+msgstr " з розсипаними крекерами"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: animal cookie → печиво-звірятко
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "962"
+msgid " and animal cookies"
+msgstr " і печиво-звірятка"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: pudding cup → стаканчик із пудингом
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "963"
+msgid " and pudding cups"
+msgstr " і стаканчики з пудингом"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: toffee bit → шматочок ірису
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "964"
+msgid " and toffee bits"
+msgstr " і шматочки ірису"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: peppermint → м'ятна цукерка
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "965"
+msgid " and peppermints"
+msgstr " і м'ятні цукерки"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: slippery → слизький
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "966"
+msgid "The melted sugar makes your fingers slippery."
+msgstr "Розтоплений цукор робить ваші пальці слизькими."
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. тон: joke, threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1002"
+msgid "a razor-bladed %+2d "
+msgstr "з лезами %+2d "
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1003"
+msgid "a expired %+2d "
+msgstr "прострочена %+2d "
+
+#. написи на консервах — жарти й абсурдні назви страв
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1004"
+msgid "an stale %+2d "
+msgstr "черства %+2d "
+
+#. написи на консервах — жарти й абсурдні назви страв
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1005"
+msgid "a slightly stale %+2d "
+msgstr "трохи черства %+2d "
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. тон: joke, threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1028"
+msgid "%d razor-bladed %+2d "
+msgstr "%d з лезами %+2d "
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1029"
+msgid "%d expired %+2d "
+msgstr "%d прострочених %+2d "
+
+#. написи на консервах — жарти й абсурдні назви страв
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1030"
+msgid "%d stale %+2d "
+msgstr "%d черствих %+2d "
+
+#. написи на консервах — жарти й абсурдні назви страв
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1031"
+msgid "%d slightly stale %+2d "
+msgstr "%d трохи черствих %+2d "
+
+#. написи на консервах — жарти й абсурдні назви страв
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1054"
+msgid "a tainted "
+msgstr "зіпсована "
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1055"
+msgid "an expired "
+msgstr "прострочена "
+
+#. написи на консервах — жарти й абсурдні назви страв
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1056"
+msgid "a stale "
+msgstr "черства "
+
+#. написи на консервах — жарти й абсурдні назви страв
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1057"
+msgid "a slightly stale "
+msgstr "трохи черствий "
+
+#. написи на консервах — жарти й абсурдні назви страв
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1080"
+msgid "%d tainted "
+msgstr "%d зіпсованих "
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1081"
+msgid "%d expired "
+msgstr "%d прострочених "
+
+#. написи на консервах — жарти й абсурдні назви страв
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1082"
+msgid "%d stale "
+msgstr "%d черствих "
+
+#. написи на консервах — жарти й абсурдні назви страв
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1083"
+msgid "%d slightly stale "
+msgstr "%d дещо черствих "
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: sack → мішок, scissors → ножиці
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1093"
+msgid "You can't open the sack without scissors."
+msgstr "Ви не можете відкрити мішок без ножиць."
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: pie → пиріг, pumpkin → гарбуз
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1505"
+msgid "is flattened into pumpkin pie dough."
+msgstr "розплющується на тісто для гарбузового пирога."
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: creature → істота
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1515"
+msgid "invades the creature's comfort zone and gets smacked."
+msgstr "вдирається в особистий простір істоти й дістає ляпаса."
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. тон: excited
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1910"
+msgid "Trick or Treat!"
+msgstr "Цукерки або смерть!"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: silver → срібло, Silver Shamrock → Срібний трилисник
+#. тон: joke, excited
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1911"
+msgid "Happy Happy Halloween, Silver Shamrock"
+msgstr "Щасливого, щасливого Гелловіну, Срібний трилиснику"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. тон: joke, excited
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1912"
+msgid "PSL Season!"
+msgstr "Сезон лате з гарбузовими прянощами!"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: Handbook for the Recently Diseased → Довідник для нещодавно захворілих
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1913"
+msgid "Handbook for the Recently Diseased"
+msgstr "Довідник для нещодавно захворілих"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: Ghost → привид
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1914"
+msgid "The Ghost With the Most"
+msgstr "Найкрутіший привид"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. тон: joke, excited
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1915"
+msgid "I'll Be Right Back!"
+msgstr "Я зараз повернуся!"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. тон: fear, excited
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1916"
+msgid "It's Coming From Inside the House!"
+msgstr "Воно дзвонить ізсередини будинку!"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: pie → пиріг, Time → час
+#. тон: joke, excited
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1917"
+msgid "Just In Time for Pie"
+msgstr "Саме вчасно до пирога"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: Wolf-Man → людина-вовк
+#. тон: joke, excited, rude
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1918"
+msgid "Wolf-Man's Got Nards!"
+msgstr "У людини-вовка є причандали!"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. тон: rude, excited
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1919"
+msgid "BOGUS!"
+msgstr "ЛАЖА!"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: Mummy → мумія
+#. тон: joke, excited
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1920"
+msgid "Mummy Came in My House!"
+msgstr "Мумія залізла в мій дім!"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. тон: joke, rude
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1921"
+msgid "That's Why All the Weirdos Are Out!"
+msgstr "Ось чому всі диваки повилазили!"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. тон: joke, excited
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1922"
+msgid "Dead Man's Toe!"
+msgstr "Палець мерця!"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: Candyman → Кендімен
+#. тон: fear, excited
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1923"
+msgid "Candyman! Candyman! Candyman!"
+msgstr "Кендімене! Кендімене! Кендімене!"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: Bloody Mary → Кривава Мері
+#. тон: fear, excited
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1924"
+msgid "Bloody Mary! Bloody Mary!"
+msgstr "Кривава Мері! Кривава Мері!"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: Danny → Денні
+#. тон: threat, command
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1925"
+msgid "Come Play With Us, Danny"
+msgstr "Ходи пограйся з нами, Денні"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: Michael → Майкл
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1926"
+msgid "They're Only Noodles, Michael"
+msgstr "Це лише локшина, Майкле"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. тон: excited
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1927"
+msgid "What's This? What's This?"
+msgstr "Що це? Що це?"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. тон: threat, fear
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1928"
+msgid "9, 10, Never Sleep Again"
+msgstr "Дев'ять, десять — більше не заснеш"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. тон: fear, excited
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1929"
+msgid "It's Only a Dream!"
+msgstr "Це лише сон!"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: box → ящик, puzzle box → скринька-головоломка
+#. тон: joke, fear
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1930"
+msgid "It's Just a Puzzle Box!"
+msgstr "Це ж лише скринька-головоломка!"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. тон: sad
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1931"
+msgid "It Was My First Funeral"
+msgstr "То був мій перший похорон"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. тон: threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1932"
+msgid "The Rules of the Game Are Very Clear"
+msgstr "Правила гри цілком зрозумілі"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: multiplayer → багатокористувацька гра
+#. тон: threat, excited
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1933"
+msgid "We're Friends 'Til the End!"
+msgstr "Ми друзі до кінця!"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: mask → маска
+#. тон: solemn
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1934"
+msgid "A Mask Tells Us More Than a Face"
+msgstr "Маска розповідає про нас більше, ніж обличчя"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: pumpkin → гарбуз, Pumpkin Carol → гарбузова колядка
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1935"
+msgid "Have You Come to Sing Pumpkin Carols?"
+msgstr "Ви прийшли співати гарбузові колядки?"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. тон: threat, solemn
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1936"
+msgid "Something Wicked This Way Comes"
+msgstr "Щось лихе сюди прямує"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: Dungeon → Підземелля, creature → істота
+#. тон: fear, excited
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1937"
+msgid "Creature in the dungeon!"
+msgstr "Істота в Підземеллі!"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. тон: threat, joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1938"
+msgid "Everyone's Entitled to One Good Scare"
+msgstr "Кожен має право добряче налякати"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1939"
+msgid "Sticky Fingers, Tired Feet..."
+msgstr "Липкі пальці, стомлені ноги..."
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: Level → Рівень, Trap → пастка, arrow → стріла, will → воля, pumpkin → гарбуз
+#. тон: technical
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "1946"
+msgid "NOTE: Only removes randomly generated traps, such as pumpkins and arrow traps along \nthe edges and hallways of levels. Traps will only be found inside rooms that have \nbeen designed to contain them."
+msgstr "ПРИМІТКА: вилучає лише випадково створені пастки, як-от гарбузи та стрілові пастки \nвздовж країв і коридорів рівнів. Пастки залишаться тільки в кімнатах, \nспроєктованих для них."
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: Symbol → священний символ
+#. тон: solemn
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "2367"
+msgid "The symbol defies your grasp and is unable to be retrieved!"
+msgstr "Священний символ вислизає з ваших рук — забрати його неможливо!"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: Symbol → священний символ, Receptacle → вмістилище
+#. тон: solemn
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "2368"
+msgid "You place the symbol in the receptacle..."
+msgstr "Ви кладете священний символ у вмістилище..."
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: Symbol → священний символ
+#. тон: excited, solemn
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "2370"
+msgid "The symbol starts floating!"
+msgstr "Священний символ здіймається в повітря!"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: pedestal → п'єдестал, Symbol → священний символ
+#. тон: solemn
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "2377"
+msgid "You see a mystical symbol sitting atop a pedestal."
+msgstr "Ви бачите містичний священний символ на п'єдесталі."
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: floor → поверх, cage → клітка
+#. тон: sad, threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "2494"
+msgid "Bones of dead prisoners litter the cage floor."
+msgstr "Кістки померлих в'язнів устеляють підлогу клітки."
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: cage → клітка, weaken → ослаблення
+#. тон: sarcasm, rude, sad
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "2495"
+msgid "The cage is weak, but its inhabitants were weaker."
+msgstr "Клітка слабка, та її мешканці були ще слабші."
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: bed → ліжко
+#. тон: threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "2497"
+msgid "You see a bed with straps."
+msgstr "Ви бачите ліжко з ременями."
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: cage → клітка
+#. тон: threat
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "2499"
+msgid "You see a grim prison cage."
+msgstr "Ви бачите похмуру тюремну клітку."
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: cell → камера
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "2506"
+msgid "cell"
+msgstr "камера"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: pedestal → п'єдестал, Ghost → привид
+#. тон: solemn
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "2821"
+msgid "The %s\n I sensed power from the ghost when you put it on that pedestal."
+msgstr "Цей %s\n Я відчув силу привида, коли ви поклали його на той п'єдестал."
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: Trap → пастка, Herx → Геркс, Ghost → привид
+#. тон: solemn
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "2823"
+msgid "The %s\n I was able to trap some of the power that Herx's ghost released."
+msgstr "Цей %s\n Мені вдалося ув'язнити частину сили, яку вивільнив привид Геркса."
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: portal → портал, Caves → Печери, Ghost → привид
+#. тон: solemn
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "2824"
+msgid "The %s\n This portal pierces the seal to the Caves using the power of the ghost."
+msgstr "Цей %s\n Цей портал пробиває печать Печер силою привида."
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: Herx → Геркс, artifact → артефакт, Symbol → священний символ
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "2834"
+msgid "%s\n I'm only interested in the rarest of\n artifacts in the land.              \n In particular, the Halloween Symbols that were stolen by Herx."
+msgstr "%s\n Мене цікавлять лише найрідкісніші\n артефакти цих земель.             \n А надто гелловінські символи, викрадені Герксом."
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: Guild → гільдія, Magician → маг, Symbol → священний символ
+#. тон: rude, joke
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "2836"
+msgid "%s\n You see, a high ranking guild member\n such as myself can extort those mages \n for every penny they own with their \n precious symbols!"
+msgstr "%s\n Розумієте, такий поважний член гільдії,\n як я, може витрусити з тих магів     \n кожну монету за їхні дорогоцінні    \n символи!"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: pumpkin → гарбуз
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "3974"
+msgid "The massive pumpkin cannot be moved that way."
+msgstr "Величезний гарбуз так не посунути."
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: spirit → дух, Flame → полум'я
+#. тон: command
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "4006"
+msgid "Salvage spirit flame"
+msgstr "Утилізувати примарне полум'я"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: spirit → дух, Flame → полум'я
+#. тон: command
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "4007"
+msgid "Take spirit flame"
+msgstr "Взяти примарне полум'я"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: pumpkin → гарбуз
+#. тон: command
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "4021"
+msgid "Push pumpkin"
+msgstr "Штовхнути гарбуз"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: Symbol → священний символ
+#. тон: command
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "4022"
+msgid "Take symbol"
+msgstr "Взяти священний символ"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: spirit → дух
+#. тон: command
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "4024"
+msgid "Coax spirit"
+msgstr "Умовити духа"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: gold piece → золота монета, Symbol → священний символ
+#. тон: command, rude, excited
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "4126"
+msgid "Hand the symbol to me directly.\nThere is no need to involve\nformalities of gold, now!"
+msgstr "Передайте священний символ просто мені.\nНе треба вплутувати сюди\nформальності із золотом!"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: Trap → пастка, pumpkin → гарбуз
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "4349"
+msgid "pumpkin trap"
+msgstr "гарбузова пастка"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: pumpkin → гарбуз
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "4358"
+msgid "pumpkin"
+msgstr "гарбуз"
+
+#. написи на консервах — жарти й абсурдні назви страв
+#. сутності: pumpkin → гарбуз, Giant Pumpkin → велетенський гарбуз
+#, fuzzy
+#: themes/scarony/lang/en.txt
+msgctxt "5805"
+msgid "Giant Pumpkin"
+msgstr "велетенський гарбуз"

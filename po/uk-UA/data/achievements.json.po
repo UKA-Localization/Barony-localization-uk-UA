@@ -1,0 +1,5088 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Dungeon → Підземелля
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ENTER_THE_DUNGEON/name"
+msgid "Enter the Dungeon"
+msgstr "Увійти в Підземелля"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Dungeon → Підземелля, Level → Рівень
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ENTER_THE_DUNGEON/description"
+msgid "Descend to level 1 of the dungeon."
+msgstr "Спустіться на 1-й рівень Підземелля."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_5000_SECOND_RULE/name"
+msgid "5000 Second Rule"
+msgstr "Правило 5000 секунд"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Rat → Щур, lockpick → відмичка, Item → предмет, Food → їжа
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_5000_SECOND_RULE/description"
+msgid "Pick up 50 detected food items as a Rat over multiple playthroughs."
+msgstr "Підберіть за Щура 50 виявлених предметів їжі за кілька проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ALL_IN_REFLEXES/name"
+msgid "It's All in the Reflexes"
+msgstr "Уся річ у рефлексах"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Goatman → козолюд, Insectoid → комахолюд, weapon → зброя, thrown → метальний
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ALL_IN_REFLEXES/description"
+msgid "Catch an Insectoid or Goatman's flying thrown weapon."
+msgstr "Спіймайте метальну зброю, кинуту комахолюдом або козолюдом."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: will → воля
+#. тон: solemn
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ALWAYS_WAITING/name"
+msgid "...Will Always Be Waiting"
+msgstr "...Завжди чекатиме"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Archmagister → архімагістр
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ALWAYS_WAITING/description"
+msgid "Put an end to the Archmagisters' troubles."
+msgstr "Покладіть край негараздам архімагістрів."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Angel → ангел, death → смерть
+#. тон: threat, solemn
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ANGEL_OF_DEATH/name"
+msgid "Angel of Death"
+msgstr "Ангел смерті"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Stealth → потайність, NPC → неігровий персонаж, Player → гравець, enemy → ворог
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ANGEL_OF_DEATH/description"
+msgid "Perform a fatal stealth attack on an enemy that is attacking another player or allied NPC."
+msgstr "Завдайте смертельного потайного удару ворогу, який атакує іншого гравця чи союзного неігрового персонажа."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ARCANE_LINK/name"
+msgid "Arcane Link"
+msgstr "Магічний зв'язок"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: mana → мана, Mana Regeneration → відновлення мани, Regeneration → регенерація
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ARCANE_LINK/description"
+msgid "Gain extra Mana Regeneration from two sources simultaneously."
+msgstr "Одночасно отримайте додаткове відновлення мани з двох джерел."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ARSENAL/name"
+msgid "Arsenal"
+msgstr "Арсенал"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Hunter → мисливець, bow → лук, crossbow → арбалет
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ARSENAL/description"
+msgid "Hold a crossbow, bow and all ammo types in your inventory at once as a Hunter."
+msgstr "Граючи за мисливця, одночасно тримайте в інвентарі арбалет, лук і всі типи боєприпасів."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BACK_TO_BASICS/name"
+msgid "Back to Basics"
+msgstr "Назад до основ"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Lich → ліч, trial → випробування
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BACK_TO_BASICS/description"
+msgid "Finish a Trial after you've encountered a lich."
+msgstr "Завершіть випробування після зустрічі з лічем."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BAD_BEAUTIFUL/name"
+msgid "Bad & Beautiful"
+msgstr "Поганий і прекрасний"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Succubus → сукуб, Incubus → інкуб, cursed → проклятий, Item → предмет
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BAD_BEAUTIFUL/description"
+msgid "Equip 4 cursed items at once as a true Incubus or Succubus."
+msgstr "Граючи за справжнього інкуба або сукуба, одночасно спорядіть 4 прокляті предмети."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Blood → кров
+#. тон: threat
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BAD_BLOOD/name"
+msgid "Bad Blood"
+msgstr "Погана кров"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Vampire → вампір, Unarmed → без зброї, Accursed → проклятий, Kills → убивства, HP → ОЗ, Lifesteal → Викрадення здоров'я
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BAD_BLOOD/description"
+msgid "Lifesteal 500 HP from unarmed sneak-attack kills as an Accursed true Vampire."
+msgstr "Викрадіть 500 ОЗ, убиваючи ворогів без зброї прихованими атаками за проклятого справжнього вампіра."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Baron Herx → Барон Геркс, Bad Boy Baron → Барон-поганець
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BAD_BOY_BARON/name"
+msgid "Bad Boy Baron"
+msgstr "Барон-поганець"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Incubus → інкуб, Citadel → Цитадель
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BAD_BOY_BARON/description"
+msgid "Escape the Citadel as a true Incubus."
+msgstr "Утечіть із Цитаделі, граючи за справжнього інкуба."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke, sarcasm
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BAD_REVIEW/name"
+msgid "Negative Review for MLP"
+msgstr "Негативний відгук на MLP"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Deface → спотворення
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BAD_REVIEW/description"
+msgid "Deface an equine mural."
+msgstr "Спотворіть фреску із зображенням коня."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BAD_ROMANCE/name"
+msgid "Bad Romance"
+msgstr "Поганий роман"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Succubus → сукуб, Incubus → інкуб, recruit → найм
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BAD_ROMANCE/description"
+msgid "Recruit two incubi or succubi simultaneously as a true Succubus."
+msgstr "Граючи за справжнього сукуба, одночасно найміть двох інкубів або сукубів."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: switch → перемикач
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BAIT_AND_SWITCH/name"
+msgid "Bait and Switch"
+msgstr "Підміна приманки"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Succubus → сукуб, melee → ближній бій, Teleport → телепортація, enemy → ворог, combat → бій
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BAIT_AND_SWITCH/description"
+msgid "Teleport while an enemy is attacking you in melee combat as a true Succubus."
+msgstr "Граючи за справжнього сукуба, телепортуйтеся, коли ворог атакує вас у ближньому бою."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: excited
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BARFIGHT_CHAMP/name"
+msgid "Barfight Champ"
+msgstr "Чемпіон шинкарської бійки"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Goatman → козолюд, enemy → ворог, death → смерть, Drunk → сп'яніння
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BARFIGHT_CHAMP/description"
+msgid "Punch 50 enemies to death while drunk as a true Goatman."
+msgstr "Граючи за справжнього козолюда, забийте кулаками до смерті 50 ворогів у стані сп'яніння."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Baron Herx → Барон Геркс, Bayou Baron → Болотяний барон
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BAYOU_BARON/name"
+msgid "Bayou Baron"
+msgstr "Болотяний барон"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Goblin → гоблін, Citadel → Цитадель
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BAYOU_BARON/description"
+msgid "Escape the Citadel as a true Goblin."
+msgstr "Утечіть із Цитаделі, граючи за справжнього гобліна."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Baron Herx → Барон Геркс, Bleating Baron → Мекливий барон
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BLEATING_BARON/name"
+msgid "Bleating Baron"
+msgstr "Мекливий барон"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Goatman → козолюд, class → клас, Any → будь-який, Citadel → Цитадель
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BLEATING_BARON/description"
+msgid "Escape the Citadel playing as a true Goatman of any class."
+msgstr "Утечіть із Цитаделі справжнім козолюдом будь-якого класу."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: blessed → благословенний
+#. тон: joke, sarcasm
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BLESSED/name"
+msgid "#Blessed"
+msgstr "#Благословенний"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: weapon → зброя
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BLESSED/description"
+msgid "Hold a +10 Weapon."
+msgstr "Майте зброю +10."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Blood → кров
+#. тон: joke, threat
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BLOOD_BOIL/name"
+msgid "Makes Your Blood Boil"
+msgstr "Кров закипає"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Vampire → вампір, Water → вода, Effect → ефект
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BLOOD_BOIL/description"
+msgid "Discover the effects of water as a true Vampire."
+msgstr "Граючи за справжнього вампіра, дізнайтеся, як діє вода."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Blood → кров, Life → життя
+#. тон: solemn, threat
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BLOOD_IS_THE_LIFE/name"
+msgid "The Blood is the Life"
+msgstr "Кров — це життя"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Hunger → Голод, Accursed → проклятий, class → клас, Citadel → Цитадель
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BLOOD_IS_THE_LIFE/description"
+msgid "Escape the Citadel as the Accursed class without being cured, and with hunger enabled."
+msgstr "Утечіть із Цитаделі за клас проклятого, не зцілившись і з увімкненим Голодом."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Blood → кров
+#. тон: solemn
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BLOOD_RUNS_CLEAR/name"
+msgid "Blood Runs Clear"
+msgstr "Кров тече чиста"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Legend → легенда, Stealth → потайність, Accursed → проклятий, class → клас
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BLOOD_RUNS_CLEAR/description"
+msgid "Reach Legendary Stealth while playing as the Accursed class."
+msgstr "Граючи за клас проклятого, досягніть легендарного рівня потайності."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Blood → кров
+#. тон: threat
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BLOOD_SPORT/name"
+msgid "Blood Sport"
+msgstr "Кривавий спорт"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Vampire → вампір, Invisibility → невидимість, Assassination → убивство ударом у спину, target → ціль
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BLOOD_SPORT/description"
+msgid "Assassinate 50 targets while invisible as a true Vampire."
+msgstr "Граючи за справжнього вампіра, невидимим убийте ударом у спину 50 цілей."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Blood → кров
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BLOOD_VESSELS/name"
+msgid "Blood Vessels"
+msgstr "Кровоносні флакони"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Vampire → вампір, Time → час, Blood → кров, vial → флакон
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BLOOD_VESSELS/description"
+msgid "Accumulate 20 vials of blood at one time as a true Vampire."
+msgstr "Граючи за справжнього вампіра, одночасно накопичте 20 флаконів крові."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BODYGUARDS/name"
+msgid "Bodyguards"
+msgstr "Охоронці"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Crystal Golem → кристалічний голем, crystal → кристал, Leadership → лідерство, Dominate → підкорення
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BODYGUARDS/description"
+msgid "Have 2 Dominated Crystal Golems under your leadership."
+msgstr "Тримайте під своїм лідерством 2 підкорених кристалічних големів."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Baron Herx → Барон Геркс, Boilerplate Baron → Бляшаний барон
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BOILERPLATE_BARON/name"
+msgid "Boilerplate Baron"
+msgstr "Бляшаний барон"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Automaton → автоматон, Citadel → Цитадель
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BOILERPLATE_BARON/description"
+msgid "Escape the Citadel as a true Automaton."
+msgstr "Утечіть із Цитаделі, граючи за справжнього автоматона."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BOMBARDIER/name"
+msgid "Bombardier"
+msgstr "Бомбардир"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Potion → Зілля, thrown → метальний, enemy → ворог
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BOMBARDIER/description"
+msgid "Kill 50 enemies with thrown potions."
+msgstr "Убийте 50 ворогів метальними зіллями."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Baron Herx → Барон Геркс, Bombshell Baron → Вибуховий барон
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BOMBSHELL_BARON/name"
+msgid "Bombshell Baron"
+msgstr "Вибуховий барон"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Succubus → сукуб, class → клас, Any → будь-який, Citadel → Цитадель
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BOMBSHELL_BARON/description"
+msgid "Escape the Citadel playing as a true Succubus of any class."
+msgstr "Утечіть із Цитаделі справжнім сукубом будь-якого класу."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BOMBTRACK/name"
+msgid "Bombtrack"
+msgstr "Бомбовий трек"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: bomb → бомба, foe → ворог
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BOMBTRACK/description"
+msgid "Have 5 bombs triggered by a single foe within 5 seconds."
+msgstr "Нехай один ворог за 5 секунд активує 5 бомб."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: bomb → бомба
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BOMB_SQUAD/name"
+msgid "Bomb Squad"
+msgstr "Загін саперів"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Automaton → автоматон, lockpick → відмичка, Disarm → обеззброєння
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BOMB_SQUAD/description"
+msgid "Successfully disarm 5 Automatons using Lockpicking."
+msgstr "Успішно обеззбройте 5 автоматонів за допомогою відмички."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke, rude
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BONEHEADED/name"
+msgid "Boneheaded"
+msgstr "Кісткоголовий"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Skeleton → скелет, Food → їжа
+#. тон: command, joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BONEHEADED/description"
+msgid "\"Eat\" food as a skeleton."
+msgstr "«З'їжте» їжу, граючи за скелета."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: lockpick → відмичка, bone → кістка
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BONE_TO_PICK/name"
+msgid "Bone to Pick"
+msgstr "Кістка незгоди"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Level → Рівень, Summoning → прикликання
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BONE_TO_PICK/description"
+msgid "Have a summoned familiar reach level 35."
+msgstr "Допоможіть прикликаному фамільяру досягти 35-го рівня."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Baron Herx → Барон Геркс, Bony Baron → Кістлявий барон
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BONY_BARON/name"
+msgid "Bony Baron"
+msgstr "Кістлявий барон"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Skeleton → скелет, class → клас, Any → будь-який, Citadel → Цитадель
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BONY_BARON/description"
+msgid "Escape the Citadel playing as a true Skeleton of any class."
+msgstr "Утечіть із Цитаделі справжнім скелетом будь-якого класу."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BOOKWORM/name"
+msgid "Bookworm"
+msgstr "Книжковий хробак"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Insectoid → комахолюд, Level → Рівень, spellbook → книга заклять, spellcasting → чаклування, Magic → магія
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BOOKWORM/description"
+msgid "Gain 50 Magic Levels from reading or casting from Spellbooks as a true Insectoid over multiple playthroughs."
+msgstr "Здобудьте 50 рівнів магії, читаючи або чаклуючи з книг заклять за справжнього комахолюда протягом кількох проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: boots → чоботи, speed → швидкість
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BOOTS_OF_SPEED/name"
+msgid "Boots of Speed"
+msgstr "Чоботи швидкості"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Baron Herx → Барон Геркс, Baphomet → Бафомет, Herx → Геркс
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BOOTS_OF_SPEED/description"
+msgid "Defeat Baron Herx or Baphomet in 20 minutes or less."
+msgstr "Здолайте Барона Геркса або Бафомета не більш ніж за 20 хвилин."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BORN_AGAIN/name"
+msgid "Born Again"
+msgstr "Народжений знову"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: amulet → амулет, Instant → миттєвий, amulet of life saving → амулет порятунку життя, Life → життя, death → смерть, Life Saving → Порятунок життя
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BORN_AGAIN/description"
+msgid "Survive instant death with an amulet of life saving."
+msgstr "Переживіть миттєву смерть завдяки амулету порятунку життя."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: bottle → пляшка
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BOTTLE_NOSED/name"
+msgid "Bottle-Nosed"
+msgstr "Пляшконосий"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Goatman → козолюд, Potion → Зілля, fountain → фонтан, Time → час
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BOTTLE_NOSED/description"
+msgid "Find extra potions from fountains 20 times as a true goatman."
+msgstr "20 разів знайдіть додаткові зілля у фонтанах, граючи за справжнього козолюда."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Brawler → Забіяка
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BRAWLER/name"
+msgid "Brawler"
+msgstr "Забіяка"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Potion → Зілля, fist → кулак, thrown → метальний, Citadel → Цитадель
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BRAWLER/description"
+msgid "Attain victory in the Citadel by only attacking with your fists and throwing potions from the beginning of the game."
+msgstr "Переможіть у Цитаделі, від початку гри атакуючи лише кулаками та метаючи зілля."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: towel → рушник
+#. тон: joke, command, excited
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BRING_A_TOWEL/name"
+msgid "Don't Forget to Bring a Towel!"
+msgstr "Не забудьте рушник!"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: towel → рушник, bleeding → кровотеча, pie → пиріг, grease → мастило
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BRING_A_TOWEL/description"
+msgid "Use a towel to stop bleeding, clean pie off your face, and wipe grease from your hands."
+msgstr "Рушником зупиніть кровотечу, витріть пиріг з обличчя та мастило з рук."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Baron Herx → Барон Геркс, Bucktooth Baron → Зубатий барон
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BUCKTOOTH_BARON/name"
+msgid "Bucktooth Baron"
+msgstr "Зубатий барон"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Vampire → вампір, class → клас, Any → будь-який, Citadel → Цитадель
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BUCKTOOTH_BARON/description"
+msgid "Escape the Citadel playing as a true Vampire of any class."
+msgstr "Утечіть із Цитаделі справжнім вампіром будь-якого класу."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Baron Herx → Барон Геркс, Buggar Baron → Комашиний барон
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BUGGAR_BARON/name"
+msgid "Buggar Baron"
+msgstr "Комашиний барон"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Insectoid → комахолюд, Citadel → Цитадель
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BUGGAR_BARON/description"
+msgid "Escape the Citadel as a true Insectoid."
+msgstr "Утечіть із Цитаделі, граючи за справжнього комахолюда."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke, archaic, excited
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BUT_A_SCRATCH/name"
+msgid "'Tis But a Scratch!"
+msgstr "Лише подряпина!"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: enemy → ворог, HP → ОЗ
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BUT_A_SCRATCH/description"
+msgid "Defeat a powerful enemy with no more than 5 hit points remaining."
+msgstr "Здолайте могутнього ворога, маючи не більше ніж 5 ОЗ."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: bomb → бомба
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CALM_LIKE_A_BOMB/name"
+msgid "Calm Like a Bomb"
+msgstr "Спокійний, мов бомба"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: bomb → бомба, Damage → шкода, foe → ворог, Sleep → сон, sleep bomb → бомба сну
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CALM_LIKE_A_BOMB/description"
+msgid "Throw a damaging bomb at a foe who was put to sleep by a sleep bomb."
+msgstr "Киньте бомбу, що завдає шкоди, у ворога, приспаного бомбою сну."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CAUGHT_IN_A_MOSH/name"
+msgid "Caught in a Mosh"
+msgstr "У вирі мошу"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: monster → монстр, sentry → вартовий, target → ціль
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CAUGHT_IN_A_MOSH/description"
+msgid "Have at least 4 sentries target the same monster at once."
+msgstr "Нехай щонайменше 4 вартових одночасно націляться на одного монстра."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: excited
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CHEERS/name"
+msgid "Cheers!"
+msgstr "Будьмо!"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Effect → ефект, Character → персонаж, booze → хмільний напій
+#. тон: command, joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CHEERS/description"
+msgid "Throw booze at another character while you are under its effects."
+msgstr "Киньте хмільний напій в іншого персонажа, перебуваючи під його ефектом."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Blocking → блокування
+#. тон: threat
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CHOPPING_BLOCK/name"
+msgid "Chopping Block"
+msgstr "Плаха"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: paralysis → параліч, Axe → сокира, Punisher → каратель, Effect → ефект, enemy → ворог, Slow → сповільнення, Sleep → сон
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CHOPPING_BLOCK/description"
+msgid "Kill 50 enemies disabled by slow, sleep or paralyze effects with an axe as a Punisher over multiple playthroughs."
+msgstr "Граючи за карателя, за кілька проходжень убийте сокирою 50 ворогів, уражених сповільненням, сном або паралічем."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke, sad, excited
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CHOSEN_ONE/name"
+msgid "You Were the Chosen One!"
+msgstr "Ти був обраним!"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Legend → легенда, Item → предмет
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CHOSEN_ONE/description"
+msgid "Die while equipped with a Legendary item."
+msgstr "Помріть зі спорядженим легендарним предметом."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Blocking → блокування
+#. тон: joke, rude
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_COCK_BLOCK/name"
+msgid "Cock Block"
+msgstr "Кок-блок"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Cockatrice → кокатрис, melee → ближній бій, Damage → шкода, Blocking → блокування
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_COCK_BLOCK/description"
+msgid "Block and take no damage against a Cockatrice's melee attack."
+msgstr "Заблокуйте атаку кокатриса в ближньому бою та не зазнайте шкоди."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Cold → холод, Blood → кров
+#. тон: joke, threat
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_COLD_BLOODED/name"
+msgid "Cold Blooded"
+msgstr "Холоднокровний"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Vampire → вампір, Insectoid → комахолюд, Mines → Шахти, party → група
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_COLD_BLOODED/description"
+msgid "Escape the Mines in a cooperative game where a true Vampire and an Insectoid are in the party."
+msgstr "Утечіть із Шахт у спільній грі, де в групі є справжній вампір і комахолюд."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_COMEDIAN/name"
+msgid "Comedian"
+msgstr "Комедіант"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Skeleton → скелет, cloak → плащ, equipment → спорядження, weapon → зброя, Funny Bones → Веселі Кістки
+#. тон: command, joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_COMEDIAN/description"
+msgid "Equip Funny Bones' weapon and cloak with no other equipment as a skeleton."
+msgstr "Граючи за скелета, спорядіть лише зброю та плащ Веселих Кісток."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: solemn
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_COMMANDER_CHIEF/name"
+msgid "Commander in Chief"
+msgstr "Головнокомандувач"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Mesmer → месмерист, class → клас, race → раса, Any → будь-який, Citadel → Цитадель
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_COMMANDER_CHIEF/description"
+msgid "Escape the Citadel playing as the Mesmer class of any race."
+msgstr "Утечіть із Цитаделі месмеристом будь-якої раси."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: solemn
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CONFESSOR/name"
+msgid "Confessor"
+msgstr "Сповідник"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: NPC → неігровий персонаж, Dominate → підкорення
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CONFESSOR/description"
+msgid "Dominate an NPC that is already allied to you."
+msgstr "Підкоріть неігрового персонажа, який уже є вашим союзником."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Hell → Пекло
+#. тон: threat, joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_COWBOY_FROM_HELL/name"
+msgid "Cowboy From Hell"
+msgstr "Ковбой із Пекла"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Whip → батіг, enemy → ворог, Teleportation → телепортація
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_COWBOY_FROM_HELL/description"
+msgid "Kill 50 enemies with the whip shortly after teleporting them over multiple playthroughs."
+msgstr "Убийте батогом 50 ворогів невдовзі після їхньої телепортації протягом кількох проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CULT_FOLLOWING/name"
+msgid "Cult Following"
+msgstr "Культова свита"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: exit → вихід, Cockatrice → кокатрис, lair → лігво
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CULT_FOLLOWING/description"
+msgid "Exit the Cockatrice's Lair."
+msgstr "Покиньте лігво кокатрисів."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: sad, solemn
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_DESPAIR_CALMS/name"
+msgid "Despair Has Its Own Calms"
+msgstr "У відчаю свій спокій"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: exit → вихід, Bram's Castle → Замок Брама, Bram → Брам
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_DESPAIR_CALMS/description"
+msgid "Exit Bram's Castle."
+msgstr "Покиньте Замок Брама."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_DIPLOMA/name"
+msgid "Diploma"
+msgstr "Диплом"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: trial → випробування, Hall of Trials → Зала випробувань, The Hall of Trials → Зала випробувань
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_DIPLOMA/description"
+msgid "Complete all Trials in the Hall of Trials."
+msgstr "Завершіть усі випробування в Залі випробувань."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Drunk → сп'яніння
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_DRUNK_POWER/name"
+msgid "Drunk with Power"
+msgstr "Сп'янілий від влади"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Brewer → бровар, class → клас, race → раса, Any → будь-який, Citadel → Цитадель
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_DRUNK_POWER/description"
+msgid "Escape the Citadel playing as the Brewer class of any race."
+msgstr "Утечіть із Цитаделі броварем будь-якої раси."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_DYSLEXIA/name"
+msgid "Dyslexia"
+msgstr "Дислексія"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Goblin → гоблін, spellbook → книга заклять, Ash → Еш
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_DYSLEXIA/description"
+msgid "Burn 50 spellbooks to ash as a Goblin across multiple playthroughs."
+msgstr "Граючи за гобліна, за кілька проходжень спаліть 50 книг заклять на попіл."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: command, solemn
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_EARN_THIS/name"
+msgid "Earn This"
+msgstr "Заслужіть це"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Legend → легенда, Item → предмет, NPC → неігровий персонаж
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_EARN_THIS/description"
+msgid "Give a Legendary item to an Allied NPC."
+msgstr "Віддайте легендарний предмет союзному неігровому персонажу."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ESCORT/name"
+msgid "Escort"
+msgstr "Супровід"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Human → людина, ally → союзник, Hamlet → Поселення, NPC → неігровий персонаж
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ESCORT/description"
+msgid "Return to Hamlet with a human NPC ally."
+msgstr "Поверніться до Поселення із союзником-людиною серед неігрових персонажів."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: threat, solemn
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_EVIL_INCARNATE/name"
+msgid "Evil Incarnate"
+msgstr "Утілення зла"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Baphomet → Бафомет
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_EVIL_INCARNATE/description"
+msgid "Find and defeat the Baphomet."
+msgstr "Знайдіть і переможіть Бафомета."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_EXPELLED/name"
+msgid "Expelled"
+msgstr "Відраховано"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: trial → випробування, Hall of Trials → Зала випробувань, The Hall of Trials → Зала випробувань
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_EXPELLED/description"
+msgid "Die in the Hall of Trials hub."
+msgstr "Загиньте в осередді Зали випробувань."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_EXTERNAL_BATTERY/name"
+msgid "External Battery"
+msgstr "Зовнішній акумулятор"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: soul → душа, MP → ОМ, Summoning → прикликання
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_EXTERNAL_BATTERY/description"
+msgid "Relinquish the soul of a summoned familiar while you have zero MP."
+msgstr "Відпустіть душу прикликаного помічника, маючи нуль ОМ."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_EXTRA_CREDIT/name"
+msgid "Extra Credit"
+msgstr "Додаткові бали"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: trial → випробування, Hall of Trials → Зала випробувань, The Hall of Trials → Зала випробувань, secret area → таємна ділянка, Area → область
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_EXTRA_CREDIT/description"
+msgid "Find a secret area in each of the 10 Trials in the Hall of Trials."
+msgstr "Знайдіть таємну ділянку в кожному з 10 випробувань Зали випробувань."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: death → смерть
+#. тон: threat
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FACES_OF_DEATH/name"
+msgid "Faces of Death"
+msgstr "Обличчя смерті"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Mines → Шахти, party → група, Conjurer → прикликач, Shaman → шаман
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FACES_OF_DEATH/description"
+msgid "Escape the Mines in a cooperative game where a Shaman and Conjurer are in the party."
+msgstr "Утечіть із Шахт у спільній грі, де в групі є шаман і прикликач."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FAMILY_REUNION/name"
+msgid "Family Reunion"
+msgstr "Родинна зустріч"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Goatman → козолюд, recruit → найм, ally → союзник
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FAMILY_REUNION/description"
+msgid "Recruit three goatman allies as a true goatman."
+msgstr "Найміть трьох союзників-козолюдів, граючи за істинного козолюда."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: rude
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FASCIST/name"
+msgid "Fascist"
+msgstr "Фашист"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Automaton → автоматон, Scroll → Сувій, Magic → магія, book → книга
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FASCIST/description"
+msgid "Consume 50 non-magical books or scrolls as a true Automaton over the course of multiple playthroughs."
+msgstr "Граючи за справжнього автоматона, за кілька проходжень споживіть 50 немагічних книг або сувоїв."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FAST_LEARNER/name"
+msgid "Fast Learner"
+msgstr "Здібний учень"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: trial → випробування, Time → час
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FAST_LEARNER/description"
+msgid "Complete all Trials with a combined completion time of less than 20 minutes."
+msgstr "Пройдіть усі випробування менш ніж за 20 хвилин сумарного часу."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Beast → звір
+#. тон: threat, solemn
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FELL_BEAST/name"
+msgid "Fell Beast"
+msgstr "Лихий звір"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: weapon → зброя, Ranged → дальній бій, Damage → шкода, enemy → ворог
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FELL_BEAST/description"
+msgid "Do a very large amount of damage to an enemy using a ranged weapon with a single shot."
+msgstr "Завдайте ворогу величезної шкоди одним пострілом із далекобійної зброї."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FILTHY_RICH/name"
+msgid "Filthy Rich"
+msgstr "Непристойно багатий"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: gold piece → золота монета
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FILTHY_RICH/description"
+msgid "Obtain 10,000 gold."
+msgstr "Здобудьте 10 000 золотих монет."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: sarcasm
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FIRE_MAYBE_DIFFERENT/name"
+msgid "Maybe It'll Be Different"
+msgstr "Може, цього разу інакше"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Scroll → Сувій, Fire → вогонь, scroll of fire → сувій вогню
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FIRE_MAYBE_DIFFERENT/description"
+msgid "Read two scrolls of fire."
+msgstr "Прочитайте два сувої вогню."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FIXER_UPPER/name"
+msgid "Fixer-Upper"
+msgstr "Майстер на всі руки"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Trap → пастка, Tinkering → майстрування, machine → механізм, ally → союзник
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FIXER_UPPER/description"
+msgid "Repair or Salvage 100 Tinkered traps and machine allies."
+msgstr "Полагодьте або утилізуйте 100 змайстрованих пасток і союзних механізмів."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Flutter → пурхання
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FLUTTERSHY/name"
+msgid "Flutter Shy"
+msgstr "Полохливе пурхання"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Level → Рівень, Flutter → пурхання, access → доступ, Area → область
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FLUTTERSHY/description"
+msgid "Gain access to an otherwise inaccessible area of the level by using Flutter."
+msgstr "За допомогою пурхання дістаньтеся до інакше недоступної ділянки рівня."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FOODLESS_CONDUCT/name"
+msgid "Foodless Conduct"
+msgstr "Безхарчова поведінка"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Food → їжа, Any → будь-який
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FOODLESS_CONDUCT/description"
+msgid "Win the game without eating any food."
+msgstr "Переможіть у грі, не з'ївши жодної їжі."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Troll → Троль
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FORUM_TROLL/name"
+msgid "Forum Troll"
+msgstr "Форумний троль"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Troll → Троль, Fear → страх, wall → стіна, Character → персонаж, Break → ламання, ally → союзник
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FORUM_TROLL/description"
+msgid "Acquire 3 Troll allies, break 3 walls, and cast Fear on 3 characters as a Troll in a single playthrough."
+msgstr "За одне проходження Тролем найміть 3 союзників-тролів, зламайте 3 стіни й налякайте 3 персонажів закляттям страху."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FREE_REFILLS/name"
+msgid "Free Refills"
+msgstr "Безплатне поповнення"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: fountain → фонтан, sink → раковина, empty bottle → порожня пляшка, bottle → пляшка
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FREE_REFILLS/description"
+msgid "Fill 50 empty bottles from sinks or fountains."
+msgstr "Наповніть 50 порожніх пляшок із раковин або фонтанів."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FUNCTIONAL/name"
+msgid "Functional"
+msgstr "Працездатний"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Goatman → козолюд, hangover → похмілля, Time → час
+#. тон: command, joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FUNCTIONAL/description"
+msgid "Cure your hangover 10 times in a single playthrough as a true Goatman."
+msgstr "За одне проходження істинним козолюдом 10 разів вилікуйте похмілля."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_GASTRIC_BYPASS/name"
+msgid "Gastric Bypass"
+msgstr "Шлункове шунтування"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Insectoid → комахолюд, Spell → Закляття, enemy → ворог, Leaves → листя, EN → ЕН
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_GASTRIC_BYPASS/description"
+msgid "Kill an enemy with a spell that leaves you with 5 or fewer Energy as a true Insectoid."
+msgstr "Убийте ворога закляттям, лишившись із 5 або менше ЕН за справжнього комахолюда."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Eternal → Вічний
+#. тон: solemn
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_GIFTS_ETERNALS/name"
+msgid "Gifts From the Eternals"
+msgstr "Дари Вічних"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: armor → обладунок, artifact → артефакт, Artifact Armor → артефактні обладунки
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_GIFTS_ETERNALS/description"
+msgid "Obtain and wear a full set of Artifact Armor."
+msgstr "Здобудьте й надіньте повний комплект артефактних обладунків."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_GILDED/name"
+msgid "Gilded"
+msgstr "Позолочений"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: gold piece → золота монета
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_GILDED/description"
+msgid "Obtain 100,000 gold."
+msgstr "Здобудьте 100 000 золотих монет."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke, sad
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_GOODNIGHT_SWEET_PRINCE/name"
+msgid "Goodnight Sweet Prince"
+msgstr "На добраніч, любий принце"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: boulder → валун, Gyrobot → гіробот
+#. тон: command, joke, sad
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_GOODNIGHT_SWEET_PRINCE/description"
+msgid "Watch your Gyrobot get smashed by a boulder."
+msgstr "Подивіться, як валун розчавить вашого гіробота."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_GUDIPARIAN_BAZI/name"
+msgid "Gudiparan Bazi"
+msgstr "Ґудіпаран Базі"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: weapon → зброя, melee → ближній бій, Hunter → мисливець, Citadel → Цитадель, enemy → ворог, Melee Weapon → зброя ближнього бою
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_GUDIPARIAN_BAZI/description"
+msgid "Escape the Citadel without ever hitting an enemy with a melee weapon as a Hunter from the beginning of the game."
+msgstr "Утечіть із Цитаделі, від початку гри граючи за мисливця й жодного разу не вдаривши ворога зброєю ближнього бою."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_GUERILLA_RADIO/name"
+msgid "Guerilla Radio"
+msgstr "Партизанське радіо"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: noisemaker → шумова приманка, enemy → ворог
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_GUERILLA_RADIO/description"
+msgid "Kill 20 enemies who are being drawn towards a Noisemaker."
+msgstr "Убийте 20 ворогів, яких приваблює шумова приманка."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Hardcore Mode → режим хардкору
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_HARDCORE/name"
+msgid "Classical Hardcore"
+msgstr "Класичний хардкор"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Hardcore Mode → режим хардкору, Classic Mode → класичний режим
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_HARDCORE/description"
+msgid "Finish the game from beginning to end with Classic and Hardcore modes on."
+msgstr "Пройдіть гру від початку до кінця з увімкненими класичним режимом і режимом хардкору."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Healing → зцілення
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_HEAL_BOT/name"
+msgid "Heal Bot"
+msgstr "Бот-цілитель"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: NPC → неігровий персонаж, Healing → зцілення, Player → гравець, ally → союзник, HP → ОЗ
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_HEAL_BOT/description"
+msgid "Heal 1000 points of Player or Allied NPC hit points in a single playthrough."
+msgstr "Зціліть 1000 ОЗ гравців або союзних неігрових персонажів за одне проходження."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_HOMICIDAL_MANIAC/name"
+msgid "Homicidal Maniac"
+msgstr "Маніяк-убивця"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Human → людина
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_HOMICIDAL_MANIAC/description"
+msgid "Kill at least 10 humans in a single game."
+msgstr "Убийте щонайменше 10 людей за одну гру."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_HOT_SHOWER/name"
+msgid "Hot Shower"
+msgstr "Гарячий душ"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: fountain → фонтан, sink → раковина, Flame → полум'я
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_HOT_SHOWER/description"
+msgid "Use a sink or fountain to extinguish flames."
+msgstr "Загасіть полум'я за допомогою раковини або фонтана."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Time → час, machine → механізм
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_HOT_TUB/name"
+msgid "Hot Tub Time Machine"
+msgstr "Машина часу в джакузі"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Hunger → Голод, Level → Рівень, swimming → плавання, skill → навичка
+#. тон: command, joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_HOT_TUB/description"
+msgid "Gain 50+ Levels of Swimming with Hunger turned off, as though there was a skill called Swimming."
+msgstr "З вимкненим Голодом здобудьте понад 50 Рівнів плавання, наче навичка плавання справді існує."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_IF_YOU_LOVE_SOMETHING/name"
+msgid "If You Love Something"
+msgstr "Якщо щось любиш"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Time → час, enemy → ворог, boomerang → бумеранг
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_IF_YOU_LOVE_SOMETHING/description"
+msgid "Have the Boomerang return to you 100 times after hitting an enemy over multiple playthroughs."
+msgstr "Упродовж кількох проходжень 100 разів дочекайтеся повернення бумеранга після влучання у ворога."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ILLITERATE_CONDUCT/name"
+msgid "Illiterate Conduct"
+msgstr "Неписьменна поведінка"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Scroll → Сувій, spellbook → книга заклять, Any → будь-який, book → книга
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ILLITERATE_CONDUCT/description"
+msgid "Win the game without having read any books, scrolls, or spellbooks."
+msgstr "Переможіть у грі, не прочитавши жодної книги, сувою чи книги заклять."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_IN_GREATER_NUMBERS/name"
+msgid "In Greater Numbers"
+msgstr "Сила в кількості"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Player → гравець
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_IN_GREATER_NUMBERS/description"
+msgid "Win the game with at least two players alive."
+msgstr "Переможіть у грі, маючи щонайменше двох живих гравців."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_IN_THE_MIX/name"
+msgid "In The Mix"
+msgstr "У самій гущі"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Potion → Зілля, alembic → аламбік
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_IN_THE_MIX/description"
+msgid "Brew 50 potions using an Alembic."
+msgstr "Зваріть 50 зіль за допомогою аламбіка."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_IRONIC_PUNISHMENT/name"
+msgid "Ironic Punishment Division"
+msgstr "Відділ іронічних покарань"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: weapon → зброя, lockpick → відмичка, melee → ближній бій, Whip → батіг, target → ціль, Melee Weapon → зброя ближнього бою, Disarm → обеззброєння
+#. тон: command, joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_IRONIC_PUNISHMENT/description"
+msgid "Use the whip to disarm a target's melee weapon, pick up the weapon, and use it to kill the same target."
+msgstr "Батогом обеззбройте ціль, підберіть її зброю ближнього бою та вбийте нею ту саму ціль."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: iron → залізо
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_IRON_GUT/name"
+msgid "Iron Gut"
+msgstr "Залізний шлунок"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Goatman → козолюд, tin → консерва
+#. тон: command, joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_IRON_GUT/description"
+msgid "Eat 20 tin cans as a true goatman."
+msgstr "З'їжте 20 консерв, граючи справжнім козолюдом."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke, sarcasm
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ITS_A_LIVING/name"
+msgid "It's a Living"
+msgstr "Така вже робота"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: bleeding → кровотеча, enemy → ворог, hood → каптур, Executioner's Hood → каптур ката
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ITS_A_LIVING/description"
+msgid "Inflict bleeding status on 50 enemies while wearing the executioner's hood over multiple playthroughs"
+msgstr "Спричиніть кровотечу в 50 ворогів, носячи каптур ката впродовж кількох проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_I_WANT_IT_ALL/name"
+msgid "I Want it All"
+msgstr "Хочу все"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: class → клас, race → раса, DLC → DLC
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_I_WANT_IT_ALL/description"
+msgid "Play as every DLC class and race."
+msgstr "Зіграйте за кожен клас і кожну расу з DLC."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_JUNGLE_FEVER/name"
+msgid "Jungle Fever"
+msgstr "Лихоманка джунглів"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Swamp → Болото
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_JUNGLE_FEVER/description"
+msgid "Escape the swamp."
+msgstr "Втечіть із Болота."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: technical
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_KILL_COMMAND/name"
+msgid "Kill Command"
+msgstr "Команда знищення"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: charm → причарування, enemy → ворог, ally → союзник
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_KILL_COMMAND/description"
+msgid "Have your charmed allies kill 50 enemies."
+msgstr "Нехай ваші причаровані союзники вб'ють 50 ворогів."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: King Arthur → король Артур, Blade → лезо
+#. тон: solemn
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_KING_ARTHURS_BLADE/name"
+msgid "King Arthur's Blade"
+msgstr "Лезо короля Артура"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Sword → меч, King Arthur → король Артур, Dyrnwyn → Дірнвін
+#. тон: command, solemn
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_KING_ARTHURS_BLADE/description"
+msgid "Find King Arthur's mystical sword, Dyrnwyn."
+msgstr "Знайдіть містичний меч короля Артура — Дірнвін."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: solemn, archaic
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_KNOW_THYSELF/name"
+msgid "Know Thyself"
+msgstr "Пізнай себе"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Shadow → тінь, Identity → особа
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_KNOW_THYSELF/description"
+msgid "Kill a Shadow who is mimicking your identity."
+msgstr "Убийте тінь, яка копіює вашу особу."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_LAST_RESORT/name"
+msgid "Last Resort"
+msgstr "Останній засіб"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: boulder → валун, pickaxe → кирка, Destroy → знищення
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_LAST_RESORT/description"
+msgid "Destroy a boulder using a pickaxe while it's rolling toward you."
+msgstr "Знищте валун киркою, поки він котиться до вас."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_LEVITANT_LACKEY/name"
+msgid "Levitant Lackey"
+msgstr "Летючий лакей"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Gyrobot → гіробот, Item → предмет, switch → перемикач
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_LEVITANT_LACKEY/description"
+msgid "Command a Gyrobot to grab an item or interact with a switch that is otherwise inaccessible."
+msgstr "Накажіть гіроботу схопити предмет або скористатися недоступним інакше перемикачем."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Lich → ліч, Hunter → мисливець
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_LICH_HUNTER/name"
+msgid "Lich Hunter"
+msgstr "Мисливець на лічів"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Baron Herx → Барон Геркс, Herx → Геркс, lair → лігво
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_LICH_HUNTER/description"
+msgid "Find and defeat Baron Herx in his lair."
+msgstr "Знайдіть і здолайте Барона Геркса в його лігві."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Life → життя
+#. тон: solemn
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_LIFE_FOR_A_LIFE/name"
+msgid "A Life for a Life"
+msgstr "Життя за життя"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: health → здоров'я, enemy → ворог, Dominate → підкорення
+#. тон: command, solemn
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_LIFE_FOR_A_LIFE/description"
+msgid "Sacrifice your entire health pool to Dominate an enemy and survive it."
+msgstr "Пожертвуйте всім запасом здоров'я, щоб підкорити ворога, і виживіть."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_LIKE_CLOCKWORK/name"
+msgid "Like Clockwork"
+msgstr "Як годинник"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Mechanist → механіст, race → раса, Any → будь-який, Citadel → Цитадель
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_LIKE_CLOCKWORK/description"
+msgid "Escape the Citadel as a Mechanist of any race."
+msgstr "Утечіть із Цитаделі механістом будь-якої раси."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_LOCAL_CUSTOMS/name"
+msgid "Local Customs"
+msgstr "Місцеві звичаї"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Mod → мод, Local Mod → локальний мод, Mod File → файл мода
+#. тон: command, technical
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_LOCAL_CUSTOMS/description"
+msgid "Start a game with a local mod file loaded."
+msgstr "Почніть гру із завантаженим файлом локального мода."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: machine → механізм
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MACHINE_HEAD/name"
+msgid "Machine Head"
+msgstr "Механічна голова"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Magic → магія, crossbow → арбалет, sentry → вартовий, crossbow sentry → арбалетна турель, magic sentry → магічна турель, gyrocopter → гірокоптер
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MACHINE_HEAD/description"
+msgid "Have a crossbow sentry, magic sentry and gyrocopter all active at once."
+msgstr "Одночасно активуйте арбалетну турель, магічну турель і гірокоптер."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Magic → магія
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MAGIC_MASTERY/name"
+msgid "Magic Mastery"
+msgstr "Майстерність у магії"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Spell → Закляття
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MAGIC_MASTERY/description"
+msgid "Learn 20 Spells."
+msgstr "Вивчіть 20 заклять."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MANAGEMENT_TEAM/name"
+msgid "Management Team"
+msgstr "Команда керівників"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Mines → Шахти, party → група, Mesmer → месмерист, Mechanist → механіст
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MANAGEMENT_TEAM/description"
+msgid "Escape the Mines in a cooperative game where a Mechanist and a Mesmer are in the party."
+msgstr "Утечіть із Шахт у спільній грі, де в групі є механіст і месмерист."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MANY_PEDI_PALP/name"
+msgid "Many-Pedi-Palp"
+msgstr "Мані-педі-пальп"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Spider → Павук, enemy → ворог, Webbed → Обплутання павутиною
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MANY_PEDI_PALP/description"
+msgid "Kill 50 webbed enemies as a Spider over multiple playthroughs."
+msgstr "Убийте 50 обплутаних павутиною ворогів, граючи павуком упродовж кількох проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Master → майстер
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MASTER/name"
+msgid "Master"
+msgstr "Майстер"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Master → майстер, trial → випробування, Hall of Trials → Зала випробувань, The Hall of Trials → Зала випробувань, Master's Wing → Крило майстра
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MASTER/description"
+msgid "Find the Master's Wing in the Hall of Trials hub."
+msgstr "Знайдіть Крило майстра в осередді Зали випробувань."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Master → майстер
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MIXOLOGIST/name"
+msgid "Master Mixologist"
+msgstr "Майстер міксології"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Alchemy → алхімія
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MIXOLOGIST/description"
+msgid "Learn all of the base and secondary alchemy ingredients."
+msgstr "Дізнайтеся всі основні й вторинні складники алхімії."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MONARCH/name"
+msgid "Monarch"
+msgstr "Монарх"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Insectoid → комахолюд, enemy → ворог, ally → союзник
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MONARCH/description"
+msgid "Have Insectoid allies kill 20 enemies for you as a true insectoid."
+msgstr "Нехай союзники-комахолюди вб'ють для вас 20 ворогів, коли ви граєте справжнім комахолюдом."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: monster → монстр
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MONSTER_SQUAD/name"
+msgid "Monster Squad"
+msgstr "Загін монстрів"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: monster → монстр, Player → гравець
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MONSTER_SQUAD/description"
+msgid "Play a game with 3 or more players where everyone is a monster."
+msgstr "Зіграйте втрьох або більшою групою, де всі гравці — монстри."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: boulder → валун
+#. тон: joke, sarcasm
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MOVED_ITSELF/name"
+msgid "That boulder moved itself!"
+msgstr "Цей валун сам покотився!"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: boulder → валун, ally → союзник, Player → гравець
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MOVED_ITSELF/description"
+msgid "Kill an ally player with a pushed boulder."
+msgstr "Убийте гравця-союзника штовхнутим валуном."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Memorize Spell → запам'ятати закляття
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MUSCLE_MEMORY/name"
+msgid "Muscle Memory"
+msgstr "М'язова пам'ять"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Human → людина, Skeleton → скелет, Food → їжа, polymorph → перетворення
+#. тон: command, joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MUSCLE_MEMORY/description"
+msgid "Eat food when polymorphed into a human as a true Skeleton."
+msgstr "Граючи за справжнього скелета, з'їжте їжу, перетворившись на людину."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Form → форма
+#. тон: joke, excited
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MY_FINAL_FORM/name"
+msgid "My Final Form"
+msgstr "Моя остаточна форма"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Shaman → шаман, race → раса, Any → будь-який, Citadel → Цитадель
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MY_FINAL_FORM/description"
+msgid "Escape the Citadel as a Shaman of any race."
+msgstr "Утечіть із Цитаделі шаманом будь-якої раси."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_NARCISSIST/name"
+msgid "Narcissist"
+msgstr "Нарцис"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Spell → Закляття, shield → щит, mirror → дзеркало, enemy → ворог, mirror shield → дзеркальний щит
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_NARCISSIST/description"
+msgid "Use a Mirror Shield to kill an enemy using its own reflected spell."
+msgstr "За допомогою дзеркального щита вбийте ворога його ж відбитим закляттям."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Leader → лідерство
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_NATURAL_BORN_LEADER/name"
+msgid "Natural Born Leader"
+msgstr "Природжений лідер"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: NPC → неігровий персонаж
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_NATURAL_BORN_LEADER/description"
+msgid "Convince at least three NPCs to follow you at once."
+msgstr "Переконайте щонайменше трьох неігрових персонажів одночасно піти за вами."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Player → гравець
+#. тон: sarcasm, joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_NOT_A_TEAM_PLAYER/name"
+msgid "Not a Team Player"
+msgstr "Не командний гравець"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Player → гравець
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_NOT_A_TEAM_PLAYER/description"
+msgid "Kill another player."
+msgstr "Убийте іншого гравця."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_OFF_LIMITS/name"
+msgid "Off Limits"
+msgstr "Сюди не можна"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: monster → монстр, charm → причарування, attempt → спроба
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_OFF_LIMITS/description"
+msgid "Attempt to charm a monster that cannot be tamed."
+msgstr "Спробуйте причарувати монстра, якого неможливо приручити."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: marked → позначений
+#. тон: joke, excited
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_OHAI_MARK/name"
+msgid "OHAI MARK"
+msgstr "О, ПРИВІТ, МАРКУ"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: marked → позначений, Teleport → телепортація, enemy → ворог, Assassination → убивство ударом у спину
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_OHAI_MARK/description"
+msgid "Teleport to and assassinate 20 marked enemies in a single playthrough."
+msgstr "Телепортуйтеся та вбийте ударом у спину 20 позначених ворогів за одне проходження."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ONE_MANS_TRASH/name"
+msgid "One Man's Trash"
+msgstr "Для когось — сміття"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: cursed → проклятий, magicstaff → магічний посох
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ONE_MANS_TRASH/description"
+msgid "Use a Cursed Magicstaff until it breaks."
+msgstr "Користуйтеся проклятим магічним посохом, доки він не зламається."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ONE_PUNCH_MAN/name"
+msgid "One Punch Man"
+msgstr "Ванпанчмен"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Legend → легенда, skill → навичка, paralysis → параліч, monster → монстр, Unarmed → без зброї
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ONE_PUNCH_MAN/description"
+msgid "Paralyze a monster with Legendary Unarmed skill."
+msgstr "Паралізуйте монстра з легендарною навичкою бою без зброї."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: threat, joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ONE_WHO_KNOCKS/name"
+msgid "I Am the One Who Knocks"
+msgstr "Це я стукаю"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Minotaur → Мінотавр, Damage → шкода, Blocking → блокування
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ONE_WHO_KNOCKS/description"
+msgid "Tank a minotaur's attack and take no damage from it without blocking."
+msgstr "Витримайте атаку мінотавра без шкоди й не блокуючи її."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: technical
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_OVERCLOCKED/name"
+msgid "Overclocked"
+msgstr "Розігнаний"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Automaton → автоматон, Boiler → котел, superheated → перегрітий
+#. тон: command, technical
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_OVERCLOCKED/description"
+msgid "Accumulate 10 minutes of playtime with a superheated boiler as a true Automaton."
+msgstr "Граючи за справжнього автоматона, проведіть 10 хвилин гри з перегрітим котлом."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: enemy → ворог
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_OWN_WORST_ENEMY/name"
+msgid "Your Own Worst Enemy"
+msgstr "Сам собі найлютіший ворог"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Lich → ліч, Summoning → прикликання, Minion → поплічник
+#. тон: command, joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_OWN_WORST_ENEMY/description"
+msgid "Get a lich killed by its own summoned minion."
+msgstr "Зробіть так, щоб ліча вбив його власний прикликаний поплічник."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_PENNILESS_CONDUCT/name"
+msgid "Penniless Conduct"
+msgstr "Безкопійчана поведінка"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: gold piece → золота монета, Any → будь-який
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_PENNILESS_CONDUCT/description"
+msgid "Win the game without collecting any gold."
+msgstr "Пройдіть гру, не зібравши жодної золотої монети."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke, rude
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_PIMPIN/name"
+msgid "Pimpin Ain't Easy"
+msgstr "Сутенерство — справа нелегка"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Human → людина, Succubus → сукуб, Incubus → інкуб, recruit → найм
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_PIMPIN/description"
+msgid "Recruit a total of 6 Succubus, Incubus or Humans as a true Incubus or Succubus."
+msgstr "Граючи за справжнього інкуба або сукуба, загалом найміть 6 сукубів, інкубів або людей."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: sarcasm, joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_PITY_FRIEND/name"
+msgid "Pity Friend"
+msgstr "Друг із жалю"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Human → людина, ally → союзник, monster → монстр, recruit → найм
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_PITY_FRIEND/description"
+msgid "Recruit a human ally as a monster."
+msgstr "Граючи за монстра, найміть союзника-людину."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_PLEASE_HOLD/name"
+msgid "Please Hold"
+msgstr "Залишайтеся на лінії"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: enemy → ворог, Fire → вогонь, springshot ammo → пружинні боєприпаси, fire ammo → запалювальні боєприпаси, Hunting → мисливський
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_PLEASE_HOLD/description"
+msgid "Hit an enemy with Hunting or Fire Ammo, and then stall them with Springshot Ammo."
+msgstr "Поцільте ворога мисливськими чи запалювальними боєприпасами, а тоді затримайте пружинними."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: boots → чоботи, blessed → благословенний, speed → швидкість
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_PLUS_BOOTS_OF_SPEED/name"
+msgid "Blessed Boots of Speed"
+msgstr "Благословенні чоботи швидкості"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_PLUS_BOOTS_OF_SPEED/description"
+msgid "Reach the final stage in 45 minutes or less and win the game."
+msgstr "Дістаньтеся фінального етапу за 45 хвилин або швидше й переможіть."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_POP_QUIZ/name"
+msgid "Pop Quiz"
+msgstr "Раптова контрольна"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Goblin → гоблін, Spell → Закляття, spellbook → книга заклять
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_POP_QUIZ/description"
+msgid "Cast 20 different spells from spellbooks as a true Goblin in a single playthrough."
+msgstr "Граючи за справжнього гобліна, за одне проходження застосуйте з книг заклять 20 різних заклять."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Hardcore Mode → режим хардкору
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_POST_HARDCORE/name"
+msgid "Postmodern Hardcore"
+msgstr "Постмодерний хардкор"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Hardcore Mode → режим хардкору, Classic Mode → класичний режим
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_POST_HARDCORE/description"
+msgid "Finish the game from beginning to end with Hardcore mode on and Classic Mode off."
+msgstr "Пройдіть гру від початку до кінця з увімкненим режимом хардкору й вимкненим класичним режимом."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Potion → Зілля
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_POTION_PREPARATION/name"
+msgid "Potion Preparation"
+msgstr "Підготовка зіль"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Potion → Зілля
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_POTION_PREPARATION/description"
+msgid "Hold 16 different potions or bottled liquids in your inventory that don't need to be brewed first."
+msgstr "Майте в інвентарі 16 різних зіль або рідин у пляшках, які не треба спершу варити."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Hungry → голодний
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_POWER_HUNGRY/name"
+msgid "Power Hungry"
+msgstr "Жага влади"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Accursed → проклятий, class → клас, race → раса, Any → будь-який, Citadel → Цитадель
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_POWER_HUNGRY/description"
+msgid "Escape the Citadel playing as the Accursed class of any race."
+msgstr "Утечіть із Цитаделі, граючи за клас проклятого будь-якої раси."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_PROFESSIONAL_BURGLAR/name"
+msgid "Professional Burglar"
+msgstr "Професійний грабіжник"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Shopkeeper → Крамар
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_PROFESSIONAL_BURGLAR/description"
+msgid "Kill at least 3 shopkeepers in one game."
+msgstr "Убийте щонайменше 3 крамарів за одну гру."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Master → майстер, puzzle → головоломка
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_PUZZLE_MASTER/name"
+msgid "Puzzle Master"
+msgstr "Майстер головоломок"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Sokoban → Сокобан
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_PUZZLE_MASTER/description"
+msgid "Unravel the mystery of Sokoban."
+msgstr "Розгадайте таємницю Сокобану."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: machine → механізм
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_RAGE_AGAINST/name"
+msgid "Rage Against the Machine"
+msgstr "Лють проти механізму"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Dummybot → робот-манекен, enemy → ворог
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_RAGE_AGAINST/description"
+msgid "Kill 20 enemies while they are attacking Dummybots over multiple playthroughs."
+msgstr "Убийте 20 ворогів, поки вони атакують роботів-манекенів, за кілька проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Danger → Небезпека
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_RANGER_DANGER/name"
+msgid "Ranger Danger"
+msgstr "Мисливець у небезпеці"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Hunter → мисливець, race → раса, Any → будь-який, Citadel → Цитадель
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_RANGER_DANGER/description"
+msgid "Escape the Citadel as a Hunter of any race."
+msgstr "Утечіть із Цитаделі мисливцем будь-якої раси."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke, excited
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_REAL_BOY/name"
+msgid "I'm a Real Boy"
+msgstr "Я справжній хлопчик!"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Merchant → торговець, Human → людина, Automaton → автоматон, ally → союзник, polymorph → перетворення, Effect → ефект, shop → крамниця, recruit → найм
+#. тон: command, joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_REAL_BOY/description"
+msgid "Recruit a Human ally and shop with a merchant while under the effects of polymorph as a true Automaton."
+msgstr "Граючи за справжнього автоматона під дією перетворення, найміть союзника-людину й поторгуйте з торговцем."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: technical
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_RECYCLER/name"
+msgid "Recycler"
+msgstr "Переробник"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Automaton → автоматон, Item → предмет, ally → союзник
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_RECYCLER/description"
+msgid "Give an item to an Allied Automaton to recycle."
+msgstr "Віддайте предмет союзному автоматону на перероблення."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_REPOSSESSION/name"
+msgid "Repossession"
+msgstr "Повернення майна"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Succubus → сукуб, Incubus → інкуб, lockpick → відмичка, Item → предмет
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_REPOSSESSION/description"
+msgid "Pick up an item that an Incubus or Succubus stole from you."
+msgstr "Підберіть предмет, який у вас украв інкуб або сукуб."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_REUNITED/name"
+msgid "Reunited"
+msgstr "Нова зустріч"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Minotaur → Мінотавр, Herx → Геркс
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_REUNITED/description"
+msgid "Kill a Minotaur after encountering Herx."
+msgstr "Убийте мінотавра після зустрічі з Герксом."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: curse → прокляття
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_REVERSE_THIS_CURSE/name"
+msgid "Reverse This Curse"
+msgstr "Зніміть це прокляття"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Accursed → проклятий, class → клас
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_REVERSE_THIS_CURSE/description"
+msgid "Find a cure for the Accursed class."
+msgstr "Знайдіть ліки від прокляття класу проклятого."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_RHINESTONE_COWBOY/name"
+msgid "Rhinestone Cowboy"
+msgstr "Ковбой у стразах"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: identification → визначення, Worthless Glass → безвартісне скло
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_RHINESTONE_COWBOY/description"
+msgid "Identify 50 pieces of Worthless Glass throughout multiple playthroughs."
+msgstr "Визначте 50 шматків безвартісного скла за кілька проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_RHYTHM_OF_THE_KNIGHT/name"
+msgid "The Rhythm of the Knight"
+msgstr "Ритм лицаря"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Time → час, foe → ворог, Blocking → блокування
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_RHYTHM_OF_THE_KNIGHT/description"
+msgid "Perform a Block, Attack tradeoff 3 times against a single foe without taking an unblocked hit."
+msgstr "Тричі чергуйте блокування й атаку проти одного ворога, не пропустивши незаблокованого удару."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_RICH_ALTER_EGO/name"
+msgid "My Rich Alter-Ego"
+msgstr "Моє багате альтер его"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: gold piece → золота монета, monster → монстр, polymorph → перетворення, Effect → ефект
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_RICH_ALTER_EGO/description"
+msgid "As a monster, trade 50,000 gold while under the effects of Polymorph across all your games."
+msgstr "Граючи за монстра, наторгуйте на 50 000 золотих монет під ефектом перетворення за всі ігри."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_RIGHT_TO_REFUSE/name"
+msgid "Right to Refuse"
+msgstr "Право відмовити"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: monster → монстр, shop → крамниця
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_RIGHT_TO_REFUSE/description"
+msgid "Get chased out of a shop because you're a monster."
+msgstr "Доведіть крамаря до того, щоб він вигнав вас із крамниці за те, що ви монстр."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ROBBING_THE_CRADLE/name"
+msgid "Robbing the Cradle"
+msgstr "Пограбування колиски"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Life → життя, Haunted Castle → Замок із привидами
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ROBBING_THE_CRADLE/description"
+msgid "Loot the Haunted Castle and escape with your life."
+msgstr "Пограбуйте Замок із привидами та виберіться звідти живим."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ROLL_THE_BONES/name"
+msgid "Roll The Bones"
+msgstr "Кидайте кості"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Scroll → Сувій, Shaman → шаман, Magic → магія, Magic Quill → магічне перо
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ROLL_THE_BONES/description"
+msgid "Enscribe 50 scrolls with the Magic Quill as a Shaman over multiple playthroughs."
+msgstr "Впишіть 50 сувоїв магічним пером, граючи шаманом у кількох проходженнях."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Peace → мир
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_RUST_IN_PEACE/name"
+msgid "Rust In Peace"
+msgstr "Іржавій з миром"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Automaton → автоматон, Boiler → котел, Effect → ефект, Cold → холод
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_RUST_IN_PEACE/description"
+msgid "Die from the effects of having a cold boiler as a true Automaton."
+msgstr "Загиньте від ефектів холодного котла, граючи справжнім автоматоном."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SANDMAN/name"
+msgid "Sandman"
+msgstr "Пісочний чоловік"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Labyrinth → Лабіринт
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SANDMAN/description"
+msgid "Escape the sand labyrinth."
+msgstr "Виберіться з піщаного Лабіринту."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SAVAGE/name"
+msgid "Savage"
+msgstr "Дикун"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Goblin → гоблін, Legend → легенда, weapon → зброя, skill → навичка, melee → ближній бій, Any → будь-який, Weapon Skill → навичка володіння зброєю, Melee Weapon → зброя ближнього бою
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SAVAGE/description"
+msgid "Reach Legendary skill in any melee weapon skill as a true Goblin."
+msgstr "Досягніть легендарного рівня будь-якої навички зброї ближнього бою, граючи справжнім гобліном."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SCALES_IN_FAVOR/name"
+msgid "Scales In Your Favor"
+msgstr "Шальки на вашу користь"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Cockatrice → кокатрис, Assassination → убивство ударом у спину
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SCALES_IN_FAVOR/description"
+msgid "Assassinate a Cockatrice."
+msgstr "Убийте кокатриса ударом у спину."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SECOND_CHANCE/name"
+msgid "Second Chance"
+msgstr "Другий шанс"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Skeleton → скелет, mana → мана
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SECOND_CHANCE/description"
+msgid "Revive yourself by expending your mana as a skeleton."
+msgstr "Оживіть себе, витративши ману, граючи скелетом."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: weapon → зброя
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SECRET_WEAPON/name"
+msgid "Secret Weapon"
+msgstr "Таємна зброя"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Lich → ліч, Potion → Зілля, thrown → метальний
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SECRET_WEAPON/description"
+msgid "Kill a lich with a thrown potion."
+msgstr "Убийте ліча метальним зіллям."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: excited
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SEE_THAT/name"
+msgid "Did You See That?!"
+msgstr "Ви це бачили?!"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: monster → монстр, wall → стіна, shuriken → сюрикен
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SEE_THAT/description"
+msgid "Kill a monster with a shuriken after it has twice bounced off a wall."
+msgstr "Убийте монстра сюрикеном, що двічі відскочив від стіни."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SELF_FLAGELLATION/name"
+msgid "Self Flagellation"
+msgstr "Самобичування"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Demon → демон, Inner Demon → внутрішній демон, enemy → ворог, Retaliation → удар у відповідь
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SELF_FLAGELLATION/description"
+msgid "Have 30 Enemies kill themselves under retaliation from an Inner Demon over multiple playthroughs."
+msgstr "Нехай 30 ворогів загинуть від ударів у відповідь внутрішнього демона протягом кількох проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SERIAL_THRILLA/name"
+msgid "Serial Thrilla"
+msgstr "Серійний душитель"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Succubus → сукуб, Incubus → інкуб, mana → мана, amulet → амулет, Strangulation → удушення
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SERIAL_THRILLA/description"
+msgid "Gain 100 mana from Amulets of Strangulation as a true Incubus or Succubus."
+msgstr "Здобудьте 100 мани від амулетів удушення, граючи справжнім інкубом або сукубом."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: duck → качка
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SITTING_DUCK/name"
+msgid "Sitting Duck"
+msgstr "Легка качка"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: paralyzed → паралізований, enemy → ворог, ensnared → у пастці
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SITTING_DUCK/description"
+msgid "Kill 10 enemies while they are paralyzed or ensnared in a single playthrough."
+msgstr "Убийте 10 ворогів, поки вони паралізовані або в пастці, за одне проходження."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Skeleton → скелет
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SKELETON_CREW/name"
+msgid "Skeleton Crew"
+msgstr "Кістяк команди"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Skeleton → скелет, Summon → виклик, Skeleton Familiar → скелет-фамільяр
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SKELETON_CREW/description"
+msgid "Summon two Skeleton Familiars at once."
+msgstr "Викличте двох скелетів-фамільярів водночас."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SOCIAL_BUTTERFLY/name"
+msgid "Social Butterfly"
+msgstr "Світський метелик"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: polymorph → перетворення, Shaman → шаман, recruit → найм, Shapeshifted → змінена форма
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SOCIAL_BUTTERFLY/description"
+msgid "Recruit 50 allies while Shapeshifted or Polymorphed as a Shaman over multiple playthroughs."
+msgstr "Найміть 50 союзників у зміненій формі або після перетворення, граючи шаманом у кількох проходженнях."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SOCIOPATHS/name"
+msgid "Sociopaths"
+msgstr "Соціопати"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Mines → Шахти, party → група, Accursed → проклятий, Punisher → каратель
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SOCIOPATHS/description"
+msgid "Escape the Mines in a cooperative game where an Accursed and a Punisher are in the party."
+msgstr "Виберіться з Шахт у спільній грі, де в групі є проклятий і каратель."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SOULLESS/name"
+msgid "Soulless"
+msgstr "Бездушні"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Skeleton → скелет, Automaton → автоматон, Mines → Шахти, party → група
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SOULLESS/description"
+msgid "Escape the Mines in a cooperative game where a true Automaton and Skeleton are in the party."
+msgstr "Виберіться з Шахт у спільній грі, де в групі є справжні автоматон і скелет."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: spear → спис
+#. тон: solemn
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SPEAR_OF_DESTINY/name"
+msgid "Spear of Destiny"
+msgstr "Спис долі"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Legend → легенда, Gungnir → Ґунґнір, spear → спис, Odin → Одін
+#. тон: solemn
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SPEAR_OF_DESTINY/description"
+msgid "Find Odin's legendary spear, Gungnir."
+msgstr "Знайдіть легендарний спис Одіна — Ґунґнір."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke, excited
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SPELUNKY/name"
+msgid "Spelunky!"
+msgstr "Печерницько!"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Caves → Печери
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SPELUNKY/description"
+msgid "Escape the Caves."
+msgstr "Виберіться з Печер."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Life → життя
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SPICE_OF_LIFE/name"
+msgid "Spice of Life"
+msgstr "Смак життя"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: class → клас
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SPICE_OF_LIFE/description"
+msgid "Start at least one game with every class."
+msgstr "Почніть хоча б одну гру за кожен клас."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke, excited
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SPICY/name"
+msgid "Spicy!"
+msgstr "Гостренько!"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Automaton → автоматон, Scroll → Сувій, scroll of fire → сувій вогню, Fire → вогонь
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SPICY/description"
+msgid "Consume 10 Scrolls of Fire as a true Automaton."
+msgstr "Споживіть 10 сувоїв вогню, граючи справжнім автоматоном."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SPONGE/name"
+msgid "Sponge"
+msgstr "Губка"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Damage → шкода
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SPONGE/description"
+msgid "Survive 150 damage or more taken from a single attack."
+msgstr "Переживіть одну атаку, що завдала щонайменше 150 шкоди."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SPUD_LORD/name"
+msgid "Spud Lord"
+msgstr "Картопляний пан"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Mace → булава, Sharur → Шарур
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SPUD_LORD/description"
+msgid "Find the mystical talking mace, Sharur."
+msgstr "Знайдіть містичну балакучу булаву Шарур."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Ghoul → упир
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SQUAD_GHOULS/name"
+msgid "Squad Ghouls"
+msgstr "Загін упирів"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Skeleton → скелет, Ghoul → упир, recruit → найм
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SQUAD_GHOULS/description"
+msgid "Recruit four ghouls at once as a skeleton."
+msgstr "Найміть чотирьох упирів водночас, граючи скелетом."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: rude, joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_STFU/name"
+msgid "STFU"
+msgstr "ЗАТКНИСЯ"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Sharur → Шарур
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_STFU/description"
+msgid "Throw Sharur into a pit."
+msgstr "Киньте Шарур у прірву."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_STROBE/name"
+msgid "Let There Be Strobe"
+msgstr "Хай буде стробоскоп"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Spell → Закляття, spellcasting → чаклування, Time → час, Light → світло
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_STROBE/description"
+msgid "Exploit the Light spell by casting it 20 times in a single minute."
+msgstr "Скористайтеся вадою закляття світла, чаклуючи його 20 разів за одну хвилину."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_STRUNG_OUT/name"
+msgid "Strung Out"
+msgstr "На тятиві"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Time → час, Score → рахунок, bow → лук, enemy → ворог, compound bow → блочний лук, ammunition → боєприпаси, swift ammunition → швидкі боєприпаси
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_STRUNG_OUT/description"
+msgid "Use swift ammunition while wielding the compound bow to score 10 hits on enemies in a short amount of time."
+msgstr "Зі швидкими боєприпасами та блочним луком влучте у ворогів 10 разів за короткий проміжок часу."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_STUCK_ON_YOU/name"
+msgid "Stuck On You"
+msgstr "Благословенно причепився"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Succubus → сукуб, fountain → фонтан, bless → благословляти, equipment → спорядження
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_STUCK_ON_YOU/description"
+msgid "Have a fountain bless your equipment as a true Succubus."
+msgstr "Нехай фонтан благословить ваше спорядження, коли ви граєте справжнім сукубом."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SUPER_SHREDDER/name"
+msgid "Super Shredder"
+msgstr "Суперподрібнювач"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Tinkering → майстрування, Item → предмет, Scrap → брухт, Essence → есенція, Tinkering Toolkit → набір інструментів майстра
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SUPER_SHREDDER/description"
+msgid "Recycle items into 1000 units of Scrap and Essence using Tinkering Toolkits."
+msgstr "Переробіть предмети на 1000 одиниць брухту й есенції за допомогою наборів інструментів майстра."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SURROGATES/name"
+msgid "Surrogates"
+msgstr "Заступники"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: charm → причарування, Mesmer → месмерист
+#. тон: sad
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SURROGATES/description"
+msgid "Allow 50 charmed allies to die in while in your service as a Mesmer."
+msgstr "Дозвольте 50 причарованим союзникам загинути у вас на службі, граючи месмеристом."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SURVIVALISTS/name"
+msgid "Survivalists"
+msgstr "Виживальники"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Mines → Шахти, party → група, Brewer → бровар, Hunter → мисливець
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SURVIVALISTS/description"
+msgid "Escape the Mines in cooperative game where a Hunter and Brewer are in the party."
+msgstr "Виберіться з Шахт у спільній грі, де в групі є мисливець і бровар."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SWINGERS/name"
+msgid "Swingers"
+msgstr "Свінгери"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Succubus → сукуб, Incubus → інкуб, Mines → Шахти, party → група
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SWINGERS/description"
+msgid "Escape the Mines in a cooperative game where a true Incubus and Succubus are in the party."
+msgstr "Виберіться з Шахт у спільній грі, де в групі є справжні інкуб і сукуб."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: threat, joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TAKE_THIS_OUTSIDE/name"
+msgid "Let's Take This Outside"
+msgstr "Вийдімо надвір"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: door → двері, monster → монстр, knockback → відкидання
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TAKE_THIS_OUTSIDE/description"
+msgid "Knockback 10 monsters into doors."
+msgstr "Відкиньте 10 монстрів у двері."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: threat
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TAKING_WITH/name"
+msgid "I'm Taking You With Me"
+msgstr "Я заберу вас із собою"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Trap → пастка, poison → отруєння, Tinkering → майстрування, thrown → метальний, enemy → ворог, Fire → вогонь
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TAKING_WITH/description"
+msgid "Kill an enemy after you are dead using poison, fire, or thrown tinkered traps."
+msgstr "Убийте ворога після своєї смерті отруєнням, вогнем або метальною майстрованою пасткою."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: sarcasm, joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TEACHABLE_MOMENT/name"
+msgid "Teachable Moment"
+msgstr "Повчальний момент"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: trial → випробування, Any → будь-який, Hall of Trials → Зала випробувань, The Hall of Trials → Зала випробувань
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TEACHABLE_MOMENT/description"
+msgid "Die during any Trial in the Hall of Trials."
+msgstr "Загиньте під час будь-якого випробування в Залі випробувань."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: technical
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TELEFRAG/name"
+msgid "Telefrag"
+msgstr "Телефраг"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: enemy → ворог, Teleportation → телепортація
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TELEFRAG/description"
+msgid "Kill an enemy within 1 second of it teleporting."
+msgstr "Убийте ворога протягом 1 секунди після його телепортації."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TEMPTRESS/name"
+msgid "Temptress"
+msgstr "Спокусниця"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Human → людина, Succubus → сукуб, confused → спантеличений, recruit → найм, Drunk → сп'яніння
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TEMPTRESS/description"
+msgid "Recruit a confused or drunk human as a true Succubus."
+msgstr "Найміть спантеличену або п'яну людину, граючи справжнім сукубом."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TEMPT_FATE/name"
+msgid "Tempt Fate"
+msgstr "Спокусити долю"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: tomalley → томалі
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TEMPT_FATE/description"
+msgid "Eat Tomalley shortly after vomiting."
+msgstr "З'їжте томалі невдовзі після блювання."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_THANKS_MR_SKELTAL/name"
+msgid "Thanks, Mr Skeltal"
+msgstr "Дякую, пане Скелетал"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Axe → сокира, Parashu → Парашу
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_THANKS_MR_SKELTAL/description"
+msgid "Find the mystical axe, Parashu."
+msgstr "Знайдіть містичну сокиру Парашу."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_THANK_ME_LATER/name"
+msgid "You'll Thank Me Later"
+msgstr "Ще подякуєте"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Potion → Зілля, NPC → неігровий персонаж, Healing → зцілення, Player → гравець, extra healing → посилене зцілення
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_THANK_ME_LATER/description"
+msgid "Throw a Healing or Extra Healing potion at another Player or allied NPC."
+msgstr "Киньте зілля зцілення або посиленого зцілення в іншого гравця чи союзного неігрового персонажа."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_THANK_THE_TANK/name"
+msgid "Thank the Tank"
+msgstr "Подякуйте танку"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: NPC → неігровий персонаж, Player → гравець, enemy → ворог, Blocking → блокування
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_THANK_THE_TANK/description"
+msgid "Have an allied player or NPC kill an enemy that you are Blocking."
+msgstr "Нехай союзний гравець або неігровий персонаж уб'є ворога, атаку якого ви блокуєте."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: solemn
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_THESEUS_LEGACY/name"
+msgid "Theseus' Legacy"
+msgstr "Спадщина Тесея"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Minotaur → Мінотавр, Minotaur Maze → Лабіринт Мінотавра, maze → лабіринт
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_THESEUS_LEGACY/description"
+msgid "Escape from the Minotaur Maze."
+msgstr "Виберіться з Лабіринту Мінотавра."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_THE_WAY_YOU_LIKE_IT/name"
+msgid "The Way You Like It"
+msgstr "Як вам подобається"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Succubus → сукуб, weapon → зброя, curse → прокляття, blessed → благословенний
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_THE_WAY_YOU_LIKE_IT/description"
+msgid "Curse a blessed weapon as a true Succubus."
+msgstr "Прокляніть благословенну зброю, граючи справжнім сукубом."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_THICK_SKULL/name"
+msgid "Thick Skull"
+msgstr "Товстий череп"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Spell → Закляття, Scarab → скарабей, Magic → магія
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_THICK_SKULL/description"
+msgid "Kill a Scarab using a magic spell."
+msgstr "Убийте скарабея магічним закляттям."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Whip → батіг
+#. тон: joke, excited
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_THROW_ME_THE_WHIP/name"
+msgid "Throw Me The Whip!"
+msgstr "Кинь мені батіг!"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: boulder → валун
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_THROW_ME_THE_WHIP/description"
+msgid "Get crushed by a boulder."
+msgstr "Загиньте під валуном."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_THUNDERGNOME/name"
+msgid "Thundergnome"
+msgstr "Громогном"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Mines → Шахти, Gnomish Mines → Гномські копальні
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_THUNDERGNOME/description"
+msgid "Escape from the Gnomish Mines."
+msgstr "Виберіться з Гномських копалень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Time → час
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TIME_TO_PLAN/name"
+msgid "Given Enough Time to Plan"
+msgstr "Досить часу на план"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Minotaur → Мінотавр, Trap → пастка
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TIME_TO_PLAN/description"
+msgid "Achieve the killing blow against a minotaur using machines and / or traps."
+msgstr "Завдайте мінотавру смертельного удару машинами та/або пастками."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Time → час
+#. тон: threat
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TIME_TO_SUFFER/name"
+msgid "Time to Suffer"
+msgstr "Час страждати"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Punisher → каратель, race → раса, Any → будь-який, Citadel → Цитадель
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TIME_TO_SUFFER/description"
+msgid "Escape the Citadel as a Punisher of any race."
+msgstr "Виберіться з Цитаделі карателем будь-якої раси."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TORCHERER/name"
+msgid "Torcherer"
+msgstr "Смолоскипувальник"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: torch → смолоскип, Scrap → брухт
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TORCHERER/description"
+msgid "Gain 100 Scrap from salvaging torches."
+msgstr "Здобудьте 100 одиниць брухту, утилізуючи смолоскипи."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TOUGH_AS_NAILS/name"
+msgid "Tough as Nails"
+msgstr "Міцний, як цвях"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: weapon → зброя, enemy → ворог, Break → ламання
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TOUGH_AS_NAILS/description"
+msgid "Have 50 enemies break their weapons against you throughout multiple playthroughs."
+msgstr "Змусьте 50 ворогів зламати об вас свою зброю за кілька проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: sarcasm, joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TRADITION/name"
+msgid "It's Tradition"
+msgstr "Така вже традиція"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Incubus → інкуб, fountain → фонтан, enemy → ворог
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TRADITION/description"
+msgid "Kill 20 enemies that are near a fountain as a true Incubus."
+msgstr "Убийте 20 ворогів поблизу фонтана, граючи справжнім інкубом."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TRASH_COMPACTOR/name"
+msgid "Trash Compactor"
+msgstr "Прес для сміття"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Automaton → автоматон, Scrap → брухт
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TRASH_COMPACTOR/description"
+msgid "Consume 100 scrap as a true Automaton."
+msgstr "Споживіть 100 одиниць брухту, граючи справжнім автоматоном."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TRIBAL/name"
+msgid "Tribal"
+msgstr "Племінний дух"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Goatman → козолюд, Goblin → гоблін, Mines → Шахти, party → група
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TRIBAL/description"
+msgid "Escape the Mines in a cooperative game where a true Goatman and Goblin are in the party."
+msgstr "Виберіться з Шахт у спільній грі, де в групі є справжні козолюд і гоблін."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TRIBE_SUBSCRIBE/name"
+msgid "Tribe & Subscribe"
+msgstr "Плем'я та підписка"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Goblin → гоблін, recruit → найм
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TRIBE_SUBSCRIBE/description"
+msgid "Recruit 4 Goblins as a true Goblin."
+msgstr "Найміть 4 гоблінів, граючи справжнім гобліном."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Trap → пастка
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TRICKS_AND_TRAPS/name"
+msgid "Tricks and Traps"
+msgstr "Хитрощі й пастки"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Swamp → Болото, Trap → пастка, Temple → храм
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TRICKS_AND_TRAPS/description"
+msgid "Discover the trap-infested Temple in the swamp."
+msgstr "Знайдіть наповнений пастками храм на Болоті."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Troll → Троль, Blood → кров, Troll's Blood → кров троля
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TROLLS_BLOOD/name"
+msgid "Troll's Blood"
+msgstr "Кров троля"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: health → здоров'я, Health Regeneration → відновлення здоров'я, Regeneration → регенерація
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TROLLS_BLOOD/description"
+msgid "Gain extra Health Regeneration from two sources simultaneously."
+msgstr "Одночасно отримайте посилене відновлення здоров'я з двох джерел."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: undead → нежить
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TURN_UNDEAD/name"
+msgid "Turn Undead"
+msgstr "Вигнання нежиті"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Conjurer → прикликач, class → клас, race → раса, Any → будь-який, Citadel → Цитадель
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TURN_UNDEAD/description"
+msgid "Escape the Citadel playing as the Conjurer class of any race."
+msgstr "Виберіться з Цитаделі прикликачем будь-якої раси."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TWISTY_PASSAGES/name"
+msgid "Twisty Passages"
+msgstr "Звивисті проходи"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Mines → Шахти
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TWISTY_PASSAGES/description"
+msgid "Escape the mines."
+msgstr "Виберіться із Шахт."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Unstoppable → нестримність, Force → сила
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_UNSTOPPABLE_FORCE/name"
+msgid "Unstoppable Force"
+msgstr "Нестримна сила"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: armor → обладунок, enemy → ворог, Break → ламання
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_UNSTOPPABLE_FORCE/description"
+msgid "Break 50 pieces of enemy armor throughout multiple playthroughs."
+msgstr "Зламайте 50 предметів ворожого обладунку за кілька проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_UTILITY_BELT/name"
+msgid "Utility Belt"
+msgstr "Пояс із приладдям"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Tinkering → майстрування, Item → предмет
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_UTILITY_BELT/description"
+msgid "Have one of every crafted Tinkering item in your inventory."
+msgstr "Майте в інвентарі по одному предмету кожного типу, створеного майструванням."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_VEGETARIAN_CONDUCT/name"
+msgid "Vegetarian Conduct"
+msgstr "Вегетаріанська обітниця"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: tin → консерва, Any → будь-який, meat → м'ясо, fish → риба
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_VEGETARIAN_CONDUCT/description"
+msgid "Win the game without having eaten any tins, meat, or fish."
+msgstr "Переможіть у грі, не з'ївши жодної консерви, м'яса чи риби."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_VOLATILE/name"
+msgid "Volatile"
+msgstr "Вибухонебезпечно"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Potion → Зілля, Damage → шкода, Time → час, enemy → ворог, unstable potion → нестабільне зілля
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_VOLATILE/description"
+msgid "Damage multiple enemies with a single brewed unstable potion 20 times."
+msgstr "20 разів завдайте шкоди кільком ворогам одним звареним нестабільним зіллям."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_WELL_PREPARED/name"
+msgid "Well Prepared"
+msgstr "Добре підготований"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: orb → сфера, Effect → ефект, mystic orb → містична сфера, Mystic → містик
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_WELL_PREPARED/description"
+msgid "Have 3 Mystic Orb effects active simultaneously."
+msgstr "Активуйте одночасно 3 ефекти містичних сфер."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_WELL_READ/name"
+msgid "Well Read"
+msgstr "Начитаний"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: book → книга
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_WELL_READ/description"
+msgid "Find and read all of the books."
+msgstr "Знайдіть і прочитайте всі книги."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke, fear
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_WHAT_NOW/name"
+msgid "Uh... What Now?"
+msgstr "Е-е... І що тепер?"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Spell → Закляття, charm → причарування, Mesmer → месмерист, magicstaff → магічний посох, Break → ламання
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_WHAT_NOW/description"
+msgid "Break your Magicstaff of Charm while you don't know the Charm spell as a Mesmer."
+msgstr "Зламайте магічний посох причарування, не знаючи закляття причарування, граючи месмеристом."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_WONDERFUL_TOYS/name"
+msgid "Wonderful Toys"
+msgstr "Чудові іграшки"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Level → Рівень, Trap → пастка, Teleport → телепортація
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_WONDERFUL_TOYS/description"
+msgid "Use a Teleport Trap to send yourself to a part of the level that is otherwise inaccessible."
+msgstr "Скористайтеся пасткою телепортації, щоб потрапити до інакше недоступної частини рівня."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: excited
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_YES_WE_CAN/name"
+msgid "Yes We Can!"
+msgstr "Так, ми можемо!"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: tin → консерва, Food → їжа
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_YES_WE_CAN/description"
+msgid "Eat 10 tins of food in a single playthrough."
+msgstr "З'їжте 10 консерв за одне проходження."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_YOUNG_BLOOD/name"
+msgid "Youngblood"
+msgstr "Молода кров"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Vampire → вампір, recruit → найм, Young Vampire → молодий вампір
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_YOUNG_BLOOD/description"
+msgid "Recruit a Young Vampire as a vampire."
+msgstr "Найміть молодого вампіра, граючи вампіром."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_DAPPER/name"
+msgid "Dap and Dapper"
+msgstr "Чепурний франт"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: equipment → спорядження, Item → предмет, class → клас
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_DAPPER/description"
+msgid "Don 30 different pieces of head and face equipment over multiple playthroughs, excluding starting class items."
+msgstr "За кілька проходжень надягніть 30 різних предметів спорядження для голови й обличчя, крім початкових предметів класу."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BY_EXAMPLE/name"
+msgid "By Example"
+msgstr "Власним прикладом"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Level → Рівень, Follower → послідовник, bonus → бонус, XP → ОД, Inspiration → Натхнення
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BY_EXAMPLE/description"
+msgid "Help followers gain a full level just based on the bonus XP given by Inspiration."
+msgstr "Допоможіть послідовникам здобути повний рівень лише завдяки бонусним ОД від Натхнення."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CRUMPLE_ZONES/name"
+msgid "Crumple Zones"
+msgstr "Зони зминання"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: boulder → валун, hat → капелюх, helmet → шолом, top hat → циліндр, mining helmet → шахтарський шолом
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CRUMPLE_ZONES/description"
+msgid "Survive being crushed by a boulder only because you're wearing a Top Hat or Mining Helmet."
+msgstr "Переживіть розчавлення валуном лише завдяки циліндру або шахтарському шолому."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Eternal → Вічний, reward → нагорода
+#. тон: sarcasm
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ETERNAL_REWARD/name"
+msgid "Your Eternal Reward"
+msgstr "Ваша вічна нагорода"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Mimic → мімік
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ETERNAL_REWARD/description"
+msgid "Get slain by a Mimic."
+msgstr "Загиньте від міміка."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: sarcasm, excited
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_I_NEEDED_THAT/name"
+msgid "I Needed That!"
+msgstr "А мені це було треба!"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Mimic → мімік, gear → шестерня
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_I_NEEDED_THAT/description"
+msgid "Have 10 pieces of your gear stolen by a Mimic over multiple playthroughs."
+msgstr "За кілька проходжень дайте мімікам украсти 10 предметів вашого спорядження."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_LOCKJAW/name"
+msgid "Lockjaw"
+msgstr "Замкнена паща"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Spell → Закляття, Mimic → мімік, Damage → шкода, lock → замок, Locking → замикання
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_LOCKJAW/description"
+msgid "Cause a Mimic to die using Lock spell damage."
+msgstr "Убийте міміка шкодою від закляття замикання."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MON_PETIT/name"
+msgid "Mon Petite Chou-Fleur"
+msgstr "Моя цвітна капусточка"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Succubus → сукуб, Incubus → інкуб
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MON_PETIT/description"
+msgid "Woo an Incubus or Succubus with a romantic gesture."
+msgstr "Залицяйтеся до інкуба або сукуба романтичним жестом."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_PET_DA_DOG/name"
+msgid "You Can Pet the Dog"
+msgstr "Собаку можна погладити"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: blessed → благословенний, hood → каптур, wolf hood → вовчий каптур, wolf → вовк
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_PET_DA_DOG/description"
+msgid "Equip a blessed Wolf Hood."
+msgstr "Надягніть благословенний вовчий каптур."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SMOKIN/name"
+msgid "Smokin'"
+msgstr "Закурено"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Damage → шкода, health → здоров'я, Health Regeneration → відновлення здоров'я, Regeneration → регенерація, pipe → люлька
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SMOKIN/description"
+msgid "Take damage from negative health regeneration caused by the Pipe."
+msgstr "Зазнайте шкоди через від'ємне відновлення здоров'я від люльки."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke, excited
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SSSMOKIN/name"
+msgid "SSSSSMOKIN'"
+msgstr "Ш-ш-ш-шикарно!"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: NPC → неігровий персонаж, mask → маска, recruit → найм
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SSSMOKIN/description"
+msgid "Recruit an NPC of the opposite sex while wearing a full face mask."
+msgstr "Найміть неігрового персонажа протилежної статі в масці, що закриває все обличчя."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Johnny → Джонні
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_DUNGEONSEED/name"
+msgid "Johnny Dungeonseed"
+msgstr "Джонні Підземнозернятко"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Mines → Шахти, Seed Event → подія зерна генерації, Seed → Зерно, attempt → спроба, Leaderboard → таблиця лідерів
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_DUNGEONSEED/description"
+msgid "Escape the Mines in your first attempt to the Leaderboards for 12 different Seed Events."
+msgstr "Виберіться з Шахт із першої спроби до таблиці лідерів у 12 різних подіях зерна генерації."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_REAP_SOW/name"
+msgid "Reap What You Sow"
+msgstr "Що посієш, те й пожнеш"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Any → будь-який, Seed Event → подія зерна генерації, Seed → Зерно, Event → Подія
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_REAP_SOW/description"
+msgid "Win any Seed Event."
+msgstr "Переможіть у будь-якій події зерна генерації."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_GROWTH_MINDSET/name"
+msgid "Growth Mindset"
+msgstr "Мислення зростання"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Mines → Шахти, Score → рахунок, Seed Event → подія зерна генерації, Seed → Зерно, Event → Подія
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_GROWTH_MINDSET/description"
+msgid "Replay a Seed Event and submit a better Top Score after escaping the Mines."
+msgstr "Переграйте подію зерна генерації та після втечі з Шахт подайте вищий рахунок."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SPROUTS/name"
+msgid "Sprouts"
+msgstr "Паростки"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Player → гравець, Seed Event → подія зерна генерації, Seed → Зерно, Event → Подія, Swamps → болото
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SPROUTS/description"
+msgid "Reach the Swamps in a Seed Event with another player in a cooperative game."
+msgstr "У спільній грі дістаньтеся болота з іншим гравцем під час події зерна генерації."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BLOOM_PLANTED/name"
+msgid "Bloom Where You're Planted"
+msgstr "Квітни, де посадили"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Lich → ліч, Devil → диявол, class → клас, race → раса, Seed Event → подія зерна генерації, Seed → Зерно, Event → Подія
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BLOOM_PLANTED/description"
+msgid "Slay a lich or devil in a Seed Event where your Class or Race is predetermined."
+msgstr "Убийте ліча чи диявола в події зерна генерації із заздалегідь визначеним класом або расою."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CARTOGRAPHER/name"
+msgid "Cartographer"
+msgstr "Картограф"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Level → Рівень, Barony → Barony
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CARTOGRAPHER/description"
+msgid "Launch the Barony level editor."
+msgstr "Запустіть редактор рівнів Barony."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BAT1000/name"
+msgid "Pitch Perfect"
+msgstr "Ідеальна подача"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Bat → кажан, melee → ближній бій, Miss → Промах
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BAT1000/description"
+msgid "Miss 81 melee attacks against Bats over multiple playthroughs."
+msgstr "За кілька проходжень промахніться 81 раз атаками ближнього бою по кажанах."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: bear → ведмідь
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BEAR_WITH_ME/name"
+msgid "Bear With Me"
+msgstr "Потерпіть ведмедя"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: defending → захист, Bugbear → багбір, scutum → скутум, Destroy → знищення
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BEAR_WITH_ME/description"
+msgid "Destroy a Bugbear's Scutum while it is defending."
+msgstr "Знищте скутум багбіра, поки той захищається."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BULL_RUSH/name"
+msgid "Bull Rush"
+msgstr "Бичачий ривок"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: shrine → святиня, Effect → ефект, Daedalus → Дедал, speed → швидкість, Daedalus Shrine → святилище Дедала
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BULL_RUSH/description"
+msgid "Gain the Speed effect after touching a Daedalus Shrine."
+msgstr "Отримайте ефект швидкості, торкнувшись святилища Дедала."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: book → книга
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BY_THE_BOOK/name"
+msgid "By The Book"
+msgstr "Усе за книгою"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Potion → Зілля, skill → навичка, Alchemy → алхімія, Recipe → рецепт, Opening → відмикання, Compendium → Довідник
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BY_THE_BOOK/description"
+msgid "Mix a charted potion recipe from the Alchemy Skill entry in the Compendium within 10 seconds of opening the page."
+msgstr "Змішайте зілля за записаним рецептом із запису навички алхімії в Довіднику протягом 10 секунд після відкриття сторінки."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CURIOSITY/name"
+msgid "Curiosity"
+msgstr "Допитливість"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Any → будь-який, Research → Дослідження, Compendium → Довідник, Compendium Entry → запис довідника
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CURIOSITY/description"
+msgid "Research any Compendium Entry."
+msgstr "Дослідіть будь-який запис Довідника."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke, excited
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ISEENTIT/name"
+msgid "I Seen't It!"
+msgstr "Я це видів!"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Compendium → Довідник
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_ISEENTIT/description"
+msgid "Discover every entry in the World tab of the Compendium."
+msgstr "Відкрийте всі записи у вкладці «Світ» Довідника."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_JUBBAITED/name"
+msgid "Jub-baited"
+msgstr "Дзвінко підловлений"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Gnome → гном, bell → дзвін
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_JUBBAITED/description"
+msgid "Kill a Gnome by dropping a bell on it."
+msgstr "Убийте гнома, скинувши на нього дзвін."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_RUNG_OUT/name"
+msgid "Rung Out"
+msgstr "Віддзвонено"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: bell → дзвін, Break → ламання
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_RUNG_OUT/description"
+msgid "Break 20 bells over multiple playthroughs."
+msgstr "Зламайте 20 дзвонів за кілька проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: melee → ближній бій
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SMASH_MELEE/name"
+msgid "Smash Melee"
+msgstr "Трощи зблизька"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: melee → ближній бій, Container → контейнер, breakable → руйнований, Destroy → знищення
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SMASH_MELEE/description"
+msgid "Destroy 500 breakable containers using melee attacks over multiple playthroughs."
+msgstr "За кілька проходжень знищте 500 руйнованих контейнерів атаками ближнього бою."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_JANITOR/name"
+msgid "Janitor"
+msgstr "Прибиральник"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Time → час, key → ключ
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_JANITOR/description"
+msgid "Have 4 or more different kinds of keys on you at one time."
+msgstr "Майте при собі одночасно щонайменше 4 різні види ключів."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CALL_LOCKSMITH/name"
+msgid "Call the Locksmith"
+msgstr "Викличте слюсаря"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: lockpick → відмичка, lock → замок, bronze → бронза, iron → залізо, silver → срібло
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CALL_LOCKSMITH/description"
+msgid "Pick 20 Iron, Bronze, or Silver Locks over multiple playthroughs."
+msgstr "Відімкніть відмичкою 20 залізних, бронзових або срібних замків за кілька проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke, sarcasm
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_PREMIUM_LOOTBOX/name"
+msgid "Premium Lootbox"
+msgstr "Преміум-лутбокс"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: gold piece → золота монета, key → ключ, bronze → бронза, silver → срібло, treasure → скарб, access → доступ
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_PREMIUM_LOOTBOX/description"
+msgid "Use Bronze, Silver, and Gold Keys to access 20 treasure rooms over multiple playthroughs."
+msgstr "Відкрийте бронзовими, срібними й золотими ключами 20 кімнат зі скарбами за кілька проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_WITCHES_BREW/name"
+msgid "Witch's Brew"
+msgstr "Відьомське вариво"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Item → предмет, Cauldron → казан
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_WITCHES_BREW/description"
+msgid "Brew or cook 50 items at a Cauldron across multiple playthroughs."
+msgstr "Зваріть або приготуйте в казані 50 предметів за кілька проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_HOBBYIST/name"
+msgid "Hobbyist"
+msgstr "Аматор"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Item → предмет, workbench → верстак
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_HOBBYIST/description"
+msgid "Craft 50 items at a Workbench across multiple playthroughs."
+msgstr "Створіть на верстаку 50 предметів за кілька проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_POWER_BALLAD/name"
+msgid "Power Ballad"
+msgstr "Балада сили"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Tier → ступінь, Effect → ефект, Time → час, song → пісня, instrument → музичний інструмент, bard → бард, Bardic Song → бардова пісня
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_POWER_BALLAD/description"
+msgid "Have 4 or more Tier 4 Bardic Song effects active at one time from Bard Instruments."
+msgstr "Підтримуйте одночасно щонайменше 4 ефекти бардової пісні IV ступеня від музичних інструментів барда."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: blessed → благословенний
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BLESSED_ADDITION/name"
+msgid "Blessed Addition"
+msgstr "Благословенне доповнення"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Effect → ефект, enemy → ворог, Symbol → священний символ, Holy Symbol → священний символ
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BLESSED_ADDITION/description"
+msgid "Kill 50 enemies while under the effects of a Holy Symbol over multiple playthroughs."
+msgstr "Убийте 50 ворогів під дією священного символу за кілька проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Inspiration → Натхнення
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BARDIC_INSPIRATION/name"
+msgid "Bardic Inspiration"
+msgstr "Бардове натхнення"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Level → Рівень, song → пісня, bard → бард, Bard Song → пісня барда
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BARDIC_INSPIRATION/description"
+msgid "Gain 10 consecutive levels with a Bard Song active in a single playthrough."
+msgstr "Здобудьте 10 рівнів поспіль з активною піснею барда за одне проходження."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Fire → вогонь
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FIGHT_FIRE_WITH/name"
+msgid "Fight Fire With Fire"
+msgstr "Вогонь проти вогню"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: salamander → саламандра, creature → істота, Fire → вогонь, Breathe Fire → вогняний подих, fire creature → вогняна істота
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FIGHT_FIRE_WITH/description"
+msgid "Slay a fire creature using Breathe Fire as a true Salamander."
+msgstr "Убийте вогняну істоту вогняним подихом, граючи справжньою саламандрою."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MAKE_SMOKEY_PROUD/name"
+msgid "Make Smokey Proud"
+msgstr "Потіште Смокі"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Dryad → дріада, Fire → вогонь, Germinate → пророщення
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MAKE_SMOKEY_PROUD/description"
+msgid "Extinguish yourself while on fire as a true Dryad by using Germinate."
+msgstr "Загасіть себе пророщенням, коли горите, граючи справжньою дріадою."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_THATS_A_WRAP/name"
+msgid "That's a Wrap"
+msgstr "Оце так обмот!"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: enemy → ворог, bolas → бола, flail → бойовий ціп, Rooted → Укорінення
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_THATS_A_WRAP/description"
+msgid "Kill 50 enemies with a Flail while they are rooted by Bolas over multiple playthroughs."
+msgstr "Убийте бойовим ціпом 50 ворогів, укорінених бола, за кілька проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SKID_ROW/name"
+msgid "Skid Row"
+msgstr "Слизька доріжка"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: knockback → відкидання, slippery → слизький, enemy → ворог
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SKID_ROW/description"
+msgid "Knockback 50 Slippery enemies in a single playthrough."
+msgstr "Відкиньте 50 слизьких ворогів за одне проходження."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_LET_HIM_COOK/name"
+msgid "Let Him Cook"
+msgstr "Дайте йому готувати"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: ration → пайок
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_LET_HIM_COOK/description"
+msgid "Prepare 100 rations over multiple playthroughs."
+msgstr "Приготуйте 100 пайків за кілька проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FLAVORTOWN/name"
+msgid "Flavortown"
+msgstr "Смакоград"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: ration → пайок, seasoned ration → приправлений пайок
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FLAVORTOWN/description"
+msgid "Consume one of each flavor of seasoned ration in a single playthrough."
+msgstr "Скуштуйте приправлений пайок кожного смаку за одне проходження."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Hell → Пекло
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_HELLS_KITCHEN/name"
+msgid "Hell's Kitchen"
+msgstr "Пекельна кухня"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: grease → мастило, Fire → вогонь
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_HELLS_KITCHEN/description"
+msgid "Have 25 grease fires active at once."
+msgstr "Одночасно запаліть мастило у 25 місцях."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Food → їжа
+#. тон: joke, excited
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FOOD_FIGHT/name"
+msgid "FOOD FIGHT!!!"
+msgstr "ЇЖЕЮ В БІЙ!!!"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: blindness → сліпота, target → ціль, slop ball → куля з помиїв
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FOOD_FIGHT/description"
+msgid "Blind 4 different targets within 5 seconds using Slop Balls."
+msgstr "Засліпіть 4 різні цілі за 5 секунд кулями з помиїв."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SECOND_BREAKFAST/name"
+msgid "Second Breakfast"
+msgstr "Другий сніданок"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Hungry → голодний, lockpick → відмичка, Player → гравець, ration → пайок
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SECOND_BREAKFAST/description"
+msgid "Pick up Rations provided by another player while hungry."
+msgstr "Підберіть пайки від іншого гравця, коли ви голодні."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_HAUNTED/name"
+msgid "Haunted"
+msgstr "Переслідуваний"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Spell → Закляття, Shadow → тінь, grave → могила, Deface → спотворення
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_HAUNTED/description"
+msgid "Get slain by a Shadow whose grave you defiled using the Deface spell."
+msgstr "Загиньте від тіні, чию могилу ви спотворили закляттям спотворення."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_WRECKING_CREW/name"
+msgid "Wrecking Crew"
+msgstr "Бригада руйнівників"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Spell → Закляття, object → об'єкт, Deface → спотворення
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_WRECKING_CREW/description"
+msgid "Use the Deface spell on 20 objects in a single playthrough."
+msgstr "Застосуйте закляття спотворення до 20 об'єктів за одне проходження."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: book → книга
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FAVORITE_BOOK/name"
+msgid "Favorite Book"
+msgstr "Улюблена книга"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Spell → Закляття, Time → час, scion → нащадок, scepter → скіпетр
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FAVORITE_BOOK/description"
+msgid "Relearn and forget the same spell 5 times using the Scion's scepter."
+msgstr "Знову вивчіть і забудьте те саме закляття 5 разів за допомогою скіпетра нащадка."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke, excited
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BONK/name"
+msgid "BONK."
+msgstr "БАЦ."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Time → час, enemy → ворог, shillelagh → шилейла, Debuff → негативний ефект
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BONK/description"
+msgid "Kill enemies with the Shillelagh while they have 3 or more debuffs on them 20 times in a single playthrough."
+msgstr "За одне проходження 20 разів убийте ворогів шилейлою, коли на них діють щонайменше 3 негативні ефекти."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: solemn
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_RIGHTEOUS_FURY/name"
+msgid "Righteous Fury"
+msgstr "Праведна лють"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: undead → нежить, Demonic → демонічна істота, enemy → ворог, Divine Zeal → божественний запал
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_RIGHTEOUS_FURY/description"
+msgid "Use Divine Zeal to kill 50 undead or demonic enemies in a single playthrough."
+msgstr "Убийте божественним запалом 50 ворогів-нежиті або демонічних істот за одне проходження."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: parry → парирування
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_PARRY_TANK/name"
+msgid "Parry Tank"
+msgstr "Танк-парирувальник"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: melee → ближній бій, Damage → шкода, Any → будь-який, parry → парирування
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_PARRY_TANK/description"
+msgid "Parry 20 attacks in a row without taking any melee damage during your streak in a single playthrough."
+msgstr "За одне проходження парируйте 20 атак поспіль, не отримавши за цю серію жодної шкоди в ближньому бою."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TOUCHE/name"
+msgid "Touche"
+msgstr "Туше"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Damage → шкода, rapier → рапіра, Riposte → рипост
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_TOUCHE/description"
+msgid "Deal 1000 damage with the rapier's riposte over multiple playthroughs."
+msgstr "Завдайте 1000 шкоди рипостом рапіри за кілька проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MERCENARY_ARMY/name"
+msgid "Mercenary Army"
+msgstr "Армія найманців"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Gnome → гном, jewel → коштовність, Time → час, recruit → найм
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MERCENARY_ARMY/description"
+msgid "Use Jewels to recruit allies 20 times as a true Gnome over multiple playthroughs."
+msgstr "20 разів найміть союзників за коштовності, граючи справжнім гномом, за кілька проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_COLONIST/name"
+msgid "Colonist"
+msgstr "Колоніст"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Time → час, myconid → міконід, Dryad → дріада, Germinate → пророщення
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_COLONIST/description"
+msgid "Use Germinate 50 times over multiple playthroughs as a true Dryad or Myconid."
+msgstr "Застосуйте пророщення 50 разів, граючи справжньою дріадою або міконідом, за кілька проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_EAT_ME/name"
+msgid "Eat Me"
+msgstr "З'їж мене"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: myconid → міконід, Dryad → дріада, mushroom → гриб, nut → горіх, Germinate → пророщення, Myconid Mushroom → гриб міконоїда, Dryad Nut → горіх дріади
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_EAT_ME/description"
+msgid "Harvest 50 Myconid Mushrooms or Dryad Nuts using Germinate in a single playthrough."
+msgstr "Зберіть пророщенням 50 грибів міконоїда або горіхів дріади за одне проходження."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CULINARY_AMBASSADOR/name"
+msgid "Culinary Ambassador"
+msgstr "Кулінарний посол"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CULINARY_AMBASSADOR/description"
+msgid "Cook a meal that you can't eat."
+msgstr "Приготуйте страву, якої не можете з'їсти."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_NO_CAP/name"
+msgid "No Cap"
+msgstr "Без шапки, чесно"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Dungeon → Підземелля, helmet → шолом, floor → поверх, foliage → рослинність, myconid → міконід
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_NO_CAP/description"
+msgid "Wear a helmet that prevents your foliage from growing for at least 5 dungeon floors as a true Myconid."
+msgstr "Граючи справжнім міконідом, носіть шолом, який не дає вашій рослинності рости, упродовж щонайменше 5 поверхів Підземелля."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_PRICKLY_PERSONALITY/name"
+msgid "Prickly Personality"
+msgstr "Колюча особистість"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Damage → шкода, Dryad → дріада, enemy → ворог, Thorns → шипи
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_PRICKLY_PERSONALITY/description"
+msgid "Slay 20 enemies with Thorns damage as a true Dryad over multiple playthroughs."
+msgstr "Убийте шкодою від шипів 20 ворогів, граючи справжньою дріадою, за кілька проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_DONT_TOUCH_HAIR/name"
+msgid "Don't Touch the Hair"
+msgstr "Руки геть від зачіски"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Dungeon → Підземелля, floor → поверх, foliage → рослинність, myconid → міконід, Dryad → дріада
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_DONT_TOUCH_HAIR/description"
+msgid "Traverse 25 Dungeon floors and never lose your foliage as a true Dryad or Myconid."
+msgstr "Пройдіть 25 поверхів Підземелля справжньою дріадою або міконідом, не втративши рослинності."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Fire → вогонь
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FIRE_FIGHTER/name"
+msgid "Fire Fighter"
+msgstr "Вогнеборець"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Dungeon → Підземелля, floor → поверх, salamander → саламандра, Radiant → сяйний
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FIRE_FIGHTER/description"
+msgid "Maintain Radiant status for 5 Dungeon Floors as a true Salamander."
+msgstr "Зберігайте сяйний стан протягом 5 поверхів Підземелля справжньою саламандрою."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_GARGOYLES_QUEST/name"
+msgid "Gargoyle's Quest"
+msgstr "Квест гаргульї"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Dungeon → Підземелля, floor → поверх, salamander → саламандра, Stony → кам'яний
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_GARGOYLES_QUEST/description"
+msgid "Maintain Stony status for 10 Dungeon Floors as a true Salamander."
+msgstr "Зберігайте кам'яний стан протягом 10 поверхів Підземелля справжньою саламандрою."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_DISCIPLINE/name"
+msgid "Discipline"
+msgstr "Дисципліна"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Dungeon → Підземелля, floor → поверх, salamander → саламандра, stone → камінь, Radiant → сяйний
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_DISCIPLINE/description"
+msgid "Complete 25 Dungeon Floors as a true Salamander without entering Radiant or Stone forms."
+msgstr "Пройдіть 25 поверхів Підземелля справжньою саламандрою, не набуваючи сяйної чи кам'яної форми."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Master → майстер, Magic → магія
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MASTER_MAGIC/name"
+msgid "Master of Magic"
+msgstr "Майстер магії"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Spell → Закляття, Legend → легенда, skill → навичка
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MASTER_MAGIC/description"
+msgid "Gain Legendary skill in all three spell schools."
+msgstr "Досягніть легендарного рівня навички в усіх трьох школах заклять."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_QUACKERY/name"
+msgid "Quackery"
+msgstr "Кряклатанство"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: spirit → дух, Fowl Spirit → пташиний дух
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_QUACKERY/description"
+msgid "Use Fowl Spirit for 5 minutes in a single playthrough."
+msgstr "Пробудьте у формі пташиного духа 5 хвилин за одне проходження."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_DISTRACTED/name"
+msgid "Distracted"
+msgstr "Відволікли"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Damage → шкода, spirit → дух, Fowl Spirit → пташиний дух
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_DISTRACTED/description"
+msgid "Take damage interrupting your use of Fowl Spirit."
+msgstr "Отримайте шкоду, що перерве використання пташиного духа."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke, excited
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BOOM_DYNAMITE/name"
+msgid "Boom Goes the Dynamite"
+msgstr "І динаміт як бахне!"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Trap → пастка, enemy → ворог, Booby Trap → міна-пастка
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BOOM_DYNAMITE/description"
+msgid "Kill 50 Enemies using Booby Trap explosions over multiple playthroughs."
+msgstr "Убийте 50 ворогів вибухами мін-пасток за кілька проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke, sarcasm
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_PAY_TO_WIN/name"
+msgid "Pay to Win"
+msgstr "Плати й перемагай"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: gold piece → золота монета, Magic → магія, Effect → ефект
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_PAY_TO_WIN/description"
+msgid "Spend 5000 gold required for magical effects over multiple playthroughs."
+msgstr "Витратьте 5000 золотих монет на магічні ефекти за кілька проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: boulder → валун
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BOLDER_BOULDER/name"
+msgid "Bolder Boulder"
+msgstr "Відважний валун"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: enemy → ворог, earth sprite → земляний дух, Telekinesis → телекінез
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BOLDER_BOULDER/description"
+msgid "Kill an enemy by rolling an Earth Sprite into them with Telekinesis."
+msgstr "Убийте ворога, вкотивши в нього земляного духа телекінезом."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke, sarcasm
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_DOESNT_COUNT/name"
+msgid "Doesn't Count"
+msgstr "Це не рахується"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Magician → маг, Magicians' Bubble → бульбашка чарівників
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_DOESNT_COUNT/description"
+msgid "Deflect 50 hits using Magicians' Bubble over multiple playthroughs."
+msgstr "Відбийте 50 ударів бульбашкою чарівників за кілька проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke, excited
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_THATS_CHEATING/name"
+msgid "That's Cheating!"
+msgstr "Це шахрайство!"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Lich → ліч, Spell → Закляття, spellcasting → чаклування, Null → нейтралізація
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_THATS_CHEATING/description"
+msgid "Prevent a lich from casting 10 spells at you using Null spells."
+msgstr "За допомогою заклять нейтралізації 10 разів завадьте лічу чаклувати проти вас."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_APPRENTICES/name"
+msgid "Apprentices"
+msgstr "Учні"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Healer → цілитель, Wizard → чарівник, Arcanist → арканіст, Mines → Шахти, scion → нащадок
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_APPRENTICES/description"
+msgid "Escape the Mines in a cooperative game with a Scion, plus a Wizard, Healer, or Arcanist."
+msgstr "Виберіться з Шахт у спільній грі з нащадком і чарівником, цілителем або арканістом."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SHORT_SHORTS/name"
+msgid "Short Shorts"
+msgstr "Короткі шорти"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Mines → Шахти, race → раса, Player → гравець, Character → персонаж
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SHORT_SHORTS/description"
+msgid "Escape the Mines in a cooperative game with 3+ players where every character is short in their true race."
+msgstr "Виберіться із Шахт у кооперативній грі втрьох або більше, де всі персонажі низькорослі у своїй справжній расі."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_HOLY_ORDER/name"
+msgid "Holy Order"
+msgstr "Святий орден"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Cleric → клірик, Sexton → паламар, Monk → монах, Mines → Шахти, paladin → паладин
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_HOLY_ORDER/description"
+msgid "Escape the Mines in a cooperative game with a Paladin, plus a Monk, Sexton, or Cleric."
+msgstr "Виберіться з Шахт у спільній грі з паладином і монахом, паламарем або кліриком."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CONSCRIPTED/name"
+msgid "Conscripted"
+msgstr "Мобілізовані"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Barbarian → варвар, Warrior → воїн, Mines → Шахти, sapper → сапер
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_CONSCRIPTED/description"
+msgid "Escape the Mines in a cooperative game with a Sapper, plus a Warrior, or Barbarian."
+msgstr "Виберіться з Шахт у спільній грі із сапером і воїном або варваром."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_LONER_LEAGUE/name"
+msgid "Loner League"
+msgstr "Ліга одинаків"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Wanderer → мандрівник, Ninja → ніндзя, Mines → Шахти, hermit → відлюдник
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_LONER_LEAGUE/description"
+msgid "Escape the Mines in a cooperative game with a Hermit, plus a Wanderer, or Ninja."
+msgstr "Виберіться з Шахт у спільній грі з відлюдником і мандрівником або ніндзя."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_RIZZLERS/name"
+msgid "Rizzlers"
+msgstr "Звабники"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Rogue → пройдисвіт, Merchant → торговець, Joker → блазень, Mines → Шахти, bard → бард
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_RIZZLERS/description"
+msgid "Escape the Mines in a cooperative game with a Bard, plus a Merchant, Joker, or Rogue."
+msgstr "Виберіться з Шахт у спільній грі з бардом і торговцем, блазнем або пройдисвітом."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FOREIGN_EXCHANGE/name"
+msgid "Foreign Exchange"
+msgstr "Обмін іноземцями"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Mines → Шахти, race → раса, DLC → DLC, Player → гравець
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_FOREIGN_EXCHANGE/description"
+msgid "Escape the Mines in a cooperative game with 3+ players with at least one race from each DLC."
+msgstr "Виберіться із Шахт у кооперативній грі втрьох або більше, маючи принаймні одну расу з кожного DLC."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_STUDY_ABROAD/name"
+msgid "Studying Abroad"
+msgstr "Навчання за кордоном"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Mines → Шахти, class → клас, DLC → DLC, Player → гравець
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_STUDY_ABROAD/description"
+msgid "Escape the Mines in a cooperative game with 3+ players with at least one class from each DLC."
+msgstr "Виберіться із Шахт у кооперативній грі втрьох або більше, маючи принаймні один клас із кожного DLC."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SOURCE_ENGINE/name"
+msgid "Source Engine"
+msgstr "Рушій Source"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Sorcery → чаклунство, Magic → магія, Magic Points → очки магії, Sorcery Focus → чаклунський фокус
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SOURCE_ENGINE/description"
+msgid "Spend 1000 magic points using Sorcery Foci across multiple playthroughs."
+msgstr "Витратьте 1000 очок магії за допомогою чаклунських фокусів за кілька проходжень."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: song → пісня
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SWAN_SONG/name"
+msgid "Swan Song"
+msgstr "Лебедина пісня"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: race → раса, Any → будь-який, Citadel → Цитадель, bard → бард
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_SWAN_SONG/description"
+msgid "Escape the Citadel as a Bard of any race."
+msgstr "Виберіться з Цитаделі бардом будь-якої раси."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MISSION_GOD/name"
+msgid "Mission From God"
+msgstr "Місія від Бога"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: race → раса, Any → будь-який, Citadel → Цитадель, paladin → паладин
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_MISSION_GOD/description"
+msgid "Escape the Citadel as a Paladin of any race."
+msgstr "Виберіться з Цитаделі паладином будь-якої раси."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke, sarcasm
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_NEPO_BABY/name"
+msgid "Nepo Baby"
+msgstr "Дитя непотизму"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: race → раса, Any → будь-який, Citadel → Цитадель, scion → нащадок
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_NEPO_BABY/description"
+msgid "Escape the Citadel as a Scion of any race."
+msgstr "Виберіться з Цитаделі нащадком будь-якої раси."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_REINTEGRATED/name"
+msgid "Reintegrated"
+msgstr "Знову в суспільстві"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: race → раса, Any → будь-який, Citadel → Цитадель, hermit → відлюдник
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_REINTEGRATED/description"
+msgid "Escape the Citadel as a Hermit of any race."
+msgstr "Виберіться з Цитаделі відлюдником будь-якої раси."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Dungeon → Підземелля
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_DUNGEON_SEIGE/name"
+msgid "Dungeon Siege"
+msgstr "Облога Підземелля"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: race → раса, Any → будь-який, Citadel → Цитадель, sapper → сапер
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_DUNGEON_SEIGE/description"
+msgid "Escape the Citadel as a Sapper of any race."
+msgstr "Виберіться з Цитаделі сапером будь-якої раси."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Baron Herx → Барон Геркс
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BURNINATION_BARON/name"
+msgid "Burnination Baron"
+msgstr "Барон-випалювач"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Citadel → Цитадель, salamander → саламандра
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BURNINATION_BARON/description"
+msgid "Escape the Citadel as a true Salamander."
+msgstr "Виберіться із Цитаделі справжньою саламандрою."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Baron Herx → Барон Геркс
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BOLETE_BARON/name"
+msgid "Bolete Baron"
+msgstr "Боровиковий барон"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Citadel → Цитадель, myconid → міконід
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BOLETE_BARON/description"
+msgid "Escape the Citadel as a true Myconid."
+msgstr "Виберіться із Цитаделі справжнім міконідом."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Baron Herx → Барон Геркс
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BARKSKIN_BARON/name"
+msgid "Barkskin Baron"
+msgstr "Берестяношкірий барон"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Citadel → Цитадель, Dryad → дріада
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BARKSKIN_BARON/description"
+msgid "Escape the Citadel as a true Dryad."
+msgstr "Виберіться із Цитаделі справжньою дріадою."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Baron Herx → Барон Геркс
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BONKERS_BARON/name"
+msgid "Bonkers Baron"
+msgstr "Безумний барон"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Citadel → Цитадель, gremlin → гремлін
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BONKERS_BARON/description"
+msgid "Escape the Citadel as a true Gremlin."
+msgstr "Виберіться із Цитаделі справжнім гремліном."
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Baron Herx → Барон Геркс
+#. тон: joke
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BITTY_BARON/name"
+msgid "Bitty Baron"
+msgstr "Барон-малюк"
+
+#. досягнення Steam: name — коротка назва (часто гра слів), description — умова
+#. сутності: Gnome → гном, Citadel → Цитадель
+#. тон: command
+#, fuzzy
+#: data/achievements.json
+msgctxt "achievements/BARONY_ACH_BITTY_BARON/description"
+msgid "Escape the Citadel as a true Gnome."
+msgstr "Утечіть із Цитаделі як справжній гном."

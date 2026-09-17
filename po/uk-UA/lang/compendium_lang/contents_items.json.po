@@ -1,0 +1,1377 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: armor → обладунок
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/0/    ARMOR/@"
+msgid "    ARMOR"
+msgstr "    ОБЛАДУНКИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: shield → щит
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/1/SHIELDS/@"
+msgid "SHIELDS"
+msgstr "ЩИТИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: armor → обладунок, leather armor → шкіряний обладунок
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/2/LEATHER ARMOR/@"
+msgid "LEATHER ARMOR"
+msgstr "ШКІРЯНИЙ ОБЛАДУНОК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: armor → обладунок, quilted armor → стьобаний обладунок
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/3/QUILTED ARMOR/@"
+msgid "QUILTED ARMOR"
+msgstr "СТЬОБАНИЙ ОБЛАДУНОК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: armor → обладунок, chain armor → кольчужний обладунок
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/4/CHAIN ARMOR/@"
+msgid "CHAIN ARMOR"
+msgstr "КОЛЬЧУЖНИЙ ОБЛАДУНОК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: armor → обладунок, iron → залізо, iron armor → залізний обладунок
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/5/IRON ARMOR/@"
+msgid "IRON ARMOR"
+msgstr "ЗАЛІЗНИЙ ОБЛАДУНОК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: armor → обладунок, steel → сталь, steel armor → сталевий обладунок
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/6/STEEL ARMOR/@"
+msgid "STEEL ARMOR"
+msgstr "СТАЛЕВИЙ ОБЛАДУНОК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: armor → обладунок, crystal → кристал, crystal armor → кристалічний обладунок
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/7/CRYSTAL ARMOR/@"
+msgid "CRYSTAL ARMOR"
+msgstr "КРИСТАЛІЧНИЙ ОБЛАДУНОК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Sphinx's Casque → Шолом Сфінкса
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/8/SPHINX'S CASQUE/@"
+msgid "SPHINX'S CASQUE"
+msgstr "ШОЛОМ СФІНКСА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Oracle's Treads → Чоботи Оракула
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/9/ORACLE'S TREADS/@"
+msgid "ORACLE'S TREADS"
+msgstr "ЧОБОТИ ОРАКУЛА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Djinni's Brace → Рукавиці Джина
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/10/DJINNI'S BRACE/@"
+msgid "DJINNI'S BRACE"
+msgstr "РУКАВИЦІ ДЖИНА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Dragon's Mail → Драконяча кольчуга
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/11/DRAGON'S MAIL/@"
+msgid "DRAGON'S MAIL"
+msgstr "ДРАКОНЯЧА КОЛЬЧУГА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Wraith's Gown → Плащ Примари
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/12/WRAITH'S GOWN/@"
+msgid "WRAITH'S GOWN"
+msgstr "ПЛАЩ ПРИМАРИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: clothing → одяг
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/13/    CLOTHING/@"
+msgid "    CLOTHING"
+msgstr "    ОДЯГ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: hat → капелюх, hood → каптур
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/14/HATS & HOODS/@"
+msgid "HATS & HOODS"
+msgstr "КАПЕЛЮХИ Й КАПТУРИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: crown → корона, headdress → головний убір
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/15/CROWNS & HEADDRESSES/@"
+msgid "CROWNS & HEADDRESSES"
+msgstr "КОРОНИ Й ГОЛОВНІ УБОРИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: face accessory → лицьовий аксесуар
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/16/FACE ACCESSORIES/@"
+msgid "FACE ACCESSORIES"
+msgstr "ЛИЦЬОВІ АКСЕСУАРИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: mask → маска, visor → забрало
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/17/MASKS & VISORS/@"
+msgid "MASKS & VISORS"
+msgstr "МАСКИ Й ЗАБРАЛА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: clothing → одяг, cloak → плащ
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/18/CLOAKS & CLOTHING/@"
+msgid "CLOAKS & CLOTHING"
+msgstr "ПЛАЩІ Й ОДЯГ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: backpack → наплічник
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/19/BACKPACKS/@"
+msgid "BACKPACKS"
+msgstr "НАПЛІЧНИКИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: weapon → зброя, melee → ближній бій
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/20/    MELEE WEAPONS/@"
+msgid "    MELEE WEAPONS"
+msgstr "    ЗБРОЯ БЛИЖНЬОГО БОЮ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Sword → меч
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/21/SWORDS/@"
+msgid "SWORDS"
+msgstr "МЕЧІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: greatsword → дворучний меч
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/22/GREATSWORDS/@"
+msgid "GREATSWORDS"
+msgstr "ДВОРУЧНІ МЕЧІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: rapier → рапіра
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/23/RAPIER/@"
+msgid "RAPIER"
+msgstr "РАПІРА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Axe → сокира
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/24/AXES/@"
+msgid "AXES"
+msgstr "СОКИРИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Mace → булава
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/25/MACES/@"
+msgid "MACES"
+msgstr "БУЛАВИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: flail → бойовий ціп
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/26/FLAILS/@"
+msgid "FLAILS"
+msgstr "БОЙОВІ ЦІПИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: shillelagh → шилейла
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/27/SHILLELAGH/@"
+msgid "SHILLELAGH"
+msgstr "ШИЛЕЙЛА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Polearm → древкова зброя
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/28/POLEARMS/@"
+msgid "POLEARMS"
+msgstr "ДРЕВКОВА ЗБРОЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Dyrnwyn → Дірнвін
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/29/DYRNWYN/@"
+msgid "DYRNWYN"
+msgstr "ДІРНВІН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Parashu → Парашу
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/30/PARASHU/@"
+msgid "PARASHU"
+msgstr "ПАРАШУ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Sharur → Шарур
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/31/SHARUR/@"
+msgid "SHARUR"
+msgstr "ШАРУР"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Gungnir → Ґунґнір
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/32/GUNGNIR/@"
+msgid "GUNGNIR"
+msgstr "ҐУНҐНІР"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: weapon → зброя, fist → кулак
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/33/FIST WEAPONS/@"
+msgid "FIST WEAPONS"
+msgstr "КУЛАЧНА ЗБРОЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Whip → батіг
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/34/WHIP/@"
+msgid "WHIP"
+msgstr "БАТІГ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: weapon → зброя, missile weapon → дистанційна зброя
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/35/    MISSILE WEAPONS/@"
+msgid "    MISSILE WEAPONS"
+msgstr "    ДИСТАНЦІЙНА ЗБРОЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: slingshot → рогатка
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/36/SLINGSHOT/@"
+msgid "SLINGSHOT"
+msgstr "РОГАТКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: bow → лук
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/37/BOWS/@"
+msgid "BOWS"
+msgstr "ЛУКИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: crossbow → арбалет
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/38/CROSSBOW/@"
+msgid "CROSSBOW"
+msgstr "АРБАЛЕТ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: arbalest → арбалет
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/39/ARBALEST/@"
+msgid "ARBALEST"
+msgstr "АРБАЛЕТ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Khryselakatos → Хриселакатос
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/40/KHRYSELAKATOS/@"
+msgid "KHRYSELAKATOS"
+msgstr "ХРИСЕЛАКАТОС"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: springshot ammo → пружинні боєприпаси
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/41/SWIFT & SPRINGSHOT AMMO/@"
+msgid "SWIFT & SPRINGSHOT AMMO"
+msgstr "ШВИДКІ Й ПРУЖИННІ БОЄПРИПАСИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: silver → срібло, piercing ammo → пробивні боєприпаси
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/42/SILVER & PIERCING AMMO/@"
+msgid "SILVER & PIERCING AMMO"
+msgstr "СРІБНІ Й ПРОБИВНІ БОЄПРИПАСИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Fire → вогонь, hunting ammo → мисливські боєприпаси
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/43/FIRE & HUNTING AMMO/@"
+msgid "FIRE & HUNTING AMMO"
+msgstr "ВОГНЯНІ Й МИСЛИВСЬКІ БОЄПРИПАСИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: crystal → кристал, crystal ammo → кристалічні боєприпаси
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/44/CRYSTAL AMMO/@"
+msgid "CRYSTAL AMMO"
+msgstr "КРИСТАЛІЧНІ БОЄПРИПАСИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: weapon → зброя, throwing weapon → метальна зброя
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/45/    THROWING WEAPONS/@"
+msgid "    THROWING WEAPONS"
+msgstr "    МЕТАЛЬНА ЗБРОЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: tomahawk → томагавк, dagger → кинджал
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/46/TOMAHAWKS & DAGGERS/@"
+msgid "TOMAHAWKS & DAGGERS"
+msgstr "ТОМАГАВКИ Й КИНДЖАЛИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: chakram → чакрам, shuriken → сюрикен
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/47/CHAKRAMS & SHURIKENS/@"
+msgid "CHAKRAMS & SHURIKENS"
+msgstr "ЧАКРАМИ Й СЮРИКЕНИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: boomerang → бумеранг
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/48/BOOMERANG/@"
+msgid "BOOMERANG"
+msgstr "БУМЕРАНГ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: bolas → бола
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/49/BOLAS/@"
+msgid "BOLAS"
+msgstr "БОЛА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: sludge ball → куля зі слизу
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/50/SLUDGE BALLS/@"
+msgid "SLUDGE BALLS"
+msgstr "КУЛІ ЗІ СЛИЗУ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: crystal → кристал
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/51/    CRYSTALS/@"
+msgid "    CRYSTALS"
+msgstr "    КРИСТАЛИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Gem → коштовний камінь, boulder → валун
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/52/ROCKS & GEMS/@"
+msgid "ROCKS & GEMS"
+msgstr "КАМІННЯ Й КОШТОВНІ КАМЕНІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: crystal → кристал, shard → уламок, crystal shard → кристалічний уламок
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/53/CRYSTAL SHARD/@"
+msgid "CRYSTAL SHARD"
+msgstr "КРИСТАЛІЧНИЙ УЛАМОК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: orb → сфера, mystic orb → містична сфера
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/54/MYSTIC ORB/@"
+msgid "MYSTIC ORB"
+msgstr "МІСТИЧНА СФЕРА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Food → їжа
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/55/    FOOD/@"
+msgid "    FOOD"
+msgstr "    ЇЖА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: morsel → кусень їжі
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/56/MORSELS/@"
+msgid "MORSELS"
+msgstr "КУСНІ ЇЖІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: pie → пиріг, cream pie → вершковий пиріг
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/57/CREAM PIE/@"
+msgid "CREAM PIE"
+msgstr "ВЕРШКОВИЙ ПИРІГ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: tomalley → томалі
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/58/TOMALLEY/@"
+msgid "TOMALLEY"
+msgstr "ТОМАЛІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Food → їжа
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/59/MEALS/@"
+msgid "MEALS"
+msgstr "СТРАВИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: ration → пайок
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/60/RATIONS/@"
+msgid "RATIONS"
+msgstr "ПАЙКИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: tin → консерва, tin opener → консервний ніж
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/61/TIN & TIN OPENER/@"
+msgid "TIN & TIN OPENER"
+msgstr "КОНСЕРВА Й КОНСЕРВНИЙ НІЖ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Blood → кров, vial → флакон
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/62/BLOOD VIALS/@"
+msgid "BLOOD VIALS"
+msgstr "ФЛАКОНИ КРОВІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Potion → Зілля
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/63/    POTIONS & DRINKS/@"
+msgid "    POTIONS & DRINKS"
+msgstr "    ЗІЛЛЯ ТА НАПОЇ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Water → вода
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/64/WATER/@"
+msgid "WATER"
+msgstr "ВОДА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: empty bottle → порожня пляшка, bottle → пляшка
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/65/EMPTY BOTTLE/@"
+msgid "EMPTY BOTTLE"
+msgstr "ПОРОЖНЯ ПЛЯШКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Potion → Зілля
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/66/DEFENSIVE POTIONS/@"
+msgid "DEFENSIVE POTIONS"
+msgstr "ЗАХИСНІ ЗІЛЛЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Potion → Зілля
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/67/OFFENSIVE POTIONS/@"
+msgid "OFFENSIVE POTIONS"
+msgstr "БОЙОВІ ЗІЛЛЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: alembic → аламбік
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/68/ALEMBIC/@"
+msgid "ALEMBIC"
+msgstr "АЛАМБІК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: tool → інструмент
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/69/    TOOLS/@"
+msgid "    TOOLS"
+msgstr "    ІНСТРУМЕНТИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: torch → смолоскип, lantern → ліхтар
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/70/TORCHES & LANTERNS/@"
+msgid "TORCHES & LANTERNS"
+msgstr "СМОЛОСКИПИ Й ЛІХТАРІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: mirror → дзеркало
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/71/MIRRORS/@"
+msgid "MIRRORS"
+msgstr "ДЗЕРКАЛА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: towel → рушник
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/72/TOWEL/@"
+msgid "TOWEL"
+msgstr "РУШНИК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Mines → Шахти, lockpick → відмичка, mining pick → шахтарське кайло
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/73/MINING PICK/@"
+msgid "MINING PICK"
+msgstr "ШАХТАРСЬКЕ КАЙЛО"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Tinkering → майстрування, Tinkering Kit → набір для майстрування
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/74/TINKERING KIT/@"
+msgid "TINKERING KIT"
+msgstr "НАБІР ДЛЯ МАЙСТРУВАННЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: frypan → сковорода
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/75/FRYPAN/@"
+msgid "FRYPAN"
+msgstr "СКОВОРОДА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: lockpick → відмичка
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/76/LOCKPICK/@"
+msgid "LOCKPICK"
+msgstr "ВІДМИЧКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: key → ключ
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/77/KEYS/@"
+msgid "KEYS"
+msgstr "КЛЮЧІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Skeleton → скелет, skeleton key → універсальний ключ, key → ключ
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/78/SKELETON KEY/@"
+msgid "SKELETON KEY"
+msgstr "УНІВЕРСАЛЬНИЙ КЛЮЧ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: gadget → пристрій
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/79/    GADGETS/@"
+msgid "    GADGETS"
+msgstr "    ПРИСТРОЇ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: beartrap → капкан
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/80/BEARTRAP/@"
+msgid "BEARTRAP"
+msgstr "КАПКАН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: noisemaker → шумова приманка
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/81/NOISEMAKER/@"
+msgid "NOISEMAKER"
+msgstr "ШУМОВА ПРИМАНКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Dummybot → робот-манекен
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/82/DUMMYBOT/@"
+msgid "DUMMYBOT"
+msgstr "РОБОТ-МАНЕКЕН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Sentrybot → робот-вартовий, Spellbot → робот-заклинач
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/83/SENTRY BOT & SPELLBOT/@"
+msgid "SENTRY BOT & SPELLBOT"
+msgstr "РОБОТ-ВАРТОВИЙ І РОБОТ-ЗАКЛИНАЧ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Gyrobot → гіробот
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/84/GYROBOT/@"
+msgid "GYROBOT"
+msgstr "ГІРОБОТ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Trap → пастка, Tinkering → майстрування
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/85/TINKERED TRAPS/@"
+msgid "TINKERED TRAPS"
+msgstr "МАЙСТРОВАНІ ПАСТКИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Trap → пастка, Teleportation → телепортація, teleportation trap → телепортаційна пастка
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/86/TELEPORTATION TRAP/@"
+msgid "TELEPORTATION TRAP"
+msgstr "ТЕЛЕПОРТАЦІЙНА ПАСТКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/87/    OTHER/@"
+msgid "    OTHER"
+msgstr "    ІНШЕ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Lore → знання, mail → пошта
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/88/MAIL & LORE BOOKS/@"
+msgid "MAIL & LORE BOOKS"
+msgstr "ПОШТА Й КНИГИ ЗНАНЬ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: box → ящик, death box → скринька смерті
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/89/DEATH BOX/@"
+msgid "DEATH BOX"
+msgstr "СКРИНЬКА СМЕРТІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: duck → качка
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents/90/DUCK/@"
+msgid "DUCK"
+msgstr "КАЧКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: alembic → аламбік
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/0/ALEMBIC/@"
+msgid "ALEMBIC"
+msgstr "АЛАМБІК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: arbalest → арбалет
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/1/ARBALEST/@"
+msgid "ARBALEST"
+msgstr "АРБАЛЕТ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Axe → сокира
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/2/AXES/@"
+msgid "AXES"
+msgstr "СОКИРИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: backpack → наплічник
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/3/BACKPACKS/@"
+msgid "BACKPACKS"
+msgstr "НАПЛІЧНИКИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: beartrap → капкан
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/4/BEARTRAP/@"
+msgid "BEARTRAP"
+msgstr "КАПКАН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Blood → кров, vial → флакон
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/5/BLOOD VIALS/@"
+msgid "BLOOD VIALS"
+msgstr "ФЛАКОНИ КРОВІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: bolas → бола
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/6/BOLAS/@"
+msgid "BOLAS"
+msgstr "БОЛА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: boomerang → бумеранг
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/7/BOOMERANG/@"
+msgid "BOOMERANG"
+msgstr "БУМЕРАНГ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: bow → лук
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/8/BOWS/@"
+msgid "BOWS"
+msgstr "ЛУКИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: armor → обладунок, chain armor → кольчужний обладунок
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/9/CHAIN ARMOR/@"
+msgid "CHAIN ARMOR"
+msgstr "КОЛЬЧУЖНИЙ ОБЛАДУНОК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: chakram → чакрам, shuriken → сюрикен
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/10/CHAKRAMS & SHURIKENS/@"
+msgid "CHAKRAMS & SHURIKENS"
+msgstr "ЧАКРАМИ Й СЮРИКЕНИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: cloak → плащ, clothing → одяг
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/11/CLOAKS & CLOTHING/@"
+msgid "CLOAKS & CLOTHING"
+msgstr "ПЛАЩІ Й ОДЯГ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: pie → пиріг, cream pie → вершковий пиріг
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/12/CREAM PIE/@"
+msgid "CREAM PIE"
+msgstr "ВЕРШКОВИЙ ПИРІГ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: crossbow → арбалет
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/13/CROSSBOW/@"
+msgid "CROSSBOW"
+msgstr "АРБАЛЕТ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: crown → корона, headdress → головний убір
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/14/CROWNS & HEADDRESSES/@"
+msgid "CROWNS & HEADDRESSES"
+msgstr "КОРОНИ Й ГОЛОВНІ УБОРИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: crystal → кристал, crystal ammo → кристалічні боєприпаси
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/15/CRYSTAL AMMO/@"
+msgid "CRYSTAL AMMO"
+msgstr "КРИСТАЛІЧНІ БОЄПРИПАСИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: armor → обладунок, crystal → кристал, crystal armor → кристалічний обладунок
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/16/CRYSTAL ARMOR/@"
+msgid "CRYSTAL ARMOR"
+msgstr "КРИСТАЛІЧНИЙ ОБЛАДУНОК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: crystal → кристал, shard → уламок, crystal shard → кристалічний уламок
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/17/CRYSTAL SHARD/@"
+msgid "CRYSTAL SHARD"
+msgstr "КРИСТАЛІЧНИЙ УЛАМОК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: dart → метальний дротик, plumbata → плюмбата
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/18/DARTS & PLUMBATA/@"
+msgid "DARTS & PLUMBATA"
+msgstr "МЕТАЛЬНІ ДРОТИКИ Й ПЛЮМБАТИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: box → ящик, death box → скринька смерті
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/19/DEATH BOX/@"
+msgid "DEATH BOX"
+msgstr "СКРИНЬКА СМЕРТІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Potion → Зілля
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/20/DEFENSIVE POTIONS/@"
+msgid "DEFENSIVE POTIONS"
+msgstr "ЗАХИСНІ ЗІЛЛЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Djinni's Brace → Рукавиці Джина
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/21/DJINNI'S BRACE/@"
+msgid "DJINNI'S BRACE"
+msgstr "РУКАВИЦІ ДЖИНА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Dragon's Mail → Драконяча кольчуга, mail → пошта
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/22/DRAGON'S MAIL/@"
+msgid "DRAGON'S MAIL"
+msgstr "ДРАКОНЯЧА КОЛЬЧУГА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: duck → качка
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/23/DUCK/@"
+msgid "DUCK"
+msgstr "КАЧКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Dummybot → робот-манекен
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/24/DUMMYBOT/@"
+msgid "DUMMYBOT"
+msgstr "РОБОТ-МАНЕКЕН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Dyrnwyn → Дірнвін
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/25/DYRNWYN/@"
+msgid "DYRNWYN"
+msgstr "ДІРНВІН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: empty bottle → порожня пляшка, bottle → пляшка
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/26/EMPTY BOTTLE/@"
+msgid "EMPTY BOTTLE"
+msgstr "ПОРОЖНЯ ПЛЯШКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: face accessory → лицьовий аксесуар
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/27/FACE ACCESSORIES/@"
+msgid "FACE ACCESSORIES"
+msgstr "ЛИЦЬОВІ АКСЕСУАРИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Fire → вогонь, hunting ammo → мисливські боєприпаси
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/28/FIRE & HUNTING AMMO/@"
+msgid "FIRE & HUNTING AMMO"
+msgstr "ВОГНЯНІ Й МИСЛИВСЬКІ БОЄПРИПАСИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: weapon → зброя, fist → кулак
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/29/FIST WEAPONS/@"
+msgid "FIST WEAPONS"
+msgstr "КУЛАЧНА ЗБРОЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: flail → бойовий ціп
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/30/FLAILS/@"
+msgid "FLAILS"
+msgstr "БОЙОВІ ЦІПИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: frypan → сковорода
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/31/FRYPAN/@"
+msgid "FRYPAN"
+msgstr "СКОВОРОДА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: greatsword → дворучний меч
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/32/GREATSWORDS/@"
+msgid "GREATSWORDS"
+msgstr "ДВОРУЧНІ МЕЧІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Gungnir → Ґунґнір
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/33/GUNGNIR/@"
+msgid "GUNGNIR"
+msgstr "ҐУНҐНІР"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Gyrobot → гіробот
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/34/GYROBOT/@"
+msgid "GYROBOT"
+msgstr "ГІРОБОТ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: hat → капелюх, hood → каптур
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/35/HATS & HOODS/@"
+msgid "HATS & HOODS"
+msgstr "КАПЕЛЮХИ Й КАПТУРИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: armor → обладунок, iron → залізо, iron armor → залізний обладунок
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/36/IRON ARMOR/@"
+msgid "IRON ARMOR"
+msgstr "ЗАЛІЗНИЙ ОБЛАДУНОК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: key → ключ
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/37/KEYS/@"
+msgid "KEYS"
+msgstr "КЛЮЧІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Khryselakatos → Хриселакатос
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/38/KHRYSELAKATOS/@"
+msgid "KHRYSELAKATOS"
+msgstr "ХРИСЕЛАКАТОС"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: armor → обладунок, leather armor → шкіряний обладунок
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/39/LEATHER ARMOR/@"
+msgid "LEATHER ARMOR"
+msgstr "ШКІРЯНИЙ ОБЛАДУНОК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: lockpick → відмичка
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/40/LOCKPICK/@"
+msgid "LOCKPICK"
+msgstr "ВІДМИЧКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Mace → булава
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/41/MACES/@"
+msgid "MACES"
+msgstr "БУЛАВИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Lore → знання, mail → пошта
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/42/MAIL & LORE BOOKS/@"
+msgid "MAIL & LORE BOOKS"
+msgstr "ПОШТА Й КНИГИ ЗНАНЬ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: mask → маска, visor → забрало
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/43/MASKS & VISORS/@"
+msgid "MASKS & VISORS"
+msgstr "МАСКИ Й ЗАБРАЛА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Food → їжа
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/44/MEALS/@"
+msgid "MEALS"
+msgstr "СТРАВИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Mines → Шахти, lockpick → відмичка, mining pick → шахтарське кайло
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/45/MINING PICK/@"
+msgid "MINING PICK"
+msgstr "ШАХТАРСЬКЕ КАЙЛО"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: mirror → дзеркало
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/46/MIRRORS/@"
+msgid "MIRRORS"
+msgstr "ДЗЕРКАЛА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: morsel → кусень їжі
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/47/MORSELS/@"
+msgid "MORSELS"
+msgstr "КУСНІ ЇЖІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: orb → сфера, mystic orb → містична сфера
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/48/MYSTIC ORB/@"
+msgid "MYSTIC ORB"
+msgstr "МІСТИЧНА СФЕРА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: noisemaker → шумова приманка
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/49/NOISEMAKER/@"
+msgid "NOISEMAKER"
+msgstr "ШУМОВА ПРИМАНКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Potion → Зілля
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/50/OFFENSIVE POTIONS/@"
+msgid "OFFENSIVE POTIONS"
+msgstr "БОЙОВІ ЗІЛЛЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Oracle's Treads → Чоботи Оракула
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/51/ORACLE'S TREADS/@"
+msgid "ORACLE'S TREADS"
+msgstr "ЧОБОТИ ОРАКУЛА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Parashu → Парашу
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/52/PARASHU/@"
+msgid "PARASHU"
+msgstr "ПАРАШУ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Polearm → древкова зброя
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/53/POLEARMS/@"
+msgid "POLEARMS"
+msgstr "ДРЕВКОВА ЗБРОЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: armor → обладунок, quilted armor → стьобаний обладунок
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/54/QUILTED ARMOR/@"
+msgid "QUILTED ARMOR"
+msgstr "СТЬОБАНИЙ ОБЛАДУНОК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: rapier → рапіра
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/55/RAPIER/@"
+msgid "RAPIER"
+msgstr "РАПІРА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: ration → пайок
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/56/RATIONS/@"
+msgid "RATIONS"
+msgstr "ПАЙКИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: boulder → валун, Gem → коштовний камінь
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/57/ROCKS & GEMS/@"
+msgid "ROCKS & GEMS"
+msgstr "КАМІННЯ Й КОШТОВНІ КАМЕНІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Sentrybot → робот-вартовий, Spellbot → робот-заклинач
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/58/SENTRY BOT & SPELLBOT/@"
+msgid "SENTRY BOT & SPELLBOT"
+msgstr "РОБОТ-ВАРТОВИЙ І РОБОТ-ЗАКЛИНАЧ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Sharur → Шарур
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/59/SHARUR/@"
+msgid "SHARUR"
+msgstr "ШАРУР"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: shield → щит
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/60/SHIELDS/@"
+msgid "SHIELDS"
+msgstr "ЩИТИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: shillelagh → шилейла
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/61/SHILLELAGH/@"
+msgid "SHILLELAGH"
+msgstr "ШИЛЕЙЛА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: silver → срібло, piercing ammo → пробивні боєприпаси
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/62/SILVER & PIERCING AMMO/@"
+msgid "SILVER & PIERCING AMMO"
+msgstr "СРІБЛО Й ПРОБИВНІ БОЄПРИПАСИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Skeleton → скелет, skeleton key → універсальний ключ, key → ключ
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/63/SKELETON KEY/@"
+msgid "SKELETON KEY"
+msgstr "УНІВЕРСАЛЬНИЙ КЛЮЧ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: slingshot → рогатка
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/64/SLINGSHOT/@"
+msgid "SLINGSHOT"
+msgstr "РОГАТКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Sphinx's Casque → Шолом Сфінкса
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/65/SPHINX'S CASQUE/@"
+msgid "SPHINX'S CASQUE"
+msgstr "ШОЛОМ СФІНКСА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: armor → обладунок, steel → сталь
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/66/STEEL ARMOR/@"
+msgid "STEEL ARMOR"
+msgstr "СТАЛЕВИЙ ОБЛАДУНОК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: springshot ammo → пружинні боєприпаси
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/67/SWIFT & SPRINGSHOT AMMO/@"
+msgid "SWIFT & SPRINGSHOT AMMO"
+msgstr "ШВИДКІ Й ПРУЖИННІ БОЄПРИПАСИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Sword → меч
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/68/SWORDS/@"
+msgid "SWORDS"
+msgstr "МЕЧІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Trap → пастка, Teleportation → телепортація, teleportation trap → телепортаційна пастка
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/69/TELEPORTATION TRAP/@"
+msgid "TELEPORTATION TRAP"
+msgstr "ТЕЛЕПОРТАЦІЙНА ПАСТКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: tin → консерва, tin opener → консервний ніж
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/70/TIN & TIN OPENER/@"
+msgid "TIN & TIN OPENER"
+msgstr "КОНСЕРВА Й КОНСЕРВНИЙ НІЖ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Trap → пастка, Tinkering → майстрування
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/71/TINKERED TRAPS/@"
+msgid "TINKERED TRAPS"
+msgstr "МАЙСТРОВАНІ ПАСТКИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Tinkering → майстрування, Tinkering Kit → набір для майстрування
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/72/TINKERING KIT/@"
+msgid "TINKERING KIT"
+msgstr "НАБІР ДЛЯ МАЙСТРУВАННЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: tomahawk → томагавк, dagger → кинджал
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/73/TOMAHAWKS & DAGGERS/@"
+msgid "TOMAHAWKS & DAGGERS"
+msgstr "ТОМАГАВКИ Й КИНДЖАЛИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: tomalley → томалі
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/74/TOMALLEY/@"
+msgid "TOMALLEY"
+msgstr "ТОМАЛІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: torch → смолоскип, lantern → ліхтар
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/75/TORCHES & LANTERNS/@"
+msgid "TORCHES & LANTERNS"
+msgstr "СМОЛОСКИПИ Й ЛІХТАРІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: towel → рушник
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/76/TOWEL/@"
+msgid "TOWEL"
+msgstr "РУШНИК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Water → вода
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/77/WATER/@"
+msgid "WATER"
+msgstr "ВОДА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Whip → батіг
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/78/WHIP/@"
+msgid "WHIP"
+msgstr "БАТІГ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Wraith's Gown → Плащ Примари
+#, fuzzy
+#: lang/compendium_lang/contents_items.json
+msgctxt "contents_alphabetical/79/WRAITH'S GOWN/@"
+msgid "WRAITH'S GOWN"
+msgstr "ПЛАЩ ПРИМАРИ"

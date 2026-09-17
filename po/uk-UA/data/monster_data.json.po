@@ -1,0 +1,316 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. імена іменованих монстрів і NPC
+#. сутності: hood → каптур, Red Riding Hood → Червона Шапочка
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/human/specialNPCs/red riding hood/localized_name"
+msgid "Red Riding Hood"
+msgstr "Червона Шапочка"
+
+#. імена іменованих монстрів і NPC
+#. сутності: King Arthur → король Артур
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/human/specialNPCs/king arthur/localized_name"
+msgid "King Arthur"
+msgstr "король Артур"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Merlin → Мерлін
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/human/specialNPCs/merlin/localized_name"
+msgid "Merlin"
+msgstr "Мерлін"
+
+#. імена іменованих монстрів і NPC
+#. сутності: hood → каптур, Robin Hood → Робін Гуд
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/human/specialNPCs/robin hood/localized_name"
+msgid "Robin Hood"
+msgstr "Робін Гуд"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Barbarian → варвар, Conan the Barbarian → Конан-варвар
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/human/specialNPCs/conan the barbarian/localized_name"
+msgid "Conan the Barbarian"
+msgstr "Конан-варвар"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Othello → Отелло
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/human/specialNPCs/othello/localized_name"
+msgid "Othello"
+msgstr "Отелло"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Anansi → Анансі
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/human/specialNPCs/anansi/localized_name"
+msgid "Anansi"
+msgstr "Анансі"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Oya → Оя
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/human/specialNPCs/oya/localized_name"
+msgid "Oya"
+msgstr "Оя"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Vishpala → Вішпала
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/human/specialNPCs/vishpala/localized_name"
+msgid "Vishpala"
+msgstr "Вішпала"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Kali → Калі
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/human/specialNPCs/kali/localized_name"
+msgid "Kali"
+msgstr "Калі"
+
+#. імена іменованих монстрів і NPC
+#. сутності: ZAP Brigadier → Бригадир ZAP
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/human/specialNPCs/zap brigadier/localized_name"
+msgid "ZAP Brigadier"
+msgstr "Бригадир ZAP"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Algernon → Елджернон
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/rat/specialNPCs/algernon/localized_name"
+msgid "Algernon"
+msgstr "Елджернон"
+
+#. імена іменованих монстрів і NPC
+#. сутності: The Potato King → Картопляний король
+#. тон: joke
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/goblin/specialNPCs/potato king/localized_name"
+msgid "The Potato King"
+msgstr "Картопляний король"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Troll → Троль, Thumpus → Тумпус
+#. тон: joke
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/troll/specialNPCs/thumpus/localized_name"
+msgid "Thumpus the Troll"
+msgstr "Тумпус-троль"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Shelob → Шелоб
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/spider/specialNPCs/shelob/localized_name"
+msgid "Shelob"
+msgstr "Шелоб"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Bubbles → Бульбашка
+#. тон: joke
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/spider/specialNPCs/bubbles/localized_name"
+msgid "Bubbles"
+msgstr "Бульбашка"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Coral Grimes → Корал Граймс
+#. тон: joke
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/ghoul/specialNPCs/coral grimes/localized_name"
+msgid "Coral Grimes"
+msgstr "Корал Граймс"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Funny Bones → Веселі Кістки
+#. тон: joke
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/skeleton/specialNPCs/funny bones/localized_name"
+msgid "Funny Bones"
+msgstr "Веселі Кістки"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Skeleton → скелет, Skeleton Knight → лицар-скелет
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/skeleton/specialNPCs/skeleton knight/localized_name"
+msgid "skeleton knight"
+msgstr "лицар-скелет"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Skeleton Knight → лицар-скелет
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/skeleton/specialNPCs/skeleton knight/localized_short_name"
+msgid "Knight"
+msgstr "Лицар"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Skeleton → скелет, Skeleton Sentinel → скелетний вартовий
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/skeleton/specialNPCs/skeleton sentinel/localized_name"
+msgid "skeleton sentinel"
+msgstr "скелетний вартовий"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Skeleton Sentinel → скелетний вартовий
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/skeleton/specialNPCs/skeleton sentinel/localized_short_name"
+msgid "Sentinel"
+msgstr "Вартовий"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Skrabblag → Скрабблаг
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/scorpion/specialNPCs/skrabblag/localized_name"
+msgid "Skrabblag"
+msgstr "Скрабблаг"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Deu De'Breau → Деу Де'Бро
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/demon/specialNPCs/deudebreau/localized_name"
+msgid "Deu De'Breau"
+msgstr "Деу Де'Бро"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Lilith → Ліліт
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/succubus/specialNPCs/lilith/localized_name"
+msgid "Lilith"
+msgstr "Ліліт"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Xyggi → Ксіґґі
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/scarab/specialNPCs/xyggi/localized_name"
+msgid "Xyggi"
+msgstr "Ксіґґі"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Golem → голем
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/crystalgolem/default/localized_short_name"
+msgid "Golem"
+msgstr "Голем"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Johann → Йоганн
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/incubus/specialNPCs/johann/localized_name"
+msgid "Johann"
+msgstr "Йоганн"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Bram Kindly → Брам Добряк, Bram → Брам
+#. тон: joke
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/vampire/specialNPCs/bram kindly/localized_name"
+msgid "Bram Kindly"
+msgstr "Брам Добряк"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Artemisia → Артемісія
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/shadow/specialNPCs/artemisia/localized_name"
+msgid "Artemisia"
+msgstr "Артемісія"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Baratheon → Баратеон
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/shadow/specialNPCs/baratheon/localized_name"
+msgid "Baratheon"
+msgstr "Баратеон"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Gharbad → Ґарбад
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/goatman/specialNPCs/gharbad/localized_name"
+msgid "Gharbad"
+msgstr "Ґарбад"
+
+#. імена іменованих монстрів і NPC
+#. сутності: sentry → вартовий
+#. тон: technical
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/sentrybot/default/localized_short_name"
+msgid "Sentry"
+msgstr "Вартовий"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Spell → Закляття
+#. тон: technical
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/spellbot/default/localized_short_name"
+msgid "Spell"
+msgstr "Закляття"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Gyro → Джайро
+#. тон: technical
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/gyrobot/default/localized_short_name"
+msgid "Gyro"
+msgstr "Джайро"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Dummy → манекен
+#. тон: technical
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/dummybot/default/localized_short_name"
+msgid "Dummy"
+msgstr "Манекен"
+
+#. імена іменованих монстрів і NPC
+#. сутності: Fire → вогонь, Fire Sprite → вогняний дух
+#, fuzzy
+#: data/monster_data.json
+msgctxt "monsters/moth/specialNPCs/fire sprite/localized_name"
+msgid "fire sprite"
+msgstr "вогняний дух"

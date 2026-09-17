@@ -1,0 +1,2631 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Demon → демон
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointAutomaton.json
+msgctxt "data/story/BaphometMidpointAutomaton.json|text/0"
+msgid "*2Hacking your way through every demon in your path, you leap through the\n"
+msgstr "*2Прокладаючи шлях крізь усіх демонів, ви стрибаєте в\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: portal → портал, Challenge → випробування
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointAutomaton.json
+msgctxt "data/story/BaphometMidpointAutomaton.json|text/1"
+msgid "portal.^ No entity, mortal or immortal, can challenge your power.\n^"
+msgstr "портал.^ Ні смертний, ні безсмертний не здолає вашої сили.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointAutomaton.json
+msgctxt "data/story/BaphometMidpointAutomaton.json|text/2"
+msgid "*2Suddenly, you find yourself standing wearily in an endless white hall dotted\n"
+msgstr "*2Раптом ви опиняєтеся, знесилені, у безкрайній білій залі,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointAutomaton.json
+msgctxt "data/story/BaphometMidpointAutomaton.json|text/3"
+msgid "with enormous pillars that stretch higher than you can see.\n"
+msgstr "усіяній велетенськими колонами, що сягають за межі зору.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Herx → Геркс, Peace → мир
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointAutomaton.json
+msgctxt "data/story/BaphometMidpointAutomaton.json|text/4"
+msgid "*2A sense of peace overwhelms and refreshes you. You know that Herx's power has\n"
+msgstr "*2Відчуття миру огортає й відновлює вас. Ви знаєте: силу Геркса\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Devil → диявол, Baphomet → Бафомет
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointAutomaton.json
+msgctxt "data/story/BaphometMidpointAutomaton.json|text/5"
+msgid "been removed. But Baphomet was just one devil. A voice comforts you...\n^"
+msgstr "знищено. Та Бафомет був лише одним дияволом. Голос утішає вас...\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Lich → ліч, Herx → Геркс, foe → ворог
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/BaphometMidpointAutomaton.json
+msgctxt "data/story/BaphometMidpointAutomaton.json|text/6"
+msgid "*3\"The lich Herx has become dust, but cleverer foes draw upon hellish evil.\n"
+msgstr "*3«Ліч Геркс обернувся на прах, та хитріші вороги черпають пекельне зло.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Hamlet → Поселення, Time → час
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/BaphometMidpointAutomaton.json
+msgctxt "data/story/BaphometMidpointAutomaton.json|text/7"
+msgid "Hamlet is free for now, but the world is not safe. In times such as these,\n"
+msgstr "Нині Поселення вільне, та світ іще в небезпеці. У такі часи\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointAutomaton.json
+msgctxt "data/story/BaphometMidpointAutomaton.json|text/8"
+msgid "a mighty one must tip the scales. We have a proposition for you...\"\n^"
+msgstr "могутній герой має схилити шальки терезів. Ми маємо для вас пропозицію...»\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Warning → попередження
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointAutomaton.json
+msgctxt "data/story/BaphometMidpointAutomaton.json|text/9"
+msgid "*2Without warning, you are transported back into the mortal realm.\n"
+msgstr "*2Без попередження вас переносить назад у світ смертних.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Hamlet → Поселення, Peace → мир
+#. тон: command, solemn
+#, fuzzy
+#: data/story/BaphometMidpointAutomaton.json
+msgctxt "data/story/BaphometMidpointAutomaton.json|text/10"
+msgid "\"You must sever all evil from Hamlet, or there can be no peace.\"\n^"
+msgstr "«Ви мусите викорінити все зло з Поселення, інакше миру не буде».\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Hamlet → Поселення, EN → ЕН
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointAutomaton.json
+msgctxt "data/story/BaphometMidpointAutomaton.json|text/11"
+msgid "*2With renewed energy, you find yourself standing in Hamlet. Evidence of a\n"
+msgstr "*2З новими силами ви опиняєтеся в Поселенні. Сліди\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Mines → Шахти, gate → брама, Celebration → Святкування
+#. тон: solemn, excited
+#, fuzzy
+#: data/story/BaphometMidpointAutomaton.json
+msgctxt "data/story/BaphometMidpointAutomaton.json|text/12"
+msgid "great celebration flows from the gates of the mines to a nearby hostel.\n^"
+msgstr "великого святкування ведуть від брами Шахт до сусідньої корчми.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Guild → гільдія, Magician → маг, will → воля
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointAutomaton.json
+msgctxt "data/story/BaphometMidpointAutomaton.json|text/13"
+msgid "*1You know the Magician's Guild will aid you in your quest..."
+msgstr "*1Ви знаєте: гільдія магів допоможе вам у пошуках..."
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Demon → демон
+#. тон: solemn, excited
+#, fuzzy
+#: data/story/BaphometMidpointBeast.json
+msgctxt "data/story/BaphometMidpointBeast.json|text/0"
+msgid "*2Hacking your way through every demon in your path, you leap through the\n"
+msgstr "*2Долаючи всіх демонів на своєму шляху, ви стрибаєте в\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: portal → портал, Challenge → випробування
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointBeast.json
+msgctxt "data/story/BaphometMidpointBeast.json|text/1"
+msgid "portal.^ No entity, mortal or immortal, can challenge your power.\n^"
+msgstr "портал.^ Жодна смертна чи безсмертна істота не здатна кинути виклик вашій силі.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointBeast.json
+msgctxt "data/story/BaphometMidpointBeast.json|text/2"
+msgid "*2Suddenly, you find yourself standing wearily in an endless white hall dotted\n"
+msgstr "*2Раптом ви опиняєтеся в нескінченній білій залі, втомлено стоячи серед\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointBeast.json
+msgctxt "data/story/BaphometMidpointBeast.json|text/3"
+msgid "with enormous pillars that stretch higher than you can see.\n"
+msgstr "велетенських колон, що здіймаються за межі вашого зору.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: foe → ворог
+#. тон: fear, solemn
+#, fuzzy
+#: data/story/BaphometMidpointBeast.json
+msgctxt "data/story/BaphometMidpointBeast.json|text/4"
+msgid "*2Nervously, you wait for your next foe to appear.\n"
+msgstr "*2З тривогою ви чекаєте на появу наступного ворога.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: fear, solemn
+#, fuzzy
+#: data/story/BaphometMidpointBeast.json
+msgctxt "data/story/BaphometMidpointBeast.json|text/5"
+msgid "You are unnerved when a voice booms:\n^"
+msgstr "Вас проймає страх, коли гримить голос:\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Strength → сила
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/BaphometMidpointBeast.json
+msgctxt "data/story/BaphometMidpointBeast.json|text/6"
+msgid "*3\"We have witnessed your strength and lust for power. You are not expected here.\n"
+msgstr "*3«Ми бачили вашу силу й жагу до влади. Вам тут не місце.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: focus → магічний фокус
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointBeast.json
+msgctxt "data/story/BaphometMidpointBeast.json|text/7"
+msgid "We are however impressed by your ferocity and focus. We ask you consider this\n"
+msgstr "Проте нас вразили ваша лють і магічний фокус. Просимо вас обміркувати\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointBeast.json
+msgctxt "data/story/BaphometMidpointBeast.json|text/8"
+msgid "proposition, mighty one...\"\n^"
+msgstr "цю пропозицію, могутній воїне...»\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointBeast.json
+msgctxt "data/story/BaphometMidpointBeast.json|text/9"
+msgid "*3As the voice addresses you, you find you are tempted by its words. It speaks\n"
+msgstr "*3Поки голос звертається до вас, його слова починають вас спокушати. Він говорить\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Baphomet → Бафомет, Herx → Геркс
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointBeast.json
+msgctxt "data/story/BaphometMidpointBeast.json|text/10"
+msgid "of a power greater than Herx and Baphomet. It claims that it is greater than\n"
+msgstr "про силу, могутнішу за Геркса й Бафомета. І стверджує, що вона перевершує\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: threat, solemn
+#, fuzzy
+#: data/story/BaphometMidpointBeast.json
+msgctxt "data/story/BaphometMidpointBeast.json|text/11"
+msgid "even you. The prospect of a competitor shall not stand...\n^"
+msgstr "навіть вас. Ви не потерпите такого суперника...\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Human → людина, Hamlet → Поселення, Warning → попередження
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointBeast.json
+msgctxt "data/story/BaphometMidpointBeast.json|text/12"
+msgid "*2Without warning, you find yourself transported to a human dwelling in Hamlet.\n"
+msgstr "*2Без попередження ви опиняєтеся в людській оселі в Поселенні.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Denizen → мешканець, Drunk → сп'яніння
+#. тон: joke, solemn
+#, fuzzy
+#: data/story/BaphometMidpointBeast.json
+msgctxt "data/story/BaphometMidpointBeast.json|text/13"
+msgid "But its denizens are too drunk to notice as you steal away into a backroom.\n^"
+msgstr "Та її мешканці в такому сп'янінні, що не помічають, як ви крадетеся до комірчини.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: trapdoor → люк, Magic → магія
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointBeast.json
+msgctxt "data/story/BaphometMidpointBeast.json|text/14"
+msgid "*1A trapdoor leads to a sewer, beyond which you can sense great magic beckoning..."
+msgstr "*1Люк веде до каналізації, звідки ви відчуваєте поклик могутньої магії..."
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Demon → демон
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointEvil.json
+msgctxt "data/story/BaphometMidpointEvil.json|text/0"
+msgid "*2Hacking your way through every demon in your path, you leap through the\n"
+msgstr "*2Прокладаючи собі шлях крізь усіх демонів, ви стрибаєте в\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: portal → портал, Challenge → випробування
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/BaphometMidpointEvil.json
+msgctxt "data/story/BaphometMidpointEvil.json|text/1"
+msgid "portal.^ No entity, mortal or immortal, can challenge your power.\n^"
+msgstr "портал.^ Ні смертний, ні безсмертний не здатен кинути вам виклик.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointEvil.json
+msgctxt "data/story/BaphometMidpointEvil.json|text/2"
+msgid "*2Suddenly, you find yourself standing wearily in an endless white hall dotted\n"
+msgstr "*2Раптом ви знесилено опиняєтеся в нескінченній білій залі,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointEvil.json
+msgctxt "data/story/BaphometMidpointEvil.json|text/3"
+msgid "with enormous pillars that stretch higher than you can see.\n"
+msgstr "усіяній велетенськими колонами, вершинам яких не видно кінця.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Blood → кров
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointEvil.json
+msgctxt "data/story/BaphometMidpointEvil.json|text/4"
+msgid "*2The smell of blood is thick on your breath as you tensely wait for your\n"
+msgstr "*2Подих густо просяк кров'ю, а ви напружено чекаєте на появу\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: foe → ворог
+#. тон: solemn, fear
+#, fuzzy
+#: data/story/BaphometMidpointEvil.json
+msgctxt "data/story/BaphometMidpointEvil.json|text/5"
+msgid "next foe to appear. Nevertheless, you are unnerved when a voice booms:\n^"
+msgstr "наступного ворога. Та вас охоплює тривога, коли гримить голос:\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Strength → сила
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/BaphometMidpointEvil.json
+msgctxt "data/story/BaphometMidpointEvil.json|text/6"
+msgid "*3\"We have witnessed your strength and lust for power. You are not expected here.\n"
+msgstr "*3«Ми бачили вашу силу й жагу до влади. На вас тут не чекали.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: focus → магічний фокус
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointEvil.json
+msgctxt "data/story/BaphometMidpointEvil.json|text/7"
+msgid "We are however impressed by your ferocity and focus. We ask you consider this\n"
+msgstr "Та нас вразили ваша лють і магічний фокус. Просимо вас обміркувати\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointEvil.json
+msgctxt "data/story/BaphometMidpointEvil.json|text/8"
+msgid "proposition, mighty one...\"\n^"
+msgstr "цю пропозицію, могутній...\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointEvil.json
+msgctxt "data/story/BaphometMidpointEvil.json|text/9"
+msgid "*3As the voice addresses you, you find you are tempted by its words. It speaks\n"
+msgstr "*3Дослухаючись до голосу, ви відчуваєте спокусу в його словах. Він мовить\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Baphomet → Бафомет, Herx → Геркс
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointEvil.json
+msgctxt "data/story/BaphometMidpointEvil.json|text/10"
+msgid "of a power greater than Herx and Baphomet. It claims that it is greater than\n"
+msgstr "про силу, більшу за силу Геркса й Бафомета. І стверджує, що вона перевершує\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: threat, solemn
+#, fuzzy
+#: data/story/BaphometMidpointEvil.json
+msgctxt "data/story/BaphometMidpointEvil.json|text/11"
+msgid "even you. The prospect of a competitor shall not stand...\n^"
+msgstr "навіть вас. Існування такого суперника неприпустиме...\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Human → людина, Hamlet → Поселення, Warning → попередження
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointEvil.json
+msgctxt "data/story/BaphometMidpointEvil.json|text/12"
+msgid "*2Without warning, you find yourself transported to a human dwelling in Hamlet.\n"
+msgstr "*2Без попередження ви опиняєтеся в людській оселі в Поселенні.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Denizen → мешканець, Drunk → сп'яніння
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointEvil.json
+msgctxt "data/story/BaphometMidpointEvil.json|text/13"
+msgid "But its denizens are too drunk to notice as you steal away into a backroom.\n^"
+msgstr "Та її мешканці надто сп'янілі, щоб помітити, як ви крадетеся до комірчини.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: trapdoor → люк, Magic → магія
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointEvil.json
+msgctxt "data/story/BaphometMidpointEvil.json|text/14"
+msgid "*1A trapdoor leads to a sewer, beyond which you can sense great magic beckoning..."
+msgstr "*1Люк веде до каналізації, звідки вас кличе могутня магія..."
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Demon → демон
+#. тон: solemn, excited
+#, fuzzy
+#: data/story/BaphometMidpointHuman.json
+msgctxt "data/story/BaphometMidpointHuman.json|text/0"
+msgid "*2Hacking your way through every demon in your path, you leap through the\n"
+msgstr "*2Прокладаючи собі шлях крізь усіх демонів, ви стрибаєте в\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: portal → портал, Challenge → випробування
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointHuman.json
+msgctxt "data/story/BaphometMidpointHuman.json|text/1"
+msgid "portal.^ No entity, mortal or immortal, can challenge your power.\n^"
+msgstr "портал.^ Жодна сутність, смертна чи безсмертна, не здатна кинути виклик вашій силі.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointHuman.json
+msgctxt "data/story/BaphometMidpointHuman.json|text/2"
+msgid "*2Suddenly, you find yourself standing wearily in an endless white hall dotted\n"
+msgstr "*2Раптом ви опиняєтеся, знесилені, у нескінченній білій залі, всіяній\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointHuman.json
+msgctxt "data/story/BaphometMidpointHuman.json|text/3"
+msgid "with enormous pillars that stretch higher than you can see.\n"
+msgstr "величезними колонами, що сягають вище, ніж ви здатні побачити.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Herx → Геркс, Peace → мир
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointHuman.json
+msgctxt "data/story/BaphometMidpointHuman.json|text/4"
+msgid "*2A sense of peace overwhelms and refreshes you. You know that Herx's power has\n"
+msgstr "*2Вас огортає й відновлює відчуття миру. Ви знаєте, що силу Геркса\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Devil → диявол, Baphomet → Бафомет
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointHuman.json
+msgctxt "data/story/BaphometMidpointHuman.json|text/5"
+msgid "been removed. But Baphomet was just one devil. A voice comforts you...\n^"
+msgstr "подолано. Та Бафомет був лише одним дияволом. Голос утішає вас...\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Lich → ліч, Herx → Геркс, foe → ворог
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/BaphometMidpointHuman.json
+msgctxt "data/story/BaphometMidpointHuman.json|text/6"
+msgid "*3\"The lich Herx has become dust, but cleverer foes draw upon hellish evil.\n"
+msgstr "*3«Ліч Геркс обернувся на прах, та хитріші вороги черпають пекельне зло.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Hamlet → Поселення, Time → час
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/BaphometMidpointHuman.json
+msgctxt "data/story/BaphometMidpointHuman.json|text/7"
+msgid "Hamlet is free for now, but the world is not safe. In times such as these,\n"
+msgstr "Поселення поки вільне, та світ не в безпеці. У такі часи\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointHuman.json
+msgctxt "data/story/BaphometMidpointHuman.json|text/8"
+msgid "a mighty one must tip the scales. We have a proposition for you...\"\n^"
+msgstr "могутня сила має схилити шальки терезів. Ми маємо для вас пропозицію...»\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Form → форма, Warning → попередження
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointHuman.json
+msgctxt "data/story/BaphometMidpointHuman.json|text/9"
+msgid "*2Without warning, you find your physical form shifting back into the\n"
+msgstr "*2Без попередження ви відчуваєте, як ваша фізична форма повертається до\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Hamlet → Поселення, Peace → мир
+#. тон: command, solemn
+#, fuzzy
+#: data/story/BaphometMidpointHuman.json
+msgctxt "data/story/BaphometMidpointHuman.json|text/10"
+msgid "mortal realm. \"You must sever all evil from Hamlet, or there can be no peace.\"\n^"
+msgstr "смертного світу. «Ви мусите викорінити все зло з Поселення, інакше миру не буде».\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Hamlet → Поселення, Courage → хоробрість
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointHuman.json
+msgctxt "data/story/BaphometMidpointHuman.json|text/11"
+msgid "*2With renewed courage, you find yourself standing in Hamlet. Evidence of a\n"
+msgstr "*2Сповнені нової хоробрості, ви опиняєтеся в Поселенні. Ознаки\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Mines → Шахти, gate → брама, Celebration → Святкування
+#. тон: solemn, excited
+#, fuzzy
+#: data/story/BaphometMidpointHuman.json
+msgctxt "data/story/BaphometMidpointHuman.json|text/12"
+msgid "great celebration flows from the gates of the mines to a nearby hostel.\n^"
+msgstr "великого Святкування простягаються від брами Шахт до сусіднього заїзду.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Guild → гільдія, Magician → маг, will → воля
+#. тон: solemn
+#, fuzzy
+#: data/story/BaphometMidpointHuman.json
+msgctxt "data/story/BaphometMidpointHuman.json|text/13"
+msgid "*1You know the Magician's Guild will aid you in your quest..."
+msgstr "*1Ви знаєте: гільдія магів допоможе вам у цій справі..."
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Demon → демон
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingAutomaton.json
+msgctxt "data/story/ClassicBaphometEndingAutomaton.json|text/0"
+msgid "*3Hacking your way through every demon in your path, you leap through the\n"
+msgstr "*3Прорубавши шлях крізь усіх демонів, ви стрибаєте в\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: portal → портал
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingAutomaton.json
+msgctxt "data/story/ClassicBaphometEndingAutomaton.json|text/1"
+msgid "portal without a moment's hesitation. It seems no entity, mortal or\n"
+msgstr "портал без миті вагань. Здається, жодна істота, смертна чи\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Challenge → випробування
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingAutomaton.json
+msgctxt "data/story/ClassicBaphometEndingAutomaton.json|text/2"
+msgid "immortal, can challenge your power.\n^"
+msgstr "безсмертна, не здатна кинути виклик вашій могутності.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingAutomaton.json
+msgctxt "data/story/ClassicBaphometEndingAutomaton.json|text/3"
+msgid "*3Suddenly, you find yourself standing wearily in an endless white hall dotted\n"
+msgstr "*3Раптом ви опиняєтеся в безкраїй білій залі, де височіють велетенські\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn, sad
+#, fuzzy
+#: data/story/ClassicBaphometEndingAutomaton.json
+msgctxt "data/story/ClassicBaphometEndingAutomaton.json|text/4"
+msgid "with enormous pillars that stretch higher than you can see. Your servos\n"
+msgstr "колони, вершинам яких не видно кінця. Ваші сервоприводи\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: worn → зношений, Any → будь-який, Ground → земля
+#. тон: sad, solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingAutomaton.json
+msgctxt "data/story/ClassicBaphometEndingAutomaton.json|text/5"
+msgid "are too worn to support you any further, and you collapse to the ground.\n"
+msgstr "надто зношені, щоб тримати вас, і ви падаєте на землю.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Minotaur → Мінотавр, Demon → демон, Baphomet → Бафомет
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingAutomaton.json
+msgctxt "data/story/ClassicBaphometEndingAutomaton.json|text/6"
+msgid "*2Can this supernatural place compete with Minotaurs, Demons; Baphomet himself?\n"
+msgstr "*2Чи зрівняється це надприродне місце з Мінотаврами, демонами, самим Бафометом?\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Magic → магія
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingAutomaton.json
+msgctxt "data/story/ClassicBaphometEndingAutomaton.json|text/7"
+msgid "You detect great magic flowing into the room. A voice booms:\n^"
+msgstr "Ви відчуваєте, як залу сповнює могутня магія. Голос гримить:\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Ability → здібність
+#. тон: solemn, rude
+#, fuzzy
+#: data/story/ClassicBaphometEndingAutomaton.json
+msgctxt "data/story/ClassicBaphometEndingAutomaton.json|text/8"
+msgid "*2\"We are impressed with your ability, servile one. You were not expected here.\n"
+msgstr "*2«Нас вразили ваші здібності, прислужнику. На вас тут не чекали.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingAutomaton.json
+msgctxt "data/story/ClassicBaphometEndingAutomaton.json|text/9"
+msgid "We ask you consider this proposition...\"\n^"
+msgstr "Просимо вас обміркувати нашу пропозицію...»\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/ClassicBaphometEndingAutomaton.json
+msgctxt "data/story/ClassicBaphometEndingAutomaton.json|text/10"
+msgid "*3As the voice addresses you, you find yourself either unwilling or unable\n"
+msgstr "*3Поки голос звертається до вас, ви не бажаєте або не можете\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/ClassicBaphometEndingAutomaton.json
+msgctxt "data/story/ClassicBaphometEndingAutomaton.json|text/11"
+msgid "to reject what it tells you. Eventually, you detect a transfer of consciousness,\n"
+msgstr "відкинути його слова. Зрештою ви відчуваєте перенесення свідомості,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Distance → дальність
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/ClassicBaphometEndingAutomaton.json
+msgctxt "data/story/ClassicBaphometEndingAutomaton.json|text/12"
+msgid "and you feel your body being transported a great distance.\n^"
+msgstr "а ваше тіло переміщується на величезну відстань.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/ClassicBaphometEndingAutomaton.json
+msgctxt "data/story/ClassicBaphometEndingAutomaton.json|text/13"
+msgid "*3You sense the supreme power of a great mind as you fade from the mortal world.\n"
+msgstr "*3Полишаючи світ смертних, ви відчуваєте найвищу силу великого розуму.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/ClassicBaphometEndingAutomaton.json
+msgctxt "data/story/ClassicBaphometEndingAutomaton.json|text/14"
+msgid "The first age comes to a close, and the age of chaos begins. You are sure that\n"
+msgstr "Перша доба добігає кінця, і починається доба хаосу. Ви певні:\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Time → час, will → воля
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/ClassicBaphometEndingAutomaton.json
+msgctxt "data/story/ClassicBaphometEndingAutomaton.json|text/15"
+msgid "your time is emminent and your purpose will be fulfilled."
+msgstr "ваш час уже близько, і ваше призначення здійсниться."
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Demon → демон
+#. тон: solemn, excited
+#, fuzzy
+#: data/story/ClassicBaphometEndingBeast.json
+msgctxt "data/story/ClassicBaphometEndingBeast.json|text/0"
+msgid "*3Hacking your way through every demon in your path, you leap through the\n"
+msgstr "*3Прокладаючи шлях крізь усіх демонів, ви з розгону стрибаєте в\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: portal → портал
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingBeast.json
+msgctxt "data/story/ClassicBaphometEndingBeast.json|text/1"
+msgid "portal without a moment's hesitation. It seems no entity, mortal or\n"
+msgstr "портал без жодних вагань. Здається, жодна істота — смертна чи\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Challenge → випробування
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingBeast.json
+msgctxt "data/story/ClassicBaphometEndingBeast.json|text/2"
+msgid "immortal, can challenge your power.\n^"
+msgstr "безсмертна — не здатна кинути виклик вашій могутності.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingBeast.json
+msgctxt "data/story/ClassicBaphometEndingBeast.json|text/3"
+msgid "*3Suddenly, you find yourself standing wearily in an endless white hall dotted\n"
+msgstr "*3Раптом ви опиняєтеся в нескінченній білій залі, усіяній величезними\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingBeast.json
+msgctxt "data/story/ClassicBaphometEndingBeast.json|text/4"
+msgid "with enormous pillars that stretch higher than you can see. You are too\n"
+msgstr "колонами, що сягають вище, ніж здатне сягнути око. Ви надто\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Action → дія, Ground → земля
+#. тон: solemn, sad
+#, fuzzy
+#: data/story/ClassicBaphometEndingBeast.json
+msgctxt "data/story/ClassicBaphometEndingBeast.json|text/5"
+msgid "exhausted for terror or action. Your weariness forces you to the ground.\n"
+msgstr "виснажені для страху чи дій. Утома валить вас на землю.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Minotaur → Мінотавр, Demon → демон, Baphomet → Бафомет
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingBeast.json
+msgctxt "data/story/ClassicBaphometEndingBeast.json|text/6"
+msgid "*2Can this supernatural place compete with Minotaurs, Demons; Baphomet himself?\n"
+msgstr "*2Хіба цьому надприродному місцю зрівнятися з Мінотаврами, демонами, самим Бафометом?\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Magic → магія
+#. тон: fear, solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingBeast.json
+msgctxt "data/story/ClassicBaphometEndingBeast.json|text/7"
+msgid "You sense a great magic flow into the room. You are unnerved. A voice booms:\n^"
+msgstr "Ви відчуваєте, як залу сповнює могутня магія. Вас охоплює тривога. Гримить голос:\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Strength → сила
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/ClassicBaphometEndingBeast.json
+msgctxt "data/story/ClassicBaphometEndingBeast.json|text/8"
+msgid "*3\"We have witnessed your strength and lust for power. You were not expected here.\n"
+msgstr "*3«Ми бачили вашу силу й жагу до могутності. Ми не чекали на вас тут.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: focus → магічний фокус
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingBeast.json
+msgctxt "data/story/ClassicBaphometEndingBeast.json|text/9"
+msgid "We are however impressed by your ferocity and focus. We ask you consider this\n"
+msgstr "Та нас вразили ваша лють і магічний фокус. Обміркуйте нашу\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingBeast.json
+msgctxt "data/story/ClassicBaphometEndingBeast.json|text/10"
+msgid "proposition, mighty one...\"\n^"
+msgstr "пропозицію, могутній воїне...»\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/ClassicBaphometEndingBeast.json
+msgctxt "data/story/ClassicBaphometEndingBeast.json|text/11"
+msgid "*3As the voice addresses you, you find yourself either unwilling or unable\n"
+msgstr "*3Поки голос промовляє до вас, ви розумієте, що не бажаєте або не можете\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/ClassicBaphometEndingBeast.json
+msgctxt "data/story/ClassicBaphometEndingBeast.json|text/12"
+msgid "to reject what it tells you. Eventually, there is an inexplicable shift in your\n"
+msgstr "відкинути його слова. Зрештою у вашому смертному єстві стається\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn, fear
+#, fuzzy
+#: data/story/ClassicBaphometEndingBeast.json
+msgctxt "data/story/ClassicBaphometEndingBeast.json|text/13"
+msgid "mortal being, and you feel yourself fading away...\n^"
+msgstr "незбагненна зміна, і ви відчуваєте, як згасаєте...\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingBeast.json
+msgctxt "data/story/ClassicBaphometEndingBeast.json|text/14"
+msgid "*3You sense the supreme power of a great mind as you fade from the mortal world.\n"
+msgstr "*3Згасаючи у світі смертних, ви відчуваєте найвищу силу великого розуму.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/ClassicBaphometEndingBeast.json
+msgctxt "data/story/ClassicBaphometEndingBeast.json|text/15"
+msgid "The first age comes to a close, and the age of chaos begins. You are sure that\n"
+msgstr "Перша епоха добігає кінця, і починається епоха хаосу. Ви певні:\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Time → час, will → воля
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/ClassicBaphometEndingBeast.json
+msgctxt "data/story/ClassicBaphometEndingBeast.json|text/16"
+msgid "your time is emminent and your purpose will be fulfilled."
+msgstr "ваш час близько, і ваше призначення буде здійснено."
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Demon → демон
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingEvil.json
+msgctxt "data/story/ClassicBaphometEndingEvil.json|text/0"
+msgid "*3Hacking your way through every demon in your path, you leap through the\n"
+msgstr "*3Прорубавши шлях крізь усіх демонів, ви стрибаєте в\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: portal → портал
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingEvil.json
+msgctxt "data/story/ClassicBaphometEndingEvil.json|text/1"
+msgid "portal without a moment's hesitation. It seems no entity, mortal or\n"
+msgstr "портал без миті вагання. Здається, жодна істота — ані смертна,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Challenge → випробування
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingEvil.json
+msgctxt "data/story/ClassicBaphometEndingEvil.json|text/2"
+msgid "immortal, can challenge your power.\n^"
+msgstr "ані безсмертна — не здатна кинути виклик вашій могутності.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingEvil.json
+msgctxt "data/story/ClassicBaphometEndingEvil.json|text/3"
+msgid "*3Suddenly, you find yourself standing wearily in an endless white hall dotted\n"
+msgstr "*3Раптом ви опиняєтеся в нескінченній білій залі, стомлено стоячи серед\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingEvil.json
+msgctxt "data/story/ClassicBaphometEndingEvil.json|text/4"
+msgid "with enormous pillars that stretch higher than you can see. The smell of\n"
+msgstr "велетенських колон, що сягають вище, ніж сягає погляд. Подих ваш\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Blood → кров, will → воля
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/ClassicBaphometEndingEvil.json
+msgctxt "data/story/ClassicBaphometEndingEvil.json|text/5"
+msgid "blood is thick on your breath, but you suspect more will need to be spilled.\n"
+msgstr "сповнений запаху крові, та ви підозрюєте: пролити доведеться ще більше.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Minotaur → Мінотавр, Demon → демон, Baphomet → Бафомет
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingEvil.json
+msgctxt "data/story/ClassicBaphometEndingEvil.json|text/6"
+msgid "*2Can this supernatural place compete with Minotaurs, Demons; Baphomet himself?\n"
+msgstr "*2Чи зрівняється це надприродне місце з Мінотаврами, демонами; самим Бафометом?\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Magic → магія
+#. тон: solemn, fear
+#, fuzzy
+#: data/story/ClassicBaphometEndingEvil.json
+msgctxt "data/story/ClassicBaphometEndingEvil.json|text/7"
+msgid "You sense a great magic flow into the room. You are unnerved. A voice booms:\n^"
+msgstr "Ви чуєте, як залу наповнює потік великої магії. Вас охоплює тривога. Голос гримить:\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Strength → сила
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/ClassicBaphometEndingEvil.json
+msgctxt "data/story/ClassicBaphometEndingEvil.json|text/8"
+msgid "*3\"We have witnessed your strength and lust for power. You were not expected here.\n"
+msgstr "*3«Ми бачили вашу силу й жагу до влади. На вас тут не чекали.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: focus → магічний фокус
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingEvil.json
+msgctxt "data/story/ClassicBaphometEndingEvil.json|text/9"
+msgid "We are however impressed by your ferocity and focus. We ask you consider this\n"
+msgstr "Однак нас вразили ваша лють і магічний фокус. Просимо вас обміркувати\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingEvil.json
+msgctxt "data/story/ClassicBaphometEndingEvil.json|text/10"
+msgid "proposition, mighty one...\"\n^"
+msgstr "цю пропозицію, могутній воїне...»\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn, fear
+#, fuzzy
+#: data/story/ClassicBaphometEndingEvil.json
+msgctxt "data/story/ClassicBaphometEndingEvil.json|text/11"
+msgid "*3As the voice addresses you, you find yourself either unwilling or unable\n"
+msgstr "*3Коли голос звертається до вас, ви виявляєте, що не бажаєте чи не здатні\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn, fear
+#, fuzzy
+#: data/story/ClassicBaphometEndingEvil.json
+msgctxt "data/story/ClassicBaphometEndingEvil.json|text/12"
+msgid "to reject what it tells you. Eventually, there is an inexplicable shift in your\n"
+msgstr "відкинути сказане ним. Зрештою у вашому смертному єстві відбувається\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn, fear
+#, fuzzy
+#: data/story/ClassicBaphometEndingEvil.json
+msgctxt "data/story/ClassicBaphometEndingEvil.json|text/13"
+msgid "mortal being, and you feel yourself fading away...\n^"
+msgstr "незбагненна зміна, і ви відчуваєте, як зникаєте...\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingEvil.json
+msgctxt "data/story/ClassicBaphometEndingEvil.json|text/14"
+msgid "*3You sense the supreme power of a great mind as you fade from the mortal world.\n"
+msgstr "*3Покидаючи світ смертних, ви відчуваєте найвищу силу великого розуму.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/ClassicBaphometEndingEvil.json
+msgctxt "data/story/ClassicBaphometEndingEvil.json|text/15"
+msgid "The first age comes to a close, and the age of chaos begins. You are sure that\n"
+msgstr "Перша доба добігає кінця, і починається доба хаосу. Ви певні:\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Time → час, will → воля
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/ClassicBaphometEndingEvil.json
+msgctxt "data/story/ClassicBaphometEndingEvil.json|text/16"
+msgid "your time is emminent and your purpose will be fulfilled."
+msgstr "ваша пора близька, а призначення неодмінно здійсниться."
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Demon → демон
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingHuman.json
+msgctxt "data/story/ClassicBaphometEndingHuman.json|text/0"
+msgid "*3Hacking your way through every demon in your path, you leap through the\n"
+msgstr "*3Проклавши собі шлях крізь усіх демонів, ви стрибаєте в\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: portal → портал
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingHuman.json
+msgctxt "data/story/ClassicBaphometEndingHuman.json|text/1"
+msgid "portal without a moment's hesitation. Anywhere is better than here...\n"
+msgstr "портал без жодних вагань. Будь-де краще, ніж тут...\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: threat, solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingHuman.json
+msgctxt "data/story/ClassicBaphometEndingHuman.json|text/2"
+msgid "or so you think.\n^"
+msgstr "принаймні, так ви гадаєте.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingHuman.json
+msgctxt "data/story/ClassicBaphometEndingHuman.json|text/3"
+msgid "*3Suddenly, you find yourself standing wearily in an endless white hall dotted\n"
+msgstr "*3Раптом ви опиняєтеся у нескінченній білій залі, втомлено стоячи поміж\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingHuman.json
+msgctxt "data/story/ClassicBaphometEndingHuman.json|text/4"
+msgid "with enormous pillars that stretch higher than you can see. Out of exhaustion,\n"
+msgstr "велетенських колон, що здіймаються вище, ніж сягає око. Знесилені,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: weapon → зброя
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingHuman.json
+msgctxt "data/story/ClassicBaphometEndingHuman.json|text/5"
+msgid "you drop your weapons and step forward.\n"
+msgstr "ви кидаєте зброю й ступаєте вперед.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/ClassicBaphometEndingHuman.json
+msgctxt "data/story/ClassicBaphometEndingHuman.json|text/6"
+msgid "*2Surely, if anything were to happen now you would be finished; yet without\n"
+msgstr "*2Авжеж, якби зараз щось сталося, вам був би кінець; та без жодного\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingHuman.json
+msgctxt "data/story/ClassicBaphometEndingHuman.json|text/7"
+msgid "explanation, you suddenly sense power coming back to you. A voice booms out:\n^"
+msgstr "пояснення ви раптом відчуваєте, як повертається сила. Гримить голос:\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: trial → випробування
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingHuman.json
+msgctxt "data/story/ClassicBaphometEndingHuman.json|text/8"
+msgid "*3\"Greetings, mortal. We have witnessed your trials and tribulations and we are\n"
+msgstr "*3«Вітаємо, смертна душе. Ми бачили ваші випробування й поневіряння та\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Strength → сила, will → воля
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingHuman.json
+msgctxt "data/story/ClassicBaphometEndingHuman.json|text/9"
+msgid "infinitely impressed by your fortitude and strength of will. Therefore,\n"
+msgstr "безмежно вражені вашою стійкістю й силою волі. Тож\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingHuman.json
+msgctxt "data/story/ClassicBaphometEndingHuman.json|text/10"
+msgid "we have a proposition for you...\"\n^"
+msgstr "ми маємо для вас пропозицію...»\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: threat, solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingHuman.json
+msgctxt "data/story/ClassicBaphometEndingHuman.json|text/11"
+msgid "*3As the voice addresses you, you find yourself either unwilling or unable\n"
+msgstr "*3Поки голос промовляє до вас, ви не бажаєте або ж не можете\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: threat, solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingHuman.json
+msgctxt "data/story/ClassicBaphometEndingHuman.json|text/12"
+msgid "to reject what it tells you. Eventually, there is an inexplicable shift in your\n"
+msgstr "відкинути сказане ним. Зрештою у вашій смертній сутності стається\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: threat, solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingHuman.json
+msgctxt "data/story/ClassicBaphometEndingHuman.json|text/13"
+msgid "mortal being, and you feel yourself fading away...\n^"
+msgstr "незбагненна зміна, і ви відчуваєте, як згасаєте...\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingHuman.json
+msgctxt "data/story/ClassicBaphometEndingHuman.json|text/14"
+msgid "*3\"Evil fades from the mortal world, and its Guardian sleeps. The first age\n"
+msgstr "*3«Зло полишає світ смертних, і його Вартовий спить. Перша доба\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Time → час
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingHuman.json
+msgctxt "data/story/ClassicBaphometEndingHuman.json|text/15"
+msgid "comes to a close, and the age of chaos begins. Rest now, brave one: your time\n"
+msgstr "добігає кінця, і починається доба хаосу. Спочиньте, хоробра душе: ваш час\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: will → воля
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicBaphometEndingHuman.json
+msgctxt "data/story/ClassicBaphometEndingHuman.json|text/16"
+msgid "will come again.\""
+msgstr "іще настане»."
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: portal → портал
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingAutomaton.json
+msgctxt "data/story/ClassicEndingAutomaton.json|text/0"
+msgid "*3Victorious, you step into the portal. You know not what to expect,\n"
+msgstr "*3Звитяжно ви ступаєте в портал. Не знаючи, чого сподіватися,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Baron Herx → Барон Геркс, curse → прокляття
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingAutomaton.json
+msgctxt "data/story/ClassicEndingAutomaton.json|text/1"
+msgid "but are awash with relief. Somehow, you know that the Baron's curse\n"
+msgstr "та вас сповнює полегшення. Ви чомусь знаєте, що прокляття Барона Геркса\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingAutomaton.json
+msgctxt "data/story/ClassicEndingAutomaton.json|text/2"
+msgid "has been lifted from this land.\n^"
+msgstr "знято з цієї землі.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Mines → Шахти, Time → час
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingAutomaton.json
+msgctxt "data/story/ClassicEndingAutomaton.json|text/3"
+msgid "*4Before you have time to think, you are suddenly standing before the mines\n"
+msgstr "*4Не встигнувши й отямитися, ви раптом знову опиняєтеся перед Шахтами.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: monster → монстр
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingAutomaton.json
+msgctxt "data/story/ClassicEndingAutomaton.json|text/4"
+msgid "once more. But something is different; the howls of distant monsters have\n"
+msgstr "Та щось змінилося: завивання далеких монстрів\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingAutomaton.json
+msgctxt "data/story/ClassicEndingAutomaton.json|text/5"
+msgid "vanished, and the skies, once a menacing black, are clearing to show the\n"
+msgstr "стихло, а небеса, донедавна зловісно-чорні, яснішають, знову являючи\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Light → світло
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingAutomaton.json
+msgctxt "data/story/ClassicEndingAutomaton.json|text/6"
+msgid "light of day again.\n^"
+msgstr "світло дня.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Mines → Шахти, door → двері
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingAutomaton.json
+msgctxt "data/story/ClassicEndingAutomaton.json|text/7"
+msgid "*3Suddenly, the doors to the mine open wide. Sealed for years to contain\n"
+msgstr "*3Раптом двері до Шахт розчиняються навстіж. Роками замкнені, щоб стримувати\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Human → людина
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingAutomaton.json
+msgctxt "data/story/ClassicEndingAutomaton.json|text/8"
+msgid "the evil within, they swing out from the inside, as a hundred grateful humans\n"
+msgstr "зло всередині, вони відчиняються зсередини, і сотня вдячних людей\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Baron Herx → Барон Геркс, destroyed → знищений
+#. тон: solemn, excited
+#, fuzzy
+#: data/story/ClassicEndingAutomaton.json
+msgctxt "data/story/ClassicEndingAutomaton.json|text/9"
+msgid "rush out to greet the one who destroyed the Baron.\n^"
+msgstr "вибігає привітати того, хто знищив Барона Геркса.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Baron Herx → Барон Геркс
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/ClassicEndingAutomaton.json
+msgctxt "data/story/ClassicEndingAutomaton.json|text/10"
+msgid "*4The hellish source of the Baron's power remains a mystery to you, and some\n"
+msgstr "*4Пекельне джерело сили Барона Геркса досі лишається таємницею, і після недовгих\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Guild → гільдія, Magician → маг
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingAutomaton.json
+msgctxt "data/story/ClassicEndingAutomaton.json|text/11"
+msgid "deliberation leads you to believe that a visit to the Magician's Guild is in\n"
+msgstr "роздумів ви вирішуєте, що слід навідатися до гільдії магів,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingAutomaton.json
+msgctxt "data/story/ClassicEndingAutomaton.json|text/12"
+msgid "order for some deeper investigation. But for now, you simply attend to the\n"
+msgstr "аби розслідувати все глибше. Та нині ви просто долучаєтеся до\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn, excited
+#, fuzzy
+#: data/story/ClassicEndingAutomaton.json
+msgctxt "data/story/ClassicEndingAutomaton.json|text/13"
+msgid "merriment of the people you just saved..."
+msgstr "веселощів людей, яких щойно врятували..."
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: portal → портал
+#. тон: solemn, excited
+#, fuzzy
+#: data/story/ClassicEndingBeast.json
+msgctxt "data/story/ClassicEndingBeast.json|text/0"
+msgid "*3Victorious, you step into the portal. You know not what to expect, but\n"
+msgstr "*3Здобувши перемогу, ви ступаєте в портал. Не знаючи, чого чекати,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Baron Herx → Барон Геркс
+#. тон: excited, solemn
+#, fuzzy
+#: data/story/ClassicEndingBeast.json
+msgctxt "data/story/ClassicEndingBeast.json|text/1"
+msgid "are awash with delight. You expect that the source of the Baron's power\n"
+msgstr "вас переповнює захват. Ви сподіваєтеся, що джерело сили Барона Геркса\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingBeast.json
+msgctxt "data/story/ClassicEndingBeast.json|text/2"
+msgid "is now within your reach.\n^"
+msgstr "тепер уже у вас під рукою.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Mines → Шахти, Time → час
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingBeast.json
+msgctxt "data/story/ClassicEndingBeast.json|text/3"
+msgid "*3Before you have time to think, you are suddenly standing before the mines\n"
+msgstr "*3Не встигнувши й отямитись, ви знову опиняєтеся перед Шахтами.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingBeast.json
+msgctxt "data/story/ClassicEndingBeast.json|text/4"
+msgid "once more. But something is different; the seductive power you sensed here\n"
+msgstr "Та щось змінилося: ваблива сила, яку ви тут відчували,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Light → світло
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingBeast.json
+msgctxt "data/story/ClassicEndingBeast.json|text/5"
+msgid "is further away. The black skies are clearing to show the light of day.\n^"
+msgstr "тепер далі. Чорне небо ясніє, відкриваючи денне світло.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Mines → Шахти, door → двері
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingBeast.json
+msgctxt "data/story/ClassicEndingBeast.json|text/6"
+msgid "*3Suddenly, the doors to the mine open wide. Sealed for centuries to contain\n"
+msgstr "*3Раптом двері до Шахт розчиняються навстіж. Століттями замкнені,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Human → людина
+#. тон: solemn, excited
+#, fuzzy
+#: data/story/ClassicEndingBeast.json
+msgctxt "data/story/ClassicEndingBeast.json|text/7"
+msgid "the evil within, they swing out from the inside, as a hundred grateful humans\n"
+msgstr "щоб стримувати зло, вони розчиняються зсередини, і сотня вдячних людей\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Baron Herx → Барон Геркс
+#. тон: solemn, sad
+#, fuzzy
+#: data/story/ClassicEndingBeast.json
+msgctxt "data/story/ClassicEndingBeast.json|text/8"
+msgid "rush out. It appears the Baron's power slipped through your grasp.\n^"
+msgstr "вибігає назовні. Схоже, сила Барона Геркса вислизнула з ваших рук.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/ClassicEndingBeast.json
+msgctxt "data/story/ClassicEndingBeast.json|text/9"
+msgid "*4The hellish source of that dark power remains a mystery to you, and some\n"
+msgstr "*4Пекельне джерело цієї темної сили лишається для вас таємницею, та дещо,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Shadow → тінь, Guild → гільдія, Magician → маг
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/ClassicEndingBeast.json
+msgctxt "data/story/ClassicEndingBeast.json|text/10"
+msgid "eavedropping from the shadows leads you to believe that the Magician's Guild\n"
+msgstr "підслухане серед тіней, наводить на думку, що гільдія магів\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Magic → магія
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingBeast.json
+msgctxt "data/story/ClassicEndingBeast.json|text/11"
+msgid "may have a lead on some dark magic. For now, you resolve to leave this land\n"
+msgstr "могла натрапити на слід темної магії. А поки ви вирішуєте покинути цей край\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Hamlet → Поселення, Time → час
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingBeast.json
+msgctxt "data/story/ClassicEndingBeast.json|text/12"
+msgid "and return another time to exploit the secrets of Hamlet..."
+msgstr "і повернутися іншим разом, щоб скористатися таємницями Поселення..."
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: portal → портал
+#. тон: solemn, excited
+#, fuzzy
+#: data/story/ClassicEndingEvil.json
+msgctxt "data/story/ClassicEndingEvil.json|text/0"
+msgid "*3Victorious, you step into the portal. You know not what to expect, but\n"
+msgstr "*3Звитяжні, ви ступаєте в портал. Не знаючи, чого чекати, ви\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Baron Herx → Барон Геркс
+#. тон: solemn, excited
+#, fuzzy
+#: data/story/ClassicEndingEvil.json
+msgctxt "data/story/ClassicEndingEvil.json|text/1"
+msgid "are awash with delight. You expect that the source of the Baron's power\n"
+msgstr "сповнені захвату. Ви сподіваєтеся, що джерело сили Барона\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingEvil.json
+msgctxt "data/story/ClassicEndingEvil.json|text/2"
+msgid "is now within your reach.\n^"
+msgstr "тепер уже у вас під рукою.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Mines → Шахти, Time → час
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingEvil.json
+msgctxt "data/story/ClassicEndingEvil.json|text/3"
+msgid "*3Before you have time to think, you are suddenly standing before the mines\n"
+msgstr "*3Не встигли ви й отямитися, як знов опинилися перед Шахтами.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingEvil.json
+msgctxt "data/story/ClassicEndingEvil.json|text/4"
+msgid "once more. But something is different; the seductive power you sensed here\n"
+msgstr "Та щось змінилося: зваблива сила, яку ви тут відчували,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Light → світло
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingEvil.json
+msgctxt "data/story/ClassicEndingEvil.json|text/5"
+msgid "is further away. The black skies are clearing to show the light of day.\n^"
+msgstr "віддалилася. Чорне небо ясніє, відкриваючи денне світло.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Mines → Шахти, door → двері
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingEvil.json
+msgctxt "data/story/ClassicEndingEvil.json|text/6"
+msgid "*3Suddenly, the doors to the mine open wide. Sealed for centuries to contain\n"
+msgstr "*3Раптом двері до Шахт розчиняються навстіж. Віками замкнені,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Human → людина
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingEvil.json
+msgctxt "data/story/ClassicEndingEvil.json|text/7"
+msgid "the evil within, they swing out from the inside, as a hundred grateful humans\n"
+msgstr "аби втримати зло всередині, вони розчахуються, і сотня вдячних людей\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Baron Herx → Барон Геркс
+#. тон: solemn, sad
+#, fuzzy
+#: data/story/ClassicEndingEvil.json
+msgctxt "data/story/ClassicEndingEvil.json|text/8"
+msgid "rush out. It appears the Baron's power slipped through your grasp.\n^"
+msgstr "вибігає назовні. Схоже, сила Барона вислизнула у вас із рук.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingEvil.json
+msgctxt "data/story/ClassicEndingEvil.json|text/9"
+msgid "*4The hellish source of that dark power remains a mystery to you, and some\n"
+msgstr "*4Пекельне джерело тієї темної сили лишається для вас загадкою, та\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Shadow → тінь, Guild → гільдія, Magician → маг
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingEvil.json
+msgctxt "data/story/ClassicEndingEvil.json|text/10"
+msgid "eavedropping from the shadows leads you to believe that the Magician's Guild\n"
+msgstr "дещо підслухане в тінях наводить вас на думку, що гільдія магів\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Magic → магія
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingEvil.json
+msgctxt "data/story/ClassicEndingEvil.json|text/11"
+msgid "may have a lead on some dark magic. For now, you resolve to leave this land\n"
+msgstr "натрапила на слід темної магії. А поки ви вирішуєте покинути цей край\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Hamlet → Поселення, Time → час
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingEvil.json
+msgctxt "data/story/ClassicEndingEvil.json|text/12"
+msgid "and return another time to exploit the secrets of Hamlet..."
+msgstr "і повернутися іншим разом, щоб скористатися таємницями Поселення..."
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: portal → портал
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingHuman.json
+msgctxt "data/story/ClassicEndingHuman.json|text/0"
+msgid "*3Victorious, you step into the portal. You know not what to expect,\n"
+msgstr "*3Здобувши перемогу, ви ступаєте в портал. Ви не знаєте, чого чекати,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Baron Herx → Барон Геркс, curse → прокляття
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingHuman.json
+msgctxt "data/story/ClassicEndingHuman.json|text/1"
+msgid "but are awash with relief. Somehow, you know that the Baron's curse\n"
+msgstr "але вас огортає полегшення. Якимось чином ви знаєте, що прокляття Барона Геркса\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingHuman.json
+msgctxt "data/story/ClassicEndingHuman.json|text/2"
+msgid "has been lifted from this land.\n^"
+msgstr "знято з цієї землі.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Mines → Шахти, Time → час
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingHuman.json
+msgctxt "data/story/ClassicEndingHuman.json|text/3"
+msgid "*4Before you have time to think, you are suddenly standing before the mines\n"
+msgstr "*4Не встигнувши й отямитися, ви знову опиняєтеся перед Шахтами.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: monster → монстр
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingHuman.json
+msgctxt "data/story/ClassicEndingHuman.json|text/4"
+msgid "once more. But something is different; the howls of distant monsters have\n"
+msgstr "Та щось змінилося: виття далеких монстрів\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingHuman.json
+msgctxt "data/story/ClassicEndingHuman.json|text/5"
+msgid "vanished, and the skies, once a menacing black, are clearing to show the\n"
+msgstr "стихло, а небеса, колись грізно-чорні, прояснюються, знову являючи\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Light → світло
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingHuman.json
+msgctxt "data/story/ClassicEndingHuman.json|text/6"
+msgid "light of day again.\n^"
+msgstr "світло дня.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Mines → Шахти, door → двері
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingHuman.json
+msgctxt "data/story/ClassicEndingHuman.json|text/7"
+msgid "*3Suddenly, the doors to the mine open wide. Sealed for years to contain\n"
+msgstr "*3Раптом двері до Шахт розчиняються навстіж. Роками замкнені, аби стримувати\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Human → людина
+#. тон: solemn, excited
+#, fuzzy
+#: data/story/ClassicEndingHuman.json
+msgctxt "data/story/ClassicEndingHuman.json|text/8"
+msgid "the evil within, they swing out from the inside, as a hundred grateful humans\n"
+msgstr "зло всередині, тепер вони відчиняються зсередини, і сотня вдячних людей\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Baron Herx → Барон Геркс, destroyed → знищений
+#. тон: solemn, excited
+#, fuzzy
+#: data/story/ClassicEndingHuman.json
+msgctxt "data/story/ClassicEndingHuman.json|text/9"
+msgid "rush out to greet the one who destroyed the Baron.\n^"
+msgstr "вибігає привітати того, хто знищив Барона Геркса.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Baron Herx → Барон Геркс
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingHuman.json
+msgctxt "data/story/ClassicEndingHuman.json|text/10"
+msgid "*4The hellish source of the Baron's power remains a mystery to you, and some\n"
+msgstr "*4Пекельне джерело сили Барона Геркса лишається для вас загадкою, і після\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Guild → гільдія, Magician → маг
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingHuman.json
+msgctxt "data/story/ClassicEndingHuman.json|text/11"
+msgid "deliberation leads you to believe that a visit to the Magician's Guild is in\n"
+msgstr "роздумів ви доходите висновку, що варто навідатися до гільдії магів\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/ClassicEndingHuman.json
+msgctxt "data/story/ClassicEndingHuman.json|text/12"
+msgid "order for some deeper investigation. But for now, you simply attend to the\n"
+msgstr "задля глибшого розслідування. Та поки ви просто долучаєтеся до\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn, excited
+#, fuzzy
+#: data/story/ClassicEndingHuman.json
+msgctxt "data/story/ClassicEndingHuman.json|text/13"
+msgid "merriment of the people you just saved..."
+msgstr "радощів людей, яких щойно врятували..."
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: portal → портал, Magic → магія, Citadel → Цитадель, weaken → ослаблення
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingAutomaton.json
+msgctxt "data/story/EndingAutomaton.json|text/0"
+msgid "*3Through the portal, a weak magic tugs you from the Citadel.\n"
+msgstr "*3Крізь портал слабка магія вириває вас із Цитаделі.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: floor → поверх
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingAutomaton.json
+msgctxt "data/story/EndingAutomaton.json|text/1"
+msgid "Your feet hover over the floor as it shakes violently.\n"
+msgstr "Ваші ноги зависають над поверхом, що шалено здригається.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: piston → поршень, pipe → люлька
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingAutomaton.json
+msgctxt "data/story/EndingAutomaton.json|text/2"
+msgid "Pipes and pistons crash down in a muffled racket...\n^"
+msgstr "Люльки й поршні з гуркотом падають у приглушеному шумі...\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: technical, solemn
+#, fuzzy
+#: data/story/EndingAutomaton.json
+msgctxt "data/story/EndingAutomaton.json|text/3"
+msgid "*1Your inputs are dulled and you observe the transferrence of your consciousness.\n^"
+msgstr "*1Ваші вхідні сигнали слабнуть, і ви спостерігаєте перенесення своєї свідомості.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Wizard → чарівник, system → система, Bishop → єпископ
+#. тон: technical, solemn
+#, fuzzy
+#: data/story/EndingAutomaton.json
+msgctxt "data/story/EndingAutomaton.json|text/4"
+msgid "*2Your systems are nominal. You stand with a wizard and bishop. Their faces open\n"
+msgstr "*2Ваші системи в нормі. Ви стоїте поруч із чарівником та єпископом. Їхні обличчя раптом\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingAutomaton.json
+msgctxt "data/story/EndingAutomaton.json|text/5"
+msgid "into expressions of surprise.\n"
+msgstr "виказують подив.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Automaton → автоматон
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingAutomaton.json
+msgctxt "data/story/EndingAutomaton.json|text/6"
+msgid "They are shocked to see that an automaton has rescued them\n"
+msgstr "Вони приголомшені тим, що автоматон урятував їх\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingAutomaton.json
+msgctxt "data/story/EndingAutomaton.json|text/7"
+msgid "from supernatural evil. Is your inhuman nature the reason?\n^"
+msgstr "від надприродного зла. Чи причина у вашій нелюдській природі?\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Guild → гільдія
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingAutomaton.json
+msgctxt "data/story/EndingAutomaton.json|text/8"
+msgid "*3The guilds and churches agree, there is no more perfect arbiter for the\n"
+msgstr "*3Гільдії та церкви згодні: немає досконалішого судді у справах\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Human → людина
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingAutomaton.json
+msgctxt "data/story/EndingAutomaton.json|text/9"
+msgid "well being of humans. You are entrusted with the tasks of law, assumed to\n"
+msgstr "людського добробуту. Вам доручають вершити правосуддя, вважаючи, що\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Baron Herx → Барон Геркс
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingAutomaton.json
+msgctxt "data/story/EndingAutomaton.json|text/10"
+msgid "have perfect objectivity as the new Baron.\n^"
+msgstr "як новий барон, ви цілком об'єктивні.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn, technical
+#, fuzzy
+#: data/story/EndingAutomaton.json
+msgctxt "data/story/EndingAutomaton.json|text/11"
+msgid "*2Your rulings are infallible... or are they? What is it that makes you conscious?\n"
+msgstr "*2Ваші рішення безпомильні... чи ні? Що наділяє вас свідомістю?\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Hamlet → Поселення
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingAutomaton.json
+msgctxt "data/story/EndingAutomaton.json|text/12"
+msgid "You lead Hamlet to its former glory. But future problems may require more power.\n^"
+msgstr "Ви повертаєте Поселенню колишню славу. Та майбутні лиха можуть вимагати більшої сили.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: will → воля
+#. тон: threat, solemn
+#, fuzzy
+#: data/story/EndingAutomaton.json
+msgctxt "data/story/EndingAutomaton.json|text/13"
+msgid "*1Power you know will always be waiting."
+msgstr "*1Сили, яка, як ви знаєте, завжди чекатиме."
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: portal → портал, Magic → магія, Citadel → Цитадель, weaken → ослаблення
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingBeast.json
+msgctxt "data/story/EndingBeast.json|text/0"
+msgid "*3Through the portal, a weak magic tugs you from the Citadel.\n"
+msgstr "*3Крізь портал слабка магія вириває вас із Цитаделі.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: floor → поверх
+#. тон: solemn, fear
+#, fuzzy
+#: data/story/EndingBeast.json
+msgctxt "data/story/EndingBeast.json|text/1"
+msgid "Your feet hover over the floor as it shakes violently.\n"
+msgstr "Ваші ноги зависають над поверхом, що люто здригається.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: piston → поршень, pipe → люлька
+#. тон: solemn, fear
+#, fuzzy
+#: data/story/EndingBeast.json
+msgctxt "data/story/EndingBeast.json|text/2"
+msgid "Pipes and pistons crash down in a muffled racket...\n^"
+msgstr "Люльки й поршні падають із приглушеним гуркотом...\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: fear, solemn
+#, fuzzy
+#: data/story/EndingBeast.json
+msgctxt "data/story/EndingBeast.json|text/3"
+msgid "*1You try to shake your terror and close your eyes.\n^"
+msgstr "*1Ви намагаєтеся здолати жах і заплющуєте очі.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Wizard → чарівник, Guild → гільдія, Magician → маг, Bishop → єпископ
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingBeast.json
+msgctxt "data/story/EndingBeast.json|text/4"
+msgid "*3You suddenly appear, standing in The Magician's Guild are a wizard and a bishop.\n"
+msgstr "*3Ви раптом з'являєтеся; у Гільдії магів перед вами стоять чарівник і єпископ.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: confused → спантеличений
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingBeast.json
+msgctxt "data/story/EndingBeast.json|text/5"
+msgid "Their faces are confused, but they await your reaction with patient wonder.\n"
+msgstr "На їхніх обличчях розгубленість, та вони терпляче й зачудовано чекають вашої реакції.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn, sad
+#, fuzzy
+#: data/story/EndingBeast.json
+msgctxt "data/story/EndingBeast.json|text/6"
+msgid "Are these the same people who murdered your kind so recently?\n^"
+msgstr "Невже це ті самі люди, що зовсім недавно винищували ваш народ?\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Peace → мир
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingBeast.json
+msgctxt "data/story/EndingBeast.json|text/7"
+msgid "*3Though shaky at first, your peoples build an alliance toward peace.\n"
+msgstr "*3Попри перші вагання, ваші народи укладають союз заради миру.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Human → людина, Goatman → козолюд, Goblin → гоблін, Insectoid → комахолюд, Courage → хоробрість
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingBeast.json
+msgctxt "data/story/EndingBeast.json|text/8"
+msgid "Through your example, insectoids, humans, goatmen and goblins embrace courage\n"
+msgstr "Наслідуючи вас, комахолюди, люди, козолюди й гобліни обирають хоробрість\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Trading → торгівля, Hamlet → Поселення, Fear → страх
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingBeast.json
+msgctxt "data/story/EndingBeast.json|text/9"
+msgid "instead of fear. Trade prospers in Hamlet as people belay their lust for power.\n^"
+msgstr "замість страху. Торгівля в Поселенні квітне, а жага влади вщухає.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Baron Herx → Барон Геркс
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingBeast.json
+msgctxt "data/story/EndingBeast.json|text/10"
+msgid "*2You take to the court and are soon crowned the new Baron. You vow to keep\n"
+msgstr "*2Ви постаєте перед двором, і невдовзі вас коронують новим бароном. Ви присягаєтеся\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Lich → ліч
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingBeast.json
+msgctxt "data/story/EndingBeast.json|text/11"
+msgid "the liches' power secret, and stop anyone from seeking that power again.\n^"
+msgstr "берегти силу лічів у таємниці й не дати нікому знову шукати її.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: will → воля
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/EndingBeast.json
+msgctxt "data/story/EndingBeast.json|text/12"
+msgid "*1Power you know will always be waiting."
+msgstr "*1Адже ви знаєте: сила завжди чекатиме."
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: portal → портал, Magic → магія, Citadel → Цитадель, weaken → ослаблення
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingEvil.json
+msgctxt "data/story/EndingEvil.json|text/0"
+msgid "*3Through the portal, a weak magic tugs you from the Citadel.\n"
+msgstr "*3Крізь портал слабка магія тягне вас із Цитаделі.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: floor → поверх
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingEvil.json
+msgctxt "data/story/EndingEvil.json|text/1"
+msgid "Your feet hover over the floor as it shakes violently.\n"
+msgstr "Ваші ноги зависають над підлогою, що люто здригається.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: piston → поршень, pipe → люлька
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/EndingEvil.json
+msgctxt "data/story/EndingEvil.json|text/2"
+msgid "Pipes and pistons crash down in a muffled racket...\n^"
+msgstr "Труби й поршні з гуркотом падають униз...\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: portal → портал, will → воля, bear → ведмідь, Confidence → упевненість
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingEvil.json
+msgctxt "data/story/EndingEvil.json|text/3"
+msgid "*1You clench your eyes, confident that the portal will bear you to safety.\n^"
+msgstr "*1Ви заплющуєте очі, певні, що портал винесе вас у безпечне місце.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingEvil.json
+msgctxt "data/story/EndingEvil.json|text/4"
+msgid "*2It seems you got what you came here for, though not in the way you anticipated.\n"
+msgstr "*2Схоже, ви здобули бажане, хоча й не так, як сподівалися.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingEvil.json
+msgctxt "data/story/EndingEvil.json|text/5"
+msgid "Power cannot simply be held... it must be used.\n^"
+msgstr "Силою не можна просто володіти... її слід застосовувати.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn, sad
+#, fuzzy
+#: data/story/EndingEvil.json
+msgctxt "data/story/EndingEvil.json|text/6"
+msgid "The following years are not easy for the surface world. Eventually, they learn\n"
+msgstr "Наступні роки нелегкі для світу на поверхні. Зрештою там пізнають,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Strength → сила
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingEvil.json
+msgctxt "data/story/EndingEvil.json|text/7"
+msgid "that joy and glory are found in strength.\n^"
+msgstr "що радість і слава криються в силі.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Human → людина, bear → ведмідь, Destroy → знищення
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/EndingEvil.json
+msgctxt "data/story/EndingEvil.json|text/8"
+msgid "*1You destroy those who oppose you. Eventually, even the humans bear your banner.\n"
+msgstr "*1Ви знищуєте всіх, хто вам опирається. Зрештою навіть люди несуть ваш стяг.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Any → будь-який, Challenge → випробування
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/EndingEvil.json
+msgctxt "data/story/EndingEvil.json|text/9"
+msgid "*2Can any empire challenge what you've built? Prophets teach that the\n"
+msgstr "*2Чи здатна якась імперія кинути виклик створеному вами? Пророки вчать, що\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Human → людина, Fear → страх, spirit → дух
+#. тон: fear, solemn
+#, fuzzy
+#: data/story/EndingEvil.json
+msgctxt "data/story/EndingEvil.json|text/10"
+msgid "human spirit is stronger than anything. You fear that power is real...\n^"
+msgstr "людський дух сильніший за все. Ви боїтеся, що ця сила справжня...\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: will → воля
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/EndingEvil.json
+msgctxt "data/story/EndingEvil.json|text/11"
+msgid "*1Power you know will always be waiting."
+msgstr "*1Сила, яка, ви знаєте, завжди чекатиме."
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: portal → портал, Magic → магія, Citadel → Цитадель, weaken → ослаблення
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingHuman.json
+msgctxt "data/story/EndingHuman.json|text/0"
+msgid "*3Through the portal, a weak magic tugs you from the Citadel.\n"
+msgstr "*3Крізь портал ослаблена магія тягне вас геть із Цитаделі.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: floor → поверх
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingHuman.json
+msgctxt "data/story/EndingHuman.json|text/1"
+msgid "Your feet hover over the floor as it shakes violently.\n"
+msgstr "Ваші ноги зависають над поверхом, що несамовито здригається.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: piston → поршень, pipe → люлька
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingHuman.json
+msgctxt "data/story/EndingHuman.json|text/2"
+msgid "Pipes and pistons crash down in a muffled racket...\n^"
+msgstr "Люльки й поршні з гуркотом падають додолу...\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Peace → мир
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingHuman.json
+msgctxt "data/story/EndingHuman.json|text/3"
+msgid "*1You have a detached sense of peace, and a moment to ponder what has occurred.\n^"
+msgstr "*1Вас огортає дивний спокій, і ви маєте мить осмислити, що сталося.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Wizard → чарівник, Guild → гільдія, Magician → маг, Bishop → єпископ
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingHuman.json
+msgctxt "data/story/EndingHuman.json|text/4"
+msgid "*2You open your eyes. Standing in The Magician's Guild are a wizard and a bishop.\n"
+msgstr "*2Ви розплющуєте очі. У Гільдії магів перед вами стоять чарівник і єпископ.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingHuman.json
+msgctxt "data/story/EndingHuman.json|text/5"
+msgid "Their faces relax in relief...\n"
+msgstr "На їхніх обличчях проступає полегшення...\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingHuman.json
+msgctxt "data/story/EndingHuman.json|text/6"
+msgid "Over the following days, you work with them in secrecy to prevent\n"
+msgstr "Наступними днями ви таємно працюєте разом, аби завадити\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Hell → Пекло, Hamlet → Поселення
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/EndingHuman.json
+msgctxt "data/story/EndingHuman.json|text/7"
+msgid "the realms of hell from stepping foot in Hamlet again.\n^"
+msgstr "царствам Пекла знову ступити на землю Поселення.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Guild → гільдія, Hamlet → Поселення
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingHuman.json
+msgctxt "data/story/EndingHuman.json|text/8"
+msgid "Hamlet begins its ascent toward its former glory. The guilds unite\n"
+msgstr "Поселення починає сходження до колишньої слави. Гільдії єднаються\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: monster → монстр
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingHuman.json
+msgctxt "data/story/EndingHuman.json|text/9"
+msgid "under your banner to clear out the straggling monsters and rebuild the city.\n^"
+msgstr "під вашим стягом, щоб винищити решту монстрів і відбудувати місто.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Baron Herx → Барон Геркс, crown → корона
+#. тон: solemn
+#, fuzzy
+#: data/story/EndingHuman.json
+msgctxt "data/story/EndingHuman.json|text/10"
+msgid "The citizens beg you to take the court and crown you the new Baron. You vow\n"
+msgstr "Містяни благають вас посісти престол і коронують новим бароном. Ви присягаєте\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Lich → ліч
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/EndingHuman.json
+msgctxt "data/story/EndingHuman.json|text/11"
+msgid "to keep the liches' power secret, and stop anyone from seeking that power again...\n^"
+msgstr "берегти силу лічів у таємниці й не дати нікому знову її шукати...\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: will → воля
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/EndingHuman.json
+msgctxt "data/story/EndingHuman.json|text/12"
+msgid "*1Power you know will always be waiting."
+msgstr "*1Силу, яка, як ви знаєте, чекатиме завжди."
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Baron Herx → Барон Геркс, pedestal → п'єдестал, orb → сфера
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointAutomaton.json
+msgctxt "data/story/HerxMidpointAutomaton.json|text/0"
+msgid "Having defeated the Baron and placed his violet orb on the pedestal,\n"
+msgstr "Здолавши Барона й поклавши його фіолетову сферу на п'єдестал,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: portal → портал, Magic → магія
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointAutomaton.json
+msgctxt "data/story/HerxMidpointAutomaton.json|text/1"
+msgid "you step into the portal. You detect powerful magic surging over your body.\n^"
+msgstr "ви ступаєте в портал. Потужна магія пронизує ваше тіло.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointAutomaton.json
+msgctxt "data/story/HerxMidpointAutomaton.json|text/2"
+msgid "Your body is transported with a white flash.^ You arrive outside the\n"
+msgstr "Білий спалах переносить ваше тіло.^ Ви опиняєтеся біля\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Mines → Шахти, Hamlet → Поселення
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointAutomaton.json
+msgctxt "data/story/HerxMidpointAutomaton.json|text/3"
+msgid "Hamlet mines and watch the dim weather conditions improve rapidly.\n"
+msgstr "Шахт Поселення й бачите, як негода стрімко відступає.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Mines → Шахти, door → двері
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointAutomaton.json
+msgctxt "data/story/HerxMidpointAutomaton.json|text/4"
+msgid "Warm sunlight flows over the countryside. As the doors of the mine open wide,\n"
+msgstr "Тепле сонячне світло заливає околиці. Двері Шахт розчиняються,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Human → людина
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointAutomaton.json
+msgctxt "data/story/HerxMidpointAutomaton.json|text/5"
+msgid "you see humans running into the streets. They appear to be very pleased.\n^"
+msgstr "ви бачите, як люди вибігають на вулиці. Вони неабияк раді.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Guild → гільдія, Herx → Геркс, orb → сфера, Magician → маг
+#. тон: joke, technical, solemn
+#, fuzzy
+#: data/story/HerxMidpointAutomaton.json
+msgctxt "data/story/HerxMidpointAutomaton.json|text/6"
+msgid "*3You ambulate toward the Magician's Guild with an inquiry about Herx's Orb.\n"
+msgstr "*3Ви прямуєте до гільдії магів із запитом щодо сфери Геркса.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointAutomaton.json
+msgctxt "data/story/HerxMidpointAutomaton.json|text/7"
+msgid "The doorman refuses you entry, however. Apparently recognizing the wear you've\n"
+msgstr "Та воротар не впускає вас. Помітивши, наскільки ви зношені,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: joke, technical, command
+#, fuzzy
+#: data/story/HerxMidpointAutomaton.json
+msgctxt "data/story/HerxMidpointAutomaton.json|text/8"
+msgid "incurred, he instructs you to seek repairs at the inn and return tomorrow.\n"
+msgstr "він велить вам полагодитися в заїзді й повернутися завтра.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Human → людина
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointAutomaton.json
+msgctxt "data/story/HerxMidpointAutomaton.json|text/9"
+msgid "You return to the streets to find a hundred humans waiting for you.\n"
+msgstr "Ви повертаєтеся на вулиці, де на вас чекає сотня людей.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointAutomaton.json
+msgctxt "data/story/HerxMidpointAutomaton.json|text/10"
+msgid "Evidently they want you to join in their festivities. Though you have no\n"
+msgstr "Вочевидь, вони хочуть залучити вас до святкування. Хоча у вас\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Human → людина, party → група
+#. тон: joke, technical
+#, fuzzy
+#: data/story/HerxMidpointAutomaton.json
+msgctxt "data/story/HerxMidpointAutomaton.json|text/11"
+msgid "party routines installed, the humans impress you into entertainment service.\n"
+msgstr "процедур святкування, люди примусово залучають вас до розваг.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Human → людина
+#. тон: joke, technical
+#, fuzzy
+#: data/story/HerxMidpointAutomaton.json
+msgctxt "data/story/HerxMidpointAutomaton.json|text/12"
+msgid "*2Eventually, the humans subdue themselves, and you can revert to your\n"
+msgstr "*2Зрештою люди вгамовуються, і ви можете повернутися до свого\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Guild → гільдія, Magician → маг
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointAutomaton.json
+msgctxt "data/story/HerxMidpointAutomaton.json|text/13"
+msgid "original mission to visit the Magician's Guild..."
+msgstr "первісного завдання — відвідати гільдію магів..."
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Baron Herx → Барон Геркс, pedestal → п'єдестал, orb → сфера
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointBeast.json
+msgctxt "data/story/HerxMidpointBeast.json|text/0"
+msgid "Having defeated the Baron and placed his violet orb on the pedestal,\n"
+msgstr "Перемігши Барона й поклавши його фіолетову сферу на п'єдестал,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: portal → портал, Magic → магія
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointBeast.json
+msgctxt "data/story/HerxMidpointBeast.json|text/1"
+msgid "you step into the portal. Powerful magic sends a tingle over your body.\n^"
+msgstr "ви ступаєте в портал. Могутня магія пронизує ваше тіло дрожем.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointBeast.json
+msgctxt "data/story/HerxMidpointBeast.json|text/2"
+msgid "Your body is transported with a white flash.^ You arrive outside the\n"
+msgstr "Білий спалах переносить вас.^ Ви опиняєтеся біля\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Mines → Шахти, cursed → проклятий, Hamlet → Поселення
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointBeast.json
+msgctxt "data/story/HerxMidpointBeast.json|text/3"
+msgid "Hamlet mines and watch the cursed blackness peel away from the land.\n"
+msgstr "Шахт Поселення й бачите, як проклята пітьма сповзає із землі.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Mines → Шахти, door → двері
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointBeast.json
+msgctxt "data/story/HerxMidpointBeast.json|text/4"
+msgid "Warm sunlight flows over the countryside. As the doors of the mine open wide,\n"
+msgstr "Тепле сонце заливає околиці. Коли двері Шахт розчиняються навстіж,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Run → проходження
+#. тон: solemn, excited
+#, fuzzy
+#: data/story/HerxMidpointBeast.json
+msgctxt "data/story/HerxMidpointBeast.json|text/5"
+msgid "the people run into the streets, acclimating to their freedom.\n^"
+msgstr "люди вибігають на вулиці, звикаючи до свободи.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointBeast.json
+msgctxt "data/story/HerxMidpointBeast.json|text/6"
+msgid "You rush to nearby buildings, looking for a place to hide and figure out your\n"
+msgstr "Ви мчите до сусідніх будівель, шукаючи сховку, де можна обміркувати\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Human → людина
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointBeast.json
+msgctxt "data/story/HerxMidpointBeast.json|text/7"
+msgid "next move. There are too many humans here for your liking.\n^"
+msgstr "наступний крок. Людей тут забагато, як на ваш смак.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Break → ламання
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointBeast.json
+msgctxt "data/story/HerxMidpointBeast.json|text/8"
+msgid "You break your way into what appears to be an inn. You spend the night under\n"
+msgstr "Ви вдираєтеся до будівлі, схожої на заїзд. Ніч минає під\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: bed → ліжко
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointBeast.json
+msgctxt "data/story/HerxMidpointBeast.json|text/9"
+msgid "the sheets of a comfortable bed while the sounds of revelry surround you.\n^"
+msgstr "ковдрою зручного ліжка, а довкола лунають звуки гуляння.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Human → людина, party → група
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointBeast.json
+msgctxt "data/story/HerxMidpointBeast.json|text/10"
+msgid "As humans party through the hostel, you hear of a power even greater\n"
+msgstr "Поки люди гуляють у заїзді, ви чуєте про силу, ще могутнішу\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Guild → гільдія, Herx → Геркс, Magician → маг
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointBeast.json
+msgctxt "data/story/HerxMidpointBeast.json|text/11"
+msgid "than Herx's, said to be held in the Magician's Guild...\n^"
+msgstr "за силу Геркса, що нібито зберігається в гільдії магів...\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: trapdoor → люк
+#, fuzzy
+#: data/story/HerxMidpointBeast.json
+msgctxt "data/story/HerxMidpointBeast.json|text/12"
+msgid "A trapdoor in the bunkroom leads to a sewer.\n"
+msgstr "Люк у спальні веде до каналізації.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Human → людина
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointBeast.json
+msgctxt "data/story/HerxMidpointBeast.json|text/13"
+msgid "You wait for the humans to leave..."
+msgstr "Ви чекаєте, доки люди підуть..."
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Baron Herx → Барон Геркс, pedestal → п'єдестал, orb → сфера
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointEvil.json
+msgctxt "data/story/HerxMidpointEvil.json|text/0"
+msgid "Having defeated the Baron and placed his violet orb on the pedestal,\n"
+msgstr "Здолавши Барона й поклавши його фіолетову сферу на п'єдестал,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: portal → портал, Magic → магія
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointEvil.json
+msgctxt "data/story/HerxMidpointEvil.json|text/1"
+msgid "you step into the portal. Powerful magic sends a tingle over your body.\n^"
+msgstr "ви входите в портал. Могутня магія пронизує ваше тіло дрожем.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointEvil.json
+msgctxt "data/story/HerxMidpointEvil.json|text/2"
+msgid "Your body is transported with a white flash.^ You arrive outside the\n"
+msgstr "Білий спалах переносить вас.^ Ви опиняєтеся біля\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Mines → Шахти, cursed → проклятий, Hamlet → Поселення
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointEvil.json
+msgctxt "data/story/HerxMidpointEvil.json|text/3"
+msgid "Hamlet mines and watch the cursed blackness peel away from the land.\n"
+msgstr "Шахт Поселення й бачите, як проклята пітьма сповзає із землі.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Mines → Шахти, door → двері
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointEvil.json
+msgctxt "data/story/HerxMidpointEvil.json|text/4"
+msgid "Warm sunlight flows over the countryside. As the doors of the mine open wide,\n"
+msgstr "Тепле сонце заливає околиці. Коли двері Шахт розчиняються навстіж,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Run → проходження
+#. тон: solemn, excited
+#, fuzzy
+#: data/story/HerxMidpointEvil.json
+msgctxt "data/story/HerxMidpointEvil.json|text/5"
+msgid "the people run into the streets, acclimating to their freedom.\n^"
+msgstr "люди вибігають на вулиці, звикаючи до свободи.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn, fear
+#, fuzzy
+#: data/story/HerxMidpointEvil.json
+msgctxt "data/story/HerxMidpointEvil.json|text/6"
+msgid "You rush to nearby buildings, looking for a place to hide and figure out your\n"
+msgstr "Ви мчите до найближчих будівель, шукаючи сховку, щоб обміркувати\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Human → людина
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointEvil.json
+msgctxt "data/story/HerxMidpointEvil.json|text/7"
+msgid "next move. There are too many humans and the sun is too bright for your liking.\n^"
+msgstr "подальші дії. Людей надто багато, а сонце для вас надто яскраве.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Break → ламання
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointEvil.json
+msgctxt "data/story/HerxMidpointEvil.json|text/8"
+msgid "You break your way into what appears to be an inn. You spend the night under\n"
+msgstr "Ви силоміць вдираєтеся до будівлі, схожої на заїзд. Ніч минає під\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: bed → ліжко
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointEvil.json
+msgctxt "data/story/HerxMidpointEvil.json|text/9"
+msgid "the sheets of a comfortable bed while the sounds of revelry surround you.\n^"
+msgstr "ковдрою зручного ліжка, поки довкола лунають звуки гуляння.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Human → людина, party → група
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointEvil.json
+msgctxt "data/story/HerxMidpointEvil.json|text/10"
+msgid "As humans party through the hostel, you hear of a power even greater\n"
+msgstr "Поки люди гуляють у заїзді, ви чуєте про силу, ще могутнішу\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Guild → гільдія, Herx → Геркс, Magician → маг
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointEvil.json
+msgctxt "data/story/HerxMidpointEvil.json|text/11"
+msgid "than Herx's, said to be held in the Magician's Guild...\n^"
+msgstr "за силу Геркса, яку нібито береже Гільдія магів...\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: trapdoor → люк
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointEvil.json
+msgctxt "data/story/HerxMidpointEvil.json|text/12"
+msgid "A trapdoor in the bunkroom leads to a sewer.\n"
+msgstr "Люк у спільній спальні веде до каналізації.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Human → людина
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointEvil.json
+msgctxt "data/story/HerxMidpointEvil.json|text/13"
+msgid "You wait for the humans to leave..."
+msgstr "Ви чекаєте, доки люди підуть..."
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Baron Herx → Барон Геркс, pedestal → п'єдестал, orb → сфера
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointHuman.json
+msgctxt "data/story/HerxMidpointHuman.json|text/0"
+msgid "Having defeated the Baron and placed his violet orb on the pedestal,\n"
+msgstr "Здолавши Барона й поклавши його фіолетову сферу на п'єдестал,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: portal → портал, Magic → магія
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointHuman.json
+msgctxt "data/story/HerxMidpointHuman.json|text/1"
+msgid "you step into the portal. Powerful magic sends a tingle over your body.\n^"
+msgstr "ви ступаєте в портал. Могутня магія пронизує тіло тремтінням.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointHuman.json
+msgctxt "data/story/HerxMidpointHuman.json|text/2"
+msgid "Your body is transported with a white flash.^ You arrive outside the\n"
+msgstr "Білий спалах переносить вас.^ Ви опиняєтеся біля\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Mines → Шахти, cursed → проклятий, Hamlet → Поселення
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointHuman.json
+msgctxt "data/story/HerxMidpointHuman.json|text/3"
+msgid "Hamlet mines and watch the cursed blackness peel away from the land.\n"
+msgstr "Шахт Поселення й бачите, як проклята пітьма спадає із землі.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Mines → Шахти, door → двері
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointHuman.json
+msgctxt "data/story/HerxMidpointHuman.json|text/4"
+msgid "Warm sunlight flows over the countryside. As the doors of the mine open wide,\n"
+msgstr "Тепле сонячне світло заливає околиці. Двері Шахт розчиняються навстіж,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Run → проходження
+#. тон: solemn, excited
+#, fuzzy
+#: data/story/HerxMidpointHuman.json
+msgctxt "data/story/HerxMidpointHuman.json|text/5"
+msgid "the people run into the streets, acclimating to their freedom.\n^"
+msgstr "і люди вибігають на вулиці, звикаючи до свободи.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Guild → гільдія, Herx → Геркс, orb → сфера, Magician → маг
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointHuman.json
+msgctxt "data/story/HerxMidpointHuman.json|text/6"
+msgid "*3You march to the Magician's Guild for answers about Herx's orb,\n"
+msgstr "*3Ви рушаєте до гільдії магів по відповіді про сферу Геркса,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointHuman.json
+msgctxt "data/story/HerxMidpointHuman.json|text/7"
+msgid "but the doorman there turns you away. Seeing you haggard from your quest,\n"
+msgstr "але воротар не пускає вас. Побачивши, як вас виснажила ця мандрівка,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: will → воля
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointHuman.json
+msgctxt "data/story/HerxMidpointHuman.json|text/8"
+msgid "he encourages you to take a rest. \"The answers you seek will be here tomorrow.\"\n"
+msgstr "він радить відпочити. «Відповіді, яких ви шукаєте, будуть тут завтра».\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn, excited
+#, fuzzy
+#: data/story/HerxMidpointHuman.json
+msgctxt "data/story/HerxMidpointHuman.json|text/9"
+msgid "You return to the streets to find a hundred people waiting for you, their hero.\n"
+msgstr "На вулиці на вас, свого героя, чекає сотня людей.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Guild → гільдія, Magician → маг
+#. тон: solemn, excited
+#, fuzzy
+#: data/story/HerxMidpointHuman.json
+msgctxt "data/story/HerxMidpointHuman.json|text/10"
+msgid "You join them in well-earned revelry, but resolve to visit the Magician's Guild\n"
+msgstr "Ви долучаєтеся до заслуженого святкування, та вирішуєте навідати гільдію магів,\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. тон: solemn
+#, fuzzy
+#: data/story/HerxMidpointHuman.json
+msgctxt "data/story/HerxMidpointHuman.json|text/11"
+msgid "once the merriment dies down..."
+msgstr "коли веселощі вщухнуть..."
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Time → час
+#. тон: solemn
+#, fuzzy
+#: data/story/intro.json
+msgctxt "data/story/intro.json|text/0"
+msgid "Once upon a time in a far away land,## there was a bustling township known\n"
+msgstr "Колись давно в далекому краю,## було жваве містечко, знане\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Hamlet → Поселення
+#. тон: solemn
+#, fuzzy
+#: data/story/intro.json
+msgctxt "data/story/intro.json|text/1"
+msgid "as Hamlet.#### A center of commerce,## its wealth only grew as years passed.\n"
+msgstr "як Поселення.#### Осередок торгівлі,## воно багатіло рік у рік.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: blessed → благословенний
+#. тон: solemn
+#, fuzzy
+#: data/story/intro.json
+msgctxt "data/story/intro.json|text/2"
+msgid "Its envious neighbors believed the city blessed...####\n"
+msgstr "Заздрісні сусіди вважали місто благословенним...####\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Baron Herx → Барон Геркс, Herx → Геркс, rose → троянда
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/intro.json
+msgctxt "data/story/intro.json|text/3"
+msgid "until the Baron Herx rose to power.\n^"
+msgstr "доки до влади не прийшов Барон Геркс.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Baron Herx → Барон Геркс, vision → видіння
+#. тон: solemn
+#, fuzzy
+#: data/story/intro.json
+msgctxt "data/story/intro.json|text/4"
+msgid "Spurred by visions of riches and power,## the Baron forced his people\n"
+msgstr "Одержимий видіннями багатства й могутності,## Барон Геркс змусив свій народ\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Mines → Шахти, Legend → легенда, treasure → скарб
+#. тон: solemn
+#, fuzzy
+#: data/story/intro.json
+msgctxt "data/story/intro.json|text/5"
+msgid "to mine the hills,## looking for signs of a legendary, ancient treasure.\n"
+msgstr "розробляти пагорби,## шукаючи сліди легендарного давнього скарбу.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Master → майстер
+#. тон: solemn
+#, fuzzy
+#: data/story/intro.json
+msgctxt "data/story/intro.json|text/6"
+msgid "Chafing under the yoke of their master,## the people plotted his demise.####\n"
+msgstr "Знемагаючи під ярмом свого володаря,## люди замислили його загибель.####\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Mines → Шахти, gold piece → золота монета
+#. тон: solemn
+#, fuzzy
+#: data/story/intro.json
+msgctxt "data/story/intro.json|text/7"
+msgid "They tricked him with tales of unearthed gold, and sealed him within the mines.\n^"
+msgstr "Вони заманили його байками про знайдене золото й замурували в Шахтах.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Master → майстер, Hamlet → Поселення
+#. тон: solemn
+#, fuzzy
+#: data/story/intro.json
+msgctxt "data/story/intro.json|text/8"
+msgid "Freed of their cruel master,## the people of Hamlet flourished once again.####\n"
+msgstr "Звільнившись від жорстокого володаря,## жителі Поселення знову розквітли.####\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Time → час
+#. тон: solemn, fear
+#, fuzzy
+#: data/story/intro.json
+msgctxt "data/story/intro.json|text/9"
+msgid "But in time,## strange happenings began to plague the town.\n"
+msgstr "Та з часом## дивні лиха почали переслідувати місто.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: monster → монстр, Darkness → темрява
+#. тон: solemn, threat
+#, fuzzy
+#: data/story/intro.json
+msgctxt "data/story/intro.json|text/10"
+msgid "Evil clouds of darkness fell upon the streets,## foul monsters erupted from the\n"
+msgstr "Лихі хмари темряви огорнули вулиці,## мерзенні монстри вирвалися з\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Mines → Шахти, Ground → земля
+#. тон: solemn, fear
+#, fuzzy
+#: data/story/intro.json
+msgctxt "data/story/intro.json|text/11"
+msgid "ground,## and baleful lights flickered within the mines once more.\n^"
+msgstr "землі,## а в Шахтах знову замерехтіло зловісне світло.\n^"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Mines → Шахти, Adventurer → шукач пригод, Break → ламання
+#. тон: solemn, sad
+#, fuzzy
+#: data/story/intro.json
+msgctxt "data/story/intro.json|text/12"
+msgid "Many adventurers have descended the mines to break\n"
+msgstr "Чимало шукачів пригод спускалися в Шахти, щоб зняти\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Baron Herx → Барон Геркс, None → немає, curse → прокляття, Returned → відбиття
+#. тон: solemn, sad
+#, fuzzy
+#: data/story/intro.json
+msgctxt "data/story/intro.json|text/13"
+msgid "the Baron's curse,## but none have yet returned.\n"
+msgstr "прокляття Барона Геркса,## та досі ніхто не повернувся.\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: Hamlet → Поселення
+#. тон: solemn, sad
+#, fuzzy
+#: data/story/intro.json
+msgctxt "data/story/intro.json|text/14"
+msgid "The town of Hamlet cries for salvation,##\n"
+msgstr "Поселення волає про порятунок,##\n"
+
+#. сюжетна сцена між рівнями: оповідь у другій особі, урочисто; ## — паузи, ^ — зміна картинки, *2/*3 — розмір вікна
+#. сутності: curse → прокляття
+#. тон: solemn
+#, fuzzy
+#: data/story/intro.json
+msgctxt "data/story/intro.json|text/15"
+msgid "and only a hero can save it from its curse..."
+msgstr "і лише герой може врятувати його від прокляття..."

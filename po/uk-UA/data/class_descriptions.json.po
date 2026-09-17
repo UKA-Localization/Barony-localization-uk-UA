@@ -1,0 +1,2638 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Barbarian → варвар
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/barbarian/desc/0"
+msgid "Barbarian"
+msgstr "Варвар"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Skilled → вправний
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/barbarian/desc/1"
+msgid "A skilled combatant. What"
+msgstr "Вправний боєць. Брак"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: armor → обладунок
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/barbarian/desc/2"
+msgid "they lack in armor they make"
+msgstr "обладунку вони надолужують"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Strength → сила
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/barbarian/desc/3"
+msgid "up for in strength and"
+msgstr "силою й бойовою"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/barbarian/desc/4"
+msgid "fighting prowess."
+msgstr "майстерністю."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Barbarian → варвар
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/barbarian/desc/5"
+msgid "Barbarians can quickly"
+msgstr "Варвари здатні швидко"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: foe → ворог
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/barbarian/desc/6"
+msgid "dispatch lesser foes before"
+msgstr "здолати слабших ворогів,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Any → будь-який
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/barbarian/desc/7"
+msgid "taking any hits by using the"
+msgstr "не зазнавши ударів, якщо"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: weapon → зброя
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/barbarian/desc/8"
+msgid "right weapon for the job."
+msgstr "доберуть потрібну зброю."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: key → ключ, Assault → натиск
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/barbarian/desc/9"
+msgid "A surprise assault is the key"
+msgstr "Раптовий натиск — ключ"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/barbarian/desc/10"
+msgid "to a swift victory. Staying"
+msgstr "до швидкої перемоги. Легка"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: will → воля, Light → світло
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/barbarian/desc/11"
+msgid "light-footed will allow a"
+msgstr "хода допомагає"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Barbarian → варвар, Damage → шкода
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/barbarian/desc/12"
+msgid "Barbarian to avoid damage."
+msgstr "варвару уникати шкоди."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Warrior → воїн
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/warrior/desc/0"
+msgid "Warrior"
+msgstr "Воїн"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/warrior/desc/1"
+msgid "The trained soldier. They"
+msgstr "Вишколений солдат. Він"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: armor → обладунок
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/warrior/desc/2"
+msgid "are heavily armored and"
+msgstr "носить важкий обладунок і"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/warrior/desc/3"
+msgid "make capable leaders."
+msgstr "здатен вести за собою."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Warrior → воїн
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/warrior/desc/4"
+msgid "Warriors are well equipped"
+msgstr "Воїни добре споряджені"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/warrior/desc/5"
+msgid "for most fights, assuming"
+msgstr "для більшості боїв, якщо"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Blocking → блокування
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/warrior/desc/6"
+msgid "they know how to block at"
+msgstr "знають, коли слід"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Time → час
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/warrior/desc/7"
+msgid "the right times."
+msgstr "вчасно блокувати."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/warrior/desc/8"
+msgid "But hubris is the downfall"
+msgstr "Та пиха згубила багатьох"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Warrior → воїн
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/warrior/desc/9"
+msgid "of many Warriors, whether"
+msgstr "воїнів: ті або"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. тон: joke
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/warrior/desc/10"
+msgid "waddling too slowly near"
+msgstr "повільно чвалають біля"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Trap → пастка, Magic → магія
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/warrior/desc/11"
+msgid "traps, or allowing magic to"
+msgstr "пасток, чи дають магії"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: armor → обладунок, Strike → удар
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/warrior/desc/12"
+msgid "strike through their armor."
+msgstr "пробити їхній обладунок."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Healer → цілитель
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/healer/desc/0"
+msgid "Healer"
+msgstr "Цілитель"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/healer/desc/1"
+msgid "A talented physician. Though"
+msgstr "Талановитий лікар. Хоч"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/healer/desc/2"
+msgid "they are poor fighters, they"
+msgstr "боєць із нього кепський,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/healer/desc/3"
+msgid "come stocked with medical"
+msgstr "він має запас медичного"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Healing → зцілення
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/healer/desc/4"
+msgid "supplies and other healing"
+msgstr "приладдя та інші здібності"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Ability → здібність
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/healer/desc/5"
+msgid "abilities."
+msgstr "до зцілення."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Magic → магія
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/healer/desc/6"
+msgid "Compared to other magic"
+msgstr "Серед інших знавців магії"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Healer → цілитель
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/healer/desc/7"
+msgid "users, the Healer is a more"
+msgstr "цілитель витриваліший"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/healer/desc/8"
+msgid "durable and well-rounded"
+msgstr "і більш різнобічний"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/healer/desc/9"
+msgid "hero as they grow in"
+msgstr "герой, коли набуває"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Experience → досвід
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/healer/desc/10"
+msgid "experience."
+msgstr "досвіду."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/healer/desc/11"
+msgid "With care, they may become"
+msgstr "За належної обачності він"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Thaumaturge → тавматург
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/healer/desc/12"
+msgid "a very tough thaumaturge."
+msgstr "стане стійким тавматургом."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Rogue → пройдисвіт
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/rogue/desc/0"
+msgid "Rogue"
+msgstr "Пройдисвіт"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. тон: joke, rude
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/rogue/desc/1"
+msgid "The professional hooligan."
+msgstr "Професійний хуліган."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Skilled → вправний
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/rogue/desc/2"
+msgid "Dextrous and skilled thieves,"
+msgstr "Спритний і вправний злодій:"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/rogue/desc/3"
+msgid "what they lack in power, they"
+msgstr "брак сили він надолужує"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/rogue/desc/4"
+msgid "make up for in versatility."
+msgstr "своєю універсальністю."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Rogue → пройдисвіт, Skilled → вправний
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/rogue/desc/5"
+msgid "Even skilled Rogues succumb"
+msgstr "Навіть вправні пройдисвіти"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Blade → лезо
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/rogue/desc/6"
+msgid "trying to live by the blade."
+msgstr "гинуть, живучи з леза."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: lockpick → відмичка
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/rogue/desc/7"
+msgid "Their deft hand can pick"
+msgstr "Їхні спритні руки дістають"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Trap → пастка
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/rogue/desc/8"
+msgid "ammo from traps, and using"
+msgstr "боєприпаси з пасток, а"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Rogue → пройдисвіт, Stealth → потайність
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/rogue/desc/9"
+msgid "stealth, a patient Rogue"
+msgstr "завдяки потайності терплячий"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/rogue/desc/10"
+msgid "survives by taking out tough"
+msgstr "пройдисвіт виживає, долаючи"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: foe → ворог
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/rogue/desc/11"
+msgid "foes from afar, & practicing"
+msgstr "міцних ворогів здалеку, &"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: foe → ворог, ambush → засідка
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/rogue/desc/12"
+msgid "ambushes against soft foes."
+msgstr "влаштовуючи засідки слабким."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Wanderer → мандрівник
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wanderer/desc/0"
+msgid "Wanderer"
+msgstr "Мандрівник"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wanderer/desc/1"
+msgid "The hardened traveler."
+msgstr "Загартований подорожній."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: armor → обладунок, combat → бій
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wanderer/desc/2"
+msgid "Low in armor and combat"
+msgstr "Має слабкий обладунок і не"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Ability → здібність
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wanderer/desc/3"
+msgid "ability, but well-equipped"
+msgstr "дуже вправний у бою, зате"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Dungeon → Підземелля
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wanderer/desc/4"
+msgid "to explore the dungeon."
+msgstr "готовий досліджувати Підземелля."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Wanderer → мандрівник, Food → їжа
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wanderer/desc/5"
+msgid "A Wanderer's ample food"
+msgstr "Великий запас їжі дає"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wanderer/desc/6"
+msgid "supply provides a patient"
+msgstr "мандрівникові змогу без"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Adventure → пригода
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wanderer/desc/7"
+msgid "start to their adventure,"
+msgstr "поспіху почати пригоду"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wanderer/desc/8"
+msgid "allowing them to play it safe."
+msgstr "й спершу не ризикувати."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wanderer/desc/9"
+msgid "Their hardy nature"
+msgstr "Завдяки витривалості"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: transmutation → трансмутація
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wanderer/desc/10"
+msgid "transforms them into very"
+msgstr "з часом він стає дуже"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wanderer/desc/11"
+msgid "durable fighters as their"
+msgstr "стійким бійцем, поки"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wanderer/desc/12"
+msgid "quest labors on."
+msgstr "триває його похід."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Cleric → клірик
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/cleric/desc/0"
+msgid "Cleric"
+msgstr "Клірик"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Church → Церква
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/cleric/desc/1"
+msgid "Students of the church."
+msgstr "Учень Церкви."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/cleric/desc/2"
+msgid "Well-appointed, they are"
+msgstr "Добре споряджений, він"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/cleric/desc/3"
+msgid "capable defensive fighters"
+msgstr "уміло тримає оборону"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: undead → нежить
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/cleric/desc/4"
+msgid "ready to crush undead."
+msgstr "й готовий трощити нежить."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/cleric/desc/5"
+msgid "Trained to learn a powerful"
+msgstr "Навчений могутнього"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Cleric → клірик, Skilled → вправний, blessing → благословення
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/cleric/desc/6"
+msgid "blessing, Clerics are skilled"
+msgstr "благословення, клірик — вправний"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Thaumaturge → тавматург
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/cleric/desc/7"
+msgid "thaumaturges that help the"
+msgstr "тавматург, що допомагає"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: party → група
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/cleric/desc/8"
+msgid "party recover more quickly."
+msgstr "пришвидшує одужання групи."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Cleric → клірик
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/cleric/desc/9"
+msgid "A wise Cleric makes use of"
+msgstr "Мудрий клірик звертається"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Magic → магія
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/cleric/desc/10"
+msgid "magic when it is available"
+msgstr "до магії за нагоди, але"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/cleric/desc/11"
+msgid "without forsaking their"
+msgstr "не занедбує своєї"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/cleric/desc/12"
+msgid "martial training."
+msgstr "бойової підготовки."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Merchant → торговець
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/merchant/desc/0"
+msgid "Merchant"
+msgstr "Торговець"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/merchant/desc/1"
+msgid "A seasoned trader. They"
+msgstr "Досвідчений крамар. Він"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Skilled → вправний
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/merchant/desc/2"
+msgid "are skilled in the market"
+msgstr "знається на торгівлі"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: identification → визначення
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/merchant/desc/3"
+msgid "and adept at identifying"
+msgstr "й уміє визначати"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Gem → коштовний камінь, artifact → артефакт
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/merchant/desc/4"
+msgid "gems & foreign artifacts."
+msgstr "коштовні камені й чужі артефакти."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/merchant/desc/5"
+msgid "While decently equipped,"
+msgstr "Хоч споряджений непогано,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Merchant → торговець, will → воля
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/merchant/desc/6"
+msgid "Merchant explorers will"
+msgstr "Торговці-мандрівники"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/merchant/desc/7"
+msgid "survive longer if they"
+msgstr "проживе довше, якщо"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: skill → навичка, foe → ворог
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/merchant/desc/8"
+msgid "develop skills which keep foes"
+msgstr "розвине навички, що тримають"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Distance → дальність
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/merchant/desc/9"
+msgid "at a distance, especially"
+msgstr "ворогів на відстані, а ще"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Follower → послідовник
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/merchant/desc/10"
+msgid "adopting followers and"
+msgstr "братиме послідовників"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: skill → навичка
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/merchant/desc/11"
+msgid "crafting skills to which they"
+msgstr "і опанує ремесла, до яких"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/merchant/desc/12"
+msgid "are naturally inclined."
+msgstr "має природний хист."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Wizard → чарівник
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wizard/desc/0"
+msgid "Wizard"
+msgstr "Чарівник"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Magician → маг
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wizard/desc/1"
+msgid "The wise magician. Though"
+msgstr "Мудрий маг. Хоча він"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wizard/desc/2"
+msgid "frail, they are extremely"
+msgstr "кволий, зате чудово"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Sorcery → чаклунство
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wizard/desc/3"
+msgid "well-versed in sorcery."
+msgstr "знається на чаклунстві."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Adventurer → шукач пригод
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wizard/desc/4"
+msgid "Many young adventurers"
+msgstr "Чимало юних шукачів пригод"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wizard/desc/5"
+msgid "find early success with"
+msgstr "швидко досягають успіху"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Spell → Закляття
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wizard/desc/6"
+msgid "powerful spells. However,"
+msgstr "з могутніми Закляттями. Та"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Magic → магія
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wizard/desc/7"
+msgid "most mighty magic users"
+msgstr "навіть найсильніші маги"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wizard/desc/8"
+msgid "cannot cast indefinitely."
+msgstr "не чаклують без упину."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Wizard → чарівник
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wizard/desc/9"
+msgid "To succeed as a Wizard, one"
+msgstr "Щоб досягти успіху як чарівник,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wizard/desc/10"
+msgid "must learn when it is enough"
+msgstr "має знати, коли вже досить"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: foe → ворог
+#. тон: joke
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wizard/desc/11"
+msgid "to finish foes off with a stiff"
+msgstr "магії й час добити ворога"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Polearm → древкова зброя
+#. тон: joke
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/wizard/desc/12"
+msgid "whack from a polearm."
+msgstr "міцним дрючком древкової зброї."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Arcanist → арканіст
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/arcanist/desc/0"
+msgid "Arcanist"
+msgstr "Арканіст"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: spellcaster → заклинач
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/arcanist/desc/1"
+msgid "A cunning spellcaster. Less"
+msgstr "Хитрий заклинач. Слабший"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/arcanist/desc/2"
+msgid "magically adept than the"
+msgstr "вправний у магії, як"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Wizard → чарівник
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/arcanist/desc/3"
+msgid "Wizard, but with more"
+msgstr "чарівника, зате має більше"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: gear → шестерня
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/arcanist/desc/4"
+msgid "diverse talents and gear."
+msgstr "розмаїтіші таланти й спорядження."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: mundane → звичайний
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/arcanist/desc/5"
+msgid "Due to having mundane and"
+msgstr "Маючи звичайні й"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Ranged → дальній бій, Magic → магія
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/arcanist/desc/6"
+msgid "magical ranged attacks at"
+msgstr "магічні дальні атаки"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/arcanist/desc/7"
+msgid "their disposal, successful"
+msgstr "у своєму арсеналі, вправні"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Arcanist → арканіст
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/arcanist/desc/8"
+msgid "Arcanists rely on mobility to"
+msgstr "арканісти покладаються на рухливість,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: threat → загроза, Distance → дальність
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/arcanist/desc/9"
+msgid "keep threats at a distance."
+msgstr "щоб тримати загрози на відстані."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Spell → Закляття, special ammo → особливі боєприпаси
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/arcanist/desc/10"
+msgid "Adding special ammo or spells"
+msgstr "Особливі боєприпаси чи закляття"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Arcanist → арканіст, will → воля
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/arcanist/desc/11"
+msgid "will allow the Arcanist to"
+msgstr "дадуть арканістові змогу"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/arcanist/desc/12"
+msgid "improve in power."
+msgstr "стати сильнішим."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Joker → блазень
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/joker/desc/0"
+msgid "Joker"
+msgstr "Блазень"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/joker/desc/1"
+msgid "The wild card."
+msgstr "Непередбачувана карта."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Joker → блазень
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/joker/desc/2"
+msgid "Jokers come with very little"
+msgstr "Блазні майже не мають"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: equipment → спорядження
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/joker/desc/3"
+msgid "equipment, but they have a"
+msgstr "спорядження, та все ж"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. тон: joke
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/joker/desc/4"
+msgid "few tricks up their sleeves,"
+msgstr "кілька козирів у рукавах"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/joker/desc/5"
+msgid "nonetheless."
+msgstr "таки знайдеться."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Joker → блазень
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/joker/desc/6"
+msgid "Jokers tend to gravitate"
+msgstr "Блазні зазвичай тяжіють"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Magic → магія
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/joker/desc/7"
+msgid "toward magical trickery"
+msgstr "до магічних витівок"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Follower → послідовник
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/joker/desc/8"
+msgid "and commanding followers,"
+msgstr "і командування послідовниками,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/joker/desc/9"
+msgid "but their chaotic nature"
+msgstr "але через хаотичну натуру"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: focus → магічний фокус
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/joker/desc/10"
+msgid "results in a lack of focus."
+msgstr "їм бракує магічного фокусу."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. тон: command
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/joker/desc/11"
+msgid "Best to improvise and stay"
+msgstr "Краще імпровізуйте й будьте"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. тон: command
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/joker/desc/12"
+msgid "flexible."
+msgstr "гнучкими."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Sexton → паламар
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/sexton/desc/0"
+msgid "Sexton"
+msgstr "Паламар"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Temple → храм
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/sexton/desc/1"
+msgid "A temple officer who serves"
+msgstr "Храмовий служитель, що діє"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Stealth → потайність
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/sexton/desc/2"
+msgid "unseen, using stealth and"
+msgstr "непомітно, завдяки потайності"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Mysticism → містицизм
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/sexton/desc/3"
+msgid "mysticism to slip their way"
+msgstr "й містицизму пробираючись"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Dungeon → Підземелля
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/sexton/desc/4"
+msgid "through the dungeon with"
+msgstr "крізь Підземелля"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: tool → інструмент
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/sexton/desc/5"
+msgid "the aid of a few rare tools."
+msgstr "за поміччю рідкісних інструментів."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Sexton → паламар
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/sexton/desc/6"
+msgid "Sextons are fastidious"
+msgstr "Паламарі — ретельні"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/sexton/desc/7"
+msgid "planners, and their diverse"
+msgstr "планувальники, чиї розмаїті"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/sexton/desc/8"
+msgid "talents bring success when"
+msgstr "таланти ведуть до успіху,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Time → час
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/sexton/desc/9"
+msgid "they make time to approach"
+msgstr "коли вони знаходять час,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/sexton/desc/10"
+msgid "each problem thoughtfully."
+msgstr "щоб обдумати кожну проблему."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Sexton → паламар
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/sexton/desc/11"
+msgid "Sextons who panic fail to use"
+msgstr "Паламарі, що панікують, не вміють"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: tool → інструмент
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/sexton/desc/12"
+msgid "the tools at their disposal."
+msgstr "користатися своїми інструментами."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Ninja → ніндзя
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/ninja/desc/0"
+msgid "Ninja"
+msgstr "Ніндзя"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/ninja/desc/1"
+msgid "A highly specialized assassin."
+msgstr "Вузькоспеціалізований убивця."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: foe → ворог, ambush → засідка
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/ninja/desc/2"
+msgid "They ambush foes with"
+msgstr "Вони влаштовують ворогам засідки"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: weapon → зброя, Ranged → дальній бій, Sword → меч
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/ninja/desc/3"
+msgid "swords or ranged weapons,"
+msgstr "з мечами чи дальньою зброєю,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/ninja/desc/4"
+msgid "using a few other tricks to"
+msgstr "а кілька інших хитрощів"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/ninja/desc/5"
+msgid "get out of bad situations."
+msgstr "рятують їх зі скрути."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Ninja → ніндзя
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/ninja/desc/6"
+msgid "Ninjas do well to find backup"
+msgstr "Ніндзя варто шукати підмогу"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Sword → меч, Fragile → Крихкість, Blade → лезо
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/ninja/desc/7"
+msgid "blades. Their fragile sword"
+msgstr "леза. Їхній крихкий меч"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Break → ламання
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/ninja/desc/8"
+msgid "is sharp, but a break at the"
+msgstr "гострий, але ламання в"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Time → час
+#. тон: threat
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/ninja/desc/9"
+msgid "wrong time can be fatal."
+msgstr "лиху мить може стати фатальним."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/ninja/desc/10"
+msgid "To improve their chances, a"
+msgstr "Щоб підвищити свої шанси,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Ninja → ніндзя
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/ninja/desc/11"
+msgid "Ninja must remain in control"
+msgstr "Ніндзя мусить тримати себе"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/ninja/desc/12"
+msgid "of how a fight begins."
+msgstr "як починається бій."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Monk → монах
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/monk/desc/0"
+msgid "Monk"
+msgstr "Монах"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/monk/desc/1"
+msgid "Disciplined and hardy. With"
+msgstr "Дисциплінований і витривалий."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/monk/desc/2"
+msgid "little in the way of offensive"
+msgstr "Майже не навчений нападу"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: material → матеріал
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/monk/desc/3"
+msgid "training and material goods,"
+msgstr "і без матеріальних статків,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Monk → монах, excellent → відмінний
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/monk/desc/4"
+msgid "Monks rely on their excellent"
+msgstr "Монахи покладаються на свій відмінний"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/monk/desc/5"
+msgid "fortitude and adaptability."
+msgstr "стійкість і пристосовність."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Monk → монах
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/monk/desc/6"
+msgid "The Monk is exceptional at"
+msgstr "Монах неперевершений у"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Blocking → блокування
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/monk/desc/7"
+msgid "blocking attacks, and is very"
+msgstr "блокуванні атак і дуже"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Hunger → Голод, Slow → сповільнення
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/monk/desc/8"
+msgid "slow to hunger."
+msgstr "повільно голодніє."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Challenge → випробування
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/monk/desc/9"
+msgid "Approaching challenges"
+msgstr "Терпеливий підхід до випробувань"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Monk → монах
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/monk/desc/10"
+msgid "patiently plays to the Monk's"
+msgstr "терпляче грає на сильних рисах монаха"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: torch → смолоскип, Strength → сила
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/monk/desc/11"
+msgid "strengths. Keep a torch or"
+msgstr "Тримайте напохваті смолоскип або"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: shield → щит, defending → захист
+#. тон: command
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/monk/desc/12"
+msgid "shield at hand for defense."
+msgstr "щит, щоб захищатися."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Conjurer → прикликач
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/conjurer/desc/0"
+msgid "Conjurer"
+msgstr "Прикликач"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Magic → магія
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/conjurer/desc/1"
+msgid "A frail but adept magic"
+msgstr "Кволий, але вправний знавець"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/conjurer/desc/2"
+msgid "user, able to conjure allies"
+msgstr "магії, здатний прикликати союзників"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Spell → Закляття
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/conjurer/desc/3"
+msgid "with a reliable spell."
+msgstr "надійним закляттям."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Any → будь-який
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/conjurer/desc/4"
+msgid "Unavailable to any other"
+msgstr "Недоступне жодному іншому"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Skeleton → скелет, class → клас, Conjure Skeleton → виклик скелета
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/conjurer/desc/5"
+msgid "class, the Conjure Skeleton"
+msgstr "класу, закляття «виклик скелета»"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Spell → Закляття
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/conjurer/desc/6"
+msgid "spell provides a persistent"
+msgstr "дарує постійного супутника,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/conjurer/desc/7"
+msgid "companion, even if it is killed."
+msgstr "навіть якщо той загине."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/conjurer/desc/8"
+msgid "Conjured allies grow in"
+msgstr "Прикликані союзники міцнішають,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/conjurer/desc/9"
+msgid "power, so long as they are"
+msgstr "якщо їм дозволяти"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: foe → ворог
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/conjurer/desc/10"
+msgid "permitted to kill foes and"
+msgstr "вбивати ворогів і"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Experience → досвід
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/conjurer/desc/11"
+msgid "grow in experience. Nurture"
+msgstr "набиратися досвіду. Плекайте"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. тон: command
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/conjurer/desc/12"
+msgid "these allies to succeed."
+msgstr "цих союзників заради успіху."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Accursed → проклятий
+#. тон: threat
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/accursed/desc/0"
+msgid "Accursed"
+msgstr "Проклятий"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Accursed → проклятий
+#. тон: threat
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/accursed/desc/1"
+msgid "The Accursed suffer from"
+msgstr "Прокляті приречені страждати від"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Hunger → Голод
+#. тон: threat
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/accursed/desc/2"
+msgid "bestial hunger, but gain"
+msgstr "звірячого голоду, але здобувають"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Magic → магія, Magic Power → сила магії
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/accursed/desc/3"
+msgid "supernatural magic power"
+msgstr "надприродну силу магії"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: speed → швидкість
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/accursed/desc/4"
+msgid "and speed."
+msgstr "та швидкість."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. тон: solemn
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/accursed/desc/5"
+msgid "An arcane library found"
+msgstr "Таємна бібліотека, схована"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Dungeon → Підземелля
+#. тон: solemn
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/accursed/desc/6"
+msgid "deep within the dungeon may"
+msgstr "глибоко в Підземеллі, може"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. тон: solemn
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/accursed/desc/7"
+msgid "have a cure."
+msgstr "містити ліки."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Accursed → проклятий
+#. тон: threat
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/accursed/desc/8"
+msgid "While afflicted, the Accursed"
+msgstr "Доки недуга мучить проклятого,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. тон: threat
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/accursed/desc/9"
+msgid "must move quickly and reap"
+msgstr "мусить діяти швидко й жати"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Blood → кров, Starvation → голодна смерть
+#. тон: threat
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/accursed/desc/10"
+msgid "blood to evade starvation."
+msgstr "кров, щоб уникнути голодної смерті."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/accursed/desc/11"
+msgid "However powerful, those"
+msgstr "Та хоч яка його могутність,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: will → воля
+#. тон: threat
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/accursed/desc/12"
+msgid "lacking expertise will fail."
+msgstr "без вправності він приречений."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Mesmer → месмерист
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mesmer/desc/0"
+msgid "Mesmer"
+msgstr "Месмерист"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Mesmer → месмерист, Psianimus → Псіанімус
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mesmer/desc/1"
+msgid "The Mesmer uses psianimus"
+msgstr "Месмерист послуговується Псіанімусом"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Spell → Закляття, Leadership → лідерство, Ability → здібність
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mesmer/desc/2"
+msgid "spells and leadership ability"
+msgstr "Псіанімусу й здібність лідерства,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Force → сила
+#. тон: threat
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mesmer/desc/3"
+msgid "to force others into battle."
+msgstr "щоб силоміць гнати інших у бій."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: charm → причарування, Mesmer → месмерист
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mesmer/desc/4"
+msgid "Mesmers may only Charm one"
+msgstr "Месмеристи можуть причарувати лише одну"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Time → час
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mesmer/desc/5"
+msgid "at a time, so they should be"
+msgstr "одного за раз, тож слід"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mesmer/desc/6"
+msgid "strategic with recruiting."
+msgstr "обачно набирати союзників."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Follower → послідовник
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mesmer/desc/7"
+msgid "Followers can get stronger"
+msgstr "Послідовники міцнішають"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Experience → досвід
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mesmer/desc/8"
+msgid "with experience, nurturing"
+msgstr "із досвідом, тож їх варто"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: charm → причарування
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mesmer/desc/9"
+msgid "them can be wise. The Charm"
+msgstr "плекати. Закляття причарування"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Spell → Закляття
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mesmer/desc/10"
+msgid "spell is difficult to learn."
+msgstr "важко опанувати."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Mesmer → месмерист
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mesmer/desc/11"
+msgid "Mesmers should make use of"
+msgstr "Месмеристам варто користуватися"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Spell → Закляття
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mesmer/desc/12"
+msgid "many spell types to succeed."
+msgstr "застосовувати різні закляття."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Brewer → бровар
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/brewer/desc/0"
+msgid "Brewer"
+msgstr "Бровар"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Alchemist → алхімік
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/brewer/desc/1"
+msgid "A talented alchemist who is"
+msgstr "Талановитий алхімік, що"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/brewer/desc/2"
+msgid "also comfortable with the"
+msgstr "добре знається також на"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. тон: joke
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/brewer/desc/3"
+msgid "relationships and bar-room"
+msgstr "знайомствах і шинкових"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: will → воля
+#. тон: joke
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/brewer/desc/4"
+msgid "brawls that a good brew will"
+msgstr "бійках, до яких неодмінно"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. тон: joke
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/brewer/desc/5"
+msgid "bring."
+msgstr "веде добре пиво."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Brewer → бровар
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/brewer/desc/6"
+msgid "Successful Brewers make it"
+msgstr "Успішні броварі завжди"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/brewer/desc/7"
+msgid "a priority to collect, brew,"
+msgstr "збирають, варять і"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Potion → Зілля
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/brewer/desc/8"
+msgid "and duplicate potions to"
+msgstr "дублюють зілля, щоб"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Run → проходження
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/brewer/desc/9"
+msgid "never run on short supply."
+msgstr "завжди мати добрий запас."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: bottle → пляшка, backpack → наплічник
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/brewer/desc/10"
+msgid "A backpack full of bottles"
+msgstr "Повний пляшок наплічник"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Brewer → бровар
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/brewer/desc/11"
+msgid "allows the Brewer to adapt"
+msgstr "дає броварю змогу пристосуватися"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/brewer/desc/12"
+msgid "with short notice."
+msgstr "пристосуватися."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Mechanist → механіст
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mechanist/desc/0"
+msgid "Mechanist"
+msgstr "Механіст"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Skilled → вправний
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mechanist/desc/1"
+msgid "A skilled craftsman, the"
+msgstr "Вправний майстер,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Mechanist → механіст
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mechanist/desc/2"
+msgid "Mechanist uses a toolkit to"
+msgstr "Механіст використовує набір інструментів, щоб"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mechanist/desc/3"
+msgid "make and maintain"
+msgstr "щоб створювати й лагодити"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: weapon → зброя
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mechanist/desc/4"
+msgid "mechanical weapons, letting"
+msgstr "механічну зброю, доручаючи"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. тон: joke
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mechanist/desc/5"
+msgid "contraptions do the dirty"
+msgstr "пристроям усю брудну"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. тон: joke
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mechanist/desc/6"
+msgid "work."
+msgstr "роботу."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Mechanist → механіст
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mechanist/desc/7"
+msgid "Successful Mechanists use"
+msgstr "Успішні механісти використовують"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mechanist/desc/8"
+msgid "foresight to plan ahead and"
+msgstr "все обмірковують і завжди"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mechanist/desc/9"
+msgid "are prepared with the right"
+msgstr "мають напоготові потрібний"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: tool → інструмент, Any → будь-який
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mechanist/desc/10"
+msgid "tool for any problem. Those"
+msgstr "інструмент для кожної халепи."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Strength → сила
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mechanist/desc/11"
+msgid "who try to rely on strength"
+msgstr "Тим, хто покладається на силу"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: speed → швидкість
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/mechanist/desc/12"
+msgid "and speed may struggle."
+msgstr "й швидкість, буде нелегко."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Punisher → каратель
+#. тон: threat
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/punisher/desc/0"
+msgid "Punisher"
+msgstr "Каратель"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Punisher → каратель
+#. тон: threat
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/punisher/desc/1"
+msgid "The Punisher picks unfair"
+msgstr "Каратель обирає нечесні"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: foe → ворог
+#. тон: threat
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/punisher/desc/2"
+msgid "fights, toying with foes using"
+msgstr "бої, бавлячись із ворогами"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Whip → батіг, Magic → магія
+#. тон: threat
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/punisher/desc/3"
+msgid "dark magic and a whip"
+msgstr "за допомогою темної магії"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. тон: threat
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/punisher/desc/4"
+msgid "before making the execution,"
+msgstr "й батога перед стратою,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. тон: threat
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/punisher/desc/5"
+msgid "or releasing one's inner"
+msgstr "або випускає внутрішніх"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Demon → демон
+#. тон: threat
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/punisher/desc/6"
+msgid "demons to do the job."
+msgstr "демонів завершити справу."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Punisher → каратель
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/punisher/desc/7"
+msgid "Punishers are not durable"
+msgstr "Карателі не надто витривалі"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/punisher/desc/8"
+msgid "and must maintain control"
+msgstr "й мусять зберігати контроль"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: combat → бій
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/punisher/desc/9"
+msgid "in combat."
+msgstr "у бою."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: key → ключ
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/punisher/desc/10"
+msgid "Staying mobile is the key"
+msgstr "Рухливість — ключ до переваги"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/punisher/desc/11"
+msgid "to exploiting their unique"
+msgstr "унікальної збільшеної"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Whip → батіг
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/punisher/desc/12"
+msgid "whip's longer attack range."
+msgstr "дальності атаки батогом."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Shaman → шаман
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/shaman/desc/0"
+msgid "Shaman"
+msgstr "Шаман"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Shaman → шаман, Mystic → містик
+#. тон: solemn
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/shaman/desc/1"
+msgid "The Shaman is a mystic whose"
+msgstr "Шаман — містик, чия"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: spirit → дух
+#. тон: solemn
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/shaman/desc/2"
+msgid "connection to nature spirits"
+msgstr "із духами природи дозволяє"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Shapeshift → зміна форми
+#. тон: solemn
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/shaman/desc/3"
+msgid "allows them to shapeshift"
+msgstr "йому змінювати форму,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Form → форма
+#. тон: solemn
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/shaman/desc/4"
+msgid "into bestial forms."
+msgstr "обертаючись на звіра."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Form → форма
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/shaman/desc/5"
+msgid "Each form's talents provide"
+msgstr "Таланти кожної форми дають"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/shaman/desc/6"
+msgid "diverse advantages in the"
+msgstr "різноманітні переваги в"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Dungeon → Підземелля
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/shaman/desc/7"
+msgid "dungeon."
+msgstr "Підземеллі."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Shaman → шаман
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/shaman/desc/8"
+msgid "While transformed, Shamans"
+msgstr "Перетворившись, шамани"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/shaman/desc/9"
+msgid "make different friends, and"
+msgstr "дружать з іншими істотами"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Food → їжа
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/shaman/desc/10"
+msgid "can tolerate different food."
+msgstr "й можуть їсти іншу їжу."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Beast → звір, will → воля, influence → вплив
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/shaman/desc/11"
+msgid "Being a beast will influence"
+msgstr "Звіряча подоба впливає"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Shaman → шаман
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/shaman/desc/12"
+msgid "how the Shaman grows."
+msgstr "як зростає сила шамана."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Hunter → мисливець
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/hunter/desc/0"
+msgid "Hunter"
+msgstr "Мисливець"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/hunter/desc/1"
+msgid "Equipped to track and bring"
+msgstr "Вправний у вистежуванні"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: foe → ворог
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/hunter/desc/2"
+msgid "down foes from afar, the"
+msgstr "та знищенні ворогів здаля,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: arrow → стріла, Hunter → мисливець
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/hunter/desc/3"
+msgid "Hunter uses special arrows"
+msgstr "Мисливець використовує особливі стріли"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Magic → магія, boomerang → бумеранг
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/hunter/desc/4"
+msgid "and a magic boomerang to"
+msgstr "й магічний бумеранг, тож"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/hunter/desc/5"
+msgid "ensure they never have to"
+msgstr "йому не доводиться"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/hunter/desc/6"
+msgid "fight toe-to-toe."
+msgstr "битись віч-на-віч."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Hunter → мисливець
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/hunter/desc/7"
+msgid "Hunters are frail and"
+msgstr "Мисливці кволі й"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. тон: threat
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/hunter/desc/8"
+msgid "must avoid being backed into"
+msgstr "не сміють дати загнати себе"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. тон: threat
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/hunter/desc/9"
+msgid "a corner."
+msgstr "в кут."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/hunter/desc/10"
+msgid "Staying hidden and using"
+msgstr "Ховатися й ощадно"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: key → ключ
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/hunter/desc/11"
+msgid "ammo wisely is the key to"
+msgstr "витрачати стріли — ключ"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Survival → виживання
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/hunter/desc/12"
+msgid "their survival."
+msgstr "до їхнього виживання."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: bard → бард
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_bard/desc/0"
+msgid "Bard"
+msgstr "Бард"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Adventurer → шукач пригод
+#. тон: excited
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_bard/desc/1"
+msgid "This boistrous adventurer"
+msgstr "Цей галасливий шукач пригод"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_bard/desc/2"
+msgid "may not look like much of a"
+msgstr "може й не схожий на вправного"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Rogue → пройдисвіт, Magician → маг
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_bard/desc/3"
+msgid "fighter, magician, or rogue,"
+msgstr "бійця, мага чи пройдисвіта,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Blade → лезо
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_bard/desc/4"
+msgid "but a swift blade and sharp"
+msgstr "та спритне лезо й гострий"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: bard → бард
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_bard/desc/5"
+msgid "wit makes the Bard a very"
+msgstr "дотепність робить барда вельми"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_bard/desc/6"
+msgid "capable combatant."
+msgstr "грізним у бою."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Master → майстер, will → воля, bard → бард
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_bard/desc/7"
+msgid "Bards will need to master"
+msgstr "Бардам доведеться опанувати"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Sword → меч, parry → парирування
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_bard/desc/8"
+msgid "parrying with their sword"
+msgstr "парирування мечем,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_bard/desc/9"
+msgid "to survive in close quarters."
+msgstr "щоб вижити в ближньому бою."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: song → пісня
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_bard/desc/10"
+msgid "The right song for the right"
+msgstr "Правильна пісня у слушній"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_bard/desc/11"
+msgid "situation can bring swift"
+msgstr "ситуації швидко приведе"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: party → група, bard → бард
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_bard/desc/12"
+msgid "success to a Bard's party."
+msgstr "приносить успіх групі барда."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: sapper → сапер
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_sapper/desc/0"
+msgid "Sapper"
+msgstr "Сапер"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_sapper/desc/1"
+msgid "A resourceful soldier, the"
+msgstr "Винахідливий солдат, Сапер"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: tool → інструмент, sapper → сапер
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_sapper/desc/2"
+msgid "Sapper has several tools"
+msgstr "Сапер має кілька інструментів"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: foe → ворог, Destroy → знищення
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_sapper/desc/3"
+msgid "that help destroy foes"
+msgstr "які нищать ворогів"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_sapper/desc/4"
+msgid "beyond the front lines."
+msgstr "за лінією фронту."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_sapper/desc/5"
+msgid "But lacking the defensive"
+msgstr "Але без захисної"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_sapper/desc/6"
+msgid "prowess of other fighters,"
+msgstr "майстерності інших бійців"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_sapper/desc/7"
+msgid "they must take care not to"
+msgstr "він мусить пильнувати,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_sapper/desc/8"
+msgid "be overwhelmed by close-"
+msgstr "щоб його не здолали у"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: combat → бій
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_sapper/desc/9"
+msgid "quarters combat."
+msgstr "ближньому бою."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: sapper → сапер
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_sapper/desc/10"
+msgid "Successful Sappers combine"
+msgstr "Успішні сапери поєднують"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: tool → інструмент
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_sapper/desc/11"
+msgid "their tools to secure"
+msgstr "свої інструменти задля"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_sapper/desc/12"
+msgid "decisive victory."
+msgstr "вирішальної перемоги."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: scion → нащадок
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_scion/desc/0"
+msgid "Scion"
+msgstr "Нащадок"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_scion/desc/1"
+msgid "Though very well trained"
+msgstr "Хоч Нащадок чудово"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_scion/desc/2"
+msgid "in all known disciplines of"
+msgstr "навчений усіх відомих"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Magic → магія, scion → нащадок
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_scion/desc/3"
+msgid "magic, the Scion is ill-fit"
+msgstr "видів магії, Нащадок не"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_scion/desc/4"
+msgid "for physical battle."
+msgstr "створений для фізичного бою."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: scion → нащадок
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_scion/desc/5"
+msgid "Nevertheless, the Scion has"
+msgstr "Утім, Нащадок уміє"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: enemy → ворог
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_scion/desc/6"
+msgid "ways to keep enemies at bay"
+msgstr "стримувати ворогів,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Spell → Закляття
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_scion/desc/7"
+msgid "while a spell does the work."
+msgstr "доки закляття робить своє."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: scion → нащадок
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_scion/desc/8"
+msgid "A successful Scion is very"
+msgstr "Успішний Нащадок вельми"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_scion/desc/9"
+msgid "capable in the learning of"
+msgstr "здібний до опанування"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Spell → Закляття
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_scion/desc/10"
+msgid "new spells on their quest."
+msgstr "нових заклять у своїй мандрівці."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_scion/desc/11"
+msgid "They should expect to"
+msgstr "Він має бути готовим"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Advantage → перевага
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_scion/desc/12"
+msgid "adapt with that advantage."
+msgstr "скористатися цією перевагою."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: hermit → відлюдник
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_hermit/desc/0"
+msgid "Hermit"
+msgstr "Відлюдник"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_hermit/desc/1"
+msgid "Though not equipped with"
+msgstr "Хоч і без традиційного"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: gear → шестерня
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_hermit/desc/2"
+msgid "traditional battle gear,"
+msgstr "бойового спорядження,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: hermit → відлюдник
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_hermit/desc/3"
+msgid "the Hermit survives by"
+msgstr "Відлюдник виживає,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Magic → магія
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_hermit/desc/4"
+msgid "combining both magical"
+msgstr "поєднуючи магічні"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_hermit/desc/5"
+msgid "and physical aptitude."
+msgstr "й фізичні здібності."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: hermit → відлюдник
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_hermit/desc/6"
+msgid "Though isolated, the Hermit"
+msgstr "Хоч Відлюдник усамітнений,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_hermit/desc/7"
+msgid "is not alone. A loyal pet"
+msgstr "він не самотній. Вірний"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_hermit/desc/8"
+msgid "serves as an exceptional"
+msgstr "улюбленець чудово"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_hermit/desc/9"
+msgid "distraction, and the"
+msgstr "відвертає увагу, а"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: shillelagh → шилейла, Unbreakable → Незламність
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_hermit/desc/10"
+msgid "unbreakable shillelagh"
+msgstr "незламна шилейла"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_hermit/desc/11"
+msgid "is devastating against"
+msgstr "нищівна проти"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: foe → ворог
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_hermit/desc/12"
+msgid "hindered foes."
+msgstr "скованих ворогів."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: paladin → паладин
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_paladin/desc/0"
+msgid "Paladin"
+msgstr "Паладин"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Blade → лезо
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_paladin/desc/1"
+msgid "Wielding a large blade"
+msgstr "З великим лезом"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Magic → магія
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_paladin/desc/2"
+msgid "and divine magic, the"
+msgstr "і божественною магією"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: paladin → паладин
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_paladin/desc/3"
+msgid "Paladin's solutions are"
+msgstr "рішення Паладина"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: simple → простий
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_paladin/desc/4"
+msgid "simple and effective."
+msgstr "прості й дієві."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_paladin/desc/5"
+msgid "While adept at dealing"
+msgstr "Вправний у боротьбі"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_paladin/desc/6"
+msgid "with martial challengers,"
+msgstr "з бойовими суперниками,"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: paladin → паладин
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_paladin/desc/7"
+msgid "a Paladin must rise to the"
+msgstr "Паладин мусить бути"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_paladin/desc/8"
+msgid "occasion when honorable"
+msgstr "на висоті, коли чесного"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_paladin/desc/9"
+msgid "fights aren't on offer."
+msgstr "бою годі чекати."
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_paladin/desc/10"
+msgid "Continued discipline with"
+msgstr "Подальше опанування"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#. сутності: Magic → магія
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_paladin/desc/11"
+msgid "miraculous magics may"
+msgstr "чудотворної магії може"
+
+#. опис класу на екрані створення персонажа — нарізано по рядках екрана, перший рядок — назва класу
+#, fuzzy
+#: data/class_descriptions.json
+msgctxt "descriptions/class_paladin/desc/12"
+msgid "improve adaptability."
+msgstr "додати гнучкості."

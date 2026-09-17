@@ -1,0 +1,2923 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Human → людина
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/human/title"
+msgid "Human"
+msgstr "Людина"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/human/left_align/1"
+msgid "Traits"
+msgstr "Риси"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: swimming → плавання
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/human/left_align/2"
+msgid "- Faster swimming"
+msgstr "- Швидше плавання"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Shopkeeper → Крамар
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/human/left_align/3"
+msgid "- Welcomed by Shopkeepers"
+msgstr "- Крамарі привітні"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Resistance → опір
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/human/left_align/5"
+msgid "Resistances"
+msgstr "Опір"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: None → немає
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/human/left_align/6"
+msgid "None"
+msgstr "Немає"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/human/left_align/8"
+msgid "Friendly With"
+msgstr "Дружні з"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Human → людина, Automaton → автоматон
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/human/left_align/9"
+msgid "Humans, Automatons"
+msgstr "Люди, автоматони"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Weakness → слабкість
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/human/right_align/5"
+msgid "Weaknesses"
+msgstr "Слабкості"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: None → немає
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/human/right_align/6"
+msgid "None"
+msgstr "Немає"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Skeleton → скелет
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/skeleton/title"
+msgid "Skeleton"
+msgstr "Скелет"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/skeleton/left_align/1"
+msgid "Traits"
+msgstr "Риси"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Hunger → Голод
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/skeleton/left_align/2"
+msgid "- Does not Hunger or Starve"
+msgstr "- Не голодує й не вмирає з голоду"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: HP → ОЗ, MP → ОМ, Regeneration → регенерація
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/skeleton/left_align/3"
+msgid "- HP and MP Regeneration"
+msgstr "- Регенерація ОЗ й ОМ"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/skeleton/left_align/4"
+msgid "    reduced by 75%"
+msgstr "    знижена на 75%"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: MP → ОМ
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/skeleton/left_align/5"
+msgid "- Self-Resurrects for 75MP"
+msgstr "- Самовоскресає за 75 ОМ"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Burning → горіння
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/skeleton/left_align/6"
+msgid "- Immune to Burning"
+msgstr "- Імунітет до горіння"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Strangulation → удушення
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/skeleton/left_align/7"
+msgid "- Immune to Strangulation"
+msgstr "- Імунітет до удушення"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: speed → швидкість, swimming → плавання
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/skeleton/left_align/8"
+msgid "- Swim speed reduced by 50%"
+msgstr "- Плавання повільніше на 50%"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Resistance → опір
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/skeleton/left_align/10"
+msgid "Resistances"
+msgstr "Опір"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Sword → меч
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/skeleton/left_align/11"
+msgid "- Swords"
+msgstr "- Мечам"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Ranged → дальній бій
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/skeleton/left_align/12"
+msgid "- Ranged"
+msgstr "- Дальньому бою"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Axe → сокира
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/skeleton/left_align/13"
+msgid "- Axes"
+msgstr "- Сокирам"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Magic → магія
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/skeleton/left_align/14"
+msgid "- Magic"
+msgstr "- Магії"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/skeleton/left_align/16"
+msgid "Friendly With"
+msgstr "Дружні з"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Automaton → автоматон, Ghoul → упир
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/skeleton/left_align/17"
+msgid "- Ghouls, Automatons"
+msgstr "- Упирі, автоматони"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Weakness → слабкість
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/skeleton/right_align/10"
+msgid "Weaknesses"
+msgstr "Слабкості"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Mace → булава
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/skeleton/right_align/11"
+msgid "- Maces"
+msgstr "- Булави"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Polearm → древкова зброя
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/skeleton/right_align/12"
+msgid "- Polearms"
+msgstr "- Древкова зброя"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: smite → священний удар
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/skeleton/right_align/13"
+msgid "- Smite"
+msgstr "- Священний удар"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Vampire → вампір
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/vampire/title"
+msgid "Vampire"
+msgstr "Вампір"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Spell → Закляття
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/vampire/left_align/1"
+msgid "Innate Spells"
+msgstr "Вроджені закляття"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Levitation → левітація, Bloodletting → кровопускання
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/vampire/left_align/2"
+msgid "- Bloodletting, Levitation"
+msgstr "- Кровопускання, левітація"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/vampire/left_align/3"
+msgid "Traits"
+msgstr "Риси"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: HP → ОЗ, MP → ОМ
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/vampire/left_align/4"
+msgid "- Uses HP when out of MP to"
+msgstr "- Без ОМ витрачає ОЗ на"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Spell → Закляття
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/vampire/left_align/5"
+msgid "    cast and sustain spells"
+msgstr "    застосування й підтримку заклять"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Hunger → Голод
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/vampire/left_align/6"
+msgid "- Can only sustain hunger"
+msgstr "- Втамовує голод лише"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Blood → кров, vial → флакон
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/vampire/left_align/7"
+msgid "    with Blood Vials"
+msgstr "    флаконами крові"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Kills → убивства, Blood → кров, vial → флакон
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/vampire/left_align/8"
+msgid "- Kills may drop Blood Vials"
+msgstr "- З убитих можуть випасти флакони крові"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Bloodletting → кровопускання, Assassination → убивство ударом у спину
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/vampire/left_align/9"
+msgid "- Bloodletting / Assassinate"
+msgstr "- Кровопускання / удар у спину"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Kills → убивства, Blood → кров, vial → флакон
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/vampire/left_align/10"
+msgid "    kills drop Blood Vials"
+msgstr "    дають флакони крові"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Resistance → опір
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/vampire/left_align/12"
+msgid "Resistances"
+msgstr "Опір"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Sword → меч
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/vampire/left_align/13"
+msgid "- Swords"
+msgstr "- Мечам"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Ranged → дальній бій
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/vampire/left_align/14"
+msgid "- Ranged"
+msgstr "- Дальньому бою"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Axe → сокира
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/vampire/left_align/15"
+msgid "- Axes"
+msgstr "- Сокирам"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Magic → магія
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/vampire/left_align/16"
+msgid "- Magic"
+msgstr "- Магії"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/vampire/left_align/18"
+msgid "Friendly With"
+msgstr "Дружні з"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Vampire → вампір, Automaton → автоматон
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/vampire/left_align/19"
+msgid "- Vampires, Automatons"
+msgstr "- Вампіри, автоматони"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Weakness → слабкість
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/vampire/right_align/12"
+msgid "Weaknesses"
+msgstr "Слабкості"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Mace → булава
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/vampire/right_align/13"
+msgid "- Maces"
+msgstr "- Булави"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Polearm → древкова зброя
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/vampire/right_align/14"
+msgid "- Polearms"
+msgstr "- Древкова зброя"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Water → вода
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/vampire/right_align/15"
+msgid "- Water"
+msgstr "- Вода"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: smite → священний удар
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/vampire/right_align/16"
+msgid "- Smite"
+msgstr "- Священний удар"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Succubus → сукуб
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/succubus/title"
+msgid "Succubus"
+msgstr "Сукуб"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Spell → Закляття
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/succubus/left_align/1"
+msgid "Innate Spells"
+msgstr "Вроджені закляття"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: polymorph → перетворення, Teleport → телепортація
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/succubus/left_align/2"
+msgid "- Teleport, Polymorph"
+msgstr "- Телепортація, перетворення"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/succubus/left_align/3"
+msgid "Traits"
+msgstr "Риси"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: equipment → спорядження, cursed → проклятий
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/succubus/left_align/4"
+msgid "- Cursed equipment can be"
+msgstr "- Прокляте спорядження можна"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: bonus → бонус
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/succubus/left_align/5"
+msgid "    removed; gives bonuses"
+msgstr "    зняти; дає бонуси"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: equipment → спорядження, blessed → благословенний
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/succubus/left_align/6"
+msgid "- Blessed equipment is not"
+msgstr "- Благословенне спорядження не"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: bonus → бонус
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/succubus/left_align/7"
+msgid "    removable; gives bonuses"
+msgstr "    знімається; дає бонуси"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: MP → ОМ, Strangulation → удушення
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/succubus/left_align/8"
+msgid "- +MP from Strangulation"
+msgstr "- +ОМ від удушення"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: recruit → найм, Drunk → сп'яніння
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/succubus/left_align/9"
+msgid "- Able to recruit Drunk/"
+msgstr "- Може наймати сп'янілих/"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Human → людина, confused → спантеличений
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/succubus/left_align/10"
+msgid "    Confused Humans"
+msgstr "    Спантеличені люди"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Resistance → опір
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/succubus/left_align/12"
+msgid "Resistances"
+msgstr "Опір"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Magic → магія
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/succubus/left_align/13"
+msgid "- Magic"
+msgstr "- Магія"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Polearm → древкова зброя
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/succubus/left_align/14"
+msgid "- Polearms"
+msgstr "- Древкова зброя"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/succubus/left_align/16"
+msgid "Friendly With"
+msgstr "Дружні істоти"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Succubus → сукуб, Incubus → інкуб
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/succubus/left_align/17"
+msgid "- Succubi, Incubi,"
+msgstr "- Сукуби, інкуби,"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Automaton → автоматон
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/succubus/left_align/18"
+msgid "    Automatons"
+msgstr "    автоматони"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Weakness → слабкість
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/succubus/right_align/12"
+msgid "Weaknesses"
+msgstr "Слабкості"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Sword → меч
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/succubus/right_align/13"
+msgid "- Swords"
+msgstr "- Мечі"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: smite → священний удар
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/succubus/right_align/14"
+msgid "- Smite"
+msgstr "- Священний удар"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Goatman → козолюд
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goatman/title"
+msgid "Goatman"
+msgstr "козолюд"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goatman/left_align/1"
+msgid "Traits"
+msgstr "Риси"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Alcoholism → алкоголізм
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goatman/left_align/2"
+msgid "- Afflicted with Alcoholism,"
+msgstr "- Страждає на алкоголізм,"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: hangover → похмілля
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goatman/left_align/3"
+msgid "    causing Hangovers"
+msgstr "    що спричиняє похмілля"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: STR → СИЛ, Damage → шкода, CON → СТА
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goatman/left_align/4"
+msgid "- +STR/CON/Damage Resist/"
+msgstr "- +СИЛ/СТА/опір шкоді/"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Free Action → вільна дія, Action → дія, Drunk → сп'яніння
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goatman/left_align/5"
+msgid "    Free Action while Drunk"
+msgstr "    вільна дія у сп'янінні"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: recruit → найм, Drunk → сп'яніння
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goatman/left_align/6"
+msgid "- Can recruit fellow Drunks"
+msgstr "- Може наймати інших п'яниць"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: tin → консерва
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goatman/left_align/7"
+msgid "- Eats Tins without an Opener"
+msgstr "- Їсть консерви без відкривачки"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: greasy → засмальцьований, Effect → ефект
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goatman/left_align/8"
+msgid "- Immune to Greasy effect"
+msgstr "- Імунітет до засмальцьованості"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Potion → Зілля, bonus → бонус
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goatman/left_align/9"
+msgid "- May find bonus potions"
+msgstr "- Може знайти додаткові зілля,"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: fountain → фонтан, Interacting → взаємодія
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goatman/left_align/10"
+msgid "    interacting with fountains"
+msgstr "    взаємодіючи з фонтанами"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Resistance → опір
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goatman/left_align/11"
+msgid "Resistances"
+msgstr "Опір"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Sword → меч
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goatman/left_align/12"
+msgid "- Swords"
+msgstr "- Мечі"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goatman/left_align/16"
+msgid "Friendly With"
+msgstr "Дружні істоти"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Goatman → козолюд, Automaton → автоматон
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goatman/left_align/17"
+msgid "- Goatmen, Automatons"
+msgstr "- Козолюди, автоматони"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Weakness → слабкість
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goatman/right_align/11"
+msgid "Weaknesses"
+msgstr "Слабкості"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Polearm → древкова зброя
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goatman/right_align/12"
+msgid "- Polearms"
+msgstr "- Древкова зброя"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Axe → сокира
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goatman/right_align/13"
+msgid "- Axes"
+msgstr "- Сокири"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Ranged → дальній бій
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goatman/right_align/14"
+msgid "- Ranged"
+msgstr "- Дальній бій"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Magic → магія
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goatman/right_align/15"
+msgid "- Magic"
+msgstr "- Магія"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Automaton → автоматон
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/automaton/title"
+msgid "Automaton"
+msgstr "Автоматон"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Spell → Закляття
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/automaton/left_align/1"
+msgid "Innate Spells"
+msgstr "Вроджені закляття"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Salvage → утилізація
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/automaton/left_align/2"
+msgid "- Salvage"
+msgstr "- Утилізація"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/automaton/left_align/3"
+msgid "Traits"
+msgstr "Риси"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: HT → ТЕП, Heat → тепло
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/automaton/left_align/4"
+msgid "- Requires Heat (HT) to"
+msgstr "- Потребує тепла (ТЕП), щоб"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Spell → Закляття
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/automaton/left_align/5"
+msgid "    survive and cast spells"
+msgstr "    виживати й застосовувати закляття"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: HT → ТЕП, Boiler → котел, Regeneration → регенерація
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/automaton/left_align/6"
+msgid "- Regen HT with a hot boiler"
+msgstr "- Відновлює ТЕП гарячим котлом"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Gem → коштовний камінь
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/automaton/left_align/7"
+msgid "    fueled by gems and paper"
+msgstr "    що живиться камінням і папером"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: cursed → проклятий, Item → предмет
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/automaton/left_align/8"
+msgid "- Can remove cursed items"
+msgstr "- Може знімати прокляті предмети"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Burning → горіння
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/automaton/left_align/9"
+msgid "- Immune to Burning"
+msgstr "- Імунітет до горіння"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Tinkering → майстрування
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/automaton/left_align/10"
+msgid "- +20 to Tinkering Repairs"
+msgstr "- +20 до ремонту при майструванні"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Shopkeeper → Крамар
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/automaton/left_align/11"
+msgid "- Welcomed by Shopkeepers"
+msgstr "- Крамарі радо приймають"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Resistance → опір
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/automaton/left_align/12"
+msgid "Resistances"
+msgstr "Опір"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Ranged → дальній бій
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/automaton/left_align/13"
+msgid "- Ranged"
+msgstr "- Дальній бій"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Unarmed → без зброї
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/automaton/left_align/14"
+msgid "- Unarmed"
+msgstr "- Без зброї"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/automaton/left_align/16"
+msgid "Friendly With"
+msgstr "Дружні істоти"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Human → людина, Automaton → автоматон
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/automaton/left_align/17"
+msgid "- Automatons, Humans"
+msgstr "- Автоматони, люди"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Weakness → слабкість
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/automaton/right_align/12"
+msgid "Weaknesses"
+msgstr "Слабкості"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Axe → сокира
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/automaton/right_align/13"
+msgid "- Axes"
+msgstr "- Сокири"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Mace → булава
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/automaton/right_align/14"
+msgid "- Maces"
+msgstr "- Булави"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Magic → магія
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/automaton/right_align/15"
+msgid "- Magic"
+msgstr "- Магія"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Incubus → інкуб
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/incubus/title"
+msgid "Incubus"
+msgstr "Інкуб"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Spell → Закляття
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/incubus/left_align/1"
+msgid "Innate Spells"
+msgstr "Вроджені закляття"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: marked → позначений, Teleport → телепортація, Arcane Mark → магічна мітка
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/incubus/left_align/2"
+msgid "- Teleport, Arcane Mark"
+msgstr "- Телепортація, магічна мітка"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/incubus/left_align/3"
+msgid "Traits"
+msgstr "Риси"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: equipment → спорядження, cursed → проклятий
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/incubus/left_align/4"
+msgid "- Cursed equipment can be"
+msgstr "- Прокляте спорядження можна"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: bonus → бонус
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/incubus/left_align/5"
+msgid "    removed; gives bonuses"
+msgstr "    зняти; дає бонуси"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: equipment → спорядження, blessed → благословенний
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/incubus/left_align/6"
+msgid "- Blessed equipment is not"
+msgstr "- Благословенне спорядження"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: bonus → бонус
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/incubus/left_align/7"
+msgid "    removable; gives bonuses"
+msgstr "    не зняти; дає бонуси"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: MP → ОМ, Strangulation → удушення
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/incubus/left_align/8"
+msgid "- +MP from Strangulation"
+msgstr "- +ОМ від удушення"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Resistance → опір
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/incubus/left_align/10"
+msgid "Resistances"
+msgstr "Опір"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Magic → магія
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/incubus/left_align/11"
+msgid "- Magic"
+msgstr "- Магія"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Polearm → древкова зброя
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/incubus/left_align/12"
+msgid "- Polearms"
+msgstr "- Древкова зброя"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/incubus/left_align/15"
+msgid "Friendly With"
+msgstr "Приязні істоти"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Succubus → сукуб, Incubus → інкуб
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/incubus/left_align/16"
+msgid "- Succubi, Incubi,"
+msgstr "- Сукуби, інкуби,"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Automaton → автоматон
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/incubus/left_align/17"
+msgid "    Automatons"
+msgstr "    автоматони"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Weakness → слабкість
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/incubus/right_align/10"
+msgid "Weaknesses"
+msgstr "Слабкості"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Ranged → дальній бій
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/incubus/right_align/11"
+msgid "- Ranged"
+msgstr "- Дальній бій"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Sword → меч
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/incubus/right_align/12"
+msgid "- Swords"
+msgstr "- Мечі"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: smite → священний удар
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/incubus/right_align/13"
+msgid "- Smite"
+msgstr "- Священний удар"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Goblin → гоблін
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goblin/title"
+msgid "Goblin"
+msgstr "Гоблін"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goblin/left_align/1"
+msgid "Traits"
+msgstr "Риси"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: equipment → спорядження, worn → зношений
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goblin/left_align/2"
+msgid "- Worn Equipment has lower"
+msgstr "- Зношене спорядження має"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goblin/left_align/3"
+msgid "    chance to degrade"
+msgstr "    менший шанс псування"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: weapon → зброя, melee → ближній бій, Any → будь-який, Melee Weapon → зброя ближнього бою
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goblin/left_align/4"
+msgid "- Raising any Melee Weapon"
+msgstr "- Розвиток будь-якої навички"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: skill → навичка
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goblin/left_align/5"
+msgid "    Skill raises all of them"
+msgstr "    ближнього бою розвиває всі"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: weapon → зброя, skill → навичка
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goblin/left_align/6"
+msgid "- Weapon Skills raise slower"
+msgstr "- Навички зброї ростуть повільніше"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Spell → Закляття
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goblin/left_align/7"
+msgid "- Cannot Memorize new spells"
+msgstr "- Не запам'ятовує нових заклять"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Resistance → опір
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goblin/left_align/9"
+msgid "Resistances"
+msgstr "Опір"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Sword → меч
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goblin/left_align/10"
+msgid "- Swords"
+msgstr "- Мечі"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Unarmed → без зброї
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goblin/left_align/11"
+msgid "- Unarmed"
+msgstr "- Без зброї"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goblin/left_align/14"
+msgid "Friendly With"
+msgstr "Приязні істоти"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Automaton → автоматон, Goblin → гоблін
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goblin/left_align/15"
+msgid "- Goblins, Automatons"
+msgstr "- Гобліни, автоматони"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Weakness → слабкість
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goblin/right_align/9"
+msgid "Weaknesses"
+msgstr "Слабкості"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Axe → сокира
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goblin/right_align/10"
+msgid "- Axes"
+msgstr "- Сокири"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Polearm → древкова зброя
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goblin/right_align/11"
+msgid "- Polearms"
+msgstr "- Древкова зброя"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Ranged → дальній бій
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/goblin/right_align/12"
+msgid "- Ranged"
+msgstr "- Дальній бій"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Insectoid → комахолюд
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/insectoid/title"
+msgid "Insectoid"
+msgstr "Комахолюд"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Spell → Закляття
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/insectoid/left_align/1"
+msgid "Innate Spells"
+msgstr "Вроджені закляття"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: acid → кислота, Spray Acid → розпилення кислоти, Flutter → пурхання, Dash → ривок
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/insectoid/left_align/2"
+msgid "- Flutter, Dash, Spray Acid"
+msgstr "- Пурхання, ривок, розпилення кислоти"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/insectoid/left_align/3"
+msgid "Traits"
+msgstr "Риси"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: EN → ЕН
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/insectoid/left_align/4"
+msgid "- Requires Energy (EN) to"
+msgstr "- Потребує енергії (ЕН), щоб"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Spell → Закляття
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/insectoid/left_align/5"
+msgid "    survive and cast spells"
+msgstr "    потрібна енергія (ЕН)"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: EN → ЕН
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/insectoid/left_align/6"
+msgid "- Regain EN by consuming"
+msgstr "- Відновлює ЕН, споживаючи"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Food → їжа
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/insectoid/left_align/7"
+msgid "    food and sweet liquids"
+msgstr "    їжу й солодкі рідини"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: poison → отруєння
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/insectoid/left_align/8"
+msgid "- Immune to Poison"
+msgstr "- Імунітет до отруєння"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: rotten → гнилий, Food → їжа
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/insectoid/left_align/9"
+msgid "- Immune to rotten food"
+msgstr "- Імунітет до гнилої їжі"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Resistance → опір
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/insectoid/left_align/11"
+msgid "Resistances"
+msgstr "Опір"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Mace → булава
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/insectoid/left_align/12"
+msgid "- Maces"
+msgstr "- Булави"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Unarmed → без зброї
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/insectoid/left_align/13"
+msgid "- Unarmed"
+msgstr "- Без зброї"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/insectoid/left_align/15"
+msgid "Friendly With"
+msgstr "Приязні істоти"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Insectoid → комахолюд, Scarab → скарабей
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/insectoid/left_align/16"
+msgid "- Insectoids, Scarabs"
+msgstr "- Комахолюди, скарабеї"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Automaton → автоматон, Scorpion → скорпіон
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/insectoid/left_align/17"
+msgid "    Scorpions, Automatons"
+msgstr "    Скорпіони, автоматони"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Weakness → слабкість
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/insectoid/right_align/11"
+msgid "Weaknesses"
+msgstr "Слабкості"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Axe → сокира
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/insectoid/right_align/12"
+msgid "- Axes"
+msgstr "- Сокири"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Polearm → древкова зброя
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/insectoid/right_align/13"
+msgid "- Polearms"
+msgstr "- Древкова зброя"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Ranged → дальній бій
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/insectoid/right_align/14"
+msgid "- Ranged"
+msgstr "- Дальній бій"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Rat → Щур
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/rat/title"
+msgid "Rat"
+msgstr "Щур"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/rat/left_align/1"
+msgid "Traits"
+msgstr "Риси"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/rat/left_align/2"
+msgid "- Higher chance to gain"
+msgstr "- Вищий шанс отримати"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Level → Рівень, Level Up → підвищення рівня, DEX → СПР, INT → ІНТ
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/rat/left_align/3"
+msgid "    DEX/INT on level up"
+msgstr "    СПР/ІНТ із підвищенням рівня"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: rotten → гнилий, Food → їжа
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/rat/left_align/4"
+msgid "- Immune to rotten food"
+msgstr "- Імунітет до гнилої їжі"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Resistance → опір
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/rat/left_align/6"
+msgid "Resistances"
+msgstr "Опір"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Axe → сокира
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/rat/left_align/7"
+msgid "- Axes"
+msgstr "- Сокири"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Polearm → древкова зброя
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/rat/left_align/8"
+msgid "- Polearms"
+msgstr "- Древкова зброя"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/rat/left_align/14"
+msgid "Friendly With"
+msgstr "Союзники"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Automaton → автоматон, Rat → Щур
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/rat/left_align/15"
+msgid "- Rats, Automatons"
+msgstr "- Щури, автоматони"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Weakness → слабкість
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/rat/right_align/6"
+msgid "Weaknesses"
+msgstr "Слабкості"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Unarmed → без зброї
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/rat/right_align/7"
+msgid "- Unarmed"
+msgstr "- Без зброї"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Ranged → дальній бій
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/rat/right_align/8"
+msgid "- Ranged"
+msgstr "- Дальній бій"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Sword → меч
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/rat/right_align/9"
+msgid "- Swords"
+msgstr "- Мечі"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Mace → булава
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/rat/right_align/10"
+msgid "- Maces"
+msgstr "- Булави"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Spider → Павук
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/spider/title"
+msgid "Spider"
+msgstr "Павук"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/spider/left_align/1"
+msgid "Traits"
+msgstr "Риси"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/spider/left_align/2"
+msgid "- Higher chance to gain"
+msgstr "- Вищий шанс отримати"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Level → Рівень, Level Up → підвищення рівня, CON → СТА, PER → ЧУТ
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/spider/left_align/3"
+msgid "    PER/CON on level up"
+msgstr "    ЧУТ/СТА із підвищенням рівня"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: rotten → гнилий, Food → їжа
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/spider/left_align/4"
+msgid "- Immune to rotten food"
+msgstr "- Імунітет до гнилої їжі"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Resistance → опір
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/spider/left_align/6"
+msgid "Resistances"
+msgstr "Опір"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: None → немає
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/spider/left_align/7"
+msgid "- None"
+msgstr "- Немає"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/spider/left_align/14"
+msgid "Friendly With"
+msgstr "Союзники"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Spider → Павук, Scorpion → скорпіон, Scarab → скарабей
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/spider/left_align/15"
+msgid "- Spiders, Scarabs, Scorpions,"
+msgstr "- Павуки, скарабеї, скорпіони,"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Automaton → автоматон
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/spider/left_align/16"
+msgid "    Automatons"
+msgstr "    Автоматони"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Weakness → слабкість
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/spider/right_align/6"
+msgid "Weaknesses"
+msgstr "Слабкості"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Axe → сокира
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/spider/right_align/7"
+msgid "- Axes"
+msgstr "- Сокири"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Crab → краб
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/crab/title"
+msgid "Crab"
+msgstr "Краб"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/crab/left_align/1"
+msgid "Traits"
+msgstr "Риси"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/crab/left_align/2"
+msgid "- Higher chance to gain"
+msgstr "- Вищий шанс отримати"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Level → Рівень, Level Up → підвищення рівня, CON → СТА, PER → ЧУТ
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/crab/left_align/3"
+msgid "    PER/CON on level up"
+msgstr "    ЧУТ/СТА із підвищенням рівня"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: rotten → гнилий, Food → їжа
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/crab/left_align/4"
+msgid "- Immune to rotten food"
+msgstr "- Імунітет до гнилої їжі"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Resistance → опір
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/crab/left_align/6"
+msgid "Resistances"
+msgstr "Опір"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: None → немає
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/crab/left_align/7"
+msgid "- None"
+msgstr "- Немає"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/crab/left_align/14"
+msgid "Friendly With"
+msgstr "Союзники"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Scorpion → скорпіон, Crab → краб, Scarab → скарабей
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/crab/left_align/15"
+msgid "- Crabs, Scarabs, Scorpions,"
+msgstr "- Краби, скарабеї, скорпіони,"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Automaton → автоматон
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/crab/left_align/16"
+msgid "    Automatons"
+msgstr "    Автоматони"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Weakness → слабкість
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/crab/right_align/6"
+msgid "Weaknesses"
+msgstr "Слабкості"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Axe → сокира
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/crab/right_align/7"
+msgid "- Axes"
+msgstr "- Сокири"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Troll → Троль
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/troll/title"
+msgid "Troll"
+msgstr "Троль"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/troll/left_align/1"
+msgid "Traits"
+msgstr "Риси"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/troll/left_align/2"
+msgid "- Higher chance to gain"
+msgstr "- Вищий шанс отримати"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Level → Рівень, Level Up → підвищення рівня, STR → СИЛ, CON → СТА
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/troll/left_align/3"
+msgid "    STR/CON on level up"
+msgstr "    СИЛ/СТА із підвищенням рівня"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: rotten → гнилий, Food → їжа
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/troll/left_align/4"
+msgid "- Immune to rotten food"
+msgstr "- Імунітет до гнилої їжі"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Resistance → опір
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/troll/left_align/6"
+msgid "Resistances"
+msgstr "Опір"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Mace → булава
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/troll/left_align/7"
+msgid "- Maces"
+msgstr "- Булави"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Polearm → древкова зброя
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/troll/left_align/8"
+msgid "- Polearms"
+msgstr "- Древкова зброя"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Unarmed → без зброї
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/troll/left_align/9"
+msgid "- Unarmed"
+msgstr "- Без зброї"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Ranged → дальній бій
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/troll/left_align/10"
+msgid "- Ranged"
+msgstr "- Дальній бій"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/troll/left_align/12"
+msgid "Friendly With"
+msgstr "Союзники"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Automaton → автоматон, Troll → Троль
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/troll/left_align/13"
+msgid "- Trolls, Automatons"
+msgstr "- Тролі, автоматони"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Weakness → слабкість
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/troll/right_align/6"
+msgid "Weaknesses"
+msgstr "Слабкості"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Sword → меч
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/troll/right_align/7"
+msgid "Swords"
+msgstr "Мечі"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Axe → сокира
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/troll/right_align/8"
+msgid "Axes"
+msgstr "Сокири"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Imp → імп
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/imp/title"
+msgid "Imp"
+msgstr "Імп"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/imp/left_align/1"
+msgid "Traits"
+msgstr "Риси"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/imp/left_align/2"
+msgid "- Higher chance to gain"
+msgstr "- Вищий шанс здобути"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Level → Рівень, Level Up → підвищення рівня, DEX → СПР, INT → ІНТ
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/imp/left_align/3"
+msgid "    INT/DEX on level up"
+msgstr "    ІНТ/СПР із підвищенням рівня"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Levitation → левітація
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/imp/left_align/4"
+msgid "- Levitation"
+msgstr "- Левітація"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: rotten → гнилий, Food → їжа
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/imp/left_align/5"
+msgid "- Immune to rotten food"
+msgstr "- Імунітет до гнилої їжі"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Resistance → опір
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/imp/left_align/7"
+msgid "Resistances"
+msgstr "Опір"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Axe → сокира
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/imp/left_align/8"
+msgid "- Axes"
+msgstr "- Сокири"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/imp/left_align/11"
+msgid "Friendly With"
+msgstr "Дружні з"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Automaton → автоматон, Imp → імп
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/imp/left_align/12"
+msgid "- Imps, Automatons"
+msgstr "- Імпи, автоматони"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Weakness → слабкість
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/imp/right_align/7"
+msgid "Weaknesses"
+msgstr "Слабкості"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Magic → магія
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/imp/right_align/8"
+msgid "- Magic"
+msgstr "- Магія"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Sword → меч
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/imp/right_align/9"
+msgid "- Swords"
+msgstr "- Мечі"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Dryad → дріада
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/dryad/title"
+msgid "Dryad"
+msgstr "Дріада"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Spell → Закляття
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/dryad/left_align/1"
+msgid "Innate Spells"
+msgstr "Вроджені закляття"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Thorns → шипи, Germinate → пророщення
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/dryad/left_align/2"
+msgid "- Germinate, Thorns"
+msgstr "- Пророщення, шипи"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/dryad/left_align/3"
+msgid "Traits"
+msgstr "Риси"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: foliage → рослинність, Level → Рівень, LVL → РІВ
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/dryad/left_align/4"
+msgid "- Grows foliage on LVL up"
+msgstr "- Вирощує рослинність із РІВ"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/dryad/left_align/5"
+msgid "    without headwear,"
+msgstr "    без головного убору,"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: MP → ОМ, PWR → ПОТ, RGN → РЕГ
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/dryad/left_align/6"
+msgid "    provides +PWR, +MP RGN"
+msgstr "    дає +ПОТ, +РЕГ ОМ"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Water → вода, Growth → зростання
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/dryad/left_align/7"
+msgid "- +Growth % from water"
+msgstr "- +Growth % від пиття води;"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Form → форма, buff → підсилення
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/dryad/left_align/8"
+msgid "    consume; short form buffs"
+msgstr "    підсилення короткої форми:"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Evasion → ухилення
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/dryad/left_align/9"
+msgid "    chance % and +5% evasion"
+msgstr "    шанс % і +5% ухилення"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: CHR → ХАР, Growth → зростання
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/dryad/left_align/10"
+msgid "- 20% reduced CHR growth"
+msgstr "- Зростання ХАР на 20% менше"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Shopkeeper → Крамар
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/dryad/left_align/11"
+msgid "- Welcomed by Shopkeepers"
+msgstr "- Крамарі привітні"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Resistance → опір
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/dryad/left_align/13"
+msgid "Resistances"
+msgstr "Опір"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Ranged → дальній бій
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/dryad/left_align/14"
+msgid "- Ranged"
+msgstr "- Дальній бій"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Unarmed → без зброї
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/dryad/left_align/15"
+msgid "- Unarmed"
+msgstr "- Без зброї"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Polearm → древкова зброя
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/dryad/left_align/16"
+msgid "- Polearms"
+msgstr "- Древкова зброя"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/dryad/left_align/18"
+msgid "Friendly With"
+msgstr "Дружні з"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Human → людина, Dryad → дріада
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/dryad/left_align/19"
+msgid "- Dryads; Humans (Neutral)"
+msgstr "- Дріади; люди (нейтральні)"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Weakness → слабкість
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/dryad/right_align/13"
+msgid "Weaknesses"
+msgstr "Слабкості"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Fire → вогонь
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/dryad/right_align/14"
+msgid "- Fire"
+msgstr "- Вогонь"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Axe → сокира
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/dryad/right_align/15"
+msgid "- Axes"
+msgstr "- Сокири"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Sword → меч
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/dryad/right_align/16"
+msgid "- Swords"
+msgstr "- Мечі"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Magic → магія
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/dryad/right_align/17"
+msgid "- Magic"
+msgstr "- Магія"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: myconid → міконід
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/myconid/title"
+msgid "Myconid"
+msgstr "Міконід"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Spell → Закляття
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/myconid/left_align/1"
+msgid "Innate Spells"
+msgstr "Вроджені закляття"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Spores → спори, Germinate → пророщення
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/myconid/left_align/2"
+msgid "- Germinate, Spores"
+msgstr "- Пророщення, спори"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/myconid/left_align/3"
+msgid "Traits"
+msgstr "Риси"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: foliage → рослинність, Level → Рівень, LVL → РІВ
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/myconid/left_align/4"
+msgid "- Grows foliage on LVL up"
+msgstr "- Вирощує рослинність із РІВ"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/myconid/left_align/5"
+msgid "    without headwear,"
+msgstr "    без головного убору,"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: defending → захист
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/myconid/left_align/6"
+msgid "    provides physical defense"
+msgstr "    дає фізичний захист"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: MP → ОМ, Growth → зростання
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/myconid/left_align/7"
+msgid "- +MP and +Growth % from"
+msgstr "- +ОМ і +% зростання від"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: rotten → гнилий, Food → їжа, Form → форма
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/myconid/left_align/8"
+msgid "    rotten food; short form"
+msgstr "    гнилої їжі; підсилення"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: buff → підсилення
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/myconid/left_align/9"
+msgid "    buffs chance %"
+msgstr "    короткої форми: шанс %"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: indigestion → нетравлення
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/myconid/left_align/10"
+msgid "- Immune to indigestion"
+msgstr "- Імунітет до нетравлення"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: DEX → СПР, Growth → зростання
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/myconid/left_align/11"
+msgid "- 20% reduced DEX growth"
+msgstr "- Зростання СПР на 20% менше"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Shopkeeper → Крамар
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/myconid/left_align/12"
+msgid "- Welcomed by Shopkeepers"
+msgstr "- Крамарі привітні"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Resistance → опір
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/myconid/left_align/14"
+msgid "Resistances"
+msgstr "Опір"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Mace → булава
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/myconid/left_align/15"
+msgid "- Maces"
+msgstr "- Булави"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Magic → магія
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/myconid/left_align/16"
+msgid "- Magic"
+msgstr "- Магія"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/myconid/left_align/18"
+msgid "Friendly With"
+msgstr "Дружні з"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Human → людина, myconid → міконід
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/myconid/left_align/19"
+msgid "- Myconids; Humans (Neutral)"
+msgstr "- Міконіди; люди (нейтральні)"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Weakness → слабкість
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/myconid/right_align/13"
+msgid "Weaknesses"
+msgstr "Слабкості"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Sword → меч
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/myconid/right_align/14"
+msgid "- Swords"
+msgstr "- Мечі"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Axe → сокира
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/myconid/right_align/15"
+msgid "- Axes"
+msgstr "- Сокири"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: salamander → саламандра
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/salamander/title"
+msgid "Salamander"
+msgstr "Саламандра"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Spell → Закляття
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/salamander/left_align/1"
+msgid "Innate Spells"
+msgstr "Вроджені закляття"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Fire → вогонь, Breathe Fire → вогняний подих
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/salamander/left_align/2"
+msgid "- Breathe Fire"
+msgstr "- Вогняний подих"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/salamander/left_align/3"
+msgid "Traits"
+msgstr "Риси"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Fervor → запал, FR → ЗАП
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/salamander/left_align/4"
+msgid "- Uses Fervor (FR) to cast"
+msgstr "- Витрачає запал (ЗАП) на"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Spell → Закляття
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/salamander/left_align/5"
+msgid "    spells, regens up to 50%"
+msgstr "    закляття; відновлює до 50%"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: XP → ОД, Fervor → запал, FR → ЗАП
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/salamander/left_align/6"
+msgid "- Gaining XP increases FR"
+msgstr "- Отримання ОД збільшує ЗАП"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Form → форма, Radiant Form → сяйна форма, Radiant → сяйний
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/salamander/left_align/7"
+msgid "- Turns Radiant Form using"
+msgstr "- Переходить у сяйну форму"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Fire → вогонь, Breathe Fire → вогняний подих, Fervor → запал, FR → ЗАП
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/salamander/left_align/8"
+msgid "    Breathe Fire at 75% FR"
+msgstr "    вогняний подих за 75% ЗАП"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Form → форма, stone → камінь, Stone Form → кам'яна форма, Fervor → запал, FR → ЗАП
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/salamander/left_align/9"
+msgid "- Stone Form at 25% FR"
+msgstr "- Кам'яна форма за 25% ЗАП"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Form → форма, CHR → ХАР, buff → підсилення, Fervor → запал, FR → ЗАП
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/salamander/left_align/10"
+msgid "- CHR buffs Forms and FR gain"
+msgstr "- ХАР підсилює форми й приріст ЗАП"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/salamander/left_align/11"
+msgid "- +35% hungrier"
+msgstr "- На 35% голодніша"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Shopkeeper → Крамар
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/salamander/left_align/12"
+msgid "- Welcomed by Shopkeepers"
+msgstr "- Крамарі радо зустрічають"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Resistance → опір
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/salamander/left_align/14"
+msgid "Resistances"
+msgstr "Опір"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Sword → меч
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/salamander/left_align/15"
+msgid "- Swords"
+msgstr "- Мечам"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Unarmed → без зброї
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/salamander/left_align/16"
+msgid "- Unarmed"
+msgstr "- Бою без зброї"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Fire → вогонь
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/salamander/left_align/17"
+msgid "- Fire"
+msgstr "- Вогню"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/salamander/left_align/19"
+msgid "Friendly With"
+msgstr "Дружні:"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: salamander → саламандра
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/salamander/left_align/20"
+msgid "- Salamanders;"
+msgstr "- Саламандри;"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Human → людина
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/salamander/left_align/21"
+msgid "    Humans (Neutral)"
+msgstr "    Люди (нейтральні)"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Weakness → слабкість
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/salamander/right_align/14"
+msgid "Weaknesses"
+msgstr "Слабкості"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Polearm → древкова зброя
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/salamander/right_align/15"
+msgid "- Polearms"
+msgstr "- Древкова зброя"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Ranged → дальній бій
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/salamander/right_align/16"
+msgid "- Ranged"
+msgstr "- Дальній бій"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: gremlin → гремлін
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gremlin/title"
+msgid "Gremlin"
+msgstr "Гремлін"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Spell → Закляття
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gremlin/left_align/1"
+msgid "Innate Spells"
+msgstr "Вроджені закляття"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Deface → спотворення
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gremlin/left_align/2"
+msgid "- Deface"
+msgstr "- Спотворення"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gremlin/left_align/3"
+msgid "Traits"
+msgstr "Риси"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: object → об'єкт
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gremlin/left_align/4"
+msgid "- Adept at breaking objects"
+msgstr "- Майстерно ламає об'єкти"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: MP → ОМ, SPD → ШВД, RGN → РЕГ, DMG → ШКД
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gremlin/left_align/5"
+msgid "    granting SPD, MP RGN, DMG"
+msgstr "    даючи ШВД, РЕГ ОМ, ШКД"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: broken → зламаний
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gremlin/left_align/6"
+msgid "    as more are broken"
+msgstr "    що більше їх зламано"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: slippery → слизький
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gremlin/left_align/7"
+msgid "- Evasive when Slippery"
+msgstr "- Краще ухиляється, коли слизький"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: vision → видіння, Sneak Vision → огляд крадькома
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gremlin/left_align/8"
+msgid "- Improved Sneak Vision"
+msgstr "- Кращий огляд крадькома"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: CON → СТА, Growth → зростання
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gremlin/left_align/9"
+msgid "- 20% reduced CON growth"
+msgstr "- Зростання СТА на 20% менше"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Resistance → опір
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gremlin/left_align/11"
+msgid "Resistances"
+msgstr "Опір"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Polearm → древкова зброя
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gremlin/left_align/12"
+msgid "- Polearms"
+msgstr "- Древковій зброї"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Magic → магія
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gremlin/left_align/13"
+msgid "- Magic"
+msgstr "- Магії"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Ranged → дальній бій
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gremlin/left_align/14"
+msgid "- Ranged"
+msgstr "- Дальньому бою"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Unarmed → без зброї
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gremlin/left_align/15"
+msgid "- Unarmed"
+msgstr "- Бою без зброї"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Mace → булава
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gremlin/left_align/16"
+msgid "- Maces"
+msgstr "- Булавам"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gremlin/left_align/18"
+msgid "Friendly With"
+msgstr "Дружні:"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Goblin → гоблін, gremlin → гремлін
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gremlin/left_align/19"
+msgid "- Gremlins; Goblins (Neutral)"
+msgstr "- Гремліни; гобліни (нейтральні)"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Weakness → слабкість
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gremlin/right_align/11"
+msgid "Weaknesses"
+msgstr "Слабкості"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Sword → меч
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gremlin/right_align/12"
+msgid "- Swords"
+msgstr "- Мечі"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Axe → сокира
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gremlin/right_align/13"
+msgid "- Axes"
+msgstr "- Сокири"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Gnome → гном
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gnome/title"
+msgid "Gnome"
+msgstr "Гном"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Spell → Закляття
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gnome/left_align/1"
+msgid "Innate Spells"
+msgstr "Вроджені закляття"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: jewel → коштовність, Forge Jewel → викувати коштовність
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gnome/left_align/2"
+msgid "- Forge Jewel"
+msgstr "- Ви́кувати коштовність"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gnome/left_align/3"
+msgid "Traits"
+msgstr "Риси"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: gold piece → золота монета, blindness → сліпота
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gnome/left_align/4"
+msgid "- Sense gold (when Blind)"
+msgstr "- Відчуває золото при сліпоті"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: gold piece → золота монета, Container → контейнер
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gnome/left_align/5"
+msgid "- More gold from containers"
+msgstr "- Більше золота з контейнерів"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: MP → ОМ, RGN → РЕГ
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gnome/left_align/6"
+msgid "- Increased MP RGN from"
+msgstr "- Посилена РЕГ ОМ від"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: gold piece → золота монета
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gnome/left_align/7"
+msgid "    hoarding gold"
+msgstr "    накопичення золота"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: pickaxe → кирка, combat → бій
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gnome/left_align/8"
+msgid "- Improved Pickaxe Combat"
+msgstr "- Кращий бій киркою"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: STR → СИЛ, Growth → зростання
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gnome/left_align/9"
+msgid "- 20% reduced STR growth"
+msgstr "- Зростання СИЛ на 20% менше"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: jewel → коштовність, recruit → найм
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gnome/left_align/10"
+msgid "- Recruits with forged jewels"
+msgstr "- Наймає за викуті коштовності"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Shopkeeper → Крамар
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gnome/left_align/11"
+msgid "- Welcomed by Shopkeepers"
+msgstr "- Крамарі радо зустрічають"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Resistance → опір
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gnome/left_align/13"
+msgid "Resistances"
+msgstr "Опір"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Polearm → древкова зброя
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gnome/left_align/14"
+msgid "- Polearms"
+msgstr "- Древковій зброї"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Sword → меч
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gnome/left_align/15"
+msgid "- Swords"
+msgstr "- Мечам"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gnome/left_align/17"
+msgid "Neutral To"
+msgstr "Нейтральні до"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Human → людина, Troll → Троль
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gnome/left_align/18"
+msgid "- Humans, Trolls"
+msgstr "- Люди, тролі"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Weakness → слабкість
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gnome/right_align/13"
+msgid "Weaknesses"
+msgstr "Слабкості"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Magic → магія
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gnome/right_align/14"
+msgid "- Magic"
+msgstr "- Магія"
+
+#. опис раси: left_align/right_align — дві колонки таблиці рис, рядки короткі
+#. сутності: Ranged → дальній бій
+#. тон: technical
+#, fuzzy
+#: data/race_descriptions.json
+msgctxt "descriptions/gnome/right_align/15"
+msgid "- Ranged"
+msgstr "- Дальній бій"

@@ -1,0 +1,1857 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. blank lines are ignored
+#. сутності: snowman → сніговик
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "98"
+msgid "snowman"
+msgstr "сніговик"
+
+#. blank lines are ignored
+#. сутності: elf → ельф
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "103"
+msgid "elf"
+msgstr "ельф"
+
+#. blank lines are ignored
+#. сутності: Santa's helper → помічник Санти
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "110"
+msgid "Santa's helper"
+msgstr "помічник Санти"
+
+#. blank lines are ignored
+#. сутності: snowman → сніговик
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "119"
+msgid "snowmen"
+msgstr "сніговики"
+
+#. blank lines are ignored
+#. сутності: elf → ельф
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "124"
+msgid "elfs"
+msgstr "ельфи"
+
+#. blank lines are ignored
+#. сутності: Santa's helper → помічник Санти
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "131"
+msgid "Santa's helpers"
+msgstr "помічники Санти"
+
+#. blank lines are ignored
+#. сутності: Blitzen → Блискавка
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "158"
+msgid "Blitzen"
+msgstr "Блискавка"
+
+#. blank lines are ignored
+#. сутності: Cupid → Купідон
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "159"
+msgid "Cupid"
+msgstr "Купідон"
+
+#. blank lines are ignored
+#. сутності: Comet → Комета
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "160"
+msgid "Comet"
+msgstr "Комета"
+
+#. blank lines are ignored
+#. сутності: Dasher → Спритник
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "161"
+msgid "Dasher"
+msgstr "Спритник"
+
+#. blank lines are ignored
+#. сутності: Dancer → Танцюрист
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "162"
+msgid "Dancer"
+msgstr "Танцюрист"
+
+#. blank lines are ignored
+#. сутності: Donner → Грім
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "163"
+msgid "Donner"
+msgstr "Грім"
+
+#. blank lines are ignored
+#. сутності: Kringle → Крінґл
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "164"
+msgid "Kringle"
+msgstr "Крінґл"
+
+#. blank lines are ignored
+#. сутності: Father Xmas → Батечко Різдво
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "165"
+msgid "Father Xmas"
+msgstr "Батечко Різдво"
+
+#. blank lines are ignored
+#. сутності: Claus → Клаус
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "166"
+msgid "Claus"
+msgstr "Клаус"
+
+#. blank lines are ignored
+#. сутності: Sanctus → Санктус
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "167"
+msgid "Sanctus"
+msgstr "Санктус"
+
+#. blank lines are ignored
+#. сутності: Papa Noel → Папа Ноель
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "168"
+msgid "Papa Noel"
+msgstr "Папа Ноель"
+
+#. blank lines are ignored
+#. сутності: Drummer → Барабанщик
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "169"
+msgid "Drummer"
+msgstr "Барабанщик"
+
+#. blank lines are ignored
+#. сутності: Niklaus → Ніклаус
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "170"
+msgid "Niklaus"
+msgstr "Ніклаус"
+
+#. blank lines are ignored
+#. сутності: Nicholas → Ніколас
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "171"
+msgid "Nicholas"
+msgstr "Ніколас"
+
+#. blank lines are ignored
+#. сутності: Nicolas → Нікола
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "172"
+msgid "Nicolas"
+msgstr "Нікола"
+
+#. blank lines are ignored
+#. сутності: Prancer → Гарцювальник
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "173"
+msgid "Prancer"
+msgstr "Гарцювальник"
+
+#. blank lines are ignored
+#. сутності: Rudolph → Рудольф
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "174"
+msgid "Rudolph"
+msgstr "Рудольф"
+
+#. blank lines are ignored
+#. сутності: Jack → Джек
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "175"
+msgid "Jack"
+msgstr "Джек"
+
+#. blank lines are ignored
+#. сутності: Santa → Санта
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "176"
+msgid "Santa"
+msgstr "Санта"
+
+#. blank lines are ignored
+#. сутності: St.Nick → Святий Миколай
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "177"
+msgid "St.Nick"
+msgstr "Святий Миколай"
+
+#. blank lines are ignored
+#. сутності: Nicolo → Ніколо
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "178"
+msgid "Nicolo"
+msgstr "Ніколо"
+
+#. blank lines are ignored
+#. сутності: Nikola → Нікола
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "179"
+msgid "Nikola"
+msgstr "Нікола"
+
+#. blank lines are ignored
+#. сутності: Frosty → Фрості
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "180"
+msgid "Frosty"
+msgstr "Фрості"
+
+#. blank lines are ignored
+#. сутності: Scrooge → Скрудж
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "181"
+msgid "Scrooge"
+msgstr "Скрудж"
+
+#. blank lines are ignored
+#. сутності: Ebenezer → Ебенезер
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "182"
+msgid "Ebenezer"
+msgstr "Ебенезер"
+
+#. blank lines are ignored
+#. сутності: Yul → Юл
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "183"
+msgid "Yul"
+msgstr "Юл"
+
+#. blank lines are ignored
+#. тон: excited
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "194"
+msgid "Season's Greetings!"
+msgstr "Святкові вітання!"
+
+#. blank lines are ignored
+#. сутності: Christmas → Різдво
+#. тон: excited, joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "195"
+msgid "Ho ho ho!\nMerry Christmas!"
+msgstr "Хо-хо-хо!\nВеселого Різдва!"
+
+#. blank lines are ignored
+#. тон: excited
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "196"
+msgid "Happy Holidays!"
+msgstr "Щасливих свят!"
+
+#. blank lines are ignored
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "197"
+msgid "Have you been naughty\nthis year?"
+msgstr "Чи були ви нечемні\nцього року?"
+
+#. blank lines are ignored
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "198"
+msgid "Better than a stocking\nfull of coal!"
+msgstr "Краще, ніж панчоха,\nповна вугілля!"
+
+#. blank lines are ignored
+#. тон: command
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "199"
+msgid "Remember to send\na \"Thank You\" note!"
+msgstr "Не забудьте надіслати\nзаписку «Дякую»!"
+
+#. blank lines are ignored
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "200"
+msgid "It is better to give\nthan receive."
+msgstr "Краще дарувати,\nніж отримувати."
+
+#. blank lines are ignored
+#. сутності: Item → предмет
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "201"
+msgid "That item made me\n think of you."
+msgstr "Цей предмет нагадав\nмені про вас."
+
+#. blank lines are ignored
+#. тон: excited
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "202"
+msgid "A fine gift exchange!"
+msgstr "Чудовий обмін подарунками!"
+
+#. blank lines are ignored
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "203"
+msgid "Ho ho ho! No no no."
+msgstr "Хо-хо-хо! Ні-ні-ні."
+
+#. blank lines are ignored
+#. тон: threat, joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "204"
+msgid "You don't want to be\non my naughty list!"
+msgstr "Не схочете потрапити\nдо мого списку нечемних!"
+
+#. blank lines are ignored
+#. сутності: gold piece → золота монета
+#. тон: excited, joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "205"
+msgid "You need a stocking\nfull of gold!"
+msgstr "Вам потрібна панчоха,\nповна золотих монет!"
+
+#. blank lines are ignored
+#. тон: excited
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "206"
+msgid "A generous gift!"
+msgstr "Щедрий подарунок!"
+
+#. blank lines are ignored
+#. тон: excited
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "207"
+msgid "You shouldn't have!"
+msgstr "Не варто було!"
+
+#. blank lines are ignored
+#. тон: excited
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "208"
+msgid "You're too kind!"
+msgstr "Ви надто ласкаві!"
+
+#. blank lines are ignored
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "209"
+msgid "I know a good boy\nwho wants this."
+msgstr "Знаю чемного хлопчика,\nякий цього хоче."
+
+#. blank lines are ignored
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "210"
+msgid "I know a good girl\nwho wants this."
+msgstr "Знаю чемну дівчинку,\nяка цього хоче."
+
+#. blank lines are ignored
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "211"
+msgid "Kids are always\nasking for those."
+msgstr "Діти завжди\nтаке просять."
+
+#. blank lines are ignored
+#. тон: joke, archaic
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "212"
+msgid "'Tis not the season for that."
+msgstr "Нині не пора для такого."
+
+#. blank lines are ignored
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "213"
+msgid "I'd rather some figgy pudding."
+msgstr "Я б ліпше інжирного пудингу."
+
+#. blank lines are ignored
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "214"
+msgid "That's not on my list, sorry."
+msgstr "Цього в моєму списку нема, вибачте."
+
+#. blank lines are ignored
+#. сутності: Christmas → Різдво
+#. тон: solemn
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "216"
+msgid "At Christmas, all\nroads lead home."
+msgstr "На Різдво всі дороги\nведуть додому."
+
+#. blank lines are ignored
+#. сутності: will → воля, Christmas → Різдво
+#. тон: solemn
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "217"
+msgid "Christmas will always be\nas long as we stand heart\nto heart and hand-in-hand."
+msgstr "Різдво житиме завжди,\nдоки ми стоїмо серце\nдо серця, рука в руці."
+
+#. blank lines are ignored
+#. тон: solemn
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "218"
+msgid "A joy shared is a joy\nmade double."
+msgstr "Розділена радість —\nподвійна радість."
+
+#. blank lines are ignored
+#. сутності: Christmas → Різдво
+#. тон: solemn, sad
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "219"
+msgid "Remembrance, like a\ncandle, burns brightest\nat Christmastime."
+msgstr "Пам'ять, наче свічка,\nнайяскравіше горить\nна Різдво."
+
+#. blank lines are ignored
+#. сутності: Christmas → Різдво
+#. тон: solemn
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "220"
+msgid "Christmas is doing a\nlittle extra for someone."
+msgstr "Різдво — це зробити\nдля когось трохи більше."
+
+#. blank lines are ignored
+#. сутності: Christmas → Різдво
+#. тон: solemn
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "221"
+msgid "Christmas is the season\nfor kindling the fire of\nhospitality."
+msgstr "Різдво — пора\nрозпалювати вогонь\nгостинності."
+
+#. blank lines are ignored
+#. тон: excited, solemn
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "222"
+msgid "May your days be\nmerry and bright!"
+msgstr "Хай ваші дні будуть\nвеселі й осяйні!"
+
+#. blank lines are ignored
+#. тон: excited, archaic
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "223"
+msgid "'Tis the season\nof giving!"
+msgstr "Се пора\nдарувати!"
+
+#. blank lines are ignored
+#. сутності: Magic → магія, Christmas → Різдво
+#. тон: solemn
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "224"
+msgid "Christmas waves a magic\nwand over this world,\nand behold, everything is\nsofter and more beautiful."
+msgstr "Різдво змахує чарівною\nпаличкою над світом —\nі все стає ніжнішим\nі прекраснішим."
+
+#. blank lines are ignored
+#. тон: solemn
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "225"
+msgid "It's not how much we\ngive, but how much love\nwe put into giving."
+msgstr "Важить не те, скільки\nми даємо, а скільки любові\nвкладаємо в дарування."
+
+#. blank lines are ignored
+#. сутності: Time → час
+#. тон: excited
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "226"
+msgid "It's the most\nwonderful time\nof the year!"
+msgstr "Це найчудовіша\nпора\nроку!"
+
+#. blank lines are ignored
+#. сутності: Christmas → Різдво
+#. тон: solemn
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "227"
+msgid "Christmas isn't just a\nday, it's a frame of mind."
+msgstr "Різдво — не просто день,\nце стан душі."
+
+#. blank lines are ignored
+#. сутності: Christmas → Різдво
+#. тон: solemn
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "228"
+msgid "Christmas is a season\nnot only of rejoicing,\nbut of reflection."
+msgstr "Різдво — пора\nне лише радості,\nа й роздумів."
+
+#. blank lines are ignored
+#. сутності: Christmas → Різдво
+#. тон: solemn, sad
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "229"
+msgid "The world has grown\nweary through the years,\nbut at Christmas\nit is young."
+msgstr "Світ стомився\nза довгі роки,\nта на Різдво\nвін знову молодий."
+
+#. blank lines are ignored
+#. сутності: will → воля, Christmas → Різдво
+#. тон: solemn
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "230"
+msgid "He who has not Christmas\nin his heart will never\nfind it under a tree."
+msgstr "Хто не носить Різдва\nу серці, той ніколи\nне знайде його під ялинкою."
+
+#. blank lines are ignored
+#. сутності: Magic → магія
+#. тон: solemn
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "231"
+msgid "The joy of brightening\nother lives becomes for\nus the magic of the\nholidays."
+msgstr "Радість, яку ми даруємо\nіншим, стає для нас\nмагією\nсвят."
+
+#. blank lines are ignored
+#. сутності: Life → життя
+#. тон: joke, solemn
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "232"
+msgid "I should write a philosophy\nof toys, showing that\nnothing else in life need\nto be taken seriously."
+msgstr "Мені слід написати філософію\nіграшок і довести, що\nніщо інше в житті не варто\nсприймати серйозно."
+
+#. blank lines are ignored
+#. сутності: Christmas → Різдво
+#. тон: solemn
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "233"
+msgid "Perhaps the best Yuletide\ndecoration is being\nwreathed in smiles."
+msgstr "Можливо, найкраща різдвяна\nприкраса — бути\nоповитим усмішками."
+
+#. blank lines are ignored
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "234"
+msgid "Baby it's cold outside."
+msgstr "Крихітко, надворі холодно."
+
+#. blank lines are ignored
+#. тон: excited, archaic
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "235"
+msgid "'Tis the season to be jolly!"
+msgstr "Се пора веселитися!"
+
+#. blank lines are ignored
+#. сутності: torch → смолоскип
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "255"
+msgid "You see a decorated torch."
+msgstr "Ви бачите прикрашений смолоскип."
+
+#. blank lines are ignored
+#. сутності: fountain → фонтан
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "262"
+msgid "You see a decorated fountain."
+msgstr "Ви бачите прикрашений фонтан."
+
+#. blank lines are ignored
+#. сутності: box → ящик
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "266"
+msgid "You see a gift box."
+msgstr "Ви бачите подарунковий ящик."
+
+#. blank lines are ignored
+#. сутності: portcullis → підйомна решітка
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "267"
+msgid "You see an decorated portcullis."
+msgstr "Ви бачите прикрашену підйомну решітку."
+
+#. blank lines are ignored
+#. сутності: giant snowball → велетенська снігова куля
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "270"
+msgid "You see a giant snowball."
+msgstr "Ви бачите велетенську снігову кулю."
+
+#. blank lines are ignored
+#. сутності: Christmas → Різдво, Christmas tree → різдвяна ялинка
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "271"
+msgid "You see a Christmas tree."
+msgstr "Ви бачите різдвяну ялинку."
+
+#. blank lines are ignored
+#. сутності: box → ящик
+#. тон: technical
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "373"
+msgid "Gift Box Inventory"
+msgstr "Інвентар подарункового ящика"
+
+#. blank lines are ignored
+#. сутності: box → ящик
+#. тон: technical
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "374"
+msgid "Took %s from the gift box."
+msgstr "Ви взяли %s з подарункового ящика."
+
+#. blank lines are ignored
+#. сутності: Spell → Закляття, box → ящик, lock → замок
+#. тон: technical
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "400"
+msgid "The spell locks the gift box!"
+msgstr "Закляття замикає подарунковий ящик!"
+
+#. blank lines are ignored
+#. сутності: Spell → Закляття, box → ящик, lock → замок
+#. тон: technical
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "404"
+msgid "The spell unlocks the gift box!"
+msgstr "Закляття відмикає подарунковий ящик!"
+
+#. blank lines are ignored
+#. сутності: Spell → Закляття, giant snowball → велетенська снігова куля
+#. тон: technical
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "405"
+msgid "Your spell destroys the giant snowball!"
+msgstr "Ваше закляття знищує велетенську снігову кулю!"
+
+#. blank lines are ignored
+#. сутності: giant snowball → велетенська снігова куля
+#. тон: technical
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "455"
+msgid "You are struck by a giant snowball!"
+msgstr "У вас влучила велетенська снігова куля!"
+
+#. blank lines are ignored
+#. сутності: Strength → сила, giant snowball → велетенська снігова куля
+#. тон: technical
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "456"
+msgid "You lack the might to move the giant snowball."
+msgstr "Вам бракує сили, щоб зрушити велетенську снігову кулю."
+
+#. blank lines are ignored
+#. сутності: box → ящик
+#. тон: technical
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "459"
+msgid "The gift box swings open!"
+msgstr "Подарунковий ящик розчиняється!"
+
+#. blank lines are ignored
+#. сутності: box → ящик
+#. тон: technical
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "460"
+msgid "You seal the gift box shut!"
+msgstr "Ви щільно закриваєте подарунковий ящик!"
+
+#. blank lines are ignored
+#. сутності: box → ящик
+#. тон: technical
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "461"
+msgid "Somebody closed the gift box!"
+msgstr "Хтось закрив подарунковий ящик!"
+
+#. blank lines are ignored
+#. сутності: box → ящик
+#. тон: technical
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "462"
+msgid "The gift box is locked!"
+msgstr "Подарунковий ящик замкнений!"
+
+#. blank lines are ignored
+#. сутності: box → ящик
+#. тон: technical
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "463"
+msgid "You put the %s into the gift box."
+msgstr "Ви поклали %s у подарунковий ящик."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Christmas tree → різдвяна ялинка
+#. тон: solemn
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "485"
+msgid "There's a card in the tree:\n  \"I believe... I believe...\n  it's silly, but I believe.\""
+msgstr "На різдвяній ялинці листівка:\n  «Я вірю... Я вірю...\n  Хай це смішно, та я вірю»."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Christmas → Різдво, Christmas tree → різдвяна ялинка
+#. тон: solemn
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "486"
+msgid "There's a card in the tree:\n  \"A good conscience is a\n  continual Christmas.\""
+msgstr "На різдвяній ялинці листівка:\n  «Чисте сумління — це\n  безперервне Різдво»."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Basic → базовий, Time → час, Christmas → Різдво, Christmas tree → різдвяна ялинка
+#. тон: solemn
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "487"
+msgid "There's a card in the tree:\n  \"Gifts of time and love are\n  surely the the basic ingredients\n  of a truly merry Christmas\""
+msgstr "На різдвяній ялинці листівка:\n  «Час і любов — безперечно,\n  базові складники\n  справді веселого Різдва»."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Christmas → Різдво, Christmas tree → різдвяна ялинка
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "488"
+msgid "There's a card in the tree:\n  \"A Christmas miracle is when\n  your family doesn't get into\n  a single argument all day.\""
+msgstr "На різдвяній ялинці листівка:\n  «Різдвяне диво — це коли\n  ваша родина за цілий день\n  жодного разу не посварилась»."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Christmas → Різдво, Christmas tree → різдвяна ялинка
+#. тон: solemn
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "489"
+msgid "There's a card in the tree:\n  \"What if Christmas didn't\n  come from a store. What if\n  it means a little bit more?\""
+msgstr "На різдвяній ялинці листівка:\n  «А що, як Різдво не\n  купують у крамниці? Може,\n  воно означає щось більше?»"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Christmas → Різдво, Christmas tree → різдвяна ялинка
+#. тон: solemn
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "490"
+msgid "There's a card in the tree:\n  \"At Christmas, you\n  tell the truth\""
+msgstr "На різдвяній ялинці листівка:\n  «На Різдво ви\n  кажете правду»."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: multiplayer → багатокористувацька гра, Christmas tree → різдвяна ялинка
+#. тон: solemn
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "491"
+msgid "There's a card in the tree:\n  \"No man is a failure\n  who has friends.\""
+msgstr "На різдвяній ялинці листівка:\n  «Хто має друзів,\n  той не невдаха»."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Christmas → Різдво, Christmas tree → різдвяна ялинка
+#. тон: sad, solemn
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "492"
+msgid "There's a card in the tree:\n  \"No one should be alone\n  on Christmas.\""
+msgstr "На різдвяній ялинці листівка:\n  «На Різдво ніхто\n  не має бути сам»."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Christmas → Різдво, Christmas tree → різдвяна ялинка
+#. тон: joke, solemn
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "493"
+msgid "There's a card in the tree:\n  \"Christmas is compulsory, like\n  a thunderstorm, and we all\n  go through it together.\""
+msgstr "На різдвяній ялинці листівка:\n  «Різдво неминуче, мов\n  гроза, і всі ми\n  переживаємо його разом»."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Christmas tree → різдвяна ялинка
+#. тон: solemn
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "494"
+msgid "There's a card in the tree:\n  \"There has to be at least one\n  day of the year to remind us\n  that we're here for something\n  else besides ourselves.\""
+msgstr "На різдвяній ялинці листівка:\n  «Має бути хоч один\n  день на рік, що нагадує:\n  ми тут не лише\n  заради себе»."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: blessing → благословення, Christmas tree → різдвяна ялинка
+#. тон: solemn
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "495"
+msgid "There's a card in the tree:\n  \"Reflect upon your present\n  blessings -- of which every man\n  has many -- not on your past\n  misfortunes, of which all\n  men have some.\""
+msgstr "На різдвяній ялинці листівка:\n  «Згадайте нинішні\n  благословення — їх у кожного\n  багато, — а не минулі\n  нещастя, що трапляються\n  з усіма»."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Frosty → Фрості, Christmas tree → різдвяна ялинка
+#. тон: excited
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "496"
+msgid "There's a card in the tree:\n  \"Thumpity thump thump,\n  thumpity thump thump,\n  look at Frosty go!\""
+msgstr "На різдвяній ялинці листівка:\n  «Тупотить: туп-туп,\n  тупотить: туп-туп —\n  гляньте, мчить Фрості!»"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Christmas tree → різдвяна ялинка, Mistletoe → омела, Nargle → нарґл
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "497"
+msgid "There's a card in the tree:\n  \"Mistletoe. It's often\n  infested with nargles.\""
+msgstr "На різдвяній ялинці листівка:\n  «Омела. У ній часто\n  заводяться нарґли»."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Santa → Санта, Christmas tree → різдвяна ялинка
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "498"
+msgid "There's a card in the tree:\n  \"The main reason Santa is so\n  jolly is because he knows where\n  all the bad girls live.\""
+msgstr "На різдвяній ялинці листівка:\n  «Санта такий веселий\n  головно тому, що знає, де\n  живуть усі погані дівчата»."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Christmas tree → різдвяна ялинка, Sleigh → сани
+#. тон: excited
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "499"
+msgid "There's a card in the tree:\n  \"It's lovely weather\n  for a sleigh ride\n  together with you.\""
+msgstr "На різдвяній ялинці листівка:\n  «Чудова нині днина,\n  щоб разом нам із вами\n  на санях покататись»."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: silver → срібло, Christmas tree → різдвяна ялинка
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "500"
+msgid "There's a card in the tree:\n  \"Sweet silver bells,\n  all seem to say,\n  ding-dong, m'kay.\""
+msgstr "На різдвяній ялинці листівка:\n  «Срібні дзвоники дзвенять,\n  ніби хочуть проказать:\n  дзень-дзелень, усе гаразд»."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Christmas tree → різдвяна ялинка
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "501"
+msgid "There's a card in the tree:\n  \"He loves me, I love you.\n  Therefore, vicariously,\n  he loves you.\""
+msgstr "На різдвяній ялинці листівка:\n  «Він любить мене, я — вас.\n  Отже, опосередковано,\n  він любить і вас»."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: snowman → сніговик, Christmas tree → різдвяна ялинка
+#. тон: excited
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "502"
+msgid "A snowman emerges from the tree!"
+msgstr "З різдвяної ялинки постає сніговик!"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Unidentified → нерозпізнаний, Gem → коштовний камінь, Santa's helper → помічник Санти, Santa → Санта
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "540"
+msgid "\"Did you know?\"\n\"Santa's helpers pay nothing for unidentified gems.\"\n\"It's true!\""
+msgstr "«Чи знали ви?»\n«Помічники Санти не платять за нерозпізнані коштовні камені».\n«Це правда!»"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Troll → Троль, multiplayer → багатокористувацька гра, elf → ельф
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "563"
+msgid "\"Did you know?\"\n\"Elfs and trolls are best friends.\"\n\"It's true!\""
+msgstr "«Чи знали ви?»\n«Ельфи й тролі — найкращі друзі».\n«Це правда!»"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Magic → магія, Santa → Санта
+#. тон: excited, joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "564"
+msgid "\"Did you know?\"\n\"Santa really IS a magical genius!\"\n\"It's true!\""
+msgstr "«Чи знали ви?»\n«Санта таки СПРАВДІ геній магії!»\n«Це правда!»"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: broken → зламаний, Item → предмет, box → ящик
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "568"
+msgid "\"Did you know?\"\n\"Broken gift boxes don't yield many items.\"\n\"It's true!\""
+msgstr "«Чи знали ви?»\n«Зі зламаних подарункових ящиків випадає мало предметів».\n«Це правда!»"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: giant snowball → велетенська снігова куля
+#. тон: excited
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "663"
+msgid "You destroy the giant snowball!"
+msgstr "Ви знищуєте велетенську снігову кулю!"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: box → ящик
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "667"
+msgid "You hit the gift box!"
+msgstr "Ви б'єте подарунковий ящик!"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: box → ящик
+#. тон: excited
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "671"
+msgid "The gift box is smashed into pieces!"
+msgstr "Подарунковий ящик розлітається на друзки!"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: box → ящик
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "675"
+msgid "gift box"
+msgstr "подарунковий ящик"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: giant snowball → велетенська снігова куля
+#. тон: fear
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "716"
+msgid "You hear the faint crunch of giant snowballs."
+msgstr "Ви чуєте тихий хрускіт велетенських снігових куль."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: last year's → торішній
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "1003"
+msgid "last year's %+2d "
+msgstr "торішній %+2d "
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: leftover → залишковий
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "1004"
+msgid "a leftover %+2d "
+msgstr "залишковий %+2d "
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: re-gifted → передарований
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "1005"
+msgid "a re-gifted %+2d "
+msgstr "передарований %+2d "
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: last year's → торішній
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "1029"
+msgid "%d last year's %+2d "
+msgstr "%d торішніх %+2d "
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: leftover → залишковий
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "1030"
+msgid "%d leftover %+2d "
+msgstr "%d залишкових %+2d "
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: re-gifted → передарований
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "1031"
+msgid "%d re-gifted %+2d "
+msgstr "%d передарованих %+2d "
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: last year's → торішній
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "1055"
+msgid "last year's "
+msgstr "торішній "
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: leftover → залишковий
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "1056"
+msgid "a leftover "
+msgstr "залишковий "
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: re-gifted → передарований
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "1057"
+msgid "a re-gifted "
+msgstr "передарований "
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: last year's → торішній
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "1081"
+msgid "%d last year's "
+msgstr "%d торішніх "
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: leftover → залишковий
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "1082"
+msgid "%d leftover "
+msgstr "%d залишкових "
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: re-gifted → передарований
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "1083"
+msgid "%d re-gifted "
+msgstr "%d передарованих "
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: box → ящик
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "1097"
+msgid "You unlock the gift box."
+msgstr "Ви відмикаєте подарунковий ящик."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: box → ящик, lock → замок
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "1098"
+msgid "You lock the gift box."
+msgstr "Ви замикаєте подарунковий ящик."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: box → ящик
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "1102"
+msgid "You failed to unlock the gift box."
+msgstr "Вам не вдається відімкнути подарунковий ящик."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: box → ящик
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "1105"
+msgid "This gift box is already unlocked."
+msgstr "Цей подарунковий ящик уже відімкнений."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: giant snowball → велетенська снігова куля
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "1505"
+msgid "fails to dodge the incoming giant snowball."
+msgstr "не вдається ухилитися від велетенської снігової кулі."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: elf → ельф, Naughty List → список нечемних
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "1521"
+msgid "gets scratched off the naughty list by an elf."
+msgstr "вибуває зі списку нечемних завдяки ельфу."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Santa → Санта, Naughty List → список нечемних
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "1527"
+msgid "gets added to Santa's naughty list."
+msgstr "потрапляє до списку нечемних Санти."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: box → ящик
+#. тон: command
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "1969"
+msgid "Grab All From Gift Box"
+msgstr "Забрати все з подарункового ящика"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: pedestal → п'єдестал, Holiday Theme → Святкова тема, Holiday Element → святковий елемент
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "2366"
+msgid "The pedestal seems to require some sort of holiday element."
+msgstr "Схоже, п'єдесталу потрібен якийсь святковий елемент."
+
+#. епітафії на надгробках, часто іронічні
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "2367"
+msgid "The element defies your grasp and is unable to be retrieved!"
+msgstr "Елемент вислизає з ваших рук — його не забрати!"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Holiday Theme → Святкова тема, Holiday Element → святковий елемент, Receptacle → вмістилище
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "2368"
+msgid "You place the holiday element in the receptacle..."
+msgstr "Ви кладете святковий елемент у вмістилище..."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Holiday Theme → Святкова тема, Holiday Element → святковий елемент
+#. тон: excited
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "2370"
+msgid "The holiday element starts floating!"
+msgstr "Святковий елемент здіймається в повітря!"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: pedestal → п'єдестал, Holiday Theme → Святкова тема, Holiday Element → святковий елемент
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "2377"
+msgid "You see a holiday element sitting atop a pedestal."
+msgstr "Ви бачите святковий елемент на п'єдесталі."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Spell → Закляття, box → ящик
+#. тон: excited
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "2520"
+msgid "Your spell destroys the gift box!"
+msgstr "Ваше закляття знищує подарунковий ящик!"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Baron Herx → Барон Геркс, Dungeon → Підземелля, Santa's helper → помічник Санти, Santa → Санта
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "2712"
+msgid "The %s\n Santa's Helpers are tougher after surviving the Baron's dungeon."
+msgstr "%s\nПомічники Санти загартувалися, переживши підземелля Барона."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: pedestal → п'єдестал, Ornament → прикраса
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "2821"
+msgid "The %s\n I sensed power from the ornament when you put it on that pedestal."
+msgstr "%s\n Я відчув силу прикраси, коли ви поклали її на цей п'єдестал."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Trap → пастка, Herx → Геркс, Ornament → прикраса
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "2823"
+msgid "The %s\n I was able to trap some of the power that Herx's ornament released."
+msgstr "%s\n Мені вдалося вловити частину сили, вивільненої прикрасою Геркса."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: portal → портал, Caves → Печери, Ornament → прикраса
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "2824"
+msgid "The %s\n This portal pierces the seal to the Caves using the power of the ornament."
+msgstr "%s\n Цей портал пробиває печать Печер силою прикраси."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Herx → Геркс, artifact → артефакт, Holiday Theme → Святкова тема, Holiday Element → святковий елемент
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "2834"
+msgid "%s\n I'm only interested in the rarest of\n artifacts in the land.              \n In particular, the holiday elements that were stolen by Herx."
+msgstr "%s\n Мене цікавлять лише найрідкісніші\n артефакти цих земель.              \n Особливо святкові елементи, викрадені Герксом."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Guild → гільдія, Magician → маг, Holiday Theme → Святкова тема, Holiday Element → святковий елемент
+#. тон: joke, rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "2836"
+msgid "%s\n You see, a high ranking guild member\n such as myself can extort those mages \n for every penny they own with their \n precious holiday elements!"
+msgstr "%s\n Бачте, такий поважний член гільдії,\n як я, може обібрати тих магів до нитки\n завдяки їхнім дорогоцінним\n святковим елементам!"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: last year's → торішній
+#. тон: excited, joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "3088"
+msgid "That one was from last year!"
+msgstr "Цей ще торішній!"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: box → ящик
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "3099"
+msgid "gift box"
+msgstr "подарунковий ящик"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Naughty List → список нечемних
+#. тон: threat, joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "3243"
+msgid "You're on my naughty list, %s %s!"
+msgstr "Ви в моєму списку нечемних, %s %s!"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Naughty List → список нечемних
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "3244"
+msgid "discovers all %s are on %s's naughty list."
+msgstr "дізнається: усі %s — у списку нечемних від %s."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: box → ящик, lock → замок, door → двері
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "3317"
+msgid "Locks doors and gift boxes"
+msgstr "Замикає двері й подарункові ящики"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: box → ящик
+#. тон: excited
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "3897"
+msgid "You spot a hidden compartment inside the gift box!"
+msgstr "Ви помічаєте потайний відсік у подарунковому ящику!"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: giant snowball → велетенська снігова куля
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "3974"
+msgid "The giant snowball cannot be moved that way."
+msgstr "Так велетенську снігову кулю не пересунути."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: box → ящик
+#. тон: command
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4004"
+msgid "Close gift box"
+msgstr "Закрийте подарунковий ящик"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: box → ящик
+#. тон: command
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4005"
+msgid "Open gift box"
+msgstr "Відкрийте подарунковий ящик"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Christmas → Різдво, Christmas tree → різдвяна ялинка
+#. тон: command
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4010"
+msgid "Inspect Christmas tree"
+msgstr "Огляньте різдвяну ялинку"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Snowball → снігова куля
+#. тон: command
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4021"
+msgid "Push snowball"
+msgstr "Штовхніть снігову кулю"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Holiday Theme → Святкова тема, Holiday Element → святковий елемент
+#. тон: command
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4022"
+msgid "Take holiday element"
+msgstr "Візьміть святковий елемент"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: gold piece → золота монета, box → ящик
+#. тон: excited
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4088"
+msgid "You found %d gold pieces in the gift box!"
+msgstr "У подарунковому ящику ви знайшли %d золотих монет!"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: box → ящик
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4098"
+msgid "There is no room left in the gift box for a\n %s!"
+msgstr "У подарунковому ящику немає місця для\n %s!"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: Item → предмет, box → ящик
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4099"
+msgid "Took %d items from the gift box."
+msgstr "Ви взяли %d предметів із подарункового ящика."
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: gold piece → золота монета, Holiday Element → святковий елемент
+#. тон: command
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4126"
+msgid "Hand the element to me directly.\nThere is no need to involve\nformalities of gold, now!"
+msgstr "Передайте елемент просто мені.\nНемає потреби в золотих\nформальностях!"
+
+#. епітафії на надгробках, часто іронічні
+#. сутності: box → ящик
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4197"
+msgid "You put %d %s into the gift box."
+msgstr "Ви поклали %d %s у подарунковий ящик."
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4217"
+msgid "naughty"
+msgstr "неслухняний"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4218"
+msgid "not-nice"
+msgstr "нечемний"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4219"
+msgid "disobedient"
+msgstr "непокірний"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4220"
+msgid "greedy"
+msgstr "жадібний"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4221"
+msgid "unkind"
+msgstr "недобрий"
+
+#. NPC insults
+#. тон: rude, joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4222"
+msgid "meanie"
+msgstr "злюка"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4223"
+msgid "rude"
+msgstr "грубіян"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4224"
+msgid "messy"
+msgstr "нечупара"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4225"
+msgid "irresponsible"
+msgstr "безвідповідальний"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4226"
+msgid "back-talking"
+msgstr "зухвалий"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4227"
+msgid "wasteful"
+msgstr "марнотратний"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4228"
+msgid "selfish"
+msgstr "егоїст"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4229"
+msgid "lying"
+msgstr "брехун"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4230"
+msgid "thieving"
+msgstr "злодій"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4231"
+msgid "unrepentant"
+msgstr "нерозкаяний"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4232"
+msgid "troublemaking"
+msgstr "баламут"
+
+#. NPC insults
+#. тон: rude, joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4233"
+msgid "taddle-tale"
+msgstr "ябеда"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4234"
+msgid "Naughty"
+msgstr "Неслухняний"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4235"
+msgid "Not-nice"
+msgstr "Нечемний"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4236"
+msgid "Disobedient"
+msgstr "Непокірний"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4237"
+msgid "Greedy"
+msgstr "Жадібний"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4238"
+msgid "Unkind"
+msgstr "Недобрий"
+
+#. NPC insults
+#. тон: rude, joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4239"
+msgid "Meanie"
+msgstr "Злюка"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4240"
+msgid "Rude"
+msgstr "Грубіян"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4241"
+msgid "Messy"
+msgstr "Нечупара"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4242"
+msgid "Irresponsible"
+msgstr "Безвідповідальний"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4243"
+msgid "Back-talking"
+msgstr "Зухвалий"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4244"
+msgid "Wasteful"
+msgstr "Марнотратний"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4245"
+msgid "Selfish"
+msgstr "Егоїст"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4246"
+msgid "Lying"
+msgstr "Брехун"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4247"
+msgid "Thieving"
+msgstr "Злодій"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4248"
+msgid "Unrepentant"
+msgstr "Нерозкаяний"
+
+#. NPC insults
+#. тон: rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4249"
+msgid "Troublemaking"
+msgstr "Баламут"
+
+#. NPC insults
+#. тон: rude, joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4250"
+msgid "Taddle-tale"
+msgstr "Ябеда"
+
+#. shop try to buy hidden item
+#. сутності: Extra-Nice List → список найчемніших
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4252"
+msgid "Sorry, those are for\n Extra-Nice kids."
+msgstr "Вибачте, це лише для\n найчемніших дітей."
+
+#. shop try to buy hidden item
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4253"
+msgid "Oh no, that's for\n another child."
+msgstr "О ні, це для\n іншої дитини."
+
+#. shop try to buy hidden item
+#. тон: sarcasm, joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4254"
+msgid "Maybe if you're\n nicer next year!"
+msgstr "Може, наступного року\n будете чемніші!"
+
+#. shop buy added consumables
+#. сутності: Extra-Nice List → список найчемніших
+#. тон: excited
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4255"
+msgid "You're on my\n Extra-Nice list!"
+msgstr "Ви в моєму списку\n найчемніших!"
+
+#. shop buy added consumables
+#. тон: excited
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4256"
+msgid "That one is addressed\n to you!"
+msgstr "Цей подарунок\n адресовано вам!"
+
+#. shop buy added consumables
+#. сутності: Steam Workshop → Майстерня Steam
+#. тон: excited
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4257"
+msgid "Made special for you\n in my workshop."
+msgstr "Зроблено для вас\n у моїй майстерні."
+
+#. shop buy added consumables
+#. сутності: sack → мішок
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4258"
+msgid "From my sack's\n secret pouches!"
+msgstr "З таємних кишень\n мого мішка!"
+
+#. shop buy added consumables
+#. сутності: Sleigh → сани
+#. тон: joke
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4259"
+msgid "I keep a few of those in\nmy sleigh, just in case."
+msgstr "Я тримаю кілька таких\nу санях про всяк випадок."
+
+#. shop buy added consumables
+#. сутності: enemy → ворог, Santa's helper → помічник Санти, Santa → Санта
+#. тон: technical
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4304"
+msgid "You are no longer an enemy of Santa's Helpers."
+msgstr "Ви більше не ворог помічників Санти."
+
+#. shop buy added consumables
+#. сутності: enemy → ворог, Santa's helper → помічник Санти, Santa → Санта
+#. тон: technical
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4305"
+msgid "You are now deemed an enemy of Santa's Helpers\nfor inciting violence!"
+msgstr "Вас визнано ворогом помічників Санти\nза підбурювання до насильства!"
+
+#. shop buy added consumables
+#. сутності: enemy → ворог, Santa's helper → помічник Санти, Santa → Санта
+#. тон: technical
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4306"
+msgid "You are now deemed an enemy of Santa's Helpers\nfor accessory to violence!"
+msgstr "Вас визнано ворогом помічників Санти\nза співучасть у насильстві!"
+
+#. shop buy added consumables
+#. сутності: Trap → пастка, Snowball → снігова куля, Snowball Trap → пастка зі сніжкою
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4349"
+msgid "snowball trap"
+msgstr "пастка зі сніжкою"
+
+#. shop buy added consumables
+#. сутності: Christmas → Різдво, Christmas tree → різдвяна ялинка
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4357"
+msgid "christmas tree"
+msgstr "різдвяна ялинка"
+
+#. shop buy added consumables
+#. сутності: giant snowball → велетенська снігова куля, Snowball → снігова куля
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "4358"
+msgid "giant snowball"
+msgstr "велетенська снігова куля"
+
+#. shop buy added consumables
+#. сутності: Item → предмет, NPC → неігровий персонаж, Christmas → Різдво, Christmas tree → різдвяна ялинка
+#. тон: technical
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "5120"
+msgid "Control size of in-world popups for items, christmas trees and NPC dialogue."
+msgstr "Налаштувати розмір екранних повідомлень про предмети, різдвяні ялинки й репліки неігрових персонажів."
+
+#. shop buy added consumables
+#. сутності: Item → предмет, NPC → неігровий персонаж, Christmas → Різдво, Christmas tree → різдвяна ялинка
+#. тон: technical
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "5122"
+msgid "Control size of in-world popups for items, christmas trees and NPC dialogue in splitscreen."
+msgstr "Налаштувати розмір екранних повідомлень про предмети, різдвяні ялинки й репліки неігрових персонажів у режимі розділеного екрана."
+
+#. shop buy added consumables
+#. сутності: elf → ельф
+#. тон: sarcasm, rude
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "5715"
+msgid "The elfs are laughing at you!\nAre you really gonna take that?"
+msgstr "Ельфи з вас регочуть!\nВи це так і стерпите?"
+
+#. shop buy added consumables
+#. сутності: giant snowball → велетенська снігова куля, Snowball → снігова куля
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "5805"
+msgid "Giant Snowball"
+msgstr "Велетенська снігова куля"
+
+#. shop buy added consumables
+#. сутності: box → ящик
+#, fuzzy
+#: themes/merry/lang/en.txt
+msgctxt "5959"
+msgid "Gift Box"
+msgstr "Подарунковий ящик"

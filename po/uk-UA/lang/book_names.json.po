@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: Goblin → гоблін
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/A Brief Survey of Goblins"
+msgid "A Brief Survey of Goblins"
+msgstr "Короткий огляд гоблінів"
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: ZAP Brigade → бригада «ЗАП»
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/Assessing the ZAP Brigade"
+msgid "Assessing the ZAP Brigade"
+msgstr "Оцінка бригади «ЗАП»"
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: bottle → пляшка
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/Bottle Book"
+msgid "Bottle Book"
+msgstr "Книга пляшок"
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: Caves → Печери
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/Cave Beasts"
+msgid "Cave Beasts"
+msgstr "Звірі Печер"
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: Character → персонаж, Attribute → характеристика
+#. тон: technical
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/Character Attributes"
+msgid "Character Attributes"
+msgstr "Характеристики персонажа"
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: Citadel → Цитадель
+#. тон: technical
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/Citadel Servant FAQ"
+msgid "Citadel Servant FAQ"
+msgstr "ЧАП слуг Цитаделі"
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: undead → нежить
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/Concerning the Undead"
+msgid "Concerning the Undead"
+msgstr "Про нежить"
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: Goblin → гоблін
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/Controlling Goblins"
+msgid "Controlling Goblins"
+msgstr "Як контролювати гоблінів"
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: Herx → Геркс
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/Dethroning Herx"
+msgid "Dethroning Herx"
+msgstr "Повалення Геркса"
+
+#. назви книг для читання в грі — як заголовки
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/How to be Strong"
+msgid "How to be Strong"
+msgstr "Як стати сильним"
+
+#. назви книг для читання в грі — як заголовки
+#. тон: sad
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/Lost Journal"
+msgid "Lost Journal"
+msgstr "Загублений щоденник"
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: Christmas → Різдво
+#. тон: joke
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/Miner's Christmas"
+msgid "Miner's Christmas"
+msgstr "Різдво шахтаря"
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: soul → душа, Mines → Шахти
+#. тон: joke
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/Mining My Soul"
+msgid "Mining My Soul"
+msgstr "Копаючись у своїй душі"
+
+#. назви книг для читання в грі — як заголовки
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/My Journal"
+msgid "My Journal"
+msgstr "Мій щоденник"
+
+#. назви книг для читання в грі — як заголовки
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/Newspaper Clipping"
+msgid "Newspaper Clipping"
+msgstr "Газетна вирізка"
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: Giantism → гігантизм
+#. тон: technical
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/On Giantism, Vol 1"
+msgid "On Giantism, Vol 1"
+msgstr "Про гігантизм, т. 1"
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: Giantism → гігантизм
+#. тон: technical
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/On Giantism, Vol 2"
+msgid "On Giantism, Vol 2"
+msgstr "Про гігантизм, т. 2"
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: Mines → Шахти
+#. тон: solemn
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/Poem of the Mines"
+msgid "Poem of the Mines"
+msgstr "Поема про Шахти"
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: Lich → ліч
+#. тон: fear
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/Sightings of the Lich"
+msgid "Sightings of the Lich"
+msgstr "Свідчення про ліча"
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: Mines → Шахти
+#. тон: command
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/Surviving the Mines"
+msgid "Surviving the Mines"
+msgstr "Як вижити в Шахтах"
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: Hell → Пекло
+#. тон: solemn
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/The Adventurer Who Went To Hell"
+msgid "The Adventurer Who Went To Hell"
+msgstr "Шукач пригод, що пішов до Пекла"
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: Mines → Шахти
+#. тон: joke
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/The Art of Mine Warfare"
+msgid "The Art of Mine Warfare"
+msgstr "Мистецтво шахтної війни"
+
+#. назви книг для читання в грі — як заголовки
+#. тон: solemn
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/The Campaign"
+msgid "The Campaign"
+msgstr "Похід"
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: minecart → вагонетка
+#. тон: joke
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/The Flying Minecart"
+msgid "The Flying Minecart"
+msgstr "Летюча вагонетка"
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: Baron Herx → Барон Геркс, Herx → Геркс
+#. тон: solemn
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/The History of Baron Herx"
+msgid "The History of Baron Herx"
+msgstr "Історія Барона Геркса"
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: Goblin → гоблін
+#. тон: joke
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/The Lusty Goblin Maid"
+msgid "The Lusty Goblin Maid"
+msgstr "Хтива гоблінська служниця"
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: Labyrinth → Лабіринт
+#. тон: solemn
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/The Meaning of the Labyrinth"
+msgid "The Meaning of the Labyrinth"
+msgstr "Сутність Лабіринту"
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: Pirate King → Король піратів
+#. тон: solemn
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/The Pirate King"
+msgid "The Pirate King"
+msgstr "Король піратів"
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: Emily → Емілі
+#. тон: solemn
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/To Emily"
+msgid "To Emily"
+msgstr "Емілі"
+
+#. назви книг для читання в грі — як заголовки
+#. сутності: Winny → Вінні
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/Winny's Report"
+msgid "Winny's Report"
+msgstr "Звіт Вінні"
+
+#. назви книг для читання в грі — як заголовки
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/Worker's Journal, Entry 1"
+msgid "Worker's Journal, Entry 1"
+msgstr "Щоденник робітника, запис 1"
+
+#. назви книг для читання в грі — як заголовки
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/Worker's Journal, Entry 2"
+msgid "Worker's Journal, Entry 2"
+msgstr "Щоденник робітника, запис 2"
+
+#. назви книг для читання в грі — як заголовки
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/Worker's Journal, Entry 3"
+msgid "Worker's Journal, Entry 3"
+msgstr "Щоденник робітника, запис 3"
+
+#. назви книг для читання в грі — як заголовки
+#, fuzzy
+#: lang/book_names.json
+msgctxt "book_names/Worker's Journal, Entry 4"
+msgid "Worker's Journal, Entry 4"
+msgstr "Щоденник робітника, запис 4"

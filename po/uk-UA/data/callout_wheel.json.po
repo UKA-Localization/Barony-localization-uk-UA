@@ -1,0 +1,3132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Hungry → голодний
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "help_strings/hungry"
+msgid "Hungry"
+msgstr "Голодний"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Hungry → голодний, Very Hungry → дуже голодний
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "help_strings/very_hungry"
+msgid "Very Hungry"
+msgstr "Дуже голодний"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Starving → вмирає з голоду
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "help_strings/starving"
+msgid "Starving"
+msgstr "Вмирає з голоду"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Hungry → голодний
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "help_strings/hungry_blood"
+msgid "Hungry"
+msgstr "Голодний"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Hungry → голодний, Very Hungry → дуже голодний
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "help_strings/very_hungry_blood"
+msgid "Very Hungry"
+msgstr "Дуже голодний"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Starving → вмирає з голоду
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "help_strings/starving_blood"
+msgid "Starving"
+msgstr "Вмирає з голоду"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Healing → зцілення
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "help_strings/healing"
+msgid "Needs Healing"
+msgstr "Потребує зцілення"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Healing → зцілення
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "help_strings/healing_urgent"
+msgid "Needs Healing"
+msgstr "Потребує зцілення"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Boiler → котел
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "help_strings/low_steam"
+msgid "Low Boiler"
+msgstr "Мало пари в котлі"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Boiler → котел
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "help_strings/empty_steam"
+msgid "Empty Boiler"
+msgstr "Порожній котел"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Deceased → загиблий
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "help_strings/ghost"
+msgid "Deceased"
+msgstr "Загиблий"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "help_strings/separator"
+msgid "/"
+msgstr "/"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command, excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/default/text"
+msgid "Check this out!"
+msgstr "Погляньте сюди!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command, excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/default/msg_says"
+msgid "%s\"Check this out!\""
+msgstr "%s\"Погляньте сюди!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command, excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/player_wave/text"
+msgid "Wave to %s!"
+msgstr "Помахайте %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/player_wave/msg_emote"
+msgid "%s waves to %s!"
+msgstr "%s махає %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/player_wave/msg_emote_you"
+msgid "You wave to %s!"
+msgstr "Ви махаєте %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/player_wave/msg_emote_to_you"
+msgid "%s waves to you!"
+msgstr "%s махає вам!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: location → місце
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/location/text"
+msgid "Gesture to this location."
+msgstr "Укажіть на це місце."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/location/msg_emote"
+msgid "%s gestures to a spot over there."
+msgstr "%s указує на місце он там."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/location/msg_emote_you"
+msgid "You gesture to a spot over there."
+msgstr "Ви вказуєте на місце он там."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/item/text"
+msgid "There's a %s here."
+msgstr "Тут є %s."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/item/msg_says"
+msgid "%s\"There's a %s here.\""
+msgstr "%s\"Тут є %s.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/item_an/text"
+msgid "There's an %s here."
+msgstr "Тут є %s."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/item_an/msg_says"
+msgid "%s\"There's an %s here.\""
+msgstr "%s\"Тут є %s.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/npc/text"
+msgid "There's a %s over here."
+msgstr "Ось тут є %s."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/npc/msg_says"
+msgid "%s\"There's a %s over here.\""
+msgstr "%s\"Ось тут є %s.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/npc_named/text"
+msgid "%s is here."
+msgstr "%s тут."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/npc_named/msg_says"
+msgid "%s\"%s is here.\""
+msgstr "%s\"%s тут.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/npc_an/text"
+msgid "There's an %s here."
+msgstr "Тут є %s."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/npc_an/msg_says"
+msgid "%s\"There's an %s over here.\""
+msgstr "%s\"Ось тут є %s.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: enemy → ворог
+#. тон: excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/npc_enemy_named/text"
+msgid "The enemy %s is here!"
+msgstr "Ворог %s тут!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: enemy → ворог
+#. тон: excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/npc_enemy_named/msg_says"
+msgid "%s\"The enemy %s is here!\""
+msgstr "%s\"Ворог %s тут!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: enemy → ворог
+#. тон: excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/npc_enemy/text"
+msgid "Enemy %s here!"
+msgstr "Тут ворог %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: enemy → ворог
+#. тон: excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/npc_enemy/msg_says"
+msgid "%s\"Enemy %s here!\""
+msgstr "%s\"Тут ворог %s!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: ally → союзник
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/npc_ally/text"
+msgid "Our ally %s is here."
+msgstr "Наш союзник %s тут."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: ally → союзник
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/npc_ally/msg_says"
+msgid "%s\"Our ally %s is here.\""
+msgstr "%s\"Наш союзник %s тут.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: ally → союзник
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/player_look/text"
+msgid "Our ally %s is here."
+msgstr "Наш союзник %s тут."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: ally → союзник
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/player_look/msg_says"
+msgid "%s\"Our ally %s is here.\""
+msgstr "%s\"Наш союзник %s тут.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: chest → скриня
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/chest/text"
+msgid "Point out the chest."
+msgstr "Укажіть на скриню."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: chest → скриня
+#. тон: excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/chest/msg_says"
+msgid "%s\"I found a chest!\""
+msgstr "%s\"Я знайшов скриню!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: switch → перемикач
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/switch_on/text"
+msgid "Point out this active switch."
+msgstr "Укажіть на активний перемикач."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: switch → перемикач
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/switch_on/msg_says"
+msgid "%s\"That switch over there has already been pulled.\""
+msgstr "%s\"Той перемикач уже ввімкнено.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: switch → перемикач
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/switch_off/text"
+msgid "Point out this inactive switch."
+msgstr "Укажіть на неактивний перемикач."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: switch → перемикач
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/switch_off/msg_says"
+msgid "%s\"That switch over there hasn't been pulled.\""
+msgstr "%s\"Той перемикач ще не ввімкнено.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: button → кнопка
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/wall_button_on/text"
+msgid "Point out this active button."
+msgstr "Укажіть на активну кнопку."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: button → кнопка
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/wall_button_on/msg_says"
+msgid "%s\"That button over there has already been pressed.\""
+msgstr "%s\"Ту кнопку вже натиснуто.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: button → кнопка
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/wall_button_off/text"
+msgid "Point out this inactive button."
+msgstr "Укажіть на неактивну кнопку."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: button → кнопка
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/wall_button_off/msg_says"
+msgid "%s\"That button over there hasn't been pressed.\""
+msgstr "%s\"Ту кнопку ще не натиснуто.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: key → ключ
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/wall_lock_on/text"
+msgid "Point out this active %s key."
+msgstr "Укажіть на активний ключ %s."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: key → ключ
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/wall_lock_on/msg_says"
+msgid "%s\"That %s key over there has already been activated.\""
+msgstr "%s\"Той ключ %s уже активовано.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: key → ключ
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/wall_lock_off/text"
+msgid "Point out this inactive %s key."
+msgstr "Укажіть на неактивний ключ %s."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: key → ключ
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/wall_lock_off/msg_says"
+msgid "%s\"That %s key over there hasn't been activated.\""
+msgstr "%s\"Той ключ %s ще не активовано.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: lock → замок
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/wall_lock/text"
+msgid "Point out the empty %s lock."
+msgstr "Укажіть на порожній замок %s."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: lock → замок
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/wall_lock/msg_says"
+msgid "%s\"There's a empty %s lock over there.\""
+msgstr "%s\"Он там порожній замок %s.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: switch → перемикач
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/switch/text"
+msgid "Point out the switch."
+msgstr "Укажіть на перемикач."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: switch → перемикач
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/switch/msg_says"
+msgid "%s\"There's a switch over there.\""
+msgstr "%s\"Он там є перемикач.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: boulder → валун
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/boulder/text"
+msgid "Point out the boulder."
+msgstr "Укажіть на валун."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: boulder → валун
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/boulder/msg_emote"
+msgid "%s gestures to the boulder."
+msgstr "%s указує на валун."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: boulder → валун
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/boulder/msg_emote_you"
+msgid "You gesture to the boulder."
+msgstr "Ви вказуєте на валун."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/trap/text"
+msgid "There's a %s here."
+msgstr "Тут є %s."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/trap/msg_says"
+msgid "%s\"There's a %s here.\""
+msgstr "%s\"Тут є %s.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/generic_interactable/text"
+msgid "Point out the %s."
+msgstr "Вкажіть на %s."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/generic_interactable/msg_says"
+msgid "%s\"There's a %s over here.\""
+msgstr "%s\"Ось тут є %s.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: shrine → святиня
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/shrine/text"
+msgid "Point out the shrine."
+msgstr "Вкажіть на святиню."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: shrine → святиня
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/shrine/msg_says"
+msgid "%s\"There's a shrine over here.\""
+msgstr "%s\"Ось тут є святиня.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: bell → дзвін
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/bell/text"
+msgid "Point out the bell."
+msgstr "Вкажіть на дзвін."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: bell → дзвін
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/bell/msg_says"
+msgid "%s\"There's a bell over here.\""
+msgstr "%s\"Ось тут є дзвін.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: shrine → святиня, Daedalus → Дедал, Daedalus Shrine → святилище Дедала
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/daedalus/text"
+msgid "Point out the Daedalus shrine."
+msgstr "Вкажіть на святилище Дедала."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: shrine → святиня, Daedalus → Дедал, Daedalus Shrine → святилище Дедала
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/daedalus/msg_says"
+msgid "%s\"There's a Daedalus shrine over here.\""
+msgstr "%s\"Ось тут є святилище Дедала.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: shrine → святиня, Assist Shrine → святилище допомоги
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/assist_shrine/text"
+msgid "Point out the Assist shrine."
+msgstr "Вкажіть на святилище допомоги."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: shrine → святиня, Assist Shrine → святилище допомоги
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/assist_shrine/msg_says"
+msgid "%s\"There's an Assist shrine over here.\""
+msgstr "%s\"Ось тут є святилище допомоги.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: exit → вихід
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/exit/text"
+msgid "Point out the exit."
+msgstr "Вкажіть на вихід."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: exit → вихід
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/exit/msg_says"
+msgid "%s\"The exit is over here.\""
+msgstr "%s\"Вихід ось тут.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Level → Рівень, exit → вихід, secret level → таємний рівень, level exit → вихід із рівня
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/secret_exit/text"
+msgid "Point out the secret level exit."
+msgstr "Вкажіть на вихід із таємного рівня."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Level → Рівень, exit → вихід, secret level → таємний рівень, level exit → вихід із рівня
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/secret_exit/msg_emote"
+msgid "%s points to the secret level exit."
+msgstr "%s вказує на вихід із таємного рівня."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Level → Рівень, exit → вихід, secret level → таємний рівень, level exit → вихід із рівня
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/secret_exit/msg_emote_you"
+msgid "You point to the secret level exit."
+msgstr "Ви вказуєте на вихід із таємного рівня."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Level → Рівень, secret level → таємний рівень
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/secret_entrance/text"
+msgid "Point out the secret level entrance."
+msgstr "Вкажіть на вхід до таємного рівня."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: secret area → таємна ділянка, Area → область
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/secret_entrance/msg_emote"
+msgid "%s points out the entrance to a secret area."
+msgstr "%s вказує на вхід до таємної ділянки."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: secret area → таємна ділянка, Area → область
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/secret_entrance/msg_emote_you"
+msgid "You point out the entrance to a secret area."
+msgstr "Ви вказуєте на вхід до таємної ділянки."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: gold piece → золота монета
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/gold/text"
+msgid "Point out the gold."
+msgstr "Вкажіть на золото."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: gold piece → золота монета
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/gold/msg_emote"
+msgid "%s points out some gold."
+msgstr "%s вказує на золоті монети."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: gold piece → золота монета
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/gold/msg_emote_you"
+msgid "You point out some gold."
+msgstr "Ви вказуєте на золоті монети."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: fountain → фонтан
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/fountain/text"
+msgid "Point out the fountain."
+msgstr "Вкажіть на фонтан."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: fountain → фонтан
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/fountain/msg_emote"
+msgid "%s points out a fountain."
+msgstr "%s вказує на фонтан."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: fountain → фонтан
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/fountain/msg_emote_you"
+msgid "You point out a fountain."
+msgstr "Ви вказуєте на фонтан."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: sink → раковина
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/sink/text"
+msgid "Point out the sink."
+msgstr "Вкажіть на раковину."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: sink → раковина
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/sink/msg_emote"
+msgid "%s points out a sink."
+msgstr "%s вказує на раковину."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: sink → раковина
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/sink/msg_emote_you"
+msgid "You point out a sink."
+msgstr "Ви вказуєте на раковину."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: teleporter → телепорт
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/teleporter/text"
+msgid "Pount out the teleporter."
+msgstr "Вкажіть на телепорт."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: teleporter → телепорт
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/teleporter/msg_says"
+msgid "%s\"Looks like there's a teleporter here.\""
+msgstr "%s\"Схоже, тут є телепорт.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/teleporter_up/text"
+msgid "Point out the way up."
+msgstr "Вкажіть шлях нагору."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: ladder → драбина
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/teleporter_up/msg_says"
+msgid "%s\"This ladder leads upward.\""
+msgstr "%s\"Ця драбина веде нагору.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/teleporter_down/text"
+msgid "Point out the way down."
+msgstr "Вкажіть шлях униз."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: ladder → драбина, will → воля
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/teleporter_down/msg_says"
+msgid "%s\"This ladder will take us downward.\""
+msgstr "%s\"Ця драбина приведе нас униз.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/bomb/text"
+msgid "Point out the %s."
+msgstr "Вкажіть на %s."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/bomb/msg_says"
+msgid "%s\"A %s has been placed here.\""
+msgstr "%s\"Тут установлено %s.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: breakable → руйнований
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/collider/text"
+msgid "Point out the breakable %s."
+msgstr "Вкажіть на руйнований %s."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/0/text_maps/0/collider/msg_says"
+msgid "%s\"We can bust through this %s.\""
+msgstr "%s\"Ми можемо проламати %s.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command, excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/1/text_maps/0/player_wave/text"
+msgid "Wave to %s!"
+msgstr "Помахайте %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/1/text_maps/0/player_wave/msg_emote"
+msgid "%s waves to %s!"
+msgstr "%s махає %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/1/text_maps/0/player_wave/msg_emote_you"
+msgid "You wave to %s!"
+msgstr "Ви махаєте %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/1/text_maps/0/player_wave/msg_emote_to_you"
+msgid "%s waves to you!"
+msgstr "%s махає вам!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Player → гравець
+#. тон: technical
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/1/text_maps/0/unavailable/text"
+msgid "Player unavailable"
+msgstr "Гравець недоступний"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command, excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/2/text_maps/0/player_wave/text"
+msgid "Wave to %s!"
+msgstr "Помахайте %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/2/text_maps/0/player_wave/msg_emote"
+msgid "%s waves to %s!"
+msgstr "%s махає %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/2/text_maps/0/player_wave/msg_emote_you"
+msgid "You wave to %s!"
+msgstr "Ви махаєте %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/2/text_maps/0/player_wave/msg_emote_to_you"
+msgid "%s waves to you!"
+msgstr "%s махає вам!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Player → гравець
+#. тон: technical
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/2/text_maps/0/unavailable/text"
+msgid "Player unavailable"
+msgstr "Гравець недоступний"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command, excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/3/text_maps/0/player_wave/text"
+msgid "Wave to %s!"
+msgstr "Помахайте %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/3/text_maps/0/player_wave/msg_emote"
+msgid "%s waves to %s!"
+msgstr "%s махає %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/3/text_maps/0/player_wave/msg_emote_you"
+msgid "You wave to %s!"
+msgstr "Ви махаєте %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/3/text_maps/0/player_wave/msg_emote_to_you"
+msgid "%s waves to you!"
+msgstr "%s махає вам!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Player → гравець
+#. тон: technical
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/3/text_maps/0/unavailable/text"
+msgid "Player unavailable"
+msgstr "Гравець недоступний"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command, fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/default/text"
+msgid "Call for help!"
+msgstr "Кличте на допомогу!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/default/msg_emote"
+msgid "%s calls for help!"
+msgstr "%s кличе на допомогу!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/default/msg_emote_you"
+msgid "You call for help!"
+msgstr "Ви кличете на допомогу!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command, fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/help_all_conditions/text"
+msgid "Call for help! (%s)"
+msgstr "Кличте на допомогу! (%s)"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/help_all_conditions/msg_emote"
+msgid "%s calls for help!\n(%s)"
+msgstr "%s кличе на допомогу!\n(%s)"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/help_all_conditions/msg_emote_you"
+msgid "You call for help!\n(%s)"
+msgstr "Ви кличете на допомогу!\n(%s)"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command, fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/help_deceased/text"
+msgid "Call for help! (%s)"
+msgstr "Покликати на допомогу! (%s)"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/help_deceased/msg_emote"
+msgid "%s calls for help!\n(%s)"
+msgstr "%s кличе на допомогу!\n(%s)"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/help_deceased/msg_emote_you"
+msgid "You call for help!\n(%s)"
+msgstr "Ви кличете на допомогу!\n(%s)"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Hungry → голодний, Food → їжа
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/condition_food_hungry/text"
+msgid "I need food! (Hungry)"
+msgstr "Мені потрібна їжа! (Голодний)"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Hungry → голодний, Food → їжа
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/condition_food_hungry/msg_says"
+msgid "%s\"I need food! (Hungry)"
+msgstr "%s\"Мені потрібна їжа! (Голодний)"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Hungry → голодний, Blood → кров
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/condition_blood_hungry/text"
+msgid "I need blood! (Hungry)"
+msgstr "Мені потрібна кров! (Голодний)"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Hungry → голодний, Blood → кров
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/condition_blood_hungry/msg_says"
+msgid "%s\"I need blood! (Hungry)"
+msgstr "%s\"Мені потрібна кров! (Голодний)"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Food → їжа, weaken → ослаблення
+#. тон: command, fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/condition_food_weak/text"
+msgid "I need food! (Feeling Weak)"
+msgstr "Мені потрібна їжа! (Ослаблення)"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Food → їжа, weaken → ослаблення
+#. тон: command, fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/condition_food_weak/msg_says"
+msgid "%s\"I need food! (Feeling Weak)"
+msgstr "%s\"Мені потрібна їжа! (Ослаблення)"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Blood → кров, weaken → ослаблення
+#. тон: command, fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/condition_blood_weak/text"
+msgid "I need blood! (Feeling Weak)"
+msgstr "Мені потрібна кров! (Ослаблення)"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Blood → кров, weaken → ослаблення
+#. тон: command, fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/condition_blood_weak/msg_says"
+msgid "%s\"I need blood! (Feeling Weak)"
+msgstr "%s\"Мені потрібна кров! (Ослаблення)"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Boiler → котел
+#. тон: excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/condition_steam_empty/text"
+msgid "My boiler is empty!"
+msgstr "Мій котел порожній!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Boiler → котел
+#. тон: excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/condition_steam_empty/msg_says"
+msgid "%s\"My boiler is empty!"
+msgstr "%s\"Мій котел порожній!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Starvation → голодна смерть
+#. тон: fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/condition_food_starving/text"
+msgid "I'm dying of starvation!"
+msgstr "Я помираю від голоду!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Starvation → голодна смерть
+#. тон: fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/condition_food_starving/msg_says"
+msgid "%s\"I'm dying of starvation!"
+msgstr "%s\"Я помираю від голоду!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Blood → кров, Starvation → голодна смерть
+#. тон: fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/condition_blood_starving/text"
+msgid "I'm dying of starvation! (Blood)"
+msgstr "Я помираю від голоду! (Кров)"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Blood → кров, Starvation → голодна смерть
+#. тон: fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/condition_blood_starving/msg_says"
+msgid "%s\"I'm dying of starvation!  (Blood)"
+msgstr "%s\"Я помираю від голоду!  (Кров)"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Healing → зцілення
+#. тон: command, fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/condition_heal/text"
+msgid "I need healing!"
+msgstr "Мені потрібне зцілення!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Healing → зцілення
+#. тон: command, fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/condition_heal/msg_says"
+msgid "%s\"I need healing!"
+msgstr "%s\"Мені потрібне зцілення!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: health → здоров'я
+#. тон: fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/condition_heal_urgent/text"
+msgid "I'm almost out of health!"
+msgstr "У мене майже немає здоров'я!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: health → здоров'я
+#. тон: fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/condition_heal_urgent/msg_says"
+msgid "%s\"I'm almost out of health!"
+msgstr "%s\"У мене майже немає здоров'я!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: cure ailment → лікування недуг
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/condition_cure_ailment/text"
+msgid "I need cure ailment!"
+msgstr "Мені потрібне лікування недуг!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: cure ailment → лікування недуг
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/condition_cure_ailment/msg_says"
+msgid "%s\"I need cure ailment!"
+msgstr "%s\"Мені потрібне лікування недуг!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command, fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/location/text"
+msgid "I need help!"
+msgstr "Мені потрібна допомога!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/location/msg_emote"
+msgid "%s needs help!"
+msgstr "%s потребує допомоги!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command, fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/location/msg_emote_you"
+msgid "You request help!"
+msgstr "Ви просите про допомогу!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Assistance → допомога
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/item/text"
+msgid "I need assistance with this %s."
+msgstr "Допоможіть мені з цим: %s."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Assistance → допомога
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/item/msg_says"
+msgid "%s\"I need assistance with this %s.\""
+msgstr "%s\"Допоможіть мені з цим: %s.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Assistance → допомога
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/item_an/text"
+msgid "I need assistance with this %s."
+msgstr "Допоможіть мені з цим: %s."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Assistance → допомога
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/item_an/msg_says"
+msgid "%s\"I need assistance with this %s.\""
+msgstr "%s\"Допоможіть мені з цим: %s.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/npc/text"
+msgid "I need help with this %s!"
+msgstr "Допоможіть мені з цією істотою: %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/npc/msg_says"
+msgid "%s\"I need help with this %s!\""
+msgstr "%s\"Допоможіть мені з цією істотою: %s!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/npc_named/text"
+msgid "I need help with %s!"
+msgstr "Допоможіть мені з %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/npc_named/msg_says"
+msgid "%s\"I need help with %s!\""
+msgstr "%s\"Допоможіть мені з %s!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/npc_an/text"
+msgid "I need help with this %s!"
+msgstr "Допоможіть мені з цією істотою: %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/npc_an/msg_says"
+msgid "%s\"I need help with this %s!\""
+msgstr "%s\"Допоможіть мені з цією істотою: %s!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/npc_enemy_named/text"
+msgid "I need help with %s!"
+msgstr "Допоможіть мені з %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/npc_enemy_named/msg_says"
+msgid "%s\"I need help with %s!\""
+msgstr "%s\"Допоможіть мені з %s!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/npc_enemy/text"
+msgid "I need help with this %s!"
+msgstr "Допоможіть мені з цим ворогом: %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/npc_enemy/msg_says"
+msgid "%s\"I need help with this %s!\""
+msgstr "%s\"Допоможіть мені з цим ворогом: %s!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: ally → союзник
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/npc_ally/text"
+msgid "Our ally %s needs help!"
+msgstr "Нашому союзнику %s потрібна допомога!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: ally → союзник
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/npc_ally/msg_says"
+msgid "%s\"Our ally %s needs help!\""
+msgstr "%s\"Нашому союзнику %s потрібна допомога!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: chest → скриня
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/chest/text"
+msgid "I need help with this chest."
+msgstr "Допоможіть мені з цією скринею."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: chest → скриня
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/chest/msg_says"
+msgid "%s\"I need help with this chest.\""
+msgstr "%s\"Допоможіть мені з цією скринею.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: switch → перемикач
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/switch_on/text"
+msgid "I need help with this switch."
+msgstr "Допоможіть мені з цим перемикачем."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: switch → перемикач
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/switch_on/msg_says"
+msgid "%s\"I need help with this switch.\""
+msgstr "%s\"Допоможіть мені з цим перемикачем.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: switch → перемикач
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/switch_off/text"
+msgid "I need help with this switch."
+msgstr "Допоможіть мені з цим перемикачем."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: switch → перемикач
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/switch_off/msg_says"
+msgid "%s\"I need help with this switch.\""
+msgstr "%s\"Допоможіть мені з цим перемикачем.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: button → кнопка
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/wall_button_on/text"
+msgid "I need help with this button."
+msgstr "Допоможіть мені з цією кнопкою."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: button → кнопка
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/wall_button_on/msg_says"
+msgid "%s\"I need help with this button.\""
+msgstr "%s\"Допоможіть мені з цією кнопкою.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: button → кнопка
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/wall_button_off/text"
+msgid "I need help with this button."
+msgstr "Допоможіть мені з цією кнопкою."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: button → кнопка
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/wall_button_off/msg_says"
+msgid "%s\"I need help with this button.\""
+msgstr "%s\"Допоможіть мені з цією кнопкою.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: key → ключ
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/wall_lock_on/text"
+msgid "I need help with this active %s key."
+msgstr "Допоможіть із цим активним ключем %s."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: key → ключ
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/wall_lock_on/msg_says"
+msgid "%s\"I need help with this active %s key.\""
+msgstr "%s\"Допоможіть із цим активним ключем %s.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: key → ключ
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/wall_lock_off/text"
+msgid "I need help with this inactive %s key."
+msgstr "Допоможіть із цим неактивним ключем %s."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: key → ключ
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/wall_lock_off/msg_says"
+msgid "%s\"I need help with this inactive %s key.\""
+msgstr "%s\"Допоможіть із цим неактивним ключем %s.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: lock → замок
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/wall_lock/text"
+msgid "I need help with this %s lock."
+msgstr "Допоможіть мені з цим замком %s."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: lock → замок
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/wall_lock/msg_says"
+msgid "%s\"I need help with this %s lock.\""
+msgstr "%s\"Допоможіть мені з цим замком %s.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: switch → перемикач
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/switch/text"
+msgid "I need help with this switch."
+msgstr "Допоможіть мені з цим перемикачем."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: switch → перемикач
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/switch/msg_says"
+msgid "%s\"I need help with this switch.\""
+msgstr "%s\"Допоможіть мені з цим перемикачем.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: boulder → валун
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/boulder/text"
+msgid "I need help with this boulder."
+msgstr "Мені потрібна допомога з цим валуном."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: boulder → валун
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/boulder/msg_says"
+msgid "%s\"I need help with this boulder.\""
+msgstr "%s\"Мені потрібна допомога з цим валуном.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/trap/text"
+msgid "I need help by this %s!"
+msgstr "Мені потрібна допомога біля цього %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/trap/msg_says"
+msgid "%s\"I need help by this %s!\""
+msgstr "%s\"Мені потрібна допомога біля цього %s!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/generic_interactable/text"
+msgid "I need help by this %s!"
+msgstr "Мені потрібна допомога біля цього %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/generic_interactable/msg_says"
+msgid "%s\"I need help by this %s!\""
+msgstr "%s\"Мені потрібна допомога біля цього %s!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: shrine → святиня
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/shrine/text"
+msgid "I need help by this shrine!"
+msgstr "Мені потрібна допомога біля цієї святині!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: shrine → святиня
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/shrine/msg_says"
+msgid "%s\"I need help by this shrine!\""
+msgstr "%s\"Мені потрібна допомога біля цієї святині!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: shrine → святиня, Daedalus → Дедал, Daedalus Shrine → святилище Дедала
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/daedalus/text"
+msgid "I need help by this Daedalus shrine!"
+msgstr "Мені потрібна допомога біля святилища Дедала!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: shrine → святиня, Daedalus → Дедал, Daedalus Shrine → святилище Дедала
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/daedalus/msg_says"
+msgid "%s\"I need help by this Daedalus shrine!\""
+msgstr "%s\"Мені потрібна допомога біля святилища Дедала!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: shrine → святиня, Assist Shrine → святилище допомоги
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/assist_shrine/text"
+msgid "I would like to use the Assist shrine!"
+msgstr "Я хочу скористатися святилищем допомоги!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: shrine → святиня, Assist Shrine → святилище допомоги
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/assist_shrine/msg_says"
+msgid "%s\"I would like to use the Assist shrine!\""
+msgstr "%s\"Я хочу скористатися святилищем допомоги!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: bell → дзвін
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/bell/text"
+msgid "I need help by this bell!"
+msgstr "Мені потрібна допомога біля цього дзвона!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: bell → дзвін
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/bell/msg_says"
+msgid "%s\"I need help by this bell!\""
+msgstr "%s\"Мені потрібна допомога біля цього дзвона!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: exit → вихід
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/exit/text"
+msgid "Request help by the exit."
+msgstr "Попросіть допомоги біля виходу."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: exit → вихід
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/exit/msg_emote"
+msgid "%s requests help by the exit!"
+msgstr "%s просить допомоги біля виходу!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: exit → вихід
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/exit/msg_emote_you"
+msgid "You request help by the exit!"
+msgstr "Ви просите допомоги біля виходу!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Level → Рівень, exit → вихід, secret level → таємний рівень, level exit → вихід із рівня
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/secret_exit/text"
+msgid "Request help by the secret level exit."
+msgstr "Попросіть допомоги біля виходу з таємного рівня."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Level → Рівень, exit → вихід, secret level → таємний рівень, level exit → вихід із рівня
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/secret_exit/msg_emote"
+msgid "%s requests help by the secret level exit!"
+msgstr "%s просить допомоги біля виходу з таємного рівня!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Level → Рівень, exit → вихід, secret level → таємний рівень, level exit → вихід із рівня
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/secret_exit/msg_emote_you"
+msgid "You request help by the secret level exit!"
+msgstr "Ви просите допомоги біля виходу з таємного рівня!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Level → Рівень, secret level → таємний рівень
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/secret_entrance/text"
+msgid "Request help by the secret level entrance."
+msgstr "Попросіть допомоги біля входу на таємний рівень."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Level → Рівень, secret level → таємний рівень
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/secret_entrance/msg_emote"
+msgid "%s requests help by the secret level entrance!"
+msgstr "%s просить допомоги біля входу на таємний рівень!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Level → Рівень, secret level → таємний рівень
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/secret_entrance/msg_emote_you"
+msgid "You request help by the secret level entrance!"
+msgstr "Ви просите допомоги біля входу на таємний рівень!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: gold piece → золота монета
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/gold/text"
+msgid "I need help carrying this gold."
+msgstr "Допоможіть мені нести це золото."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: gold piece → золота монета
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/gold/msg_says"
+msgid "%s\"I need help carrying this gold.\""
+msgstr "%s\"Допоможіть мені нести це золото.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: fountain → фонтан
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/fountain/text"
+msgid "I need help by this fountain!"
+msgstr "Мені потрібна допомога біля цього фонтана!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: fountain → фонтан
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/fountain/msg_says"
+msgid "%s\"I need help by this fountain!\""
+msgstr "%s\"Мені потрібна допомога біля цього фонтана!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: sink → раковина
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/sink/text"
+msgid "I need help by this sink!"
+msgstr "Мені потрібна допомога біля цієї раковини!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: sink → раковина
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/sink/msg_says"
+msgid "%s\"I need help by this sink!\""
+msgstr "%s\"Мені потрібна допомога біля цієї раковини!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: teleporter → телепорт
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/teleporter/text"
+msgid "I need help by this teleporter!"
+msgstr "Мені потрібна допомога біля цього телепорта!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: teleporter → телепорт
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/teleporter/msg_says"
+msgid "%s\"I need help by this teleporter!\""
+msgstr "%s\"Мені потрібна допомога біля цього телепорта!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: ladder → драбина
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/teleporter_up/text"
+msgid "I need help by this ladder!"
+msgstr "Мені потрібна допомога біля цієї драбини!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: ladder → драбина
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/teleporter_up/msg_says"
+msgid "%s\"I need help by this ladder!\""
+msgstr "%s\"Мені потрібна допомога біля цієї драбини!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: ladder → драбина
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/teleporter_down/text"
+msgid "I need help by this ladder!"
+msgstr "Мені потрібна допомога біля цієї драбини!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: ladder → драбина
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/teleporter_down/msg_says"
+msgid "%s\"I need help by this ladder!\""
+msgstr "%s\"Мені потрібна допомога біля цієї драбини!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/bomb/text"
+msgid "I need help by this %s!"
+msgstr "Мені потрібна допомога біля цього %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/bomb/msg_says"
+msgid "%s\"I need help by this %s!\""
+msgstr "%s\"Мені потрібна допомога біля цього %s!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: breakable → руйнований
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/collider/text"
+msgid "I need help with this breakable %s."
+msgstr "Мені потрібна допомога з руйнуванням %s."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: breakable → руйнований
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/4/text_maps/0/collider/msg_says"
+msgid "%s\"I need help with this breakable %s.\""
+msgstr "%s\"Мені потрібна допомога з руйнуванням %s.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/5/text_maps/0/default/text"
+msgid "Let's move here!"
+msgstr "Рушаймо сюди!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/5/text_maps/0/default/msg_says"
+msgid "%s\"Let's move here!\""
+msgstr "%s\"Рушаймо сюди!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/6/text_maps/0/default/text"
+msgid "Thank %s!"
+msgstr "Подякуйте %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/6/text_maps/0/default/msg_emote"
+msgid "%s thanks %s!"
+msgstr "%s дякує %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/6/text_maps/0/default/msg_emote_you"
+msgid "You give thanks to %s!"
+msgstr "Ви дякуєте %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/6/text_maps/0/default/msg_emote_to_you"
+msgid "%s thanks you!"
+msgstr "%s дякує вам!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/default/text"
+msgid "Give a thumbs up."
+msgstr "Підніміть великий палець."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/default/msg_emote_you"
+msgid "You give a thumbs up!"
+msgstr "Ви піднімаєте великий палець!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/default/msg_emote"
+msgid "%s gives a thumbs up!"
+msgstr "%s піднімає великий палець!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/player_thanks/text"
+msgid "Thank %s!"
+msgstr "Подякуйте %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/player_thanks/msg_emote"
+msgid "%s thanks %s!"
+msgstr "%s дякує %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/player_thanks/msg_emote_you"
+msgid "You give thanks to %s!"
+msgstr "Ви дякуєте %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/player_thanks/msg_emote_to_you"
+msgid "%s thanks you!"
+msgstr "%s дякує вам!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/location/text"
+msgid "Give a thumbs up here."
+msgstr "Підніміть тут великий палець."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/location/msg_emote_you"
+msgid "You give a thumbs up here!"
+msgstr "Ви піднімаєте тут великий палець!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/location/msg_emote"
+msgid "%s gives a thumbs up here!"
+msgstr "%s піднімає тут великий палець!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/item/text"
+msgid "This %s is good."
+msgstr "Цей %s добрий."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/item/msg_says"
+msgid "%s\"This %s is good.\""
+msgstr "%s\"Цей %s добрий.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/item_an/text"
+msgid "This %s is good."
+msgstr "Цей %s добрий."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/item_an/msg_says"
+msgid "%s\"This %s is good.\""
+msgstr "%s\"Цей %s добрий.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/npc/text"
+msgid "This %s needs to be dealt with."
+msgstr "Із цим %s треба розібратися."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/npc/msg_says"
+msgid "%s\"This %s needs to be dealt with.\""
+msgstr "%s\"Із цим %s треба розібратися.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/npc_named/text"
+msgid "%s needs to be dealt with."
+msgstr "Із %s треба розібратися."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/npc_named/msg_says"
+msgid "%s\"%s needs to be dealt with.\""
+msgstr "%s\"Із %s треба розібратися.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/npc_an/text"
+msgid "This %s needs to be dealt with."
+msgstr "Із цим %s треба розібратися."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/npc_an/msg_says"
+msgid "%s\"This %s needs to be dealt with.\""
+msgstr "%s\"Із цим %s треба розібратися.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/npc_enemy_named/text"
+msgid "Attack %s!"
+msgstr "Атакуйте %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/npc_enemy_named/msg_says"
+msgid "%s\"Attack %s!\""
+msgstr "%s\"Атакуйте %s!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/npc_enemy/text"
+msgid "Attack the %s!"
+msgstr "Атакуйте %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/npc_enemy/msg_says"
+msgid "%s\"Attack the %s!\""
+msgstr "%s\"Атакуйте %s!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: ally → союзник
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/npc_ally/text"
+msgid "Our ally %s is up to the task."
+msgstr "Наш союзник %s упорається."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: ally → союзник
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/npc_ally/msg_says"
+msgid "%s\"Our ally %s is up to the task.\""
+msgstr "%s\"Наш союзник %s упорається.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: chest → скриня
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/chest/text"
+msgid "I'll check the chest."
+msgstr "Я перевірю скриню."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: chest → скриня
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/chest/msg_says"
+msgid "%s\"I'll check the chest.\""
+msgstr "%s\"Я перевірю скриню.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: switch → перемикач
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/switch_on/text"
+msgid "Turn that switch off!"
+msgstr "Вимкніть той перемикач!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: switch → перемикач
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/switch_on/msg_says"
+msgid "%s\"Turn that switch off!\""
+msgstr "%s\"Вимкніть той перемикач!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: switch → перемикач
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/switch_off/text"
+msgid "Turn that switch on!"
+msgstr "Увімкніть той перемикач!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: switch → перемикач
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/switch_off/msg_says"
+msgid "%s\"Turn that switch on!\""
+msgstr "%s\"Увімкніть той перемикач!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: button → кнопка
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/wall_button_on/text"
+msgid "That button is on!"
+msgstr "Та кнопка ввімкнена!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: button → кнопка
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/wall_button_on/msg_says"
+msgid "%s\"That button is on!\""
+msgstr "%s\"Та кнопка ввімкнена!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: button → кнопка, Push → відштовхування
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/wall_button_off/text"
+msgid "Push that button!"
+msgstr "Натисніть ту кнопку!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: button → кнопка, Push → відштовхування
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/wall_button_off/msg_says"
+msgid "%s\"Push that button!\""
+msgstr "%s\"Натисніть ту кнопку!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: key → ключ
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/wall_lock_on/text"
+msgid "Reset that %s key!"
+msgstr "Скиньте той %s ключ!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: key → ключ
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/wall_lock_on/msg_says"
+msgid "%s\"Reset that %s key!\""
+msgstr "%s\"Скиньте той %s ключ!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: key → ключ
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/wall_lock_off/text"
+msgid "Turn that %s key on!"
+msgstr "Увімкніть той %s ключ!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: key → ключ
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/wall_lock_off/msg_says"
+msgid "%s\"Turn that %s key on!\""
+msgstr "%s\"Увімкніть той %s ключ!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: lock → замок
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/wall_lock/text"
+msgid "Go ahead and open that %s lock."
+msgstr "Відкрийте той %s замок."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: lock → замок
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/wall_lock/msg_says"
+msgid "%s\"Go ahead and open that %s lock.\""
+msgstr "%s\"Відкрийте той %s замок.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: switch → перемикач
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/switch/text"
+msgid "Go ahead and use that switch."
+msgstr "Скористайтеся тим перемикачем."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: switch → перемикач
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/switch/msg_says"
+msgid "%s\"Go ahead and use that switch.\""
+msgstr "%s\"Скористайтеся тим перемикачем.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: boulder → валун
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/boulder/text"
+msgid "That boulder needs to be handled."
+msgstr "Із тим валуном треба розібратися."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: boulder → валун
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/boulder/msg_says"
+msgid "%s\"That boulder needs to be handled.\""
+msgstr "%s\"Із тим валуном треба розібратися.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/trap/text"
+msgid "I think that %s is safe."
+msgstr "Гадаю, цей %s безпечний."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/trap/msg_says"
+msgid "%s\"I think that %s is safe.\""
+msgstr "%s\"Гадаю, цей %s безпечний.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/generic_interactable/text"
+msgid "This %s is ready to use."
+msgstr "Цим %s уже можна скористатися."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/generic_interactable/msg_says"
+msgid "%s\"This %s is ready to use.\""
+msgstr "%s\"Цим %s уже можна скористатися.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: shrine → святиня
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/shrine/text"
+msgid "I'll use the shrine."
+msgstr "Я скористаюся святинею."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: shrine → святиня
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/shrine/msg_says"
+msgid "%s\"I'll use the shrine.\""
+msgstr "%s\"Я скористаюся святинею.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: shrine → святиня, Daedalus → Дедал, Daedalus Shrine → святилище Дедала
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/daedalus/text"
+msgid "I'll use the Daedalus shrine."
+msgstr "Я скористаюся святилищем Дедала."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: shrine → святиня, Daedalus → Дедал, Daedalus Shrine → святилище Дедала
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/daedalus/msg_says"
+msgid "%s\"I'll use the Daedalus shrine.\""
+msgstr "%s\"Я скористаюся святилищем Дедала.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: shrine → святиня, Assist Shrine → святилище допомоги
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/assist_shrine/text"
+msgid "The Assist shrine is good to go."
+msgstr "Святилище допомоги готове."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: shrine → святиня, Assist Shrine → святилище допомоги
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/assist_shrine/msg_says"
+msgid "%s\"The Assist shrine is good to go.\""
+msgstr "%s\"Святилище допомоги готове.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: bell → дзвін
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/bell/text"
+msgid "I'll use the bell."
+msgstr "Я скористаюся дзвоном."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: bell → дзвін
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/bell/msg_says"
+msgid "%s\"I'll use the bell.\""
+msgstr "%s\"Я скористаюся дзвоном.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: exit → вихід
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/exit/text"
+msgid "I'm ready to use the exit."
+msgstr "Я готовий скористатися виходом."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: exit → вихід
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/exit/msg_says"
+msgid "%s\"I'm ready to use the exit.\""
+msgstr "%s\"Я готовий скористатися виходом.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Level → Рівень, secret level → таємний рівень
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/secret_exit/text"
+msgid "Let's leave the secret level."
+msgstr "Покиньмо таємний рівень."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/secret_exit/msg_says"
+msgid "%s\"Let's get out of this place!\""
+msgstr "%s\"Забираймося звідси!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/secret_entrance/text"
+msgid "Let's take the secret path."
+msgstr "Ходімо таємним шляхом."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/secret_entrance/msg_says"
+msgid "%s\"Let's take the secret path.\""
+msgstr "%s\"Ходімо таємним шляхом.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: gold piece → золота монета
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/gold/text"
+msgid "I'll carry the gold."
+msgstr "Я понесу золото."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: gold piece → золота монета
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/gold/msg_says"
+msgid "%s\"I'll carry the gold.\""
+msgstr "%s\"Я понесу золото.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: fountain → фонтан
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/fountain/text"
+msgid "I'll use the fountain."
+msgstr "Я скористаюся фонтаном."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: fountain → фонтан
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/fountain/msg_says"
+msgid "%s\"I'll use the fountain.\""
+msgstr "%s\"Я скористаюся фонтаном.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: sink → раковина
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/sink/text"
+msgid "I'll use the sink."
+msgstr "Я скористаюся раковиною."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: sink → раковина
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/sink/msg_says"
+msgid "%s\"I'll use the sink.\""
+msgstr "%s\"Я скористаюся раковиною.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: teleporter → телепорт
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/teleporter/text"
+msgid "I'll go through the teleporter."
+msgstr "Я пройду крізь телепорт."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: teleporter → телепорт
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/teleporter/msg_says"
+msgid "%s\"I'll go through the teleporter.\""
+msgstr "%s\"Я пройду крізь телепорт.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: ladder → драбина
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/teleporter_up/text"
+msgid "I'm climbing up this ladder."
+msgstr "Я піднімаюся цією драбиною."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: ladder → драбина
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/teleporter_up/msg_says"
+msgid "%s\"I'm climbing up this ladder.\""
+msgstr "%s\"Я піднімаюся цією драбиною.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: ladder → драбина
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/teleporter_down/text"
+msgid "I'm climbing down the ladder."
+msgstr "Я спускаюся драбиною."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: ladder → драбина
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/teleporter_down/msg_says"
+msgid "%s\"I'm climbing down the ladder.\""
+msgstr "%s\"Я спускаюся драбиною.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/bomb/text"
+msgid "This %s is good to go."
+msgstr "Цей %s готовий."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/bomb/msg_says"
+msgid "%s\"This %s is good to go.\""
+msgstr "%s\"Цей %s готовий.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command, excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/collider/text"
+msgid "Let's bust through this %s."
+msgstr "Проб'ємося крізь цей %s."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command, excited
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/7/text_maps/0/collider/msg_says"
+msgid "%s\"Let's bust through this %s.\""
+msgstr "%s\"Проб'ємося крізь цей %s.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/default/text"
+msgid "Give a thumbs down."
+msgstr "Покажіть палець униз."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/default/msg_emote_you"
+msgid "You give a thumbs down."
+msgstr "Ви показуєте палець униз."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/default/msg_emote"
+msgid "%s gives a thumbs down."
+msgstr "%s показує палець униз."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/location/text"
+msgid "Give a thumbs down here."
+msgstr "Покажіть тут палець униз."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/location/msg_emote_you"
+msgid "You give a thumbs down here."
+msgstr "Ви показуєте тут палець униз."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/location/msg_emote"
+msgid "%s gives a thumbs down here."
+msgstr "%s показує тут палець униз."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/item/text"
+msgid "This %s is no good for me."
+msgstr "Цей %s мені не годиться."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/item/msg_says"
+msgid "%s\"This %s is no good for me.\""
+msgstr "%s\"Цей %s мені не годиться.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/item_an/text"
+msgid "This %s is no good for me."
+msgstr "Цей %s мені не годиться."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/item_an/msg_says"
+msgid "%s\"This %s is no good for me.\""
+msgstr "%s\"Цей %s мені не годиться.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/npc/text"
+msgid "Avoid that %s!"
+msgstr "Уникайте цього %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/npc/msg_says"
+msgid "%s\"Avoid that %s!\""
+msgstr "%s\"Уникайте цього %s!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/npc_named/text"
+msgid "Avoid %s!"
+msgstr "Уникайте %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/npc_named/msg_says"
+msgid "%s\"Avoid %s!\""
+msgstr "%s\"Уникайте %s!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/npc_an/text"
+msgid "Avoid that %s!"
+msgstr "Уникайте цього %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/npc_an/msg_says"
+msgid "%s\"Avoid that %s!\""
+msgstr "%s\"Уникайте цього %s!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command, fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/npc_enemy_named/text"
+msgid "Flee from %s!"
+msgstr "Тікайте від %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command, fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/npc_enemy_named/msg_says"
+msgid "%s\"Flee from %s!\""
+msgstr "%s\"Тікайте від %s!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command, fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/npc_enemy/text"
+msgid "Flee from the %s!"
+msgstr "Тікайте від %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command, fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/npc_enemy/msg_says"
+msgid "%s\"Flee from the %s!\""
+msgstr "%s\"Тікайте від %s!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: ally → союзник
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/npc_ally/text"
+msgid "Our ally %s isn't up to the task."
+msgstr "Наш союзник %s не впорається."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: ally → союзник
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/npc_ally/msg_says"
+msgid "%s\"Our ally %s isn't up to the task.\""
+msgstr "%s\"Наш союзник %s не впорається.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: chest → скриня
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/chest/text"
+msgid "Nothing useful in this chest."
+msgstr "У цій скрині нічого корисного."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: chest → скриня
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/chest/msg_says"
+msgid "%s\"Nothing useful in this chest.\""
+msgstr "%s\"У цій скрині нічого корисного.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: switch → перемикач
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/switch_on/text"
+msgid "Leave that switch on!"
+msgstr "Не вимикайте перемикач!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: switch → перемикач
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/switch_on/msg_says"
+msgid "%s\"Leave that switch on!\""
+msgstr "%s\"Не вимикайте перемикач!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: switch → перемикач
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/switch_off/text"
+msgid "Leave that switch off!"
+msgstr "Не вмикайте перемикач!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: switch → перемикач
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/switch_off/msg_says"
+msgid "%s\"Leave that switch off!\""
+msgstr "%s\"Не вмикайте перемикач!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: button → кнопка
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/wall_button_on/text"
+msgid "Leave that button pressed!"
+msgstr "Залиште кнопку натиснутою!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: button → кнопка
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/wall_button_on/msg_says"
+msgid "%s\"Leave that button pressed!\""
+msgstr "%s\"Залиште кнопку натиснутою!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: button → кнопка
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/wall_button_off/text"
+msgid "Leave that button untouched!"
+msgstr "Не натискайте цю кнопку!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: button → кнопка
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/wall_button_off/msg_says"
+msgid "%s\"Leave that button untouched!\""
+msgstr "%s\"Не натискайте цю кнопку!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: key → ключ
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/wall_lock_on/text"
+msgid "Leave that %s key turned!"
+msgstr "Залиште ключ %s повернутим!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: key → ключ
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/wall_lock_on/msg_says"
+msgid "%s\"Leave that %s key turned!\""
+msgstr "%s\"Залиште ключ %s повернутим!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: key → ключ
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/wall_lock_off/text"
+msgid "Leave that %s key unturned!"
+msgstr "Не повертайте ключ %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: key → ключ
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/wall_lock_off/msg_says"
+msgid "%s\"Leave that %s key unturned!\""
+msgstr "%s\"Не повертайте ключ %s!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: lock → замок
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/wall_lock/text"
+msgid "Don't open that %s lock!"
+msgstr "Не відкривайте замок %s!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: lock → замок
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/wall_lock/msg_says"
+msgid "%s\"Don't open that %s lock!\""
+msgstr "%s\"Не відкривайте замок %s!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: switch → перемикач
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/switch/text"
+msgid "Don't touch that switch!"
+msgstr "Не чіпайте перемикач!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: switch → перемикач
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/switch/msg_says"
+msgid "%s\"Don't touch that switch!\""
+msgstr "%s\"Не чіпайте перемикач!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: boulder → валун
+#. тон: command, fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/boulder/text"
+msgid "Watch out for that boulder!"
+msgstr "Обережно, валун!"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: boulder → валун
+#. тон: command, fear
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/boulder/msg_says"
+msgid "%s\"Watch out for that boulder!\""
+msgstr "%s\"Обережно, валун!\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: threat
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/trap/text"
+msgid "That %s could be trouble."
+msgstr "Цей %s може завдати клопоту."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: threat
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/trap/msg_says"
+msgid "%s\"That %s could be trouble.\""
+msgstr "%s\"Цей %s може завдати клопоту.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/generic_interactable/text"
+msgid "Don't use that %s."
+msgstr "Не використовуйте цей %s."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/generic_interactable/msg_says"
+msgid "%s\"Don't use that %s.\""
+msgstr "%s\"Не використовуйте цей %s.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: shrine → святиня
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/shrine/text"
+msgid "Don't use that shrine."
+msgstr "Не використовуйте цю святиню."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: shrine → святиня
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/shrine/msg_says"
+msgid "%s\"Don't use that shrine.\""
+msgstr "%s\"Не використовуйте цю святиню.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: shrine → святиня, Daedalus → Дедал, Daedalus Shrine → святилище Дедала
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/daedalus/text"
+msgid "Don't use that Daedalus shrine."
+msgstr "Не використовуйте святилище Дедала."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: shrine → святиня, Daedalus → Дедал, Daedalus Shrine → святилище Дедала
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/daedalus/msg_says"
+msgid "%s\"Don't use that Daedalus shrine.\""
+msgstr "%s\"Не використовуйте святилище Дедала.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: shrine → святиня, Assist Shrine → святилище допомоги
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/assist_shrine/text"
+msgid "Don't use that Assist shrine."
+msgstr "Не використовуйте святилище допомоги."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: shrine → святиня, Assist Shrine → святилище допомоги
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/assist_shrine/msg_says"
+msgid "%s\"Don't use that Assist shrine.\""
+msgstr "%s\"Не використовуйте святилище допомоги.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: bell → дзвін
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/bell/text"
+msgid "Don't use that bell."
+msgstr "Не використовуйте цей дзвін."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: bell → дзвін
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/bell/msg_says"
+msgid "%s\"Don't use that bell.\""
+msgstr "%s\"Не використовуйте цей дзвін.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: exit → вихід
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/exit/text"
+msgid "I'm not ready to use the exit."
+msgstr "Я ще не готовий скористатися виходом."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/exit/msg_says"
+msgid "%s\"I'm not ready to leave yet.\""
+msgstr "%s\"Я ще не готовий іти звідси.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: Level → Рівень, secret level → таємний рівень
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/secret_exit/text"
+msgid "I'm not ready to leave the secret level."
+msgstr "Я ще не готовий покинути таємний рівень."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/secret_exit/msg_says"
+msgid "%s\"I'm not ready to leave this place yet.\""
+msgstr "%s\"Я ще не готовий покинути це місце.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/secret_entrance/text"
+msgid "We should avoid the secret path."
+msgstr "Нам варто уникати таємного шляху."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/secret_entrance/msg_says"
+msgid "%s\"We should avoid the secret path.\""
+msgstr "%s\"Нам варто уникати таємного шляху.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: gold piece → золота монета
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/gold/text"
+msgid "I don't need this gold."
+msgstr "Мені не потрібні ці золоті монети."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: gold piece → золота монета
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/gold/msg_says"
+msgid "%s\"I don't need this gold.\""
+msgstr "%s\"Мені не потрібні ці золоті монети.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: fountain → фонтан
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/fountain/text"
+msgid "This fountain is no good for me."
+msgstr "Цей фонтан мені не допоможе."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: fountain → фонтан
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/fountain/msg_says"
+msgid "%s\"This fountain is no good for me.\""
+msgstr "%s\"Цей фонтан мені не допоможе.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: sink → раковина
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/sink/text"
+msgid "This sink is no good for me."
+msgstr "Ця раковина мені не допоможе."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: sink → раковина
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/sink/msg_says"
+msgid "%s\"This sink is no good for me.\""
+msgstr "%s\"Ця раковина мені не допоможе.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: teleporter → телепорт
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/teleporter/text"
+msgid "I'm not ready to go through the teleporter yet."
+msgstr "Я ще не готовий пройти крізь телепорт."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: teleporter → телепорт
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/teleporter/msg_says"
+msgid "%s\"I'm not ready to go through the teleporter yet.\""
+msgstr "%s\"Я ще не готовий пройти крізь телепорт.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/teleporter_up/text"
+msgid "I'm not ready to ascend just yet."
+msgstr "Я ще не готовий піднятися."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/teleporter_up/msg_says"
+msgid "%s\"I'm not ready to ascend just yet.\""
+msgstr "%s\"Я ще не готовий піднятися.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/teleporter_down/text"
+msgid "I'm not ready to descend just yet."
+msgstr "Я ще не готовий спуститися."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/teleporter_down/msg_says"
+msgid "%s\"I'm not ready to descend just yet.\""
+msgstr "%s\"Я ще не готовий спуститися.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/bomb/text"
+msgid "Leave this %s alone."
+msgstr "Не чіпайте цей %s."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/bomb/msg_says"
+msgid "%s\"Leave this %s alone.\""
+msgstr "%s\"Не чіпайте цей %s.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/collider/text"
+msgid "Leave that %s alone."
+msgstr "Не чіпайте той %s."
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: command
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/8/text_maps/0/collider/msg_says"
+msgid "%s\"Leave that %s alone.\""
+msgstr "%s\"Не чіпайте той %s.\""
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: technical
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/9/text_maps/0/default/text"
+msgid "Cancel"
+msgstr "Скасувати"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: skill → навичка, Stat → характеристика
+#. тон: technical
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/10/text_maps/0/skill_missing_leader/text"
+msgid "Missing skill / stat requirement: %d / %d"
+msgstr "Не вистачає навички / характеристики: %d / %d"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: skill → навичка, Stat → характеристика
+#. тон: technical
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/10/text_maps/0/skill_missing_tinker/text"
+msgid "Missing skill / stat requirement: %d / %d "
+msgstr "Не вистачає навички / характеристики: %d / %d "
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: technical
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/10/text_maps/0/command_unavailable/text"
+msgid "Command unavailable for %s"
+msgstr "Команда недоступна для %s"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. сутності: floor → поверх, PER → ЧУТ
+#. тон: technical
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/10/text_maps/0/rest_cooldown/text"
+msgid "You may only use this command once per floor"
+msgstr "Цю команду можна використати лише раз на поверх"
+
+#. колесо реплік у мультиплеєрі: text — пункт меню; msg_says — репліка в чаті, %s на початку — ім'я гравця, лапки зберігати
+#. тон: technical
+#, fuzzy
+#: data/callout_wheel.json
+msgctxt "icons/10/text_maps/0/tinker_quality_low/text"
+msgid "Higher quality %s required"
+msgstr "Потрібен якісніший %s"

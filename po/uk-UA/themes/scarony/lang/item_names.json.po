@@ -1,0 +1,653 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: butcher knife → ніж м'ясника
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/bronze_sword/name_identified"
+msgid "butcher knife"
+msgstr "ніж м'ясника"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: butcher knife → ніж м'ясника
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/bronze_sword/name_unidentified"
+msgid "butcher knife"
+msgstr "ніж м'ясника"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: Bat → кажан
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/bronze_mace/name_identified"
+msgid "bat"
+msgstr "кажан"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: Bat → кажан
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/bronze_mace/name_unidentified"
+msgid "bat"
+msgstr "кажан"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: cleaver → тесак
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/bronze_axe/name_identified"
+msgid "cleaver"
+msgstr "тесак"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: cleaver → тесак
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/bronze_axe/name_unidentified"
+msgid "cleaver"
+msgstr "тесак"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: pitchfork → вила
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/iron_spear/name_identified"
+msgid "pitchfork"
+msgstr "вила"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: pitchfork → вила
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/iron_spear/name_unidentified"
+msgid "pitchfork"
+msgstr "вила"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: iron → залізо, iron cutlass → залізний абордажний меч
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/iron_sword/name_identified"
+msgid "iron cutlass"
+msgstr "залізний абордажний меч"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: iron → залізо, iron cutlass → залізний абордажний меч
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/iron_sword/name_unidentified"
+msgid "iron cutlass"
+msgstr "залізний абордажний меч"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: iron → залізо, iron hammer → залізний молот
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/iron_mace/name_identified"
+msgid "iron hammer"
+msgstr "залізний молот"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: iron → залізо, iron hammer → залізний молот
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/iron_mace/name_unidentified"
+msgid "iron hammer"
+msgstr "залізний молот"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: iron → залізо, iron hook → залізний гак
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/iron_axe/name_identified"
+msgid "iron hook"
+msgstr "залізний гак"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: iron → залізо, iron hook → залізний гак
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/iron_axe/name_unidentified"
+msgid "iron hook"
+msgstr "залізний гак"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: steel → сталь, steel scythe → сталева коса
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/steel_halberd/name_identified"
+msgid "steel scythe"
+msgstr "сталева коса"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: steel → сталь, steel scythe → сталева коса
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/steel_halberd/name_unidentified"
+msgid "steel scythe"
+msgstr "сталева коса"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: Axe → сокира, batwing axe → кажанокрила сокира
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/steel_axe/name_identified"
+msgid "batwing axe"
+msgstr "кажанокрила сокира"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: Axe → сокира, batwing axe → кажанокрила сокира
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/steel_axe/name_unidentified"
+msgid "batwing axe"
+msgstr "кажанокрила сокира"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: back costume → костюм на спину
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/cloak/name_identified"
+msgid "back costume"
+msgstr "костюм на спину"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: back costume → костюм на спину
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/cloak/name_unidentified"
+msgid "back costume"
+msgstr "костюм на спину"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: Magic → магія, magic reflection → відбиття магії, back costume → костюм на спину, back costume of magic reflection → костюм на спину з відбиттям магії
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/cloak_magicreflection/name_identified"
+msgid "back costume of magic reflection"
+msgstr "костюм на спину з відбиттям магії"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: back costume → костюм на спину
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/cloak_magicreflection/name_unidentified"
+msgid "back costume"
+msgstr "костюм на спину"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: Invisibility → невидимість, back costume → костюм на спину, back costume of Invisibility → костюм на спину з невидимістю
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/cloak_invisibility/name_identified"
+msgid "back costume of invisibility"
+msgstr "костюм на спину з невидимістю"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: back costume → костюм на спину
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/cloak_invisibility/name_unidentified"
+msgid "back costume"
+msgstr "костюм на спину"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: protection → захист, back costume → костюм на спину, back costume of protection → костюм на спину із захистом
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/cloak_protection/name_identified"
+msgid "back costume of protection"
+msgstr "костюм на спину із захистом"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: back costume → костюм на спину
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/cloak_protection/name_unidentified"
+msgid "back costume"
+msgstr "костюм на спину"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: pharaoh headdress → головний убір фараона
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/hat_phrygian/name_identified"
+msgid "pharaoh headdress"
+msgstr "головний убір фараона"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: pharaoh headdress → головний убір фараона
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/hat_phrygian/name_unidentified"
+msgid "pharaoh headdress"
+msgstr "головний убір фараона"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: head costume → костюмний головний убір
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/hat_hood/name_identified"
+msgid "head costume"
+msgstr "костюмний головний убір"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: head costume → костюмний головний убір
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/hat_hood/name_unidentified"
+msgid "head costume"
+msgstr "костюмний головний убір"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: mask → маска, scary mask → страшна маска
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/mask_steel_visor/name_identified"
+msgid "scary mask"
+msgstr "страшна маска"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: mask → маска, scary mask → страшна маска
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/mask_steel_visor/name_unidentified"
+msgid "scary mask"
+msgstr "страшна маска"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: hat → капелюх, witch hat → відьомський капелюх
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/hat_wizard/name_identified"
+msgid "witch hat"
+msgstr "відьомський капелюх"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: hat → капелюх, witch hat → відьомський капелюх
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/hat_wizard/name_unidentified"
+msgid "witch hat"
+msgstr "відьомський капелюх"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: clown wig → клоунська перука
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/hat_jester/name_identified"
+msgid "clown wig"
+msgstr "клоунська перука"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: clown wig → клоунська перука
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/hat_jester/name_unidentified"
+msgid "clown wig"
+msgstr "клоунська перука"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: comedy headband → комедійна пов'язка
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/leather_helm/name_identified"
+msgid "comedy headband"
+msgstr "комедійна пов'язка"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: comedy headband → комедійна пов'язка
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/leather_helm/name_unidentified"
+msgid "comedy headband"
+msgstr "комедійна пов'язка"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: helmet → шолом, warlock helmet → шолом чаклуна
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/iron_helm/name_identified"
+msgid "warlock helmet"
+msgstr "шолом чаклуна"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: helmet → шолом, warlock helmet → шолом чаклуна
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/iron_helm/name_unidentified"
+msgid "warlock helmet"
+msgstr "шолом чаклуна"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: helmet → шолом, costume helmet → костюмний шолом
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/steel_helm/name_identified"
+msgid "costume helmet"
+msgstr "костюмний шолом"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: helmet → шолом, costume helmet → костюмний шолом
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/steel_helm/name_unidentified"
+msgid "costume helmet"
+msgstr "костюмний шолом"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: Scroll → Сувій, candy → цукерка, scroll of candy → сувій цукерок
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/scroll_food/name_identified"
+msgid "scroll of candy"
+msgstr "сувій цукерок"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: Scroll → Сувій
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/scroll_food/name_unidentified"
+msgid "scroll"
+msgstr "сувій"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: scissors → ножиці
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/tool_tinopener/name_identified"
+msgid "scissors"
+msgstr "ножиці"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: scissors → ножиці
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/tool_tinopener/name_unidentified"
+msgid "scissors"
+msgstr "ножиці"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: spirit → дух, Flame → полум'я, spirit flame → примарне полум'я
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/tool_torch/name_identified"
+msgid "spirit flame"
+msgstr "примарне полум'я"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: spirit → дух, Flame → полум'я, spirit flame → примарне полум'я
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/tool_torch/name_unidentified"
+msgid "spirit flame"
+msgstr "примарне полум'я"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: Jack → Джек, lantern → ліхтар, jack-o-lantern → гарбузовий ліхтар
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/tool_lantern/name_identified"
+msgid "jack-o-lantern"
+msgstr "гарбузовий ліхтар"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: Jack → Джек, lantern → ліхтар, jack-o-lantern → гарбузовий ліхтар
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/tool_lantern/name_unidentified"
+msgid "jack-o-lantern"
+msgstr "гарбузовий ліхтар"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: disguise glasses → маскувальні окуляри
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/tool_glasses/name_identified"
+msgid "disguise glasses"
+msgstr "маскувальні окуляри"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: disguise glasses → маскувальні окуляри
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/tool_glasses/name_unidentified"
+msgid "disguise glasses"
+msgstr "маскувальні окуляри"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: lollipop → льодяник на паличці
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/food_bread/name_identified"
+msgid "lollipop"
+msgstr "льодяник на паличці"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: lollipop → льодяник на паличці
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/food_bread/name_unidentified"
+msgid "lollipop"
+msgstr "льодяник на паличці"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: chocolate chew → жувальна шоколадна цукерка
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/food_cheese/name_identified"
+msgid "chocolate chew"
+msgstr "жувальна шоколадна цукерка"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: chocolate chew → жувальна шоколадна цукерка
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/food_cheese/name_unidentified"
+msgid "chocolate chew"
+msgstr "жувальна шоколадна цукерка"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: apple → яблуко, caramel apple → яблуко в карамелі
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/food_apple/name_identified"
+msgid "caramel apple"
+msgstr "яблуко в карамелі"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: apple → яблуко, caramel apple → яблуко в карамелі
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/food_apple/name_unidentified"
+msgid "caramel apple"
+msgstr "яблуко в карамелі"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: candy → цукерка, candy bar → солодкий батончик, king-size candy bar → великий солодкий батончик
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/food_meat/name_identified"
+msgid "king-size candy bar"
+msgstr "великий солодкий батончик"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: candy → цукерка, candy bar → солодкий батончик, king-size candy bar → великий солодкий батончик
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/food_meat/name_unidentified"
+msgid "king-size candy bar"
+msgstr "великий солодкий батончик"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: candy → цукерка, candy skull → цукерковий череп
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/food_fish/name_identified"
+msgid "candy skull"
+msgstr "цукерковий череп"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: candy → цукерка, candy skull → цукерковий череп
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/food_fish/name_unidentified"
+msgid "candy skull"
+msgstr "цукерковий череп"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: sack → мішок, fun-size sack → маленький мішечок
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/food_tin/name_identified"
+msgid "fun-size sack"
+msgstr "маленький мішечок"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: sack → мішок, fun-size sack → маленький мішечок
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/food_tin/name_unidentified"
+msgid "fun-size sack"
+msgstr "маленький мішечок"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: Bat → кажан, Symbol → священний символ, blue bat symbol → синій символ кажана
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/artifact_orb_blue/name_identified"
+msgid "blue bat symbol"
+msgstr "синій символ кажана"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: Bat → кажан, Symbol → священний символ, blue bat symbol → синій символ кажана
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/artifact_orb_blue/name_unidentified"
+msgid "blue bat symbol"
+msgstr "синій символ кажана"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: Symbol → священний символ, orange punkin symbol → помаранчевий символ гарбузика
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/artifact_orb_red/name_identified"
+msgid "orange punkin symbol"
+msgstr "помаранчевий символ гарбузика"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: Symbol → священний символ, orange punkin symbol → помаранчевий символ гарбузика
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/artifact_orb_red/name_unidentified"
+msgid "orange punkin symbol"
+msgstr "помаранчевий символ гарбузика"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: Ghost → привид, Symbol → священний символ, violet ghost symbol → фіолетовий символ привида
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/artifact_orb_purple/name_identified"
+msgid "violet ghost symbol"
+msgstr "фіолетовий символ привида"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: Ghost → привид, Symbol → священний символ, violet ghost symbol → фіолетовий символ привида
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/artifact_orb_purple/name_unidentified"
+msgid "violet ghost symbol"
+msgstr "фіолетовий символ привида"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: Symbol → священний символ, green skull symbol → зелений символ черепа
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/artifact_orb_green/name_identified"
+msgid "green skull symbol"
+msgstr "зелений символ черепа"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: Symbol → священний символ, green skull symbol → зелений символ черепа
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/artifact_orb_green/name_unidentified"
+msgid "green skull symbol"
+msgstr "зелений символ черепа"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: kitty ears → котячі вушка
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/hat_fez/name_identified"
+msgid "kitty ears"
+msgstr "котячі вушка"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: kitty ears → котячі вушка
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/hat_fez/name_unidentified"
+msgid "kitty ears"
+msgstr "котячі вушка"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: pillow case → наволочка
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/cloak_backpack/name_identified"
+msgid "pillow case"
+msgstr "наволочка"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: pillow case → наволочка
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/cloak_backpack/name_unidentified"
+msgid "pillow case"
+msgstr "наволочка"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: spellbook → книга заклять, candy → цукерка, spellbook of Detect Candy → книга заклять виявлення цукерок, Detect Candy → виявлення цукерок
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/spellbook_detect_food/name_identified"
+msgid "spellbook of detect candy"
+msgstr "книга заклять виявлення цукерок"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: spellbook → книга заклять
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "items/spellbook_detect_food/name_unidentified"
+msgid "spellbook"
+msgstr "книга заклять"
+
+#. назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери
+#. сутності: candy → цукерка, Detect Candy → виявлення цукерок
+#. тон: joke
+#, fuzzy
+#: themes/scarony/lang/item_names.json
+msgctxt "spell_names/spell_detect_food/name"
+msgid "Detect Candy"
+msgstr "виявлення цукерок"

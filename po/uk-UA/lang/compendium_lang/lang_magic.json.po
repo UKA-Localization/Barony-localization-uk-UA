@@ -1,0 +1,1070 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: party → група
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "blessings/blurb/0"
+msgid "In war, or in adventuring parties, those"
+msgstr "На війні чи в групах шукачів пригод ті,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: blessing → благословення
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "blessings/blurb/1"
+msgid "who offer BLESSINGS are in high demand."
+msgstr "хто дарує БЛАГОСЛОВЕННЯ, вельми цінні."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: thaumaturgist → тауматург
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "blessings/blurb/2"
+msgid "They benefit both the thaumaturgist, plus"
+msgstr "Вони корисні як самому тауматургу, так і"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: ally → союзник, Follower → послідовник
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "blessings/blurb/3"
+msgid "nearby followers and allies."
+msgstr "послідовникам та союзникам поблизу."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Status Effect → ефект стану, blessing → благословення
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "blessings/blurb/5"
+msgid "Some blessings have lasting effects."
+msgstr "Деякі благословення мають тривалі ефекти."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Magic → магія
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "contravention/blurb/0"
+msgid "While most magic could be described as"
+msgstr "Більшість магії можна описати як"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "contravention/blurb/1"
+msgid "breaking the rules of reality, the study"
+msgstr "порушення законів реальності, але"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Contravention → контравенція, Sorcerer → чаклун
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "contravention/blurb/2"
+msgid "of CONTRAVENTION allows sorcerers to"
+msgstr "вивчення КОНТРАВЕНЦІЇ дає чаклунам"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Effect → ефект
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "contravention/blurb/3"
+msgid "change how rules effect one's self."
+msgstr "змінювати дію законів на себе."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Magic → магія, EN → ЕН
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "contravention/blurb/4"
+msgid "This requires ongoing magic energy to"
+msgstr "Ефект потребує постійного живлення магією,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: will → воля
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "contravention/blurb/5"
+msgid "sustain, but can be disabled at will."
+msgstr "але його можна вимкнути за власною волею."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Magic → магія, Daimonia → Даймонія
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "daimonia/blurb/0"
+msgid "DAIMONIA is the craft of using magic to"
+msgstr "ДАЙМОНІЯ — мистецтво за допомогою магії"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: will → воля, spirit → дух, compelled → примусове підкорення
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "daimonia/blurb/1"
+msgid "tap into the will of spirits, compelling their"
+msgstr "торкатися волі духів і примусово"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: influence → вплив
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "daimonia/blurb/2"
+msgid "influence with transformative results."
+msgstr "підкорювати їхній вплив задля перетворень."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "daimonia/blurb/3"
+msgid "Though shunned by civilized society,"
+msgstr "Хоч цивілізоване суспільство це засуджує,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: spirit → дух, Mystic → містик
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "daimonia/blurb/4"
+msgid "some mystics claim that their own spirit"
+msgstr "деякі містики твердять, що їхній дух"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "daimonia/blurb/5"
+msgid "is incomplete without this communion."
+msgstr "неповний без такого єднання."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Divination → віщування
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "divinations/blurb/0"
+msgid "DIVINATIONS grant access to hidden"
+msgstr "ВІЩУВАННЯ дають доступ до прихованих"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "divinations/blurb/1"
+msgid "knowledge, revealing information that"
+msgstr "знань, розкриваючи те, чого"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "divinations/blurb/2"
+msgid "there may be no other way to know."
+msgstr "інакше, можливо, не дізнатися."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: thaumaturgist → тауматург
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "divinations/blurb/4"
+msgid "Practicing thaumaturgists claim"
+msgstr "Тауматурги-практики твердять,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: ATK → АТК
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "divinations/blurb/5"
+msgid "that knowledge is power."
+msgstr "що знання — це сила."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: amulet → амулет
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "enchanted amulets/blurb/0"
+msgid "AMULETS provide reactive benefits"
+msgstr "АМУЛЕТИ дають власникові захист,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "enchanted amulets/blurb/1"
+msgid "to their wearer, often intervening"
+msgstr "часто самі оберігаючи його"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Time → час
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "enchanted amulets/blurb/2"
+msgid "against harm a number of times"
+msgstr "від шкоди кілька разів,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Magic → магія
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "enchanted amulets/blurb/3"
+msgid "until their magic is spent."
+msgstr "доки їхня магія не вичерпається."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: amulet → амулет
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "enchanted amulets/blurb/4"
+msgid "Some amulets have the opposite objective."
+msgstr "Деякі амулети мають протилежну мету."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "enchanted amulets/blurb/5"
+msgid "It is wise to appraise before wearing."
+msgstr "Варто оцінити їх перед носінням."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: enchanted → зачарований, feather → перо, Depleted → вичерпаний, enchanted feather → зачароване перо
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "enchanted feather/blurb/0"
+msgid "The ENCHANTED FEATHER can be depleted to"
+msgstr "ЗАЧАРОВАНЕ ПЕРО можна вичерпати, щоб"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: spellbook → книга заклять, Magic → магія, Restore → відновлення
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "enchanted feather/blurb/1"
+msgid "restore spellbooks or inscribe magic words"
+msgstr "відновлювати книги заклять чи наносити"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Scroll → Сувій, blank scroll → порожній сувій
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "enchanted feather/blurb/2"
+msgid "onto a blank scroll."
+msgstr "магічні слова на порожній сувій."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Magic → магія
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "enchanted feather/blurb/3"
+msgid "Only those who know the magic"
+msgstr "Лише ті, хто знає магічні"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "enchanted feather/blurb/4"
+msgid "words can inscribe with purpose."
+msgstr "слова, можуть писати свідомо."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Depleted → вичерпаний, feather → перо
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "enchanted feather/blurb/5"
+msgid "Depleted feathers may be recharged."
+msgstr "Вичерпані пера можна перезарядити."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Ring → перстень, Magic → магія
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "enchanted rings/blurb/0"
+msgid "Adventurers covet magical RINGS for"
+msgstr "Шукачі пригод жадають магічних ПЕРСТНІВ"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Magic → магія
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "enchanted rings/blurb/1"
+msgid "the passive magical benefits they"
+msgstr "за їхні пасивні магічні переваги"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Status Effect → ефект стану
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "enchanted rings/blurb/2"
+msgid "provide, with effects that range"
+msgstr "з ефектами, що бувають"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "enchanted rings/blurb/3"
+msgid "from mild, to situational, to"
+msgstr "слабкими, ситуативними або"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "enchanted rings/blurb/4"
+msgid "extremely powerful."
+msgstr "надзвичайно потужними."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Ring → перстень, Magic → магія
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "enchanted rings/blurb/5"
+msgid "Magical rings may change the world."
+msgstr "Магічні персні здатні змінити світ."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Evocation → евокація, Sorcerer → чаклун
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "evocation/blurb/0"
+msgid "Sorcerers practice EVOCATION to conjure"
+msgstr "Чаклуни практикують ЕВОКАЦІЮ, щоб творити"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: material → матеріал
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "evocation/blurb/1"
+msgid "energies and material using their minds."
+msgstr "енергію й матеріал силою думки."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "evocation/blurb/2"
+msgid "Largely this is used to launch harmful"
+msgstr "Шукачі пригод здебільшого застосовують її,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: projectile → снаряд, enemy → ворог
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "evocation/blurb/3"
+msgid "projectiles at enemies by adventurers,"
+msgstr "щоб метати в ворогів згубні снаряди,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Effect → ефект
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "evocation/blurb/4"
+msgid "many of which leave a lasting effect"
+msgstr "багато з яких лишають тривалий ефект,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "evocation/blurb/5"
+msgid "that may continue to harm the target."
+msgstr "що й далі може завдавати цілі шкоди."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Impeturia → Імпетурія, Mystic → містик
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "impeturia/blurb/0"
+msgid "Mystics who practice IMPETURIA do so by"
+msgstr "Містики практикують ІМПЕТУРІЮ,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: object → об'єкт, spirit → дух
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "impeturia/blurb/1"
+msgid "calling to the spirit of the object they"
+msgstr "звертаючись до духу об'єкта, яким"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: compelled → примусове підкорення
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "impeturia/blurb/2"
+msgid "wish to manipulate, and compel it to alter"
+msgstr "хочуть керувати, і примусово підкорюють"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Sorcerer → чаклун
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "impeturia/blurb/3"
+msgid "its state. Sorcerers attempting to do the"
+msgstr "його стан. Чаклуни, що намагалися"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Kinesis → кінезис
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "impeturia/blurb/4"
+msgid "same thing with kinesis have so far been"
+msgstr "намагалися зробити те саме кінезисом,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "impeturia/blurb/5"
+msgid "unsuccessful."
+msgstr "це досі не вдалося."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Kinesis → кінезис, Sorcerer → чаклун
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "kinesis/blurb/0"
+msgid "Sorcerers practice KINESIS to move"
+msgstr "Чаклуни практикують КІНЕЗИС, щоб рухати"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "kinesis/blurb/1"
+msgid "things with their minds. While trying to"
+msgstr "речі силою думки. Прагнучи поліпшити"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "kinesis/blurb/2"
+msgid "improve control and accuracy, they have"
+msgstr "контроль і точність, вони випадково"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "kinesis/blurb/3"
+msgid "stumbled upon other innovations, but"
+msgstr "здійснили й інші відкриття, але"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "kinesis/blurb/4"
+msgid "precise manipulation remains difficult."
+msgstr "точне маніпулювання досі складне."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: weapon → зброя, Any → будь-який
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "magicstaffs/blurb/0"
+msgid "These weapons allow any adventurer, no"
+msgstr "Ця зброя дозволяє кожному шукачеві пригод,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Spell → Закляття, Magic → магія, Fire → вогонь, mundane → звичайний
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "magicstaffs/blurb/1"
+msgid "matter how mundane, to fire magical spells."
+msgstr "навіть звичайному, чаклувати закляття."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: staff → посох
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "magicstaffs/blurb/3"
+msgid "The color of the staff indicates"
+msgstr "Колір посоха вказує,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Spell → Закляття, Strength → сила
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "magicstaffs/blurb/4"
+msgid "what kinds of spells it might contain."
+msgstr "які закляття він може містити."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Item → предмет, Depleted → вичерпаний
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "magicstaffs/blurb/5"
+msgid "The item always breaks when depleted."
+msgstr "Вичерпаний предмет завжди ламається."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Magician → маг, simple → простий, Meditation → медитація
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "meditations/blurb/0"
+msgid "A simple MEDITATION is most magicians'"
+msgstr "Проста МЕДИТАЦІЯ для більшості магів —"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Thaumaturgy → тавматургія
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "meditations/blurb/1"
+msgid "first introduction to thaumaturgy."
+msgstr "перше знайомство з тавматургією."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Spell → Закляття
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "meditations/blurb/3"
+msgid "These spells require concentration to"
+msgstr "Ці закляття потребують зосередження,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Effect → ефект, will → воля, caster → заклинач
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "meditations/blurb/4"
+msgid "sustain, and will only effect the caster,"
+msgstr "діють лише на заклинача, доки той їх підтримує,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: will → воля
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "meditations/blurb/5"
+msgid "but they can be dismissed at will."
+msgstr "але їх можна розвіяти за власною волею."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Time → час
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "miraculous feats/blurb/0"
+msgid "Those in ancient times who performed"
+msgstr "Ті, хто в прадавні часи вершили"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Miraculous Feat → чудесне діяння
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "miraculous feats/blurb/1"
+msgid "MIRACULOUS FEATS are the first known"
+msgstr "ЧУДЕСНІ ДІЯННЯ, були першими відомими"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: spellcasting → чаклування, thaumaturgist → тауматург
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "miraculous feats/blurb/2"
+msgid "thaumaturgists. Casting immediately"
+msgstr "тауматургами. Чаклування одразу"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Action → дія
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "miraculous feats/blurb/3"
+msgid "performs a single wonderous action."
+msgstr "звершує одне дивовижне діяння."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "miraculous feats/blurb/4"
+msgid "It is taught that aligning one's self with"
+msgstr "Вчення каже: присвятивши себе"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: will → воля
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "miraculous feats/blurb/5"
+msgid "great purpose will yield these powers."
+msgstr "великій меті, ви здобудете ці сили."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "psianimus/blurb/0"
+msgid "The most commonly practiced of the"
+msgstr "Найпоширеніше серед"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Psianimus → Псіанімус, Mystic → містик
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "psianimus/blurb/1"
+msgid "mystic's arts, PSIANIMUS is the craft"
+msgstr "мистецтв містиків, ПСІАНІМУС — уміння"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Magic → магія
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "psianimus/blurb/2"
+msgid "of using magic to alter the mind of a"
+msgstr "за допомогою магії змінювати розум"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "psianimus/blurb/3"
+msgid "living (or unliving) target."
+msgstr "живої (або неживої) цілі."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Status Effect → ефект стану
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "psianimus/blurb/4"
+msgid "The effects are usually temporary,"
+msgstr "Зазвичай ці ефекти тимчасові,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Strength → сила
+#. тон: sarcasm
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "psianimus/blurb/5"
+msgid "otherwise its reputation might differ."
+msgstr "інакше слава була б у нього геть інша."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: threat
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "sarkomancy/blurb/0"
+msgid "Considered a forbidden and dark art by"
+msgstr "Церква вважає її забороненим темним"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Church → Церква, Sarkomancy → Саркомантія
+#. тон: threat
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "sarkomancy/blurb/1"
+msgid "the church, SARKOMANCY is the craft of"
+msgstr "мистецтвом. САРКОМАНТІЯ — це вміння"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Magic → магія
+#. тон: threat
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "sarkomancy/blurb/2"
+msgid "using magic to manipulate the body,"
+msgstr "за допомогою магії підкоряти тіло,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: threat
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "sarkomancy/blurb/3"
+msgid "usually against unwilling targets."
+msgstr "зазвичай проти волі цілі."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Magic → магія
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "sarkomancy/blurb/4"
+msgid "Uses of this magic to benefit one's"
+msgstr "Кажуть, ніби ця магія може піти"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "sarkomancy/blurb/5"
+msgid "own body are said to only be rumors."
+msgstr "на користь власному тілу, та це лиш чутки."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Scroll → Сувій, Any → будь-який
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "scrolls/blurb/0"
+msgid "A scroll can be invoked by any adventurer"
+msgstr "Будь-який шукач пригод може активувати сувій,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Spell → Закляття
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "scrolls/blurb/1"
+msgid "to spend its stored spell, however it is"
+msgstr "щоб вивільнити збережене закляття, але"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "scrolls/blurb/2"
+msgid "immediately consumed upon use."
+msgstr "після використання той одразу зникає."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Spell → Закляття, Scroll → Сувій
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "scrolls/blurb/3"
+msgid "Some spells can only be found on scrolls."
+msgstr "Деякі закляття трапляються лише в сувоях."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Scroll → Сувій, blank scroll → порожній сувій
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "scrolls/blurb/4"
+msgid "Blank scrolls may later be inscribed,"
+msgstr "На порожніх сувоях згодом можна писати,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: tool → інструмент
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "scrolls/blurb/5"
+msgid "with the right tools and knowledge."
+msgstr "якщо маєте належні знання й інструменти."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Magic → магія
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "temulturgy/blurb/0"
+msgid "Sometimes magic is needed that does"
+msgstr "Іноді потрібна магія, що не просто"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "temulturgy/blurb/1"
+msgid "not simply hurl one force at another."
+msgstr "жбурляє одну силу проти іншої."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Temulturgy → темултургія
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "temulturgy/blurb/2"
+msgid "The study of TEMULTURGY is specialized"
+msgstr "Вивчення ТЕМУЛТУРГІЇ спрямоване"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: object → об'єкт
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "temulturgy/blurb/3"
+msgid "toward disrupting an object's structure."
+msgstr "на руйнування структури об'єкта."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Sorcerer → чаклун
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "temulturgy/blurb/4"
+msgid "So far sorcerers haven't figured out"
+msgstr "Досі чаклуни не збагнули,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "temulturgy/blurb/5"
+msgid "how to practice this on living targets."
+msgstr "як застосовувати її до живих цілей."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: threat
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "scepter/blurb/0"
+msgid "With its incredible destructive potential"
+msgstr "Неймовірний руйнівний потенціал"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: archon scepter → скіпетр архонта, scepter → скіпетр
+#. тон: threat
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "scepter/blurb/1"
+msgid "the ARCHON SCEPTER is fed by the wielder's"
+msgstr "СКІПЕТРА АРХОНТА живлять спогади,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: threat
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "scepter/blurb/2"
+msgid "surrendered memories."
+msgstr "якими жертвує його власник."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: sarcasm, threat
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "scepter/blurb/3"
+msgid "Those found wielding one usually claim"
+msgstr "Ті, кого застають із ним, зазвичай кажуть,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: sarcasm, threat
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "scepter/blurb/4"
+msgid "they own it by birthright. Others cannot"
+msgstr "що мають на нього право від народження. Інші"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: sarcasm, threat
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "scepter/blurb/5"
+msgid "recall where they obtained it."
+msgstr "не пам'ятають, де його здобули."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Elemental → елементаль, Sorcerer → чаклун
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "source_foci/blurb/0"
+msgid "Sorcerers often carry raw elemental"
+msgstr "Чаклуни часто носять первісні прояви"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Source Focus → фокус Джерела
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "source_foci/blurb/1"
+msgid "manifestations as SOURCE FOCI, improving"
+msgstr "стихій як ФОКУСИ ДЖЕРЕЛА, посилюючи"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Magic → магія
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "source_foci/blurb/2"
+msgid "their connection to magical energies."
+msgstr "свій зв'язок із магічними енергіями."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "source_foci/blurb/3"
+msgid "Each one emits a glow, and readily"
+msgstr "Кожен із них сяє та легко"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Evocation → евокація
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "source_foci/blurb/4"
+msgid "provides a channel for rapid evocation"
+msgstr "слугує каналом для швидкої евокації,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "source_foci/blurb/5"
+msgid "when needed for dealing with threats."
+msgstr "коли треба впоратися із загрозами."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: spellcasting → чаклування, Darkness → темрява
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "holy_symbols/blurb/0"
+msgid "Casting out darkness wherever they go,"
+msgstr "Розсіюючи темряву на своєму шляху,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Symbol → священний символ, thaumaturgist → тауматург
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "holy_symbols/blurb/1"
+msgid "devout thaumaturgists wield HOLY SYMBOLS."
+msgstr "побожні тауматурги несуть СВЯЩЕННІ СИМВОЛИ."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Prayer → молитва
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "holy_symbols/blurb/2"
+msgid "Dedicating a prayer with one of these in"
+msgstr "Якщо присвятити молитву, тримаючи один"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Any → будь-який, blessing → благословення
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "holy_symbols/blurb/3"
+msgid "hand provides its blessing to any willing"
+msgstr "із них, його благословення осяє кожну охочу"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: soul → душа, Magic → магія
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "holy_symbols/blurb/4"
+msgid "soul when the magical chant concludes."
+msgstr "душу, щойно завершиться магічний спів."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Effect → ефект, Time → час
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "holy_symbols/blurb/5"
+msgid "Taking more time improves the effect."
+msgstr "Що довше він триває, то сильніший ефект."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Dark Icon → темна ікона, Mystic → містик
+#. тон: threat
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "dark_icons/blurb/0"
+msgid "DARK ICONS are used by mystics to"
+msgstr "ТЕМНІ ІКОНИ містики використовують, щоб"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Magic → магія
+#. тон: threat
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "dark_icons/blurb/1"
+msgid "channel their magical arts to lay"
+msgstr "щоб спрямовувати магічне мистецтво й"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: curse → прокляття, enemy → ворог
+#. тон: threat
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "dark_icons/blurb/2"
+msgid "curses against their enemies."
+msgstr "проклинати своїх ворогів."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: malus → штраф
+#. тон: threat
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "dark_icons/blurb/3"
+msgid "Each one provides its own malus that"
+msgstr "Кожна накладає власний штраф, який"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: caster → заклинач
+#. тон: threat
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "dark_icons/blurb/4"
+msgid "the caster invokes with whispers,"
+msgstr "заклинач викликає шепотом,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: enemy → ворог
+#. тон: threat
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "dark_icons/blurb/5"
+msgid "hindering enemies from some distance."
+msgstr "ослаблюючи ворогів здалеку."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: mundane → звичайний
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "instruments/blurb/0"
+msgid "While mundane on their own, MUSICAL"
+msgstr "Самі собою звичайні, МУЗИЧНІ"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Magic → магія, instrument → музичний інструмент
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "instruments/blurb/1"
+msgid "INSTRUMENTS channel magic from the"
+msgstr "ІНСТРУМЕНТИ спрямовують магію з"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: multiplayer → багатокористувацька гра, spirit → дух
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "instruments/blurb/2"
+msgid "musician's spirit, uplifting friends"
+msgstr "духу музиканта, надихаючи друзів,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "instruments/blurb/3"
+msgid "who are present to hear it."
+msgstr "які зібралися їх послухати."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "instruments/blurb/4"
+msgid "When played with dedication and care,"
+msgstr "Якщо грати віддано й дбайливо,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "instruments/blurb/5"
+msgid "songs hang in the air for a while."
+msgstr "пісні ще довго лунають у повітрі."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: jewel → коштовність
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "jewels/blurb/0"
+msgid "JEWELS are valuable and alluring to"
+msgstr "КОШТОВНОСТІ цінні й привабливі для"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: creature → істота
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "jewels/blurb/1"
+msgid "most intelligent creatures, serving"
+msgstr "більшості розумних істот і слугують"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Follower → послідовник
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "jewels/blurb/2"
+msgid "as fine payment for loyal followers."
+msgstr "доброю платою вірним послідовникам."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: gemstone → коштовний камінь
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "jewels/blurb/3"
+msgid "Many jewelers embed their gemstones"
+msgstr "Чимало Ювелірів оправляють коштовні"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: gold piece → золота монета
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "jewels/blurb/4"
+msgid "in gold, enhancing their beauty"
+msgstr "камені в золото, примножуючи їхню"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_magic.json
+msgctxt "jewels/blurb/5"
+msgid "in addition to their value."
+msgstr "красу разом із цінністю."

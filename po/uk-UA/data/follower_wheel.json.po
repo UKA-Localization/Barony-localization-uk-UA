@@ -1,0 +1,467 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/0/text_maps/0/wait_here/text"
+msgid "Wait Here"
+msgstr "Чекайте тут"
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/0/text_maps/0/follow/text"
+msgid "Follow"
+msgstr "Ідіть за мною"
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/0/text_maps/0/wait_here_all/text"
+msgid "(ALL) Wait Here"
+msgstr "(УСІ) Чекайте тут"
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/0/text_maps/0/follow_all/text"
+msgid "(ALL) Follow"
+msgstr "(УСІ) За мною"
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/1/text_maps/0/default/text"
+msgid "Move Aside"
+msgstr "Відійдіть"
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/2/text_maps/0/default/text"
+msgid "Move to..."
+msgstr "Ідіть до..."
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/3/text_maps/0/default/text"
+msgid "Attack..."
+msgstr "Атакуйте..."
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/4/text_maps/0/default/text"
+msgid "Attack / Interact with..."
+msgstr "Атакуйте / взаємодійте..."
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/5/text_maps/0/default/text"
+msgid "Interact..."
+msgstr "Взаємодійте..."
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/6/text_maps/0/default/text"
+msgid "Rest"
+msgstr "Відпочиньте"
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: weapon → зброя
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/7/text_maps/0/leader_drop_weapon/text"
+msgid "Drop Weapon"
+msgstr "Киньте зброю"
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: equipment → спорядження
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/7/text_maps/0/leader_drop_equipment/text"
+msgid "Drop Equipment"
+msgstr "Киньте спорядження"
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/7/text_maps/0/leader_drop_all/text"
+msgid "Drop All"
+msgstr "Киньте все"
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: equipment → спорядження, Any → будь-який
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/8/text_maps/0/default/text"
+msgid "Prefer Equipment: Any"
+msgstr "Спорядження: будь-яке"
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: equipment → спорядження, Ranged → дальній бій
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/9/text_maps/0/default/text"
+msgid "Prefer Equipment: Ranged"
+msgstr "Спорядження: дальній бій"
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: equipment → спорядження, melee → ближній бій
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/10/text_maps/0/default/text"
+msgid "Prefer Equipment: Melee"
+msgstr "Спорядження: ближній бій"
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: Item → предмет
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/11/text_maps/0/default/text"
+msgid "Pickup Items: All"
+msgstr "Підбирати предмети: усі"
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: Item → предмет
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/12/text_maps/0/default/text"
+msgid "Pickup Items: Unowned"
+msgstr "Підбирати предмети: нічийні"
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: None → немає, Item → предмет
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/12/text_maps/0/leader_pickup_none/text"
+msgid "Pickup Items: None"
+msgstr "Підбирати предмети: жодних"
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: soul → душа
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/13/text_maps/0/default/text"
+msgid "Relinquish Soul"
+msgstr "Віддайте душу"
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/14/text_maps/0/wait_here/text"
+msgid "Wait Here"
+msgstr "Чекайте тут"
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/14/text_maps/0/follow/text"
+msgid "Follow"
+msgstr "Ідіть за мною"
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/14/text_maps/0/wait_here_all/text"
+msgid "(ALL) Wait Here"
+msgstr "(УСІ) Чекайте тут"
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/14/text_maps/0/follow_all/text"
+msgid "(ALL) Follow"
+msgstr "(УСІ) За мною"
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/15/text_maps/0/hold_aim/text"
+msgid "Hold Aim"
+msgstr "Тримайте приціл"
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/15/text_maps/0/free_look/text"
+msgid "Free Look"
+msgstr "Озирайтеся вільно"
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/15/text_maps/0/hold_aim_all/text"
+msgid "(ALL) Hold Aim"
+msgstr "(УСІ) Тримайте приціл"
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/15/text_maps/0/free_look_all/text"
+msgid "(ALL) Free Look"
+msgstr "(УСІ) Озирайтеся вільно"
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/16/text_maps/0/default/text"
+msgid "Return & Land"
+msgstr "Поверніться й приземліться"
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/17/text_maps/0/default/text"
+msgid "Deactivate"
+msgstr "Вимкніться"
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: box → ящик
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/17/text_maps/0/dummybot_deactivate/text"
+msgid "Return To Box"
+msgstr "Поверніться в ящик"
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/18/text_maps/0/default/text"
+msgid "Move aside"
+msgstr "Відійдіть"
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/19/text_maps/0/default/text"
+msgid "Move to..."
+msgstr "Ідіть до..."
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/20/text_maps/0/default/text"
+msgid "Look at..."
+msgstr "Погляньте на..."
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/21/text_maps/0/default/text"
+msgid "Attack..."
+msgstr "Атакуйте..."
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/22/text_maps/0/default/text"
+msgid "Interact..."
+msgstr "Взаємодійте..."
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: Item → предмет
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/23/text_maps/0/default/text"
+msgid "Drop item"
+msgstr "Киньте предмет"
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: Item → предмет, metal scrap → металевий брухт, Metal → метал, Scrap → брухт
+#. тон: command, technical
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/24/text_maps/0/default/text"
+msgid "Detect items with: [Metal Scrap]"
+msgstr "Виявляйте предмети: [Металевий брухт]"
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: Item → предмет, magic scrap → магічний брухт, Magic → магія, Scrap → брухт
+#. тон: command, technical
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/25/text_maps/0/default/text"
+msgid "Detect items with: [Magic Scrap]"
+msgstr "Виявляйте предмети: [Магічний брухт]"
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: Item → предмет
+#. тон: command, technical
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/26/text_maps/0/default/text"
+msgid "Detect items: [Valuable]"
+msgstr "Виявляйте предмети: [Цінні]"
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: monster → монстр
+#. тон: command, technical
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/27/text_maps/0/default/text"
+msgid "Detect: [Monsters]"
+msgstr "Виявляйте: [Монстрів]"
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: Trap → пастка
+#. тон: command, technical
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/28/text_maps/0/default/text"
+msgid "Detect: [Traps]"
+msgstr "Виявляйте: [Пастки]"
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: exit → вихід
+#. тон: command, technical
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/29/text_maps/0/default/text"
+msgid "Detect: [Exits]"
+msgstr "Виявляйте: [Виходи]"
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: Detection → виявлення
+#. тон: technical
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/30/text_maps/0/default/text"
+msgid "Radial Detection OFF"
+msgstr "Кругове виявлення ВИМК."
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: Light → світло
+#. тон: command, technical
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/31/text_maps/0/default/text"
+msgid "Emit light: [Faint]"
+msgstr "Випромінюйте світло: [Тьмяне]"
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: Light → світло
+#. тон: command, technical
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/32/text_maps/0/default/text"
+msgid "Emit light: [Bright]"
+msgstr "Випромінюйте світло: [Яскраве]"
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: None → немає, Light → світло
+#. тон: command, technical
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/33/text_maps/0/default/text"
+msgid "Emit light: [None]"
+msgstr "Випромінюйте світло: [Немає]"
+
+#. колесо наказів супутникам — короткі команди
+#. тон: command
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/34/text_maps/0/default/text"
+msgid "Cancel"
+msgstr "Скасувати"
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: skill → навичка, Stat → характеристика
+#. тон: technical
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/35/text_maps/0/skill_missing_leader/text"
+msgid "Missing skill / stat requirement: %d / %d"
+msgstr "Бракує навички / характеристики: %d / %d"
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: skill → навичка, Stat → характеристика
+#. тон: technical
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/35/text_maps/0/skill_missing_tinker/text"
+msgid "Missing skill / stat requirement: %d / %d "
+msgstr "Бракує навички / характеристики: %d / %d "
+
+#. колесо наказів супутникам — короткі команди
+#. тон: technical
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/35/text_maps/0/command_unavailable/text"
+msgid "Command unavailable for %s"
+msgstr "Команда недоступна для %s"
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: compelled → примусове підкорення
+#. тон: technical
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/35/text_maps/0/command_unavailable_spell/text"
+msgid "Command unavailable for %s while Compelled"
+msgstr "Команда недоступна для %s під примусовим підкоренням"
+
+#. колесо наказів супутникам — короткі команди
+#. сутності: floor → поверх, PER → ЧУТ
+#. тон: technical
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/35/text_maps/0/rest_cooldown/text"
+msgid "You may only use this command once per floor"
+msgstr "Цю команду можна використати лише раз на поверх"
+
+#. колесо наказів супутникам — короткі команди
+#. тон: technical
+#, fuzzy
+#: data/follower_wheel.json
+msgctxt "icons/35/text_maps/0/tinker_quality_low/text"
+msgid "Higher quality %s required"
+msgstr "Потрібен якісніший %s"

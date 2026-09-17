@@ -1,0 +1,2124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: command
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/autosort_button_mouse_compact"
+msgid "Autosort inventory.\nHold [Right-click] for more options."
+msgstr "Автосортувати інвентар.\nУтримуйте [ПКМ] для інших опцій."
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: command
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/autosort_button_mouse"
+msgid "Autosort inventory.\nHold [Right-click] for\nmore options."
+msgstr "Автосортувати інвентар.\nУтримуйте [ПКМ], щоб\nпобачити інші опції."
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: gold piece → золота монета
+#. тон: command
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/gold_mouse"
+msgid "Hold [Right-click] to drop gold."
+msgstr "Утримуйте [ПКМ], щоб викинути золото."
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: gold piece → золота монета, button → кнопка
+#. тон: command
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/gold_controller"
+msgid "Press a button to drop gold:"
+msgstr "Натисніть кнопку, щоб викинути золото:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: gold piece → золота монета
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/gold_option_10"
+msgid "10 gold"
+msgstr "10 золотих монет"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: gold piece → золота монета
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/gold_option_100"
+msgid "100 gold"
+msgstr "100 золотих монет"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: gold piece → золота монета
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/gold_option_1000"
+msgid "1000 gold"
+msgstr "1000 золотих монет"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: gold piece → золота монета
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/gold_option_all"
+msgid "ALL gold"
+msgstr "УСЕ золото"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: command
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/game_timer_mouse"
+msgid "[Left-click] to "
+msgstr "[ЛКМ], щоб "
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: command
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/game_timer_pin"
+msgid "pin the game timer to the HUD."
+msgstr "закріпити таймер гри на HUD."
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: command
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/game_timer_unpin"
+msgid "unpin the game timer from the HUD."
+msgstr "відкріпити таймер гри від HUD."
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/race/race_traits"
+msgid "Traits:"
+msgstr "Риси:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: race → раса
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/race/race_title_normal"
+msgid "RACE INFO"
+msgstr "ВІДОМОСТІ ПРО РАСУ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: polymorph → перетворення, race → раса
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/race/race_title_polymorph"
+msgid "RACE INFO (Polymorphed)"
+msgstr "ВІДОМОСТІ ПРО РАСУ (Перетворення)"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: race → раса, Shapeshifted → змінена форма
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/race/race_title_shapeshift"
+msgid "RACE INFO (Shapeshifted)"
+msgstr "ВІДОМОСТІ ПРО РАСУ (Змінена форма)"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: class → клас, Stat → характеристика
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/class/class_title"
+msgid "CLASS STAT GROWTHS"
+msgstr "ПРИРІСТ ХАРАКТЕРИСТИК КЛАСУ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: class → клас, Stat → характеристика, Shapeshifted → змінена форма
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/class/class_title_shapeshift"
+msgid "CLASS STAT GROWTHS (Shapeshifted)"
+msgstr "ПРИРІСТ ХАРАКТЕРИСТИК КЛАСУ (Змінена форма)"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Level → Рівень, skill → навичка, Level Up → підвищення рівня, class → клас, Stat → характеристика, Stats → характеристики
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/class/stat_growth_info"
+msgid "Level Up increases three Stats by +1, influenced by Class\nImproving skills provides +20% to roll +2 for an Associated Stat   (See Associated Stats in Skills List)"
+msgstr "Підвищення рівня збільшує три характеристики на +1 залежно від класу\nПоліпшення навичок дає +20% до шансу отримати +2 до пов'язаної характеристики   (Див. пов'язані характеристики в списку навичок)"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/class/stat_growth_min_tooltip_width"
+msgid "320"
+msgstr "320"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/class/stat_growth_max_tooltip_width"
+msgid "320"
+msgstr "320"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_max_tooltip_width"
+msgid "600"
+msgstr "600"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_min_tooltip_width"
+msgid "380"
+msgstr "380"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_base_amount"
+msgid "Base:"
+msgstr "База:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Item → предмет, bonus → бонус, Effect → ефект
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_modified_amount"
+msgid "Bonuses:\n (From items/effects)"
+msgstr "Бонуси:\n (Від предметів/ефектів)"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Strength → сила
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_str_title"
+msgid "STRENGTH"
+msgstr "СИЛА"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Dexterity → спритність
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_dex_title"
+msgid "DEXTERITY"
+msgstr "СПРИТНІСТЬ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Constitution → статура
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_con_title"
+msgid "CONSTITUTION"
+msgstr "СТАТУРА"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Intelligence → інтелект
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_int_title"
+msgid "INTELLIGENCE"
+msgstr "ІНТЕЛЕКТ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Perception → чуття
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_per_title"
+msgid "PERCEPTION"
+msgstr "ЧУТТЯ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Charisma → харизма
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_chr_title"
+msgid "CHARISMA"
+msgstr "ХАРИЗМА"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: weapon → зброя, melee → ближній бій, STR → СИЛ, Damage → шкода, ATK → АТК, HP → ОЗ, speed → швидкість, Regeneration → регенерація, Weight → вага, HP Regen → відновлення ОЗ
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_str_desc"
+msgid "Increases melee ATK damage, stronger weapons receive higher STR benefit\nImproves movement speed while carrying large weights and HP Regen"
+msgstr "Збільшує шкоду АТК ближнього бою; сильніша зброя отримує більший бонус від СИЛ\nПоліпшує швидкість руху з великою вагою та відновлення ОЗ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Spell → Закляття, weapon → зброя, Ranged → дальній бій, thrown → метальний, DEX → СПР, Damage → шкода, ATK → АТК, Time → час, HP → ОЗ, speed → швидкість, Regeneration → регенерація, Weight → вага, ammunition → боєприпаси, HP Regen → відновлення ОЗ
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_dex_desc"
+msgid "Increases ranged and thrown ATK damage, stronger weapons and ammunition receive higher DEX benefit\nImproves movement speed while carrying small weights, HP Regen and spell cast times"
+msgstr "Збільшує шкоду АТК дальнього бою й метальної зброї; сильніша зброя та боєприпаси отримують більший бонус від СПР\nПоліпшує швидкість руху з малою вагою, відновлення ОЗ і час застосування заклять"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Spell → Закляття, Potion → Зілля, armor → обладунок, Thaumaturgy → тавматургія, class → клас, Effect → ефект, Status Effect → ефект стану, Healing → зцілення, PWR → ПОТ, AC → КЗ, Spell Power → сила заклять, Armor Class → клас захисту, Duration → тривалість
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_con_desc"
+msgid "Increases Armor Class (AC) and reduces duration of negative status effects\nIncreases Spell Power (PWR) of Thaumaturgy spells\nImproves effects of Potions of Healing"
+msgstr "Збільшує клас захисту (КЗ) і скорочує тривалість негативних ефектів стану\nЗбільшує силу заклять (ПОТ) тавматургії\nПосилює ефекти зілля зцілення"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Spell → Закляття, Potion → Зілля, Magic → магія, Effect → ефект, PWR → ПОТ, RES → ОПР, Spell Power → сила заклять, magic resistance → опір магії, restore magic → відновлення магії, Restore → відновлення, Resistance → опір
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_int_desc"
+msgid "Increases Spell Power (PWR) and effects of all magic spell schools\nIncreases Magic Resistance (RES)\nImproves effects of Potions of Restore Magic"
+msgstr "Збільшує силу (ПОТ) й ефекти заклять усіх шкіл магії\nЗбільшує опір магії (ОПР)\nПосилює ефекти зілля відновлення магії"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Spell → Закляття, armor → обладунок, weapon → зброя, skill → навичка, Tinkering → майстрування, Lore → знання, Ranged → дальній бій, Effect → ефект, MP → ОМ, Regeneration → регенерація, Area → область, Armor Pierce → пробиття броні, visibility → видимість, MP Regen → відновлення ОМ, Distance → дальність
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_per_desc"
+msgid "Increases Armor Pierce chance with Ranged weaponry\nIncreases effects of Tinkering and Lore skills\nProvides extra visibility in dark areas\nImproves MP Regen and spell distance"
+msgstr "Збільшує шанс пробиття броні зброєю дальнього бою\nПосилює ефекти навичок майстрування та знань\nДає додаткову видимість у темних областях\nПоліпшує відновлення ОМ і дальність заклять"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Level → Рівень, Spell → Закляття, skill → навичка, Trading → торгівля, Mysticism → містицизм, Level Up → підвищення рівня, Leadership → лідерство, Effect → ефект, HP → ОЗ, MP → ОМ, PWR → ПОТ, Spell Power → сила заклять, Regeneration → регенерація, MP Regen → відновлення ОМ
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_chr_desc"
+msgid "Increases effects of Leadership and Trading skills\nIncreases Spell Power (PWR) of Mysticism spells and improves MP Regen\nIncreases HP/MP restored on level up"
+msgstr "Посилює ефекти навичок лідерства й торгівлі\nЗбільшує силу заклять (ПОТ) містицизму та поліпшує відновлення ОМ\nЗбільшує відновлення ОЗ/ОМ при підвищенні рівня"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: STR → СИЛ, bonus → бонус, speed → швидкість
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_str_movement_bonus"
+msgid "STR Speed Bonus:"
+msgstr "Бонус швидкості від СИЛ:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: ATK → АТК
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_atk_value_format"
+msgid "%+d ATK"
+msgstr "%+d АТК"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: ATK → АТК
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_atk_percent_format"
+msgid "%+.1f%% ATK"
+msgstr "%+.1f%% АТК"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: melee → ближній бій, ATK → АТК, bonus → бонус
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_str_atk_bonus"
+msgid "Melee ATK Bonus:"
+msgstr "Бонус АТК ближнього бою:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: DEX → СПР, bonus → бонус, speed → швидкість
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_dex_movement_bonus"
+msgid "DEX Speed Bonus:"
+msgstr "Бонус швидкості від СПР:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Ranged → дальній бій, ATK → АТК, bonus → бонус
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_dex_ranged_atk_bonus"
+msgid "Ranged ATK Bonus:"
+msgstr "Бонус АТК дальнього бою:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: thrown → метальний, ATK → АТК, bonus → бонус
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_dex_thrown_atk_bonus"
+msgid "Thrown ATK Bonus:"
+msgstr "Бонус АТК метальної зброї:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: armor → обладунок, class → клас, bonus → бонус, Armor Class → клас захисту
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_con_ac_bonus"
+msgid "Armor Class Bonus:"
+msgstr "Бонус класу захисту:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: AC → КЗ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_ac_value_format"
+msgid "%+d AC"
+msgstr "%+d КЗ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: SPD → ШВД
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_movement_value_format"
+msgid "%+.1f%% SPD"
+msgstr "%+.1f%% ШВД"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Spell → Закляття, bonus → бонус, Spell Power → сила заклять
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_int_pwr_bonus"
+msgid "Base Spell Power Bonus:"
+msgstr "Базовий бонус сили заклять:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Sorcery → чаклунство, bonus → бонус
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_int_pwr_bonus2"
+msgid "Sorcery Bonus:"
+msgstr "Бонус чаклунства:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: bonus → бонус, Magic → магія, magic resistance → опір магії, Resistance → опір
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_int_res_bonus"
+msgid "Magic Resistance Bonus:"
+msgstr "Бонус опору магії:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: RES → ОПР
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_int_res_value_format"
+msgid "+%d%% RES"
+msgstr "+%d%% ОПР"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Thaumaturgy → тавматургія, bonus → бонус
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_con_pwr_bonus"
+msgid "Thaumaturgy Bonus:"
+msgstr "Бонус тавматургії:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Mysticism → містицизм, bonus → бонус
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_chr_pwr_bonus"
+msgid "Mysticism Bonus:"
+msgstr "Бонус містицизму:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Level → Рівень, Level Up → підвищення рівня
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_chr_restore_bonus"
+msgid "Level Up Restoration:"
+msgstr "Відновлення при підвищенні рівня:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: HP → ОЗ, MP → ОМ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_chr_restore_format"
+msgid "+%d HP/MP"
+msgstr "+%d ОЗ/ОМ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: bonus → бонус, MP → ОМ, Regeneration → регенерація, MP Regen → відновлення ОМ
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_int_mp_regen_bonus"
+msgid "MP Regen Bonus:"
+msgstr "Бонус відновлення ОМ:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: PWR → ПОТ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_pwr_value_format"
+msgid "%+.1f%% PWR"
+msgstr "%+.1f%% ПОТ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: RGN → РЕГ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_mp_regen_value_format"
+msgid "%+.1f%% RGN"
+msgstr "%+.1f%% РЕГ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: armor → обладунок, Ranged → дальній бій, Armor Pierce → пробиття броні
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_per_pierce_bonus"
+msgid "Ranged Armor Pierce Chance:"
+msgstr "Шанс пробиття броні в дальньому бою:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_pierce_value_format"
+msgid "%+.f%%"
+msgstr "%+.f%%"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: bonus → бонус, vision → видіння
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_per_light_bonus"
+msgid "Passive Bonus Vision:"
+msgstr "Пасивний бонус видимості:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: bonus → бонус, Sneaking → скрадання, vision → видіння
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_per_sneaking_bonus"
+msgid "Sneaking Bonus Vision:"
+msgstr "Бонус видимості при скраданні:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Light → світло
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_light_value_format"
+msgid "%+d Light"
+msgstr "%+d світла"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Item → предмет
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_chr_selling_bonus"
+msgid "Item Sell Value:"
+msgstr "Ціна продажу предметів:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Item → предмет
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_chr_buying_bonus"
+msgid "Item Buying Discount:"
+msgstr "Знижка на купівлю предметів:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: gold piece → золота монета
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_selling_value_format"
+msgid "%+.1f%% Gold"
+msgstr "%+.1f%% золота"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: gold piece → золота монета
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/stat_buying_value_format"
+msgid "%+.1f%% Gold"
+msgstr "%+.1f%% золота"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: STR → СИЛ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/icon_str_path"
+msgid "#*images/ui/CharSheet/HUD_CharSheet_STR_00.png"
+msgstr "#*images/ui/CharSheet/HUD_CharSheet_STR_00.png"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: DEX → СПР
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/icon_dex_path"
+msgid "#*images/ui/CharSheet/HUD_CharSheet_DEX_00.png"
+msgstr "#*images/ui/CharSheet/HUD_CharSheet_DEX_00.png"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: CON → СТА
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/icon_con_path"
+msgid "#*images/ui/CharSheet/HUD_CharSheet_CON_00.png"
+msgstr "#*images/ui/CharSheet/HUD_CharSheet_CON_00.png"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: INT → ІНТ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/icon_int_path"
+msgid "#*images/ui/CharSheet/HUD_CharSheet_INT_00.png"
+msgstr "#*images/ui/CharSheet/HUD_CharSheet_INT_00.png"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: PER → ЧУТ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/icon_per_path"
+msgid "#*images/ui/CharSheet/HUD_CharSheet_PER_00.png"
+msgstr "#*images/ui/CharSheet/HUD_CharSheet_PER_00.png"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/stats/icon_chr_path"
+msgid "#*images/ui/CharSheet/HUD_CharSheet_CHA_00.png"
+msgstr "#*images/ui/CharSheet/HUD_CharSheet_CHA_00.png"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/icon_backing_path"
+msgid "#*images/ui/HUD/HUD_ActionPromptBacking00_02.png"
+msgstr "#*images/ui/HUD/HUD_ActionPromptBacking00_02.png"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_max_tooltip_width"
+msgid "600"
+msgstr "600"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_min_tooltip_width"
+msgid "420"
+msgstr "420"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/icon_atk_path"
+msgid "#*images/ui/CharSheet/HUD_CharSheet_ATT_00.png"
+msgstr "#*images/ui/CharSheet/HUD_CharSheet_ATT_00.png"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: ATK → АТК
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_total_sum_header"
+msgid "Max ATK Totals:"
+msgstr "Максимальна АТК:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_title"
+msgid "ATTACK"
+msgstr "АТАКА"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Unarmed → без зброї
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_title_unarmed"
+msgid "Unarmed"
+msgstr "Без зброї"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: skill → навичка, Damage → шкода, ATK → АТК
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_range"
+msgid "ATK Damage Range:\n (Using %s skill: %d/100)"
+msgstr "Діапазон шкоди АТК:\n (Навичка %s: %d/100)"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Damage → шкода, ATK → АТК
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_range_noskill"
+msgid "ATK Damage Range:"
+msgstr "Діапазон шкоди АТК:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: ATK → АТК
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_avg"
+msgid "ATK Average:"
+msgstr "Середня АТК:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Damage → шкода, ATK → АТК
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_value"
+msgid "ATK Damage:"
+msgstr "Шкода АТК:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: skill → навичка, Stealth → потайність, critical strike → критичний удар, Damage → шкода, ATK → АТК, enemy → ворог, Strike → удар
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_melee_desc"
+msgid "Critical strikes deal 200%% damage\nHigher %s skill increases ATK average\nStriking enemies from behind deals additional damage based on Stealth skill"
+msgstr "Критичні удари завдають 200%% шкоди\nВища навичка %s збільшує середню АТК\nУдари в спину завдають додаткової шкоди залежно від навички потайності"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: skill → навичка, Stealth → потайність, critical strike → критичний удар, Damage → шкода, enemy → ворог, Strike → удар
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_pickaxe_desc"
+msgid "Critical strikes deal 200%% damage\nStriking enemies from behind deals additional damage based on Stealth skill"
+msgstr "Критичні удари завдають 200%% шкоди\nУдари в спину завдають додаткової шкоди залежно від навички потайності"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: weapon → зброя, skill → навичка, Stealth → потайність, Ring → перстень, critical strike → критичний удар, fist → кулак, Damage → шкода, ATK → АТК, enemy → ворог, Strike → удар
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_unarmed_desc"
+msgid "Critical strikes deal 200%% damage\nHigher %s skill increases ATK average\nEquipped rings and fist weapons modify ATK\nStriking enemies from behind deals additional damage based on Stealth skill"
+msgstr "Критичні удари завдають 200%% шкоди\nВища навичка %s збільшує середню АТК\nСпоряджені персні й кулачна зброя змінюють АТК\nУдари в спину завдають додаткової шкоди залежно від навички потайності"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: skill → навичка, Ranged → дальній бій, ATK → АТК, quiver → сагайдак, Effect → ефект, PER → ЧУТ, Stat → характеристика, AC → КЗ, target → ціль
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_ranged_desc"
+msgid "Ranged attacks have a chance to ignore 50%% of target's AC based on PER stat\nHigher %s skill increases ATK average\nEquipped quivers modify ATK and apply additional effects on hit"
+msgstr "Атаки дальнього бою можуть ігнорувати 50%% КЗ цілі залежно від ЧУТ\nВища навичка %s збільшує середню АТК\nСпоряджені сагайдаки змінюють АТК і накладають додаткові ефекти при влучанні"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: armor → обладунок, skill → навичка, Damage → шкода, Charge → заряд, AC → КЗ, Armor Pierce → пробиття броні, target → ціль
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_thrown_desc"
+msgid "Attacks ignore 50-75%% of target's AC\nHigher %s skill increases damage\nFully charged throw deals maximum damage and increases Armor Pierce on target"
+msgstr "Атаки ігнорують 50-75%% КЗ цілі\nВища навичка %s збільшує шкоду\nПовністю заряджений кидок завдає найбільшої шкоди й посилює пробиття броні цілі"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: skill → навичка, Damage → шкода, Charge → заряд
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_gem_desc"
+msgid "Higher %s skill increases damage\nFully charged throws deal maximum damage"
+msgstr "Вища навичка %s збільшує шкоду\nПовністю заряджені кидки завдають найбільшої шкоди"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Potion → Зілля, skill → навичка, Damage → шкода, Effect → ефект, target → ціль
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_potion_desc"
+msgid "Potion effects are also applied to the target on impact\nHigher %s skill increases impact and potion effect damage"
+msgstr "Ефекти зілля також накладаються на ціль при влучанні\nВища навичка %s збільшує шкоду від удару й ефекту зілля"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Spell → Закляття, Charge → заряд, Effect → ефект, Spell Power → сила заклять, magicstaff → магічний посох, Charging → заряджання
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_magicstaff_desc"
+msgid "Casts contained Magicstaff spell on attack\nCharging magicstaff allows finer aim when releasing attack\nSpell power and effects are unaffected by charge amount"
+msgstr "При атаці застосовує закляття з магічного посоха\nЗаряджання магічного посоха дає змогу точніше цілитися перед атакою\nСила й ефекти закляття не залежать від рівня заряду"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: object → об'єкт
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_tool_desc"
+msgid "Unable to attack while held\nInteracts with objects in the world on use"
+msgstr "Не дає атакувати, поки ви його тримаєте\nПри використанні взаємодіє з об'єктами у світі"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Tinkering → майстрування, tool → інструмент, Item → предмет, Charge → заряд
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_tinker_tool_desc"
+msgid "Deploys held Tinkering tool on attack\nFully charged throw deploys held item further"
+msgstr "При атаці розміщує утримуваний інструмент майстрування\nПовністю заряджений кидок розміщує утримуваний предмет далі"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: weapon → зброя, bonus → бонус
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_entry_weapon_bonus"
+msgid "Weapon Bonus:"
+msgstr "Бонус зброї:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Item → предмет, bonus → бонус, Effect → ефект
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_entry_items_bonus"
+msgid "Items / Effects Bonus:"
+msgstr "Бонус предметів / ефектів:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: STR → СИЛ, bonus → бонус, Attribute → характеристика
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_entry_attr_bonus_melee"
+msgid "Attribute Bonus (STR):"
+msgstr "Бонус характеристики (СИЛ):"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: DEX → СПР, bonus → бонус, Attribute → характеристика
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_entry_attr_bonus_ranged"
+msgid "Attribute Bonus (DEX):"
+msgstr "Бонус характеристики (СПР):"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: STR → СИЛ, DEX → СПР, bonus → бонус, Attribute → характеристика
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_entry_attr_bonus_whip"
+msgid "Attribute Bonus (STR/DEX):"
+msgstr "Бонус характеристики (СИЛ/СПР):"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: melee → ближній бій, Damage → шкода
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_entry_melee_weapon_base"
+msgid "Base Melee Damage:"
+msgstr "Базова шкода ближнього бою:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Ranged → дальній бій, Damage → шкода
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_entry_ranged_weapon_base"
+msgid "Base Ranged Damage:"
+msgstr "Базова шкода дальнього бою:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Damage → шкода, Unarmed → без зброї
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_entry_unarmed_weapon_base"
+msgid "Base Unarmed Damage:"
+msgstr "Базова шкода без зброї:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: thrown → метальний, Damage → шкода
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_entry_thrown_weapon_base"
+msgid "Base Thrown Damage:"
+msgstr "Базова шкода метальної зброї:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: bonus → бонус, Charge → заряд
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_entry_thrown_weapon_fully_charged"
+msgid "Fully charged throw bonus:"
+msgstr "Бонус повністю зарядженого кидка:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: skill → навичка, ATK → АТК
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_entry_skill_variance"
+msgid "ATK variance from skill:"
+msgstr "Розкид АТК від навички:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: skill → навичка, bonus → бонус
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_entry_skill_bonus"
+msgid "Skill Bonus:"
+msgstr "Бонус навички:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: ATK → АТК
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_range_format"
+msgid "%d - %d ATK"
+msgstr "%d - %d АТК"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: ATK → АТК
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_bonus_format"
+msgid "%+d ATK"
+msgstr "%+d АТК"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: ATK → АТК
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_nobonus_format"
+msgid "%d ATK"
+msgstr "%d АТК"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_percent_format"
+msgid "%.2f%%"
+msgstr "%.2f%%"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: ATK → АТК
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_atk/attributes_atk_average_format"
+msgid "%.1f ATK"
+msgstr "%.1f АТК"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: AC → КЗ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_ac/icon_ac_path"
+msgid "#*images/ui/CharSheet/HUD_CharSheet_AC_00.png"
+msgstr "#*images/ui/CharSheet/HUD_CharSheet_AC_00.png"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: armor → обладунок, class → клас, Armor Class → клас захисту
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_ac/attributes_ac_title"
+msgid "ARMOR CLASS"
+msgstr "КЛАС ЗАХИСТУ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: armor → обладунок, class → клас, Armor Class → клас захисту
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_ac/attributes_ac_base"
+msgid "Base Armor Class:"
+msgstr "Базовий клас захисту:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: skill → навичка, bonus → бонус, Blocking → блокування
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_ac/attributes_ac_defending"
+msgid "Active Blocking Bonus:\n (Using %s skill: %d/100)"
+msgstr "Бонус активного блокування:\n (Навичка %s: %d/100)"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: bonus → бонус, CON → СТА, Attribute → характеристика
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_ac/attributes_ac_entry_attr_bonus"
+msgid "Attribute Bonus (CON):"
+msgstr "Бонус характеристики (СТА):"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: AC → КЗ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_ac/attributes_ac_bonus_format"
+msgid "%+d AC"
+msgstr "%+d КЗ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: AC → КЗ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_ac/attributes_ac_nobonus_format"
+msgid "%d AC"
+msgstr "%d КЗ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Item → предмет, bonus → бонус, Effect → ефект
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_ac/attributes_ac_entry_items_bonus"
+msgid "Items / Effects Bonus:"
+msgstr "Бонус предметів / ефектів:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: AC → КЗ
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_ac/attributes_ac_base_sum_header"
+msgid "Base AC Totals:"
+msgstr "Базовий КЗ:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: skill → навичка, bonus → бонус
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_ac/attributes_ac_passive_bonus"
+msgid "Passive Skill Bonus:"
+msgstr "Пасивний бонус навички:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: shield → щит, skill → навичка, Damage → шкода, Item → предмет, bonus → бонус, PER → ЧУТ, AC → КЗ, off-hand → друга рука, Blocking → блокування
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_ac/attributes_ac_desc"
+msgid "Reduces physical damage taken per AC point\nBlocking increases AC no matter the direction or timing of incoming attacks\nActive Blocking Bonus applies to most Off-hand items, while Passive Skill Bonus applies only to held shields"
+msgstr "Зменшує отриману фізичну шкоду за кожне очко КЗ\nБлокування збільшує КЗ незалежно від напрямку й часу ворожих атак\nАктивний бонус блокування діє на більшість предметів у другій руці, а пасивний бонус навички — лише на утримувані щити"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_pwr/icon_pwr_path"
+msgid "#*images/ui/CharSheet/HUD_CharSheet_SPWR_00.png"
+msgstr "#*images/ui/CharSheet/HUD_CharSheet_SPWR_00.png"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Spell → Закляття, Spell Power → сила заклять
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_pwr/attributes_pwr_title"
+msgid "SPELL POWER"
+msgstr "СИЛА ЗАКЛЯТЬ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Spell → Закляття, Spell Power → сила заклять
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_pwr/attributes_pwr_title_skill"
+msgid "SPELL POWER (%s)"
+msgstr "СИЛА ЗАКЛЯТЬ (%s)"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Spell → Закляття, Spell Power → сила заклять
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_pwr/attributes_pwr_base"
+msgid "Spell Power:"
+msgstr "Сила заклять:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: spellbook → книга заклять, bonus → бонус, INT → ІНТ, Stat → характеристика
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_pwr/attributes_pwr_spellbook"
+msgid "Spellbook-Cast Bonus:\n (Using INT stat)"
+msgstr "Бонус чаклування з книги:\n (Характеристика ІНТ)"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: bonus → бонус, INT → ІНТ, Attribute → характеристика
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_pwr/attributes_pwr_entry_attr_bonus"
+msgid "Attribute Bonus (INT):"
+msgstr "Бонус характеристики (ІНТ):"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: bonus → бонус, CHR → ХАР, INT → ІНТ, Attribute → характеристика
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_pwr/attributes_pwr_entry_attr_bonus_mysticism"
+msgid "Attribute Bonus (INT + CHR):"
+msgstr "Бонус характеристики (ІНТ + ХАР):"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: bonus → бонус, CON → СТА, INT → ІНТ, Attribute → характеристика
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_pwr/attributes_pwr_entry_attr_bonus_thaumaturgy"
+msgid "Attribute Bonus (INT + CON):"
+msgstr "Бонус характеристики (ІНТ + СТА):"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: PWR → ПОТ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_pwr/attributes_pwr_bonus_format"
+msgid "%+d%% PWR"
+msgstr "%+d%% ПОТ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: PWR → ПОТ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_pwr/attributes_pwr_nobonus_format"
+msgid "%d%% PWR"
+msgstr "%d%% ПОТ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Spell → Закляття, Spell Power → сила заклять
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_pwr/attributes_pwr_base_value"
+msgid "Base Spell Power:"
+msgstr "Базова сила заклять:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Item → предмет, bonus → бонус, Effect → ефект
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_pwr/attributes_pwr_entry_items_bonus"
+msgid "Items / Effects Bonus:"
+msgstr "Бонус предметів / ефектів:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Spell → Закляття, Spell Power → сила заклять
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_pwr/attributes_pwr_base_sum_header"
+msgid "Spell Power Totals:"
+msgstr "Загальна сила заклять:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: skill → навичка, bonus → бонус
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_pwr/attributes_pwr_passive_bonus"
+msgid "Passive Skill Bonus:"
+msgstr "Пасивний бонус навички:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Spell → Закляття, spellbook → книга заклять, spellcasting → чаклування, Damage → шкода, Healing → зцілення
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_pwr/attributes_pwr_desc"
+msgid "Increases spell damage and healing when casting learned spells\nSpellbook-Casting with held spellbooks provides greater spell amplification"
+msgstr "Посилює шкоду й зцілення під час застосування вивчених заклять\nЧаклування з утримуваної книги заклять значно посилює закляття"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: RES → ОПР
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_res/icon_res_path"
+msgid "#*images/ui/CharSheet/HUD_CharSheet_RES_00.png"
+msgstr "#*images/ui/CharSheet/HUD_CharSheet_RES_00.png"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Magic → магія, magic resistance → опір магії, Resistance → опір
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_res/attributes_res_title"
+msgid "MAGIC RESISTANCE"
+msgstr "ОПІР МАГІЇ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Magic → магія, Diminish → зменшення, magic resistance → опір магії, Resistance → опір
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_res/attributes_res_base_sum_header"
+msgid "Diminished Magic Resistance Totals:"
+msgstr "Підсумок зменшеного опору магії:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Magic → магія, magic resistance → опір магії, Resistance → опір
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_res/attributes_res_base"
+msgid "Magic Resistance:"
+msgstr "Опір магії:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Item → предмет, Effect → ефект, Resistance → опір
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_res/attributes_res_sources"
+msgid "Resistance Sources:\n (From items/effects)"
+msgstr "Джерела опору:\n (Від предметів/ефектів)"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: bonus → бонус
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_res/attributes_res_base_value"
+msgid "Racial Bonus (%s):"
+msgstr "Расовий бонус (%s):"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Item → предмет, bonus → бонус, Effect → ефект
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_res/attributes_res_entry_items_bonus"
+msgid "Items / Effects Bonus:"
+msgstr "Бонус предметів / ефектів:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: bonus → бонус, INT → ІНТ, Attribute → характеристика
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_res/attributes_res_entry_int_bonus"
+msgid "Attribute Bonus (INT):"
+msgstr "Бонус характеристики (ІНТ):"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: RES → ОПР
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_res/attributes_res_bonus_format"
+msgid "%+d%% RES"
+msgstr "%+d%% ОПР"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_res/attributes_res_sources_format"
+msgid "%+d source(s)"
+msgstr "%+d джерел(а)"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: RES → ОПР
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_res/attributes_res_nobonus_format"
+msgid "%d%% RES"
+msgstr "%d%% ОПР"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Spell → Закляття, Damage → шкода, Magic → магія, magic resistance → опір магії, Resistance → опір
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_res/attributes_res_desc"
+msgid "Reduces spell damage taken by resistance % (Negative % increases damage taken)\nAll sources of Magic Resistance stack diminishingly"
+msgstr "Зменшує шкоду від заклять на % опору (від'ємний % збільшує отриману шкоду)\nУсі джерела опору магії сумуються зі спадною ефективністю"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Regeneration → регенерація
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/icon_rgn_hp_path"
+msgid "#*images/ui/CharSheet/HUD_CharSheet_REGEN_00.png"
+msgstr "#*images/ui/CharSheet/HUD_CharSheet_REGEN_00.png"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: HP → ОЗ, Regeneration → регенерація
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_hp_title"
+msgid "HP REGENERATION"
+msgstr "РЕГЕНЕРАЦІЯ ОЗ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: HP → ОЗ, Regeneration → регенерація
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_hp_base_sum_header"
+msgid "HP Regeneration Totals:"
+msgstr "Загальна регенерація ОЗ:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: HP → ОЗ, Regeneration → регенерація
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_hp_base"
+msgid "Total HP Regeneration:"
+msgstr "Усього регенерації ОЗ:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Item → предмет, Effect → ефект, Regeneration → регенерація
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_sources"
+msgid "Regen Modifier:\n (From items/effects)"
+msgstr "Модифікатор регенерації:\n (Від предметів/ефектів)"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: class → клас, bonus → бонус, LVL → РІВ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_base_value"
+msgid "Class LVL / Racial Bonus:"
+msgstr "Бонус класу за РІВ / раси:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Item → предмет, bonus → бонус, Effect → ефект
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_entry_items_bonus"
+msgid "Items / Effects Bonus:"
+msgstr "Бонус предметів / ефектів:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_plain_display"
+msgid "Effective Rate:"
+msgstr "Фактична швидкість:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: HP → ОЗ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_hp_per_second_format_zero"
+msgid "0 HP every %2.1f seconds"
+msgstr "0 ОЗ кожні %2.1f с"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: HP → ОЗ, Regeneration → регенерація
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_disabled"
+msgid "HP Regeneration disabled"
+msgstr "Регенерацію ОЗ вимкнено"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: HP → ОЗ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_hp_per_second_format"
+msgid "+1 HP every %2.1f seconds"
+msgstr "+1 ОЗ кожні %2.1f с"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: RGN → РЕГ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_bonus_format"
+msgid "%+.f%% RGN"
+msgstr "%+.f%% РЕГ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_small_format"
+msgid "%.f%%"
+msgstr "%.f%%"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: HP → ОЗ, Regeneration → регенерація, HP Regen → відновлення ОЗ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_hp_sources_format"
+msgid "%+d  [HP Regen]"
+msgstr "%+d  [Відновлення ОЗ]"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: RGN → РЕГ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_nobonus_format"
+msgid "%s RGN"
+msgstr "%s РЕГ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Spell → Закляття, Potion → Зілля, Item → предмет, Instant → миттєвий, Effect → ефект, Time → час, HP → ОЗ, Regeneration → регенерація, HP Restoration → відновлення ОЗ, HP Regen → відновлення ОЗ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_hp_desc"
+msgid "HP Regenerates slowly over time, instant HP restoration requires potions or spells\nMaximum Regen Modifier from items/effects limited to +3 [HP Regen]"
+msgstr "ОЗ повільно відновлюються з часом; для миттєвого відновлення ОЗ потрібні зілля або закляття\nМаксимальний модифікатор відновлення від предметів/ефектів обмежено до +3 [Відновлення ОЗ]"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Hunger → Голод, Settings → Налаштування, Item → предмет, Effect → ефект, HP → ОЗ, Regeneration → регенерація, Restore → відновлення, HP Regen → відновлення ОЗ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_hp_desc_no_hunger2"
+msgid "NOTE: Hunger is disabled in Game Settings, HP requires Regen Modifiers to restore passively\nMaximum Regen Modifier from items/effects limited to +3 [HP Regen]"
+msgstr "ПРИМІТКА: голод вимкнено в налаштуваннях гри; для пасивного відновлення ОЗ потрібні модифікатори відновлення\nМаксимальний модифікатор відновлення від предметів/ефектів обмежено до +3 [Відновлення ОЗ]"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Hunger → Голод, Spell → Закляття, Potion → Зілля, Settings → Налаштування, Food → їжа, HP → ОЗ, Regeneration → регенерація, Restore → відновлення
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_hp_desc_no_hunger"
+msgid "NOTE: Hunger is disabled in Game Settings for the current play session, HP no longer regenerates passively without modifiers\nInstead, restore HP by consuming food and using potions/spells"
+msgstr "ПРИМІТКА: голод вимкнено в Налаштуваннях гри на цей сеанс, тож без модифікаторів ОЗ пасивно не відновлюються\nНатомість відновлюйте ОЗ їжею, зіллям і закляттями"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Hunger → Голод, Spell → Закляття, Settings → Налаштування, spellcasting → чаклування, Food → їжа, Effect → ефект, MP → ОМ, Starvation → голодна смерть, Restore → відновлення, EN → ЕН
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_en_desc_no_hunger"
+msgid "NOTE: Hunger is disabled in Game Settings for the current play session, EN no longer degenerates passively\nCasting spells consumes EN\nStarvation occurs when EN is empty\nRestore EN by consuming food, sweet liquids and using MP restoring effects"
+msgstr "ПРИМІТКА: голод вимкнено в Налаштуваннях гри на цей сеанс, тож ЕН пасивно не зменшується\nЧаклування витрачає ЕН\nЗа порожньої ЕН настає голодна смерть\nВідновлюйте ЕН їжею, солодкими напоями й ефектами відновлення ОМ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Regeneration → регенерація
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/icon_rgn_mp_path"
+msgid "#*images/ui/CharSheet/HUD_CharSheet_REGEN_00.png"
+msgstr "#*images/ui/CharSheet/HUD_CharSheet_REGEN_00.png"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Boiler → котел
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/icon_rgn_ht_empty_path"
+msgid "#*images/ui/CharSheet/HUD_CharSheet_Boiler_Empty_00.png"
+msgstr "#*images/ui/CharSheet/HUD_CharSheet_Boiler_Empty_00.png"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Boiler → котел, Normal Difficulty → Звичайна складність
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/icon_rgn_ht_normal_path"
+msgid "#*images/ui/CharSheet/HUD_CharSheet_Boiler_Normal_00.png"
+msgstr "#*images/ui/CharSheet/HUD_CharSheet_Boiler_Normal_00.png"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Boiler → котел, superheated → перегрітий
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/icon_rgn_ht_superheated_path"
+msgid "#*images/ui/CharSheet/HUD_CharSheet_Boiler_Superheated_00.png"
+msgstr "#*images/ui/CharSheet/HUD_CharSheet_Boiler_Superheated_00.png"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: MP → ОМ, Regeneration → регенерація
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_mp_title"
+msgid "MP REGENERATION"
+msgstr "РЕГЕНЕРАЦІЯ ОМ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Heat → тепло
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_ht_title"
+msgid "HEAT STATUS"
+msgstr "СТАН ТЕПЛА"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: EN → ЕН
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_en_title"
+msgid "ENERGY BURN RATE"
+msgstr "ШВИДКІСТЬ ВИТРАТИ ЕН"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: MP → ОМ, Regeneration → регенерація
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_mp_base_sum_header"
+msgid "MP Regeneration Totals:"
+msgstr "Загальна регенерація ОМ:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_ht_base_sum_header"
+msgid "STATUS REPORT:"
+msgstr "ЗВІТ ПРО СТАН:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: EN → ЕН
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_en_base_sum_header"
+msgid "Energy Burn Rate Totals:"
+msgstr "Загальна швидкість витрати ЕН:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: EN → ЕН
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_en_bonus_format"
+msgid "%+.f%% EN"
+msgstr "%+.f%% ЕН"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: EN → ЕН
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_en_nobonus_format"
+msgid "%s EN"
+msgstr "%s ЕН"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Item → предмет, Effect → ефект
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_en_sources"
+msgid "Rate Modifier:\n (From items/effects)"
+msgstr "Модифікатор швидкості:\n (Від предметів/ефектів)"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: MP → ОМ, Regeneration → регенерація
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_mp_base"
+msgid "Total MP Regeneration:"
+msgstr "Усього регенерації ОМ:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: HT → ТЕП, Heat → тепло
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_ht_base"
+msgid "Total Heat (HT) Rate:"
+msgstr "Загальна швидкість тепла (ТЕП):"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: EN → ЕН
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_en_base"
+msgid "Energy (EN) Burn Rate:"
+msgstr "Швидкість витрати енергії (ЕН):"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Item → предмет, Effect → ефект
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_en_entry_items_bonus"
+msgid "Items / Effects Modifiers:"
+msgstr "Модифікатори предметів / ефектів:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Boiler → котел
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_ht_boiler_status"
+msgid "Boiler Status:"
+msgstr "Стан котла:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_ht_boiler_value_normal"
+msgid "NOMINAL"
+msgstr "НОРМА"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: superheated → перегрітий
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_ht_boiler_value_superheat"
+msgid "SUPERHEATED"
+msgstr "ПЕРЕГРІТИЙ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_ht_boiler_value_low"
+msgid "CRITICALLY LOW"
+msgstr "КРИТИЧНО НИЗЬКИЙ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: HT → ТЕП
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_ht_base_bonus"
+msgid "Base HT Rate:"
+msgstr "Базова швидкість ТЕП:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Hunger → Голод, Any → будь-який, EN → ЕН
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_en_base_bonus"
+msgid "Base EN Burn Rate:\n (Using any map Hunger modifiers)"
+msgstr "Базова швидкість витрати ЕН:\n (З урахуванням модифікаторів голоду мапи)"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: bonus → бонус, CHR → ХАР, PER → ЧУТ, Attribute → характеристика
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_entry_statskill_bonus"
+msgid "Attribute Bonus (PER/CHR):"
+msgstr "Бонус характеристик (ЧУТ/ХАР):"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: STR → СИЛ, DEX → СПР, bonus → бонус, Attribute → характеристика
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_hp_entry_statskill_bonus"
+msgid "Attribute Bonus (STR/DEX):"
+msgstr "Бонус характеристик (СИЛ/СПР):"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: MP → ОМ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_mp_per_second_format"
+msgid "+1 MP every %2.1f seconds"
+msgstr "+1 ОМ кожні %2.1f с"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: HT → ТЕП
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_ht_per_second_format"
+msgid "%+d HT every %2.1f seconds"
+msgstr "%+d ТЕП кожні %2.1f с"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: EN → ЕН
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_en_per_second_format"
+msgid "-1 EN every %2.1f seconds"
+msgstr "-1 ЕН кожні %2.1f с"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: MP → ОМ, Regeneration → регенерація, MP Regen → відновлення ОМ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_mp_sources_format"
+msgid "%+d  [MP Regen]"
+msgstr "%+d  [Відновлення ОМ]"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: HT → ТЕП, Regeneration → регенерація
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_ht_sources_format"
+msgid "%+d  [HT Regen]"
+msgstr "%+d  [відновлення ТЕП]"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: EN → ЕН
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_en_sources_format"
+msgid "%+d  [EN Sustain]"
+msgstr "%+d  [підтримка ЕН]"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: RGN → РЕГ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_ht_bonus_format"
+msgid "%+.f%% RGN"
+msgstr "%+.f%% РЕГ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_ht_small_format"
+msgid "%.f%%"
+msgstr "%.f%%"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Item → предмет, Effect → ефект, Time → час, MP → ОМ, Regeneration → регенерація, MP Regen → відновлення ОМ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_mp_desc"
+msgid "MP regenerates slowly over time, maximum of 1 MP every 1 second\nMaximum Regen Modifier from items/effects limited to +3 [MP Regen]"
+msgstr "ОМ повільно відновлюються з часом, щонайбільше 1 ОМ щосекунди\nМаксимальний модифікатор відновлення від предметів/ефектів обмежено до +3 [Відновлення ОМ]"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: HT → ТЕП, Boiler → котел, superheated → перегрітий
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_ht_desc"
+msgid "NOMINAL boiler increases HT production\nSUPERHEATED boiler increases HT production 2x as fast, and 4x if HT below 50% capacity\nCRITICALLY LOW boiler rapidly loses HT, unit malfunction may occur at 0 HT"
+msgstr "За НОРМИ котел збільшує вироблення ТЕП\nПЕРЕГРІТИЙ котел виробляє ТЕП удвічі швидше, а за запасу ТЕП нижче 50% — учетверо\nЗа КРИТИЧНО НИЗЬКОГО стану котел швидко втрачає ТЕП, а при 0 ТЕП можливий збій пристрою"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Spell → Закляття, spellcasting → чаклування, Food → їжа, Effect → ефект, Time → час, MP → ОМ, Starvation → голодна смерть, Slow → сповільнення, Slow Digestion → сповільнене травлення, Restore → відновлення, EN → ЕН
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_rgn_hp/attributes_rgn_en_desc"
+msgid "Energy reduces slowly over time, effects of Slow Digestion increases the longevity of EN\nCasting spells consumes EN\nStarvation occurs when EN is empty\nRestore EN by consuming food, sweet liquids and using MP restoring effects"
+msgstr "Енергія поволі зменшується з часом, а сповільнене травлення подовжує запас ЕН\nЧаклування витрачає ЕН\nЗа порожньої ЕН настає голодна смерть\nВідновлюйте ЕН їжею, солодкими напоями й ефектами відновлення ОМ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: WGT → ВАГ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_wgt/icon_wgt_path"
+msgid "#*images/ui/CharSheet/HUD_CharSheet_WGT_00.png"
+msgstr "#*images/ui/CharSheet/HUD_CharSheet_WGT_00.png"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Weight → вага
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_wgt/attributes_wgt_title"
+msgid "WEIGHT"
+msgstr "ВАГА"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: speed → швидкість
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_wgt/attributes_wgt_base_sum_header"
+msgid "Movement Speed Totals:"
+msgstr "Загальна швидкість руху:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Weight → вага
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_wgt/attributes_wgt_base"
+msgid "Carried Weight:"
+msgstr "Переношувана вага:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: STR → СИЛ, DEX → СПР, Stat → характеристика, speed → швидкість, Weight → вага
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_wgt/attributes_wgt_movement_speed"
+msgid "Current Movement speed:\n (Using Weight + STR + DEX stat)"
+msgstr "Поточна швидкість руху:\n (З урахуванням ваги + СИЛ + СПР)"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Weight → вага, penalty → штраф
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_wgt/attributes_wgt_inventory_value"
+msgid "Inventory Weight Penalty:"
+msgstr "Штраф за вагу інвентарю:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Weight → вага, penalty → штраф
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_wgt/attributes_wgt_equipment_value"
+msgid "Equipped Weight Penalty:"
+msgstr "Штраф за вагу спорядження:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: gold piece → золота монета, penalty → штраф
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_wgt/attributes_wgt_gold_value"
+msgid "Carried Gold Penalty:"
+msgstr "Штраф за вагу золота:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: WGT → ВАГ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_wgt/attributes_wgt_bonus_format"
+msgid "%+d WGT"
+msgstr "%+d ВАГ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: SPD → ШВД
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_wgt/attributes_wgt_speed_format"
+msgid "%.1f%% SPD"
+msgstr "%.1f%% ШВД"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: SPD → ШВД
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_wgt/attributes_wgt_speed_bonus_format"
+msgid "%+.2f%% SPD"
+msgstr "%+.2f%% ШВД"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: SPD → ШВД
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_wgt/attributes_wgt_speed_bonus_format1"
+msgid "%+.2f%% %+.2f%% %+.2f%% SPD"
+msgstr "%+.2f%% %+.2f%% %+.2f%% ШВД"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: WGT → ВАГ
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_wgt/attributes_wgt_nobonus_format"
+msgid "%d WGT"
+msgstr "%d ВАГ"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: DEX → СПР, bonus → бонус, Attribute → характеристика
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_wgt/attributes_wgt_attributes_bonus"
+msgid "Attribute Bonus (DEX):"
+msgstr "Бонус характеристики (СПР):"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Weight → вага, penalty → штраф
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_wgt/attributes_wgt_noweight_speed"
+msgid "Carried Weight Penalty:"
+msgstr "Штраф за переношувану вагу:"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: gold piece → золота монета, STR → СИЛ, DEX → СПР, Item → предмет, Stat → характеристика, speed → швидкість, Weight → вага, penalty → штраф
+#. тон: technical
+#, fuzzy
+#: data/charsheet.json
+msgctxt "hover_text/attributes_wgt/attributes_wgt_desc"
+msgid "Carrying items and gold increases Carried Weight, reducing movement speed\nSTR stat reduces Weight Penalties\nDEX stat provides passive movement speed and increases maximum movement speed"
+msgstr "Предмети й золото збільшують переношувану вагу, знижуючи швидкість руху\nСИЛ зменшує штрафи за вагу\nСПР пасивно підвищує швидкість руху та її максимум"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Hamlet → Поселення, Minehead → Вхід до шахт
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/Start Map/display_name"
+msgid "The Hamlet Minehead"
+msgstr "Вхід до шахт Поселення"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Devil → диявол, gate → брама, Hamlet → Поселення, Bastion → бастіон
+#. тон: solemn
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/Start Map/description"
+msgid "The outskirts of Hamlet's southwest gate holds the entrance to the Devils' Bastion."
+msgstr "На околиці біля південно-західної брами Поселення міститься вхід до Бастіону дияволів."
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Mines → Шахти
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/The Mines/display_name"
+msgid "The Mines"
+msgstr "Шахти"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: gold piece → золота монета, Hamlet → Поселення
+#. тон: sad
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/The Mines/description"
+msgid "Citizens of Hamlet dug in vain for gold here."
+msgstr "Жителі Поселення марно шукали тут золото."
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Swamp → Болото
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/The Swamp/display_name"
+msgid "The Swamp"
+msgstr "Болото"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: plant → рослина
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/The Swamp/description"
+msgid "Underground springs feed the strange plants here."
+msgstr "Підземні джерела живлять тут дивні рослини."
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Labyrinth → Лабіринт
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/The Labyrinth/display_name"
+msgid "Sand Labyrinth"
+msgstr "Піщаний лабіринт"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Run → проходження
+#. тон: solemn
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/The Labyrinth/description"
+msgid "The sands seem to be from an ancient ocean run dry."
+msgstr "Здається, ці піски лишилися від прадавнього висохлого океану."
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Ruins → Руїни
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/The Ruins/display_name"
+msgid "The Ruins"
+msgstr "Руїни"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Herx → Геркс
+#. тон: solemn
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/The Ruins/description"
+msgid "In the deepest depths, Herx's slaves built a city."
+msgstr "У найглибших надрах раби Геркса звели місто."
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Mines → Шахти, exit → вихід
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/Mines to Swamp Transition/display_name"
+msgid "Mines Exit"
+msgstr "Вихід із Шахт"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/Mines to Swamp Transition/description"
+msgid "A place built for those who are passing through."
+msgstr "Місце, зведене для тих, хто прямує далі."
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Swamp → Болото, exit → вихід
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/Swamp to Labyrinth Transition/display_name"
+msgid "Swamp Exit"
+msgstr "Вихід із Болота"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: access → доступ
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/Swamp to Labyrinth Transition/description"
+msgid "The bridges allow access across the great chasm."
+msgstr "Мости дають змогу перетнути велику прірву."
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Labyrinth → Лабіринт, exit → вихід
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/Labyrinth to Ruins Transition/display_name"
+msgid "Labyrinth Exit"
+msgstr "Вихід із Лабіринту"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/Labyrinth to Ruins Transition/description"
+msgid "It looks like the bridges used to be withdrawn."
+msgstr "Схоже, колись ці мости можна було підіймати."
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Herx → Геркс, lair → лігво
+#. тон: threat
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/Boss/display_name"
+msgid "Herx's Lair"
+msgstr "Лігво Геркса"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Human → людина
+#. тон: threat
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/Boss/description"
+msgid "This place looks like it wasn't built by humans."
+msgstr "Схоже, це місце збудували не люди."
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Baphomet → Бафомет, Baphomet's Domain → Володіння Бафомета
+#. тон: threat
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/Hell Boss/display_name"
+msgid "Baphomet's Domain"
+msgstr "Володіння Бафомета"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Herx → Геркс, Magic → магія, lair → лігво
+#. тон: solemn
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/Hell Boss/description"
+msgid "You feel a magic connection to Herx's Lair here."
+msgstr "Тут ви відчуваєте магічний зв'язок із Лігвом Геркса."
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Hell → Пекло
+#. тон: threat
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/Hell/display_name"
+msgid "Hell"
+msgstr "Пекло"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: threat
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/Hell/description"
+msgid "This place beckons the hatred within you."
+msgstr "Це місце пробуджує ненависть у вашій душі."
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Hamlet → Поселення
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/Mages Guild/display_name"
+msgid "Hamlet"
+msgstr "Поселення"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Minehead → Вхід до шахт, Adventurer → шукач пригод
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/Mages Guild/description"
+msgid "The buildings around the entrance to the minehead look to have serviced adventurers moving through here."
+msgstr "Схоже, будівлі довкола входу до шахт слугували шукачам пригод, які проходили тут."
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: exit → вихід, Caves → Печери
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/Caves To Citadel Transition/display_name"
+msgid "Caves Exit"
+msgstr "Вихід із Печер"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: crystal → кристал
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/Caves To Citadel Transition/description"
+msgid "The machinery here appears to be drawing upon the crystals."
+msgstr "Схоже, тутешні механізми черпають силу з кристалів."
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Caves → Печери, crystal → кристал, Crystal Caves → Кришталеві печери
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/Caves/display_name"
+msgid "Crystal Caves"
+msgstr "Кришталеві печери"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: material → матеріал, Magic → магія, wall → стіна
+#. тон: solemn
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/Caves/description"
+msgid "The air throbs with magic from the materials in the walls here."
+msgstr "Повітря тут пульсує магією матеріалів у стінах."
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Citadel → Цитадель
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/Citadel/display_name"
+msgid "The Citadel"
+msgstr "Цитадель"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. тон: solemn
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/Citadel/description"
+msgid "This mechanical campus feels cut off from the outside world."
+msgstr "Цей механічний комплекс здається відрізаним від зовнішнього світу."
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: Sanctum → Святилище
+#. тон: solemn
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/Sanctum/display_name"
+msgid "Sanctum"
+msgstr "Святилище"
+
+#. аркуш персонажа: підказки характеристик і назви локацій
+#. сутності: machine → механізм
+#. тон: solemn, threat
+#, fuzzy
+#: data/charsheet.json
+msgctxt "level_strings/Sanctum/description"
+msgid "The laws of reality appear to be breaking at the center of this massive machine."
+msgstr "У центрі цього величезного механізму руйнуються самі закони реальності."

@@ -1,0 +1,990 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/0/    FURNISHINGS/@"
+msgid "    FURNISHINGS"
+msgstr "    ОБСТАНОВКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: gate → брама
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/1/GATE/@"
+msgid "GATE"
+msgstr "БРАМА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: lever → важіль
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/2/LEVER/@"
+msgid "LEVER"
+msgstr "ВАЖІЛЬ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: button → кнопка
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/3/BUTTON/@"
+msgid "BUTTON"
+msgstr "КНОПКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: wall → стіна, lock → замок, Wall Lock → настінний замок
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/4/WALL LOCKS/@"
+msgid "WALL LOCKS"
+msgstr "НАСТІННІ ЗАМКИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: door → двері
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/5/DOOR/@"
+msgid "DOOR"
+msgstr "ДВЕРІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Water → вода, Murky Water → каламутна вода
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/6/MURKY WATER/@"
+msgid "MURKY WATER"
+msgstr "КАЛАМУТНА ВОДА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Lava → лава
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/7/LAVA/@"
+msgid "LAVA"
+msgstr "ЛАВА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: spirit pit → яма духів
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/8/PITS/@"
+msgid "PITS"
+msgstr "ЯМИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Container → контейнер
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/9/CONTAINERS/@"
+msgid "CONTAINERS"
+msgstr "КОНТЕЙНЕРИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Breakable Barrier → руйнівна перепона
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/10/BREAKABLE BARRIERS/@"
+msgid "BREAKABLE BARRIERS"
+msgstr "РУЙНІВНІ ПЕРЕПОНИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/11/    LOCATIONS/@"
+msgid "    LOCATIONS"
+msgstr "    ЛОКАЦІЇ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Minehead → Вхід до шахт
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/12/MINEHEAD/@"
+msgid "MINEHEAD"
+msgstr "ВХІД ДО ШАХТ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: trial → випробування, Hall of Trials → Зала випробувань
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/13/HALL OF TRIALS/@"
+msgid "HALL OF TRIALS"
+msgstr "ЗАЛА ВИПРОБУВАНЬ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Lich → ліч, Bastion → бастіон, Lich's Bastion → Бастіон ліча
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/14/LICH'S BASTION/@"
+msgid "LICH'S BASTION"
+msgstr "БАСТІОН ЛІЧА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: The Molten Throne → Розплавлений трон
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/15/THE MOLTEN THRONE/@"
+msgid "THE MOLTEN THRONE"
+msgstr "РОЗПЛАВЛЕНИЙ ТРОН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Hamlet → Поселення
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/16/HAMLET/@"
+msgid "HAMLET"
+msgstr "ПОСЕЛЕННЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: floor → поверх, Transition Floor → Перехідний поверх
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/17/TRANSITION FLOOR/@"
+msgid "TRANSITION FLOOR"
+msgstr "ПЕРЕХІДНИЙ ПОВЕРХ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Citadel → Цитадель, Citadel Sanctum → Святилище Цитаделі
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/18/CITADEL SANCTUM/@"
+msgid "CITADEL SANCTUM"
+msgstr "СВЯТИЛИЩЕ ЦИТАДЕЛІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Dungeon → Підземелля
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/19/    DUNGEONS/@"
+msgid "    DUNGEONS"
+msgstr "    ПІДЗЕМЕЛЛЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Mines → Шахти
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/20/MINES/@"
+msgid "MINES"
+msgstr "ШАХТИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Swamps → болото
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/21/SWAMPS/@"
+msgid "SWAMPS"
+msgstr "БОЛОТА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Labyrinth → Лабіринт
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/22/LABYRINTH/@"
+msgid "LABYRINTH"
+msgstr "ЛАБІРИНТ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Underworld → Потойбіччя
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/23/UNDERWORLD/@"
+msgid "UNDERWORLD"
+msgstr "ПОТОЙБІЧЧЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Ruins → Руїни
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/24/RUINS/@"
+msgid "RUINS"
+msgstr "РУЇНИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Hell → Пекло
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/25/HELL/@"
+msgid "HELL"
+msgstr "ПЕКЛО"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Caves → Печери, crystal → кристал, Crystal Caves → Кришталеві печери
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/26/CRYSTAL CAVES/@"
+msgid "CRYSTAL CAVES"
+msgstr "КРИШТАЛЕВІ ПЕЧЕРИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Citadel → Цитадель, Arcane Citadel → Магічна цитадель
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/27/ARCANE CITADEL/@"
+msgid "ARCANE CITADEL"
+msgstr "МАГІЧНА ЦИТАДЕЛЬ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/28/    STATIONS/@"
+msgid "    STATIONS"
+msgstr "    СТАНЦІЇ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: shop → крамниця
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/29/SHOP/@"
+msgid "SHOP"
+msgstr "КРАМНИЦЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: sink → раковина
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/30/SINK/@"
+msgid "SINK"
+msgstr "РАКОВИНА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Cauldron → казан
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/31/CAULDRON/@"
+msgid "CAULDRON"
+msgstr "КАЗАН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: workbench → верстак
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/32/WORKBENCH/@"
+msgid "WORKBENCH"
+msgstr "ВЕРСТАК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: fountain → фонтан
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/33/FOUNTAIN/@"
+msgid "FOUNTAIN"
+msgstr "ФОНТАН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: chest → скриня
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/34/CHEST/@"
+msgid "CHEST"
+msgstr "СКРИНЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: gravestone → надгробок
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/35/GRAVESTONE/@"
+msgid "GRAVESTONE"
+msgstr "НАДГРОБОК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: shrine → святиня, Assist Shrine → святилище допомоги
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/36/ASSIST SHRINE/@"
+msgid "ASSIST SHRINE"
+msgstr "СВЯТИЛИЩЕ ДОПОМОГИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: shrine → святиня, Daedalus → Дедал, Daedalus Shrine → святилище Дедала
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/37/DAEDALUS SHRINE/@"
+msgid "DAEDALUS SHRINE"
+msgstr "СВЯТИЛИЩЕ ДЕДАЛА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Obelisk → обеліск
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/38/OBELISK/@"
+msgid "OBELISK"
+msgstr "ОБЕЛІСК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: bell → дзвін
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/39/BELL/@"
+msgid "BELL"
+msgstr "ДЗВІН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Trap → пастка
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/40/    TRAPS/@"
+msgid "    TRAPS"
+msgstr "    ПАСТКИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Trap → пастка, boulder → валун, boulder trap → пастка з валуном
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/41/BOULDER TRAP/@"
+msgid "BOULDER TRAP"
+msgstr "ПАСТКА З ВАЛУНОМ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Trap → пастка, arrow → стріла, arrow trap → стрілова пастка
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/42/ARROW TRAP/@"
+msgid "ARROW TRAP"
+msgstr "СТРІЛОВА ПАСТКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Trap → пастка, spike trap → пастка з шипами
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/43/SPIKE TRAP/@"
+msgid "SPIKE TRAP"
+msgstr "ПАСТКА З ШИПАМИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Trap → пастка, Magic → магія, magic trap → магічна пастка
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/44/MAGIC TRAP/@"
+msgid "MAGIC TRAP"
+msgstr "МАГІЧНА ПАСТКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Trap → пастка, Summoning Trap → пастка викликання
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/45/SUMMONING TRAP/@"
+msgid "SUMMONING TRAP"
+msgstr "ПАСТКА ВИКЛИКАННЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: boulder → валун, Brimstone Boulder → сірчаний валун
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/46/BRIMSTONE BOULDER/@"
+msgid "BRIMSTONE BOULDER"
+msgstr "СІРЧАНИЙ ВАЛУН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: boulder → валун, Arcane Boulder → магічний валун
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/47/ARCANE BOULDER/@"
+msgid "ARCANE BOULDER"
+msgstr "МАГІЧНИЙ ВАЛУН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Trap → пастка, Ceiling Trap → стельова пастка
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/48/CEILING TRAP/@"
+msgid "CEILING TRAP"
+msgstr "СТЕЛЬОВА ПАСТКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/49/    SECRET PLACES/@"
+msgid "    SECRET PLACES"
+msgstr "    ТАЄМНІ МІСЦЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Mines → Шахти, Gnomish Mines → Гномські копальні
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/50/GNOMISH MINES/@"
+msgid "GNOMISH MINES"
+msgstr "ГНОМСЬКІ КОПАЛЬНІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Minetown → Шахтарське містечко
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/51/MINETOWN/@"
+msgid "MINETOWN"
+msgstr "ШАХТАРСЬКЕ МІСТЕЧКО"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Temple → храм
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/52/TEMPLE/@"
+msgid "TEMPLE"
+msgstr "ХРАМ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Haunted Castle → Замок із привидами
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/53/HAUNTED CASTLE/@"
+msgid "HAUNTED CASTLE"
+msgstr "ЗАМОК ІЗ ПРИВИДАМИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Sokoban → Сокобан
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/54/SOKOBAN/@"
+msgid "SOKOBAN"
+msgstr "СОКОБАН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Minotaur → Мінотавр, Minotaur Maze → Лабіринт Мінотавра
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/55/MINOTAUR MAZE/@"
+msgid "MINOTAUR MAZE"
+msgstr "ЛАБІРИНТ МІНОТАВРА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Mystic Library → Містична бібліотека
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/56/MYSTIC LIBRARY/@"
+msgid "MYSTIC LIBRARY"
+msgstr "МІСТИЧНА БІБЛІОТЕКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Cockatrice → кокатрис, Cockatrice Lair → Лігво кокатриса
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/57/COCKATRICE LAIR/@"
+msgid "COCKATRICE LAIR"
+msgstr "ЛІГВО КОКАТРИСА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Bram's Castle → Замок Брама, Bram → Брам
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/58/BRAM'S CASTLE/@"
+msgid "BRAM'S CASTLE"
+msgstr "ЗАМОК БРАМА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Lore → знання, Guild → гільдія
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/59/    GUILD LORE/@"
+msgid "    GUILD LORE"
+msgstr "    ЗНАННЯ ГІЛЬДІЇ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Merchant → торговець, Guild → гільдія, Merchants' Guild → гільдія торговців
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/60/MERCHANTS' GUILD/@"
+msgid "MERCHANTS' GUILD"
+msgstr "ГІЛЬДІЯ ТОРГОВЦІВ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Guild → гільдія, Magicians' Guild → гільдія магів, Magician → маг
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/61/MAGICIANS' GUILD/@"
+msgid "MAGICIANS' GUILD"
+msgstr "ГІЛЬДІЯ МАГІВ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Guild → гільдія, Hunter → мисливець, Hunters' Guild → гільдія мисливців
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/62/HUNTERS' GUILD/@"
+msgid "HUNTERS' GUILD"
+msgstr "ГІЛЬДІЯ МИСЛИВЦІВ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Church → Церква
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/63/THE CHURCH/@"
+msgid "THE CHURCH"
+msgstr "ЦЕРКВА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Guild → гільдія, Masons' Guild → гільдія мулярів
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents/64/MASONS' GUILD/@"
+msgid "MASONS' GUILD"
+msgstr "ГІЛЬДІЯ МУЛЯРІВ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: boulder → валун, Arcane Boulder → магічний валун
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/0/ARCANE BOULDER/@"
+msgid "ARCANE BOULDER"
+msgstr "МАГІЧНИЙ ВАЛУН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Citadel → Цитадель, Arcane Citadel → Магічна цитадель
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/1/ARCANE CITADEL/@"
+msgid "ARCANE CITADEL"
+msgstr "МАГІЧНА ЦИТАДЕЛЬ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Trap → пастка, arrow → стріла, arrow trap → стрілова пастка
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/2/ARROW TRAP/@"
+msgid "ARROW TRAP"
+msgstr "СТРІЛОВА ПАСТКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: shrine → святиня, Assist Shrine → святилище допомоги
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/3/ASSIST SHRINE/@"
+msgid "ASSIST SHRINE"
+msgstr "СВЯТИЛИЩЕ ДОПОМОГИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: bell → дзвін
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/4/BELL/@"
+msgid "BELL"
+msgstr "ДЗВІН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Trap → пастка, boulder → валун, boulder trap → пастка з валуном
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/5/BOULDER TRAP/@"
+msgid "BOULDER TRAP"
+msgstr "ПАСТКА З ВАЛУНОМ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Bram's Castle → Замок Брама, Bram → Брам
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/6/BRAM'S CASTLE/@"
+msgid "BRAM'S CASTLE"
+msgstr "ЗАМОК БРАМА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Breakable Barrier → руйнівна перепона
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/7/BREAKABLE BARRIERS/@"
+msgid "BREAKABLE BARRIERS"
+msgstr "РУЙНІВНІ ПЕРЕПОНИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: boulder → валун, Brimstone Boulder → сірчаний валун
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/8/BRIMSTONE BOULDER/@"
+msgid "BRIMSTONE BOULDER"
+msgstr "СІРЧАНИЙ ВАЛУН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: button → кнопка
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/9/BUTTON/@"
+msgid "BUTTON"
+msgstr "КНОПКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Cauldron → казан
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/10/CAULDRON/@"
+msgid "CAULDRON"
+msgstr "КАЗАН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Trap → пастка, Ceiling Trap → стельова пастка
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/11/CEILING TRAP/@"
+msgid "CEILING TRAP"
+msgstr "СТЕЛЬОВА ПАСТКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: chest → скриня
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/12/CHEST/@"
+msgid "CHEST"
+msgstr "СКРИНЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Citadel → Цитадель, Citadel Sanctum → Святилище Цитаделі
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/13/CITADEL SANCTUM/@"
+msgid "CITADEL SANCTUM"
+msgstr "СВЯТИЛИЩЕ ЦИТАДЕЛІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Cockatrice → кокатрис, Cockatrice Lair → Лігво кокатриса
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/14/COCKATRICE LAIR/@"
+msgid "COCKATRICE LAIR"
+msgstr "ЛІГВО КОКАТРИСА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Container → контейнер
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/15/CONTAINERS/@"
+msgid "CONTAINERS"
+msgstr "КОНТЕЙНЕРИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Caves → Печери, crystal → кристал, Crystal Caves → Кришталеві печери
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/16/CRYSTAL CAVES/@"
+msgid "CRYSTAL CAVES"
+msgstr "КРИШТАЛЕВІ ПЕЧЕРИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: shrine → святиня, Daedalus → Дедал, Daedalus Shrine → святилище Дедала
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/17/DAEDALUS SHRINE/@"
+msgid "DAEDALUS SHRINE"
+msgstr "СВЯТИЛИЩЕ ДЕДАЛА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: door → двері
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/18/DOOR/@"
+msgid "DOOR"
+msgstr "ДВЕРІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: fountain → фонтан
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/19/FOUNTAIN/@"
+msgid "FOUNTAIN"
+msgstr "ФОНТАН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: gate → брама
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/20/GATE/@"
+msgid "GATE"
+msgstr "БРАМА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Mines → Шахти, Gnomish Mines → Гномські копальні
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/21/GNOMISH MINES/@"
+msgid "GNOMISH MINES"
+msgstr "ГНОМСЬКІ КОПАЛЬНІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: gravestone → надгробок
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/22/GRAVESTONE/@"
+msgid "GRAVESTONE"
+msgstr "НАДГРОБОК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: trial → випробування, Hall of Trials → Зала випробувань
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/23/HALL OF TRIALS/@"
+msgid "HALL OF TRIALS"
+msgstr "ЗАЛА ВИПРОБУВАНЬ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Hamlet → Поселення
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/24/HAMLET/@"
+msgid "HAMLET"
+msgstr "ПОСЕЛЕННЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Haunted Castle → Замок із привидами
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/25/HAUNTED CASTLE/@"
+msgid "HAUNTED CASTLE"
+msgstr "ЗАМОК ІЗ ПРИВИДАМИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Hell → Пекло
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/26/HELL/@"
+msgid "HELL"
+msgstr "ПЕКЛО"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Guild → гільдія, Hunter → мисливець, Hunters' Guild → гільдія мисливців
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/27/HUNTERS' GUILD/@"
+msgid "HUNTERS' GUILD"
+msgstr "ГІЛЬДІЯ МИСЛИВЦІВ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Labyrinth → Лабіринт
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/28/LABYRINTH/@"
+msgid "LABYRINTH"
+msgstr "ЛАБІРИНТ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Lava → лава
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/29/LAVA/@"
+msgid "LAVA"
+msgstr "ЛАВА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: lever → важіль
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/30/LEVER/@"
+msgid "LEVER"
+msgstr "ВАЖІЛЬ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Lich → ліч, Bastion → бастіон, Lich's Bastion → Бастіон ліча
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/31/LICH'S BASTION/@"
+msgid "LICH'S BASTION"
+msgstr "БАСТІОН ЛІЧА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Trap → пастка, Magic → магія, magic trap → магічна пастка
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/32/MAGIC TRAP/@"
+msgid "MAGIC TRAP"
+msgstr "МАГІЧНА ПАСТКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Guild → гільдія, Magicians' Guild → гільдія магів, Magician → маг
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/33/MAGICIANS' GUILD/@"
+msgid "MAGICIANS' GUILD"
+msgstr "ГІЛЬДІЯ МАГІВ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Guild → гільдія, Masons' Guild → гільдія мулярів
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/34/MASONS' GUILD/@"
+msgid "MASONS' GUILD"
+msgstr "ГІЛЬДІЯ МУЛЯРІВ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Merchant → торговець, Guild → гільдія, Merchants' Guild → гільдія торговців
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/35/MERCHANTS' GUILD/@"
+msgid "MERCHANTS' GUILD"
+msgstr "ГІЛЬДІЯ ТОРГОВЦІВ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Minehead → Вхід до шахт
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/36/MINEHEAD/@"
+msgid "MINEHEAD"
+msgstr "ВХІД ДО ШАХТ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Mines → Шахти
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/37/MINES/@"
+msgid "MINES"
+msgstr "ШАХТИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Minetown → Шахтарське містечко
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/38/MINETOWN/@"
+msgid "MINETOWN"
+msgstr "ШАХТАРСЬКЕ МІСТЕЧКО"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Minotaur → Мінотавр, Minotaur Maze → Лабіринт Мінотавра
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/39/MINOTAUR MAZE/@"
+msgid "MINOTAUR MAZE"
+msgstr "ЛАБІРИНТ МІНОТАВРА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Water → вода, Murky Water → каламутна вода
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/40/MURKY WATER/@"
+msgid "MURKY WATER"
+msgstr "КАЛАМУТНА ВОДА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Mystic Library → Містична бібліотека
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/41/MYSTIC LIBRARY/@"
+msgid "MYSTIC LIBRARY"
+msgstr "МІСТИЧНА БІБЛІОТЕКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Obelisk → обеліск
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/42/OBELISK/@"
+msgid "OBELISK"
+msgstr "ОБЕЛІСК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: spirit pit → яма духів
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/43/PITS/@"
+msgid "PITS"
+msgstr "ЯМИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Ruins → Руїни
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/44/RUINS/@"
+msgid "RUINS"
+msgstr "РУЇНИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: shop → крамниця
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/45/SHOP/@"
+msgid "SHOP"
+msgstr "КРАМНИЦЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: sink → раковина
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/46/SINK/@"
+msgid "SINK"
+msgstr "РАКОВИНА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Sokoban → Сокобан
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/47/SOKOBAN/@"
+msgid "SOKOBAN"
+msgstr "СОКОБАН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Trap → пастка, spike trap → пастка з шипами
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/48/SPIKE TRAP/@"
+msgid "SPIKE TRAP"
+msgstr "ПАСТКА З ШИПАМИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Trap → пастка, Summoning Trap → пастка викликання
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/49/SUMMONING TRAP/@"
+msgid "SUMMONING TRAP"
+msgstr "ПАСТКА ВИКЛИКАННЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Swamps → болото
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/50/SWAMPS/@"
+msgid "SWAMPS"
+msgstr "БОЛОТА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Temple → храм
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/51/TEMPLE/@"
+msgid "TEMPLE"
+msgstr "ХРАМ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Church → Церква
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/52/THE CHURCH/@"
+msgid "THE CHURCH"
+msgstr "ЦЕРКВА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: The Molten Throne → Розплавлений трон
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/53/THE MOLTEN THRONE/@"
+msgid "THE MOLTEN THRONE"
+msgstr "РОЗПЛАВЛЕНИЙ ТРОН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: floor → поверх, Transition Floor → Перехідний поверх
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/54/TRANSITION FLOOR/@"
+msgid "TRANSITION FLOOR"
+msgstr "ПЕРЕХІДНИЙ ПОВЕРХ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Underworld → Потойбіччя
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/55/UNDERWORLD/@"
+msgid "UNDERWORLD"
+msgstr "ПОТОЙБІЧЧЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: wall → стіна, lock → замок, Wall Lock → настінний замок
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/56/WALL LOCKS/@"
+msgid "WALL LOCKS"
+msgstr "НАСТІННІ ЗАМКИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: workbench → верстак
+#, fuzzy
+#: lang/compendium_lang/contents_world.json
+msgctxt "contents_alphabetical/57/WORKBENCH/@"
+msgid "WORKBENCH"
+msgstr "ВЕРСТАК"

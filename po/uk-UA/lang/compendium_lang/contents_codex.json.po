@@ -1,0 +1,874 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Character → персонаж
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/0/    CHARACTER/@"
+msgid "    CHARACTER"
+msgstr "    ПЕРСОНАЖ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: class → клас
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/1/CLASS OVERVIEW/@"
+msgid "CLASS OVERVIEW"
+msgstr "ОГЛЯД КЛАСУ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: class → клас
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/2/CLASSES/@"
+msgid "CLASSES"
+msgstr "КЛАСИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: race → раса, Alignment → світогляд
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/3/RACE & ALIGNMENT/@"
+msgid "RACE & ALIGNMENT"
+msgstr "РАСА І СВІТОГЛЯД"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: XP → ОД, Experience → досвід
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/4/EXPERIENCE POINTS (XP)/@"
+msgid "EXPERIENCE POINTS (XP)"
+msgstr "ОЧКИ ДОСВІДУ (ОД)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Leveling Up → підвищення рівня
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/5/LEVELING UP/@"
+msgid "LEVELING UP"
+msgstr "ПІДВИЩЕННЯ РІВНЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Stats → характеристики, Metastats → похідні характеристики
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/6/STATS & METASTATS/@"
+msgid "STATS & METASTATS"
+msgstr "ХАРАКТЕРИСТИКИ Й ПОХІДНІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/7/SKILLS/@"
+msgid "SKILLS"
+msgstr "НАВИЧКИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: gold piece → золота монета
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/8/GOLD/@"
+msgid "GOLD"
+msgstr "ЗОЛОТІ МОНЕТИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Action → дія
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/9/    ACTIONS/@"
+msgid "    ACTIONS"
+msgstr "    ДІЇ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: melee → ближній бій
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/10/MELEE ATTACKS/@"
+msgid "MELEE ATTACKS"
+msgstr "АТАКИ БЛИЖНЬОГО БОЮ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: critical strike → критичний удар
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/11/CRITICAL STRIKES/@"
+msgid "CRITICAL STRIKES"
+msgstr "КРИТИЧНІ УДАРИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Flanking Strike → фланговий удар
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/12/FLANKING STRIKES/@"
+msgid "FLANKING STRIKES"
+msgstr "ФЛАНГОВІ УДАРИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Backstabbing → удар у спину
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/13/BACKSTABBING/@"
+msgid "BACKSTABBING"
+msgstr "УДАРИ В СПИНУ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Sneaking → скрадання
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/14/SNEAKING/@"
+msgid "SNEAKING"
+msgstr "СКРАДАННЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Legendary Strike → легендарний удар
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/15/LEGENDARY STRIKES/@"
+msgid "LEGENDARY STRIKES"
+msgstr "ЛЕГЕНДАРНІ УДАРИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Blocking → блокування
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/16/BLOCKING/@"
+msgid "BLOCKING"
+msgstr "БЛОКУВАННЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: spellcasting → чаклування, off-hand → друга рука
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/17/OFF-HAND CASTING/@"
+msgid "OFF-HAND CASTING"
+msgstr "ЧАКЛУВАННЯ З ДРУГОЇ РУКИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Strafe → рух боком, Backpedal → відступ
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/18/STRAFE & BACKPEDAL/@"
+msgid "STRAFE & BACKPEDAL"
+msgstr "РУХ БОКОМ І ВІДСТУП"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: spellcasting → чаклування, Memorized Casting → творення запам'ятованих заклять
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/19/MEMORIZED CASTING/@"
+msgid "MEMORIZED CASTING"
+msgstr "ТВОРЕННЯ ЗАПАМ'ЯТОВАНИХ ЗАКЛЯТЬ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: spellbook → книга заклять, spellcasting → чаклування
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/20/SPELLBOOK CASTING/@"
+msgid "SPELLBOOK CASTING"
+msgstr "ЧАКЛУВАННЯ З КНИГИ ЗАКЛЯТЬ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Missile Attack → снарядна атака
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/21/MISSILE ATTACKS/@"
+msgid "MISSILE ATTACKS"
+msgstr "СНАРЯДНІ АТАКИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: thrown → метальний
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/22/THROWN ATTACKS/@"
+msgid "THROWN ATTACKS"
+msgstr "МЕТАЛЬНІ АТАКИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Item → предмет, Item Degradation → зношення предметів
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/23/ITEM DEGRADATION/@"
+msgid "ITEM DEGRADATION"
+msgstr "ЗНОШЕННЯ ПРЕДМЕТІВ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Wanted Status → статус розшуку
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/24/WANTED STATUS/@"
+msgid "WANTED STATUS"
+msgstr "СТАТУС РОЗШУКУ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Stats → характеристики, Metastats → похідні характеристики
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/25/    STATS & METASTATS/@"
+msgid "    STATS & METASTATS"
+msgstr "    ХАРАКТЕРИСТИКИ Й ПОХІДНІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: STR → СИЛ, Strength → сила
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/26/STRENGTH (STR)/@"
+msgid "STRENGTH (STR)"
+msgstr "СИЛА (СИЛ)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: DEX → СПР, Dexterity → спритність
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/27/DEXTERITY (DEX)/@"
+msgid "DEXTERITY (DEX)"
+msgstr "СПРИТНІСТЬ (СПР)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: CON → СТА, Constitution → статура
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/28/CONSTITUTION (CON)/@"
+msgid "CONSTITUTION (CON)"
+msgstr "СТАТУРА (СТА)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: INT → ІНТ, Intelligence → інтелект
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/29/INTELLIGENCE (INT)/@"
+msgid "INTELLIGENCE (INT)"
+msgstr "ІНТЕЛЕКТ (ІНТ)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: PER → ЧУТ, Perception → чуття
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/30/PERCEPTION (PER)/@"
+msgid "PERCEPTION (PER)"
+msgstr "ЧУТТЯ (ЧУТ)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: CHR → ХАР, Charisma → харизма
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/31/CHARISMA (CHR)/@"
+msgid "CHARISMA (CHR)"
+msgstr "ХАРИЗМА (ХАР)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: armor → обладунок, class → клас, AC → КЗ, Armor Class → клас захисту
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/32/ARMOR CLASS (AC)/@"
+msgid "ARMOR CLASS (AC)"
+msgstr "КЛАС ЗАХИСТУ (КЗ)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: health → здоров'я, HP → ОЗ, Health Points → очки здоров'я
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/33/HEALTH POINTS (HP)/@"
+msgid "HEALTH POINTS (HP)"
+msgstr "ОЧКИ ЗДОРОВ'Я (ОЗ)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Magic → магія, MP → ОМ, Magic Points → очки магії
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/34/MAGIC POINTS (MP)/@"
+msgid "MAGIC POINTS (MP)"
+msgstr "ОЧКИ МАГІЇ (ОМ)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Magic → магія, RES → ОПР, Magic Resist → опір магії
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/35/MAGIC RESIST (RES)/@"
+msgid "MAGIC RESIST (RES)"
+msgstr "ОПІР МАГІЇ (ОПР)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Magic → магія, PWR → ПОТ, Magic Power → сила магії
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/36/MAGIC POWER (PWR)/@"
+msgid "MAGIC POWER (PWR)"
+msgstr "СИЛА МАГІЇ (ПОТ)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: RGN → РЕГ, Regeneration → регенерація
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/37/REGENERATION (RGN)/@"
+msgid "REGENERATION (RGN)"
+msgstr "РЕГЕНЕРАЦІЯ (РЕГ)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: WGT → ВАГ, Weight → вага
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/38/WEIGHT (WGT)/@"
+msgid "WEIGHT (WGT)"
+msgstr "ВАГА (ВАГ)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/39/    SKILLS/@"
+msgid "    SKILLS"
+msgstr "    НАВИЧКИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Sword → меч
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/40/SWORD SKILL/@"
+msgid "SWORD SKILL"
+msgstr "НАВИЧКА МЕЧА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Axe → сокира
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/41/AXE SKILL/@"
+msgid "AXE SKILL"
+msgstr "НАВИЧКА СОКИРИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Polearm → древкова зброя
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/42/POLEARM SKILL/@"
+msgid "POLEARM SKILL"
+msgstr "НАВИЧКА ДРЕВКОВОЇ ЗБРОЇ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Mace → булава
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/43/MACE SKILL/@"
+msgid "MACE SKILL"
+msgstr "НАВИЧКА БУЛАВИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Unarmed → без зброї
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/44/UNARMED SKILL/@"
+msgid "UNARMED SKILL"
+msgstr "НАВИЧКА БОЮ БЕЗ ЗБРОЇ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Stealth → потайність
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/45/STEALTH SKILL/@"
+msgid "STEALTH SKILL"
+msgstr "НАВИЧКА ПОТАЙНОСТІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Blocking → блокування
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/46/BLOCKING SKILL/@"
+msgid "BLOCKING SKILL"
+msgstr "НАВИЧКА БЛОКУВАННЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Ranged → дальній бій
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/47/RANGED SKILL/@"
+msgid "RANGED SKILL"
+msgstr "НАВИЧКА ДАЛЬНЬОГО БОЮ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Sorcery → чаклунство
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/48/SORCERY SKILL/@"
+msgid "SORCERY SKILL"
+msgstr "НАВИЧКА ЧАКЛУНСТВА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Mysticism → містицизм
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/49/MYSTICISM SKILL/@"
+msgid "MYSTICISM SKILL"
+msgstr "НАВИЧКА МІСТИЦИЗМУ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Thaumaturgy → тавматургія
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/50/THAUMATURGY SKILL/@"
+msgid "THAUMATURGY SKILL"
+msgstr "НАВИЧКА ТАВМАТУРГІЇ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Lore → знання
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/51/LORE SKILL/@"
+msgid "LORE SKILL"
+msgstr "НАВИЧКА ЗНАНЬ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Leadership → лідерство
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/52/LEADERSHIP SKILL/@"
+msgid "LEADERSHIP SKILL"
+msgstr "НАВИЧКА ЛІДЕРСТВА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Trading → торгівля
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/53/TRADING SKILL/@"
+msgid "TRADING SKILL"
+msgstr "НАВИЧКА ТОРГІВЛІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Alchemy → алхімія
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/54/ALCHEMY SKILL/@"
+msgid "ALCHEMY SKILL"
+msgstr "НАВИЧКА АЛХІМІЇ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Tinkering → майстрування
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents/55/TINKERING SKILL/@"
+msgid "TINKERING SKILL"
+msgstr "НАВИЧКА МАЙСТРУВАННЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Alchemy → алхімія
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/0/ALCHEMY SKILL/@"
+msgid "ALCHEMY SKILL"
+msgstr "НАВИЧКА АЛХІМІЇ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: armor → обладунок, class → клас, AC → КЗ, Armor Class → клас захисту
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/1/ARMOR CLASS (AC)/@"
+msgid "ARMOR CLASS (AC)"
+msgstr "КЛАС ЗАХИСТУ (КЗ)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Axe → сокира
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/2/AXE SKILL/@"
+msgid "AXE SKILL"
+msgstr "НАВИЧКА СОКИРИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Backstabbing → удар у спину
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/3/BACKSTABBING/@"
+msgid "BACKSTABBING"
+msgstr "УДАРИ В СПИНУ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Blocking → блокування
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/4/BLOCKING SKILL/@"
+msgid "BLOCKING SKILL"
+msgstr "НАВИЧКА БЛОКУВАННЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Blocking → блокування
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/5/BLOCKING/@"
+msgid "BLOCKING"
+msgstr "БЛОКУВАННЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Spell → Закляття, spellcasting → чаклування, Memorized Casting → творення запам'ятованих заклять
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/6/CASTING MEMORIZED SPELLS/@"
+msgid "CASTING MEMORIZED SPELLS"
+msgstr "ТВОРЕННЯ ЗАПАМ'ЯТОВАНИХ ЗАКЛЯТЬ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: CHR → ХАР, Charisma → харизма
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/7/CHARISMA (CHR)/@"
+msgid "CHARISMA (CHR)"
+msgstr "ХАРИЗМА (ХАР)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: class → клас
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/8/CLASS/@"
+msgid "CLASS"
+msgstr "КЛАС"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: class → клас
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/9/CLASSES LIST/@"
+msgid "CLASSES LIST"
+msgstr "СПИСОК КЛАСІВ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: CON → СТА, Constitution → статура
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/10/CONSTITUTION (CON)/@"
+msgid "CONSTITUTION (CON)"
+msgstr "СТАТУРА (СТА)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: critical strike → критичний удар
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/11/CRITICAL STRIKES/@"
+msgid "CRITICAL STRIKES"
+msgstr "КРИТИЧНІ УДАРИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: DEX → СПР, Dexterity → спритність
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/12/DEXTERITY (DEX)/@"
+msgid "DEXTERITY (DEX)"
+msgstr "СПРИТНІСТЬ (СПР)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: XP → ОД, Experience → досвід
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/13/EXPERIENCE POINTS (XP)/@"
+msgid "EXPERIENCE POINTS (XP)"
+msgstr "ОЧКИ ДОСВІДУ (ОД)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Flanking Strike → фланговий удар
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/14/FLANKING STRIKES/@"
+msgid "FLANKING STRIKES"
+msgstr "ФЛАНГОВІ УДАРИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: gold piece → золота монета
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/15/GOLD/@"
+msgid "GOLD"
+msgstr "ЗОЛОТО"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: health → здоров'я, HP → ОЗ, Health Points → очки здоров'я
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/16/HEALTH POINTS (HP)/@"
+msgid "HEALTH POINTS (HP)"
+msgstr "ОЧКИ ЗДОРОВ'Я (ОЗ)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: INT → ІНТ, Intelligence → інтелект
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/17/INTELLIGENCE (INT)/@"
+msgid "INTELLIGENCE (INT)"
+msgstr "ІНТЕЛЕКТ (ІНТ)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Item → предмет, Item Durability → міцність предметів
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/18/ITEM DURABILITY/@"
+msgid "ITEM DURABILITY"
+msgstr "МІЦНІСТЬ ПРЕДМЕТІВ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Leadership → лідерство
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/19/LEADERSHIP SKILL/@"
+msgid "LEADERSHIP SKILL"
+msgstr "НАВИЧКА ЛІДЕРСТВА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Legendary Strike → легендарний удар
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/20/LEGENDARY STRIKES/@"
+msgid "LEGENDARY STRIKES"
+msgstr "ЛЕГЕНДАРНІ УДАРИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Leveling Up → підвищення рівня
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/21/LEVELING UP/@"
+msgid "LEVELING UP"
+msgstr "ПІДВИЩЕННЯ РІВНЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Lore → знання
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/22/LORE SKILL/@"
+msgid "LORE SKILL"
+msgstr "НАВИЧКА ЗНАНЬ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Mace → булава
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/23/MACE SKILL/@"
+msgid "MACE SKILL"
+msgstr "НАВИЧКА БУЛАВИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Magic → магія, MP → ОМ, Magic Points → очки магії
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/24/MAGIC POINTS (MP)/@"
+msgid "MAGIC POINTS (MP)"
+msgstr "ОЧКИ МАГІЇ (ОМ)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Magic → магія, PWR → ПОТ, Magic Power → сила магії
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/25/MAGIC POWER (PWR)/@"
+msgid "MAGIC POWER (PWR)"
+msgstr "СИЛА МАГІЇ (ПОТ)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Magic → магія, RES → ОПР, Magic Resist → опір магії
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/26/MAGIC RESIST (RES)/@"
+msgid "MAGIC RESIST (RES)"
+msgstr "ОПІР МАГІЇ (ОПР)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: melee → ближній бій
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/27/MELEE ATTACKS/@"
+msgid "MELEE ATTACKS"
+msgstr "АТАКИ БЛИЖНЬОГО БОЮ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Missile Attack → снарядна атака
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/28/MISSILE ATTACKS/@"
+msgid "MISSILE ATTACKS"
+msgstr "СНАРЯДНІ АТАКИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Mysticism → містицизм
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/29/MYSTICISM SKILL/@"
+msgid "MYSTICISM SKILL"
+msgstr "НАВИЧКА МІСТИЦИЗМУ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: spellcasting → чаклування, off-hand → друга рука
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/30/OFF-HAND CASTING/@"
+msgid "OFF-HAND CASTING"
+msgstr "ЧАКЛУВАННЯ З ДРУГОЇ РУКИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: PER → ЧУТ, Perception → чуття
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/31/PERCEPTION (PER)/@"
+msgid "PERCEPTION (PER)"
+msgstr "ЧУТТЯ (ЧУТ)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Polearm → древкова зброя
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/32/POLEARM SKILL/@"
+msgid "POLEARM SKILL"
+msgstr "НАВИЧКА ДРЕВКОВОЇ ЗБРОЇ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: race → раса, Alignment → світогляд
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/33/RACE & ALIGNMENT/@"
+msgid "RACE & ALIGNMENT"
+msgstr "РАСА Й СВІТОГЛЯД"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Ranged → дальній бій
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/34/RANGED SKILL/@"
+msgid "RANGED SKILL"
+msgstr "НАВИЧКА ДАЛЬНЬОГО БОЮ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: RGN → РЕГ, Regeneration → регенерація
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/35/REGENERATION (RGN)/@"
+msgid "REGENERATION (RGN)"
+msgstr "РЕГЕНЕРАЦІЯ (РЕГ)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/36/SKILLS/@"
+msgid "SKILLS"
+msgstr "НАВИЧКИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Sneaking → скрадання
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/37/SNEAKING/@"
+msgid "SNEAKING"
+msgstr "СКРАДАННЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Sorcery → чаклунство
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/38/SORCERY SKILL/@"
+msgid "SORCERY SKILL"
+msgstr "НАВИЧКА ЧАКЛУНСТВА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: spellbook → книга заклять, spellcasting → чаклування
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/39/SPELLBOOK CASTING/@"
+msgid "SPELLBOOK CASTING"
+msgstr "ЧАКЛУВАННЯ З КНИГИ ЗАКЛЯТЬ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Stats → характеристики, Metastats → похідні характеристики
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/40/STATS & METASTATS/@"
+msgid "STATS & METASTATS"
+msgstr "ХАРАКТЕРИСТИКИ Й ПОХІДНІ ХАРАКТЕРИСТИКИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Stealth → потайність
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/41/STEALTH SKILL/@"
+msgid "STEALTH SKILL"
+msgstr "НАВИЧКА ПОТАЙНОСТІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Strafe → рух боком, Backpedal → відступ
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/42/STRAFE & BACKPEDAL/@"
+msgid "STRAFE & BACKPEDAL"
+msgstr "РУХ БОКОМ І ВІДСТУП"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: STR → СИЛ, Strength → сила
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/43/STRENGTH (STR)/@"
+msgid "STRENGTH (STR)"
+msgstr "СИЛА (СИЛ)"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Sword → меч
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/44/SWORD SKILL/@"
+msgid "SWORD SKILL"
+msgstr "НАВИЧКА МЕЧА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Thaumaturgy → тавматургія
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/45/THAUMATURGY SKILL/@"
+msgid "THAUMATURGY SKILL"
+msgstr "НАВИЧКА ТАВМАТУРГІЇ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: thrown → метальний
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/46/THROWN ATTACKS/@"
+msgid "THROWN ATTACKS"
+msgstr "МЕТАЛЬНІ АТАКИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Tinkering → майстрування
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/47/TINKERING SKILL/@"
+msgid "TINKERING SKILL"
+msgstr "НАВИЧКА МАЙСТРУВАННЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Trading → торгівля
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/48/TRADING SKILL/@"
+msgid "TRADING SKILL"
+msgstr "НАВИЧКА ТОРГІВЛІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: skill → навичка, Unarmed → без зброї
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/49/UNARMED SKILL/@"
+msgid "UNARMED SKILL"
+msgstr "НАВИЧКА БОЮ БЕЗ ЗБРОЇ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Wanted Status → статус розшуку
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/50/WANTED STATUS/@"
+msgid "WANTED STATUS"
+msgstr "СТАТУС РОЗШУКУ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: WGT → ВАГ, Weight → вага
+#, fuzzy
+#: lang/compendium_lang/contents_codex.json
+msgctxt "contents_alphabetical/51/WEIGHT (WGT)/@"
+msgid "WEIGHT (WGT)"
+msgstr "ВАГА (ВАГ)"

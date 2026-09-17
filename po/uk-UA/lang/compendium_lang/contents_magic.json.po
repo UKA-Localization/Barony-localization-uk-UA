@@ -1,0 +1,418 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Item → предмет, Magic → магія
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/0/    MAGIC ITEMS/@"
+msgid "    MAGIC ITEMS"
+msgstr "    МАГІЧНІ ПРЕДМЕТИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: magicstaff → магічний посох
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/1/MAGICSTAFFS/@"
+msgid "MAGICSTAFFS"
+msgstr "МАГІЧНІ ПОСОХИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: scepter → скіпетр
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/2/SCEPTER/@"
+msgid "SCEPTER"
+msgstr "СКІПЕТР"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Source Focus → фокус Джерела
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/3/SOURCE FOCI/@"
+msgid "SOURCE FOCI"
+msgstr "ФОКУСИ ДЖЕРЕЛА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Symbol → священний символ
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/4/HOLY SYMBOLS/@"
+msgid "HOLY SYMBOLS"
+msgstr "СВЯЩЕННІ СИМВОЛИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Dark Icon → темна ікона
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/5/DARK ICONS/@"
+msgid "DARK ICONS"
+msgstr "ТЕМНІ ІКОНИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Musical Instrument → музичний інструмент
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/6/MUSICAL INSTRUMENTS/@"
+msgid "MUSICAL INSTRUMENTS"
+msgstr "МУЗИЧНІ ІНСТРУМЕНТИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: enchanted → зачарований, Ring → перстень
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/7/ENCHANTED RINGS/@"
+msgid "ENCHANTED RINGS"
+msgstr "ЗАЧАРОВАНІ ПЕРСНІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: enchanted → зачарований, amulet → амулет
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/8/ENCHANTED AMULETS/@"
+msgid "ENCHANTED AMULETS"
+msgstr "ЗАЧАРОВАНІ АМУЛЕТИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: jewel → коштовність
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/9/JEWELS/@"
+msgid "JEWELS"
+msgstr "КОШТОВНОСТІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Arcana → таємні знання
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/10/    ARCANA/@"
+msgid "    ARCANA"
+msgstr "    ТАЄМНІ ЗНАННЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Scroll → Сувій
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/11/SCROLLS/@"
+msgid "SCROLLS"
+msgstr "СУВОЇ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: enchanted → зачарований, feather → перо, enchanted feather → зачароване перо
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/12/ENCHANTED FEATHER/@"
+msgid "ENCHANTED FEATHER"
+msgstr "ЗАЧАРОВАНЕ ПЕРО"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Sorcery → чаклунство
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/13/    SORCERY/@"
+msgid "    SORCERY"
+msgstr "    ЧАКЛУНСТВО"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Evocation → евокація
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/14/EVOCATION/@"
+msgid "EVOCATION"
+msgstr "ЕВОКАЦІЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Contravention → контравенція
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/15/CONTRAVENTION/@"
+msgid "CONTRAVENTION"
+msgstr "КОНТРАВЕНЦІЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Kinesis → кінезис
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/16/KINESIS/@"
+msgid "KINESIS"
+msgstr "КІНЕЗИС"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Temulturgy → темултургія
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/17/TEMULTURGY/@"
+msgid "TEMULTURGY"
+msgstr "ТЕМУЛТУРГІЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Thaumaturgy → тавматургія
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/18/    THAUMATURGY/@"
+msgid "    THAUMATURGY"
+msgstr "    ТАВМАТУРГІЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: blessing → благословення
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/19/BLESSINGS/@"
+msgid "BLESSINGS"
+msgstr "БЛАГОСЛОВЕННЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Divination → віщування
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/20/DIVINATIONS/@"
+msgid "DIVINATIONS"
+msgstr "ВІЩУВАННЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Miraculous Feat → чудесне діяння
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/21/MIRACULOUS FEATS/@"
+msgid "MIRACULOUS FEATS"
+msgstr "ЧУДЕСНІ ДІЯННЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Meditation → медитація
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/22/MEDITATIONS/@"
+msgid "MEDITATIONS"
+msgstr "МЕДИТАЦІЇ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Mysticism → містицизм
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/23/    MYSTICISM/@"
+msgid "    MYSTICISM"
+msgstr "    МІСТИЦИЗМ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Sarkomancy → Саркомантія
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/24/SARKOMANCY/@"
+msgid "SARKOMANCY"
+msgstr "САРКОМАНТІЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Psianimus → Псіанімус
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/25/PSIANIMUS/@"
+msgid "PSIANIMUS"
+msgstr "ПСІАНІМУС"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Daimonia → Даймонія
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/26/DAIMONIA/@"
+msgid "DAIMONIA"
+msgstr "ДАЙМОНІЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Impeturia → Імпетурія
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents/27/IMPETURIA/@"
+msgid "IMPETURIA"
+msgstr "ІМПЕТУРІЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: scepter → скіпетр
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents_alphabetical/0/SCEPTER/@"
+msgid "SCEPTER"
+msgstr "СКІПЕТР"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: blessing → благословення
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents_alphabetical/1/BLESSINGS/@"
+msgid "BLESSINGS"
+msgstr "БЛАГОСЛОВЕННЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Contravention → контравенція
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents_alphabetical/2/CONTRAVENTION/@"
+msgid "CONTRAVENTION"
+msgstr "КОНТРАВЕНЦІЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Daimonia → Даймонія
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents_alphabetical/3/DAIMONIA/@"
+msgid "DAIMONIA"
+msgstr "ДАЙМОНІЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Dark Icon → темна ікона
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents_alphabetical/4/DARK ICONS/@"
+msgid "DARK ICONS"
+msgstr "ТЕМНІ ІКОНИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Divination → віщування
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents_alphabetical/5/DIVINATIONS/@"
+msgid "DIVINATIONS"
+msgstr "ВІЩУВАННЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: amulet → амулет, enchanted → зачарований
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents_alphabetical/6/ENCHANTED AMULETS/@"
+msgid "ENCHANTED AMULETS"
+msgstr "ЗАЧАРОВАНІ АМУЛЕТИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: enchanted → зачарований, feather → перо, enchanted feather → зачароване перо
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents_alphabetical/7/ENCHANTED FEATHER/@"
+msgid "ENCHANTED FEATHER"
+msgstr "ЗАЧАРОВАНЕ ПЕРО"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: enchanted → зачарований, Ring → перстень
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents_alphabetical/8/ENCHANTED RINGS/@"
+msgid "ENCHANTED RINGS"
+msgstr "ЗАЧАРОВАНІ ПЕРСНІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Evocation → евокація
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents_alphabetical/9/EVOCATION/@"
+msgid "EVOCATION"
+msgstr "ЕВОКАЦІЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Symbol → священний символ
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents_alphabetical/10/HOLY SYMBOLS/@"
+msgid "HOLY SYMBOLS"
+msgstr "СВЯЩЕННІ СИМВОЛИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Impeturia → Імпетурія
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents_alphabetical/11/IMPETURIA/@"
+msgid "IMPETURIA"
+msgstr "ІМПЕТУРІЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: jewel → коштовність
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents_alphabetical/12/JEWELS/@"
+msgid "JEWELS"
+msgstr "КОШТОВНОСТІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Kinesis → кінезис
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents_alphabetical/13/KINESIS/@"
+msgid "KINESIS"
+msgstr "КІНЕЗИС"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: magicstaff → магічний посох
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents_alphabetical/14/MAGICSTAFFS/@"
+msgid "MAGICSTAFFS"
+msgstr "МАГІЧНІ ПОСОХИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Meditation → медитація
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents_alphabetical/15/MEDITATIONS/@"
+msgid "MEDITATIONS"
+msgstr "МЕДИТАЦІЇ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Miraculous Feat → чудесне діяння
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents_alphabetical/16/MIRACULOUS FEATS/@"
+msgid "MIRACULOUS FEATS"
+msgstr "ЧУДЕСНІ ДІЯННЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Musical Instrument → музичний інструмент
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents_alphabetical/17/MUSICAL INSTRUMENTS/@"
+msgid "MUSICAL INSTRUMENTS"
+msgstr "МУЗИЧНІ ІНСТРУМЕНТИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Psianimus → Псіанімус
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents_alphabetical/18/PSIANIMUS/@"
+msgid "PSIANIMUS"
+msgstr "ПСІАНІМУС"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Sarkomancy → Саркомантія
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents_alphabetical/19/SARKOMANCY/@"
+msgid "SARKOMANCY"
+msgstr "САРКОМАНТІЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Scroll → Сувій
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents_alphabetical/20/SCROLLS/@"
+msgid "SCROLLS"
+msgstr "СУВОЇ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Source Focus → фокус Джерела
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents_alphabetical/21/SOURCE FOCI/@"
+msgid "SOURCE FOCI"
+msgstr "ФОКУСИ ДЖЕРЕЛА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Temulturgy → темултургія
+#, fuzzy
+#: lang/compendium_lang/contents_magic.json
+msgctxt "contents_alphabetical/22/TEMULTURGY/@"
+msgid "TEMULTURGY"
+msgstr "ТЕМУЛТУРГІЯ"

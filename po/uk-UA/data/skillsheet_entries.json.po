@@ -1,0 +1,1981 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Potion → Зілля
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "alchemy_potion_names_to_filter/0"
+msgid "potion of "
+msgstr "зілля "
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: bottle → пляшка
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "alchemy_potion_names_to_filter/1"
+msgid "bottle of "
+msgstr "пляшка "
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Stealth → потайність
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/0/name"
+msgid "Stealth"
+msgstr "Потайність"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: shield → щит, Stealth → потайність, melee → ближній бій, Damage → шкода, bonus → бонус, enemy → ворог, Sneaking → скрадання, vision → видіння, visibility → видимість, defending → захист
+#. тон: command
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/0/description"
+msgid "Provides reduced visibility to enemies, bonus melee stealth attack damage, and additional vision while sneaking. Use the Defend command without holding a shield to sneak."
+msgstr "Зменшує вашу видимість для ворогів, збільшує шкоду потайних атак ближнього бою та розширює видіння під час скрадання. Щоб скрадатися, застосуйте команду «Захист» без щита в руках."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Invisibility → невидимість, Damage → шкода, bonus → бонус, Sneaking → скрадання, Backstab → удар у спину
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/0/legend_text"
+msgid "Sneaking grants invisibility. Backstab bonus damage is doubled."
+msgstr "Скрадання надає невидимість. Бонус шкоди від удару в спину подвоюється."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: visibility → видимість
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/0/effects/0/title"
+msgid "Visibility Reduction:"
+msgstr "Зменшення видимості:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/0/effects/0/value"
+msgid "%+d%%"
+msgstr "%+d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: bonus → бонус, Sneaking → скрадання, vision → видіння
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/0/effects/1/title"
+msgid "Sneaking Bonus Vision:"
+msgstr "Бонус видіння при скраданні:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Light → світло
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/0/effects/1/value"
+msgid "%+d Light"
+msgstr "%+d світла"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: bonus → бонус, Backstab → удар у спину, DMG → ШКД
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/0/effects/2/title"
+msgid "Backstab Bonus DMG:"
+msgstr "Бонус ШКД удару в спину:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: ATK → АТК
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/0/effects/2/value"
+msgid "%+d ATK"
+msgstr "%+d АТК"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: visibility → видимість
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/0/effects/3/title"
+msgid "Current Visibility:"
+msgstr "Поточна видимість:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/0/effects/3/value"
+msgid "%d Tiles"
+msgstr "%d клітинок"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Blocking → блокування
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/1/name"
+msgid "Blocking"
+msgstr "Блокування"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: shield → щит, defending → захист, armor → обладунок, Item → предмет, class → клас, bonus → бонус, off-hand → друга рука, Armor Class → клас захисту, combat → бій, durability → міцність
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/1/description"
+msgid "Increases Armor Class bonus while defending.\n Provides passive Armor Class bonus to held shields. Improves durability of Off-hand items during combat."
+msgstr "Збільшує бонус класу захисту під час захисту.\n Дає пасивний бонус класу захисту щитам у руці. Підвищує міцність предметів у другій руці під час бою."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: shield → щит
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/1/legend_text"
+msgid "Shields never degrade on hit."
+msgstr "Щити не зношуються від ударів."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: shield → щит, defending → захист, AC → КЗ
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/1/effects/0/title"
+msgid "Defending AC increase:\n(Shields)"
+msgstr "Приріст КЗ у захисті:\n(щити)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: AC → КЗ
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/1/effects/0/value"
+msgid "%+d AC"
+msgstr "%+d КЗ"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: shield → щит, defending → захист, AC → КЗ
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/1/effects/1/title"
+msgid "Defending AC increase:\n(Non-shields)"
+msgstr "Приріст КЗ у захисті:\n(без щита)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: AC → КЗ
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/1/effects/1/value"
+msgid "%+d AC"
+msgstr "%+d КЗ"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: shield → щит, AC → КЗ
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/1/effects/2/title"
+msgid "Passive AC increase:\n(Shields)"
+msgstr "Пасивний приріст КЗ:\n(щити)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: AC → КЗ
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/1/effects/2/value"
+msgid "%+d AC"
+msgstr "%+d КЗ"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: shield → щит, Damage → шкода
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/1/effects/3/title"
+msgid "Shield degrade chance:\n (On receiving damage)"
+msgstr "Шанс зносу щита:\n (При отриманні шкоди)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/1/effects/3/value"
+msgid "%.2f%%"
+msgstr "%.2f%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: shield → щит, defending → захист
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/1/effects/4/title"
+msgid "Shield degrade chance:\n (While Defending)"
+msgstr "Шанс зносу щита:\n (Під час захисту)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/1/effects/4/value"
+msgid "%.2f%%"
+msgstr "%.2f%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Ranged → дальній бій
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/2/name"
+msgid "Ranged"
+msgstr "Дальній бій"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: weapon → зброя, Ranged → дальній бій, thrown → метальний, Damage → шкода, durability → міцність
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/2/description"
+msgid "Increases ranged/thrown damage and improves durability of ranged weaponry."
+msgstr "Збільшує шкоду дальньої та метальної зброї й підвищує міцність зброї дальнього бою."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: weapon → зброя, Ranged → дальній бій
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/2/legend_text"
+msgid "Ranged weaponry never degrades on use."
+msgstr "Зброя дальнього бою не зношується від використання."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Ranged → дальній бій, Damage → шкода, ATK → АТК
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/2/effects/0/title"
+msgid "Ranged ATK\n damage variance:"
+msgstr "Розкид шкоди АТК\nдальнього бою:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/2/effects/0/value"
+msgid "%d%% - %d%%"
+msgstr "%d%% - %d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: weapon → зброя, Ranged → дальній бій
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/2/effects/1/title"
+msgid "Ranged weapon\n degrade chance:"
+msgstr "Шанс зносу зброї\n дальнього бою:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/2/effects/1/value"
+msgid "%.2f%%"
+msgstr "%.2f%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: arrow → стріла, Ranged → дальній бій, PER → ЧУТ, Stat → характеристика
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/2/effects/2/title"
+msgid "Ranged attack\n piercing arrow chance:\n (using PER Stat)"
+msgstr "Шанс пробивної стріли\nв дальній атаці:\n(за характеристикою ЧУТ)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/2/effects/2/value"
+msgid "%+d%%"
+msgstr "%+d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: weapon → зброя, thrown → метальний, ATK → АТК
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/2/effects/3/title"
+msgid "Thrown weapon ATK:"
+msgstr "АТК метальної зброї:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/2/effects/3/value"
+msgid "%+d%%"
+msgstr "%+d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Unarmed → без зброї
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/3/name"
+msgid "Unarmed"
+msgstr "Без зброї"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: weapon → зброя, fist → кулак, Damage → шкода, Unarmed → без зброї, knockback → відкидання, Charge → заряд, Strike → удар, durability → міцність
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/3/description"
+msgid "Increases unarmed damage with bare fists or fist weapons. Improves fist weapon durability and applies knockback on fully charged strikes."
+msgstr "Збільшує шкоду голими кулаками та кулачною зброєю. Підвищує міцність кулачної зброї та відкидає ворогів повністю зарядженими ударами."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: paralysis → параліч, Stealth → потайність, ATK → АТК, Charge → заряд, Backstab → удар у спину, Strike → удар
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/3/legend_text"
+msgid "+5 ATK and inflict 1 second Paralyze status on fully charged stealth backstab strike."
+msgstr "+5 АТК і параліч на 1 секунду від повністю зарядженого потайного удару в спину."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Damage → шкода, ATK → АТК, Unarmed → без зброї
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/3/effects/0/title"
+msgid "Unarmed ATK\n damage variance:"
+msgstr "Розкид шкоди АТК\nбез зброї:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/3/effects/0/value"
+msgid "%d%% - %d%%"
+msgstr "%d%% - %d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: ATK → АТК, Unarmed → без зброї, bonus → бонус
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/3/effects/1/title"
+msgid "Unarmed bonus ATK:"
+msgstr "Бонус АТК без зброї:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: ATK → АТК
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/3/effects/1/value"
+msgid "%+d ATK"
+msgstr "%+d АТК"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: weapon → зброя, fist → кулак, Normal Difficulty → Звичайна складність, Strike → удар
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/3/effects/2/title"
+msgid "Fist weapon degrade\n chance:\n (Normal strikes)"
+msgstr "Шанс зносу кулачної\n зброї:\n (Звичайні удари)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/3/effects/2/value"
+msgid "%.2f%%"
+msgstr "%.2f%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: weapon → зброя, fist → кулак, Damage → шкода
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/3/effects/3/title"
+msgid "Fist weapon degrade\n chance:\n (On 0 damage dealt)"
+msgstr "Шанс зносу кулачної\n зброї:\n (При 0 завданої шкоди)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/3/effects/3/value"
+msgid "%.2f%%"
+msgstr "%.2f%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: weapon → зброя, fist → кулак, knockback → відкидання, Distance → дальність
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/3/effects/4/title"
+msgid "Fist weapon knockback\n distance:"
+msgstr "Дальність відкидання\n кулачною зброєю:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/3/effects/4/value"
+msgid "%+d%%"
+msgstr "%+d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Sword → меч
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/4/name"
+msgid "Swords"
+msgstr "Мечі"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: weapon → зброя, Sword → меч, Damage → шкода, durability → міцність
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/4/description"
+msgid "Increases damage and improves durability of sword weaponry."
+msgstr "Збільшує шкоду та підвищує міцність мечів."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: ATK → АТК, Charge → заряд, Strike → удар, bleed → кровотеча
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/4/legend_text"
+msgid "+5 ATK and inflict 5 second Bleed status on fully charged strike."
+msgstr "+5 АТК і кровотеча на 5 секунд від повністю зарядженого удару."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Sword → меч, Damage → шкода, ATK → АТК
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/4/effects/0/title"
+msgid "Sword ATK\n damage variance:"
+msgstr "Розкид шкоди АТК\nмеча:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/4/effects/0/value"
+msgid "%d%% - %d%%"
+msgstr "%d%% - %d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: weapon → зброя, Normal Difficulty → Звичайна складність, Strike → удар
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/4/effects/1/title"
+msgid "Weapon degrade\n chance:\n (Normal strikes)"
+msgstr "Шанс зносу\n зброї:\n (Звичайні удари)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/4/effects/1/value"
+msgid "%.2f%%"
+msgstr "%.2f%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: weapon → зброя, Damage → шкода
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/4/effects/2/title"
+msgid "Weapon degrade\n chance:\n (On 0 damage dealt)"
+msgstr "Шанс зносу\n зброї:\n (При 0 завданої шкоди)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/4/effects/2/value"
+msgid "%.2f%%"
+msgstr "%.2f%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Polearm → древкова зброя
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/5/name"
+msgid "Polearms"
+msgstr "Древкова зброя"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: weapon → зброя, Polearm → древкова зброя, Damage → шкода, durability → міцність
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/5/description"
+msgid "Increases damage and improves durability of polearm weaponry."
+msgstr "Збільшує шкоду та міцність древкової зброї."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: ATK → АТК, knockback → відкидання, Charge → заряд, Strike → удар
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/5/legend_text"
+msgid "+5 ATK and inflict Knockback status on fully charged strike."
+msgstr "+5 АТК і відкидання від повністю зарядженого удару."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Polearm → древкова зброя, Damage → шкода, ATK → АТК
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/5/effects/0/title"
+msgid "Polearm ATK\n damage variance:"
+msgstr "Розкид шкоди АТК\nдревкової зброї:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/5/effects/0/value"
+msgid "%d%% - %d%%"
+msgstr "%d%% - %d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: weapon → зброя, Normal Difficulty → Звичайна складність, Strike → удар
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/5/effects/1/title"
+msgid "Weapon degrade\n chance:\n (Normal strikes)"
+msgstr "Шанс втрати міцності\n зброї:\n (Звичайні удари)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/5/effects/1/value"
+msgid "%.2f%%"
+msgstr "%.2f%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: weapon → зброя, Damage → шкода
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/5/effects/2/title"
+msgid "Weapon degrade\n chance:\n (On 0 damage dealt)"
+msgstr "Шанс втрати міцності\n зброї:\n (За 0 завданої шкоди)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/5/effects/2/value"
+msgid "%.2f%%"
+msgstr "%.2f%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Axe → сокира
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/6/name"
+msgid "Axes"
+msgstr "Сокири"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: weapon → зброя, Axe → сокира, Damage → шкода, durability → міцність
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/6/description"
+msgid "Increases damage and improves durability of axe weaponry."
+msgstr "Збільшує шкоду та міцність сокир."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: ATK → АТК, Charge → заряд, Slow → сповільнення, Strike → удар
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/6/legend_text"
+msgid "+10 ATK and inflict 3 second Slow status on fully charged strike."
+msgstr "+10 АТК і сповільнення на 3 секунди від повністю зарядженого удару."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Axe → сокира, Damage → шкода, ATK → АТК
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/6/effects/0/title"
+msgid "Axe ATK\n damage variance:"
+msgstr "Розкид шкоди АТК\nсокири:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/6/effects/0/value"
+msgid "%d%% - %d%%"
+msgstr "%d%% - %d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: weapon → зброя, Normal Difficulty → Звичайна складність, Strike → удар
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/6/effects/1/title"
+msgid "Weapon degrade\n chance:\n (Normal strikes)"
+msgstr "Шанс втрати міцності\n зброї:\n (Звичайні удари)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/6/effects/1/value"
+msgid "%.2f%%"
+msgstr "%.2f%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: weapon → зброя, Damage → шкода
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/6/effects/2/title"
+msgid "Weapon degrade\n chance:\n (On 0 damage dealt)"
+msgstr "Шанс втрати міцності\n зброї:\n (За 0 завданої шкоди)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/6/effects/2/value"
+msgid "%.2f%%"
+msgstr "%.2f%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Mace → булава
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/7/name"
+msgid "Maces"
+msgstr "Булави"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: weapon → зброя, Mace → булава, Damage → шкода, durability → міцність
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/7/description"
+msgid "Increases damage and improves durability of mace weaponry."
+msgstr "Збільшує шкоду та міцність булав."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: paralysis → параліч, ATK → АТК, Charge → заряд, Strike → удар
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/7/legend_text"
+msgid "+5 ATK and 25% chance to inflict 1.5 second Paralyze status on fully charged strike."
+msgstr "+5 АТК і 25% шанс паралічу на 1,5 секунди від повністю зарядженого удару."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Mace → булава, Damage → шкода, ATK → АТК
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/7/effects/0/title"
+msgid "Mace ATK\n damage variance:"
+msgstr "Розкид шкоди АТК\nбулави:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/7/effects/0/value"
+msgid "%d%% - %d%%"
+msgstr "%d%% - %d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: weapon → зброя, Normal Difficulty → Звичайна складність, Strike → удар
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/7/effects/1/title"
+msgid "Weapon degrade\n chance:\n (Normal strikes)"
+msgstr "Шанс втрати міцності\n зброї:\n (Звичайні удари)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/7/effects/1/value"
+msgid "%.2f%%"
+msgstr "%.2f%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: weapon → зброя, Damage → шкода
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/7/effects/2/title"
+msgid "Weapon degrade\n chance:\n (On 0 damage dealt)"
+msgstr "Шанс втрати міцності\n зброї:\n (За 0 завданої шкоди)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/7/effects/2/value"
+msgid "%.2f%%"
+msgstr "%.2f%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Leadership → лідерство
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/8/name"
+msgid "Leadership"
+msgstr "Лідерство"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Follower → послідовник, Time → час, NPC → неігровий персонаж, Follower Command → команда послідовнику, lock → замок, recruit → найм, Interacting → взаємодія
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/8/description"
+msgid "Increases number of NPC followers able to be recruited at one time and unlocks more follower commands while interacting."
+msgstr "Збільшує кількість неігрових послідовників, яких можна найняти одночасно, і відкриває більше команд послідовникам під час взаємодії."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Goatman → козолюд, Goblin → гоблін, Insectoid → комахолюд, Allegiance → приналежність, recruit → найм, race → раса
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/8/legend_text"
+msgid "Can recruit goblins, goatmen and insectoids in addition to standard racial allegiances."
+msgstr "Можна наймати гоблінів, козолюдів і комахолюдів на додачу до доступних за расовою приналежністю."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Follower → послідовник
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/8/effects/0/title"
+msgid "Maximum followers:"
+msgstr "Максимум послідовників:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/8/effects/0/value"
+msgid "%d"
+msgstr "%d"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Follower → послідовник, bonus → бонус, speed → швидкість
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/8/effects/1/title"
+msgid "Bonus follower\n movement speed:"
+msgstr "Бонус до швидкості\n руху послідовників:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: DEX → СПР
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/8/effects/1/value"
+msgid "+%d DEX"
+msgstr "+%d СПР"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Spell → Закляття, skill → навичка, monster → монстр, charm → причарування, CHR → ХАР, Stat → характеристика, Charm Monster → зачарування монстра
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/8/effects/2/title"
+msgid "Charm Monster spell\n base chance:\n (Using skill + CHR stat)"
+msgstr "Базовий шанс закляття\nзачарування монстра:\n(за навичкою + ХАР)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/8/effects/2/value"
+msgid "+%d%%"
+msgstr "+%d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: ally → союзник, race → раса, recruit → найм
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/8/effects/3/title"
+msgid "Current recruitable\n ally races:"
+msgstr "Доступні для найму\n раси союзників:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/8/effects/3/value"
+msgid "%s"
+msgstr "%s"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Trading → торгівля
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/9/name"
+msgid "Trading"
+msgstr "Торгівля"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Shopkeeper → Крамар, Trading → торгівля
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/9/description"
+msgid "Reduces buying prices and improves selling prices when trading with Shopkeepers."
+msgstr "Знижує ціни купівлі та підвищує ціни продажу під час торгівлі з крамарями."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Shopkeeper → Крамар, Item → предмет, Any → будь-який, Ability → здібність, lock → замок
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/9/legend_text"
+msgid "Unlocks the ability to sell items of any kind to any Shopkeeper."
+msgstr "Дає змогу продавати будь-які предмети будь-якому крамареві."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Item → предмет, shop → крамниця
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/9/effects/0/title"
+msgid "Price markup on\nbuying items from shop:"
+msgstr "Націнка під час\nкупівлі в крамниці:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: gold piece → золота монета
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/9/effects/0/value"
+msgid "%+.f%% Gold"
+msgstr "%+.f%% золота"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: skill → навичка, Item → предмет, Resale Penalty → штраф за перепродаж, CHR → ХАР, shop → крамниця, Stat → характеристика, penalty → штраф
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/9/effects/1/title"
+msgid "Resale penalty from\nselling items to shop:\n (Using skill + CHR stat)"
+msgstr "Штраф за перепродаж\nпредметів крамниці:\n(за навичкою + ХАР)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: gold piece → золота монета
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/9/effects/1/value"
+msgid "%.f%% Gold"
+msgstr "%.f%% золота"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Lore → знання
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/10/name"
+msgid "Lore"
+msgstr "Знання"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: gold piece → золота монета, Appraisal → оцінювання, Item → предмет, PER → ЧУТ, Stat → характеристика, Ability → здібність, speed → швидкість
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/10/description"
+msgid "Increases speed of appraising and allows appraising of higher gold value items. Higher PER stat improves appraisal abilities."
+msgstr "Прискорює оцінювання та дає змогу оцінювати дорожчі предмети. Вище ЧУТ поліпшує здібності до оцінювання."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: gold piece → золота монета, Appraisal → оцінювання, Unidentified → нерозпізнаний, Item → предмет, speed → швидкість
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/10/legend_text"
+msgid "+25% Appraisal speed to all items. Unidentified items have gold values revealed."
+msgstr "+25% до швидкості оцінювання всіх предметів. Показує вартість нерозпізнаних предметів у золотих монетах."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: gold piece → золота монета, Appraisal → оцінювання
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/10/effects/0/title"
+msgid "Maximum gold value\n able to appraise quickly:"
+msgstr "Найвища вартість для\n швидкого оцінювання:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: gold piece → золота монета
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/10/effects/0/value"
+msgid "%d Gold"
+msgstr "%d золотих монет"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: gold piece → золота монета, Appraisal → оцінювання
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/10/effects/1/title"
+msgid "Maximum gold value\n able to appraise slowly:"
+msgstr "Найвища вартість для\n повільного оцінювання:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: gold piece → золота монета
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/10/effects/1/value"
+msgid "%d Gold"
+msgstr "%d золотих монет"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Scroll → Сувій, Potion → Зілля, Appraisal → оцінювання, Food → їжа, Time → час
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/10/effects/2/title"
+msgid "Appraisal time reduction\n Food/Scrolls/Potions:"
+msgstr "Скорочення часу оцінювання\n їжі/сувоїв/зілля:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/10/effects/2/value"
+msgid "%.f%%"
+msgstr "%.f%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: skill → навичка, Appraisal → оцінювання, Item → предмет, Time → час
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/10/effects/3/title"
+msgid "Appraisal time reduction\n All other items:\n (With skill total above 50)"
+msgstr "Скорочення часу оцінювання\n решти предметів:\n (За навички понад 50)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/10/effects/3/value"
+msgid "%.f%%"
+msgstr "%.f%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Appraisal → оцінювання, Item → предмет, floor → поверх, Time → час, inventory → інвентар
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/10/effects/4/title"
+msgid "Appraisal time reduction\n for all inventory items on\n advancing to next floor: "
+msgstr "Скорочення часу оцінювання\n всіх предметів в інвентарі\n на наступному поверсі: "
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/10/effects/4/value"
+msgid "%.f%%"
+msgstr "%.f%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Appraisal → оцінювання, Worthless Glass → безвартісне скло
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/10/effects/5/title"
+msgid "Able to appraise\n Worthless Glass:"
+msgstr "Можна оцінювати\n безвартісне скло:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/10/effects/5/value"
+msgid "%s"
+msgstr "%s"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Tinkering → майстрування
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/11/name"
+msgid "Tinkering"
+msgstr "Майстрування"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Tinkering → майстрування, lockpick → відмичка, Item → предмет, object → об'єкт, Ability → здібність, Tinkering Kit → набір для майстрування
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/11/description"
+msgid "Improves ability with tinkering kits, increasing the amount of craftable items and deployed machinery. Increases chances to lockpick objects in the world."
+msgstr "Поліпшує роботу з наборами для майстрування, збільшуючи кількість доступних для створення предметів і розгорнутих механізмів. Підвищує шанс відімкнути об'єкти у світі."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: chest → скриня, armor → обладунок, gold piece → золота монета, weapon → зброя, Tinkering → майстрування, lockpick → відмичка, Item → предмет, bonus → бонус, Tinkering Kit → набір для майстрування
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/11/legend_text"
+msgid "Able to repair most weapons and armor using a tinkering kit and find bonus items or gold when lockpicking chests."
+msgstr "Дає змогу ремонтувати більшість зброї та обладунків набором для майстрування й знаходити бонусні предмети або золоті монети, відмикаючи скрині."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: chest → скриня, door → двері, lockpick → відмичка
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/11/effects/0/title"
+msgid "Chance to lockpick\n chests and doors:"
+msgstr "Шанс відімкнути\n скрині й двері:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/11/effects/0/value"
+msgid "%d%%"
+msgstr "%d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: chest → скриня, lockpick → відмичка, Scrap → брухт
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/11/effects/1/title"
+msgid "Scrap chance from\n lockpicking chests:"
+msgstr "Шанс знайти брухт\n у відімкнених скринях:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/11/effects/1/value"
+msgid "%d%%"
+msgstr "%d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Automaton → автоматон, lockpick → відмичка, Scrap → брухт
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/11/effects/2/title"
+msgid "Scrap chance from\n lockpicking Automatons:"
+msgstr "Шанс здобути брухт за\n відмикання автоматонів:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/11/effects/2/value"
+msgid "%d%%"
+msgstr "%d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Trap → пастка, arrow → стріла, arrow trap → стрілова пастка, Disarm → обеззброєння
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/11/effects/3/title"
+msgid "Chance to disarm\n arrow traps:"
+msgstr "Шанс знешкодити\n стрілові пастки:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/11/effects/3/value"
+msgid "%d%%"
+msgstr "%d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: skill → навичка, bonus → бонус, PER → ЧУТ, Stat → характеристика, Scrap → брухт, Salvage → утилізація
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/11/effects/4/title"
+msgid "Bonus scrap\n while salvaging:\n (Using skill + PER stat)"
+msgstr "Бонусний брухт\nпід час утилізації:\n(за навичкою + ЧУТ)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/11/effects/4/value"
+msgid "+%d%%"
+msgstr "+%d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: skill → навичка, Item → предмет, Metal → метал, Magic → магія, PER → ЧУТ, Stat → характеристика
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/11/effects/5/title"
+msgid "Highest Metal/Magic\n item able to repair:\n (Using skill + PER stat)"
+msgstr "Найвищий ступінь\nметалу/магії для ремонту:\n(за навичкою + ЧУТ)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/11/effects/5/value"
+msgid "%s"
+msgstr "%s"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Tinkering → майстрування, ally → союзник
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/11/effects/6/title"
+msgid "Maximum deployed\n tinkering allies:"
+msgstr "Максимум розгорнутих\n союзників майстрування:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/11/effects/6/value"
+msgid "%d"
+msgstr "%d"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Alchemy → алхімія
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/12/name"
+msgid "Alchemy"
+msgstr "Алхімія"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Potion → Зілля, thrown → метальний, Damage → шкода, Alchemy → алхімія, Ability → здібність, alembic → аламбік
+#. тон: command
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/12/description"
+msgid "Improves ability to brew potions with alembics and increases damage of thrown offensive potions.\nDrink or brew potions to learn useful ingredients in Alchemy."
+msgstr "Поліпшує варіння зіль в аламбіках і збільшує шкоду від метальних бойових зіль.\nПийте або варіть зілля, щоб вивчати корисні складники для алхімії."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Potion → Зілля, blessing → благословення, alembic → аламбік
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/12/legend_text"
+msgid "Alembics never degrade.\nBrewed potions have +2 blessing."
+msgstr "Аламбіки не зношуються.\nЗварені зілля мають +2 до благословення."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Potion → Зілля, Damage → шкода, Effect → ефект
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/12/effects/0/title"
+msgid "Potion effect damage:"
+msgstr "Шкода від ефекту зілля:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/12/effects/0/value"
+msgid "+%d%%"
+msgstr "+%d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Potion → Зілля, thrown → метальний, Damage → шкода
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/12/effects/1/title"
+msgid "Thrown potion\n impact damage:"
+msgstr "Шкода від удару\n метальним зіллям:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/12/effects/1/value"
+msgid "+%d%%"
+msgstr "+%d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Potion → Зілля, Water → вода, Duplication → дублювання
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/12/effects/2/title"
+msgid "Potion duplication\n chance using water:"
+msgstr "Шанс дублювання зілля\n за допомогою води:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/12/effects/2/value"
+msgid "%d%%"
+msgstr "%d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Potion → Зілля, empty bottle → порожня пляшка, bottle → пляшка, Salvage → утилізація
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/12/effects/3/title"
+msgid "Empty bottle salvage\n on consuming potions:"
+msgstr "Шанс отримати порожню\n пляшку після зілля:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/12/effects/3/value"
+msgid "%d%%"
+msgstr "%d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Potion → Зілля, empty bottle → порожня пляшка, bottle → пляшка, Salvage → утилізація
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/12/effects/4/title"
+msgid "Empty bottle salvage\n on brewing potions:"
+msgstr "Шанс отримати порожню\n пляшку після варіння:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/12/effects/4/value"
+msgid "%d%%"
+msgstr "%d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Alchemy → алхімія
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/12/effects/5/title"
+msgid "Learnt Alchemy\n ingredients:\n (Primary)"
+msgstr "Вивчені складники\n алхімії:\n (Основні)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/12/effects/5/value"
+msgid "%s"
+msgstr "%s"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Alchemy → алхімія
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/12/effects/6/title"
+msgid "Learnt Alchemy\n ingredients:\n (Secondary)"
+msgstr "Вивчені складники\n алхімії:\n (Другорядні)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/12/effects/6/value"
+msgid "%s"
+msgstr "%s"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Sorcery → чаклунство
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/13/name"
+msgid "Sorcery"
+msgstr "Чаклунство"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Level → Рівень, Spell → Закляття, Expert → експерт, skill → навичка, Sorcery → чаклунство, spellbook → книга заклять, bonus → бонус, Tier → ступінь, INT → ІНТ, Stat → характеристика, Spell Power → сила заклять
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/13/description"
+msgid "Allows higher tier Sorcery spells to be learned from spellbooks. Further increases Sorcery spell power bonuses from INT stat when above Expert (60) skill level."
+msgstr "Дає змогу вивчати з книг заклять чаклунство вищих ступенів. Після рівня навички «експерт» (60) ІНТ дає більший бонус до сили заклять чаклунства."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Spell → Закляття, Sorcery → чаклунство, DEX → СПР, bonus → бонус, Time → час, INT → ІНТ, Stat → характеристика
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/13/legend_text"
+msgid "Sorcery spells have +40% INT stat power bonus and +100% DEX stat cast time reduction."
+msgstr "Закляття чаклунства мають +40% бонусу до сили від ІНТ і +100% скорочення часу чаклування від СПР."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Spell → Закляття, bonus → бонус, INT → ІНТ, Stat → характеристика, Spell Power → сила заклять
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/13/effects/0/title"
+msgid "Base spell power bonus:\n (Using 2x INT stat)"
+msgstr "Базовий бонус сили заклять:\n(за 2x ІНТ)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/13/effects/0/value"
+msgid "%+d%%"
+msgstr "%+d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: skill → навичка, Sorcery → чаклунство, Tier → ступінь, INT → ІНТ, Stat → характеристика
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/13/effects/1/title"
+msgid "Highest Sorcery tier\n able to learn:\n (Using skill + INT stat)"
+msgstr "Найвищий ступінь\nчаклунства для вивчення:\n(за навичкою + ІНТ)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/13/effects/1/value"
+msgid "%s"
+msgstr "%s"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Level → Рівень, Spell → Закляття, skill → навичка, Sorcery → чаклунство
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/13/effects/2/title"
+msgid "Learned spells ideal to\n advance current\n Sorcery skill level:"
+msgstr "Вивчені закляття, корисні\n для підвищення поточного\n рівня чаклунства:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Level → Рівень, Spell → Закляття, skill → навичка, Sorcery → чаклунство
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/13/effects/2/title_short"
+msgid "Learned spells\n ideal to advance\n current Sorcery\n skill level:"
+msgstr "Вивчені закляття\n для підвищення\n поточного рівня\n чаклунства:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/13/effects/2/value"
+msgid "%s"
+msgstr "%s"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Spell → Закляття, Sorcery → чаклунство, Tier → ступінь
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/13/effects/3/title"
+msgid "Spells in current\n Sorcery tier:"
+msgstr "Закляття поточного\n ступеня чаклунства:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/13/effects/3/value"
+msgid "%s"
+msgstr "%s"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Spell → Закляття, spellcasting → чаклування
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/13/effects/4/title"
+msgid "Able to fail casting\n of learned spells:"
+msgstr "Можливий провал\n вивчених заклять:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/13/effects/4/value"
+msgid "%s"
+msgstr "%s"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: skill → навичка, Sorcery → чаклунство, spellbook → книга заклять, Tier → ступінь, INT → ІНТ, Stat → характеристика, spellcasting → чаклування
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/13/effects/5/title"
+msgid "Highest Sorcery tier\n to Spellbook-Cast\n without fumbling:\n (Using skill + INT stat)"
+msgstr "Найвищий ступінь\nчаклунства з книги\nбез помилки:\n(за навичкою + ІНТ)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/13/effects/5/value"
+msgid "%s"
+msgstr "%s"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Mysticism → містицизм
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/14/name"
+msgid "Mysticism"
+msgstr "Містицизм"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Level → Рівень, Spell → Закляття, Expert → експерт, skill → навичка, Mysticism → містицизм, spellbook → книга заклять, bonus → бонус, Tier → ступінь, CHR → ХАР, INT → ІНТ, Stats → характеристики, Spell Power → сила заклять
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/14/description"
+msgid "Allows higher tier Mysticism spells to be learned from spellbooks. Further increases Mysticism spell power bonuses from INT + CHR stats when above Expert (60) skill level."
+msgstr "Дає змогу вивчати з книг заклять містицизм вищих ступенів. Після рівня навички «експерт» (60) ІНТ + ХАР дають більший бонус до сили заклять містицизму."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Spell → Закляття, Mysticism → містицизм, DEX → СПР, bonus → бонус, CHR → ХАР, Time → час, INT → ІНТ, Stat → характеристика
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/14/legend_text"
+msgid "Mysticism spells have +40% INT/CHR stat power bonus and +100% DEX stat cast time reduction."
+msgstr "Закляття містицизму мають +40% бонусу до сили від ІНТ/ХАР і +100% скорочення часу чаклування від СПР."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Spell → Закляття, bonus → бонус, CHR → ХАР, INT → ІНТ, Stat → характеристика, Spell Power → сила заклять
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/14/effects/0/title"
+msgid "Base spell power bonus:\n (Using INT + CHR stat)"
+msgstr "Базовий бонус сили заклять:\n(за ІНТ + ХАР)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/14/effects/0/value"
+msgid "%+d%%"
+msgstr "%+d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: skill → навичка, Mysticism → містицизм, Tier → ступінь, INT → ІНТ, Stat → характеристика
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/14/effects/1/title"
+msgid "Highest Mysticism tier\n able to learn:\n (Using skill + INT stat)"
+msgstr "Найвищий ступінь\nмістицизму для вивчення:\n(за навичкою + ІНТ)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/14/effects/1/value"
+msgid "%s"
+msgstr "%s"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Level → Рівень, Spell → Закляття, skill → навичка, Mysticism → містицизм
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/14/effects/2/title"
+msgid "Learned spells ideal to\n advance current\n Mysticism skill level:"
+msgstr "Вивчені закляття, корисні\n для підвищення поточного\n рівня містицизму:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Level → Рівень, Spell → Закляття, skill → навичка, Mysticism → містицизм
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/14/effects/2/title_short"
+msgid "Learned spells\n ideal to advance\n current\n Mysticism skill\n level:"
+msgstr "Вивчені закляття\n для підвищення\n поточного рівня\n містицизму:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/14/effects/2/value"
+msgid "%s"
+msgstr "%s"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Spell → Закляття, Mysticism → містицизм, Tier → ступінь
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/14/effects/3/title"
+msgid "Spells in current\n Mysticism tier:"
+msgstr "Закляття поточного\n ступеня містицизму:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/14/effects/3/value"
+msgid "%s"
+msgstr "%s"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Spell → Закляття, spellcasting → чаклування
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/14/effects/4/title"
+msgid "Able to fail casting\n of learned spells:"
+msgstr "Можливий збій чаклування\n вивчених заклять:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/14/effects/4/value"
+msgid "%s"
+msgstr "%s"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: skill → навичка, Mysticism → містицизм, spellbook → книга заклять, spellcasting → чаклування, Tier → ступінь, INT → ІНТ, Stat → характеристика
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/14/effects/5/title"
+msgid "Highest Mysticism tier\n to Spellbook-Cast\n without fumbling:\n (Using skill + INT stat)"
+msgstr "Найвищий ступінь\nмістицизму з книги\nбез помилки:\n(за навичкою + ІНТ)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/14/effects/5/value"
+msgid "%s"
+msgstr "%s"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Thaumaturgy → тавматургія
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/15/name"
+msgid "Thaumaturgy"
+msgstr "Тавматургія"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Thaumaturgy → тавматургія
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/15/shortname"
+msgid "Thauma"
+msgstr "Тавматургія"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Level → Рівень, Spell → Закляття, Expert → експерт, skill → навичка, Thaumaturgy → тавматургія, spellbook → книга заклять, bonus → бонус, Tier → ступінь, CON → СТА, INT → ІНТ, Stats → характеристики, Spell Power → сила заклять
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/15/description"
+msgid "Allows higher tier Thaumaturgy spells to be learned from spellbooks. Further increases Thaumaturgy spell power bonuses from INT + CON stats when above Expert (60) skill level."
+msgstr "Дає змогу вивчати з книг заклять тавматургію вищих ступенів. Після рівня навички «експерт» (60) ІНТ + СТА дають більший бонус до сили заклять тавматургії."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Spell → Закляття, Thaumaturgy → тавматургія, DEX → СПР, bonus → бонус, Time → час, CON → СТА, INT → ІНТ, Stat → характеристика
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/15/legend_text"
+msgid "Thaumaturgy spells have +40% INT/CON stat power bonus and +100% DEX stat cast time reduction."
+msgstr "Закляття тавматургії мають +40% бонусу до сили від ІНТ/СТА і +100% скорочення часу чаклування від СПР."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Spell → Закляття, bonus → бонус, CON → СТА, INT → ІНТ, Stat → характеристика, Spell Power → сила заклять
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/15/effects/0/title"
+msgid "Base spell power bonus:\n (Using INT + CON stat)"
+msgstr "Базовий бонус сили заклять:\n(за ІНТ + СТА)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/15/effects/0/value"
+msgid "%+d%%"
+msgstr "%+d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: skill → навичка, Thaumaturgy → тавматургія, Tier → ступінь, INT → ІНТ, Stat → характеристика
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/15/effects/1/title"
+msgid "Highest Thaumaturgy tier\n able to learn:\n (Using skill + INT stat)"
+msgstr "Найвищий ступінь\nтавматургії для вивчення:\n(за навичкою + ІНТ)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/15/effects/1/value"
+msgid "%s"
+msgstr "%s"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Level → Рівень, Spell → Закляття, skill → навичка, Thaumaturgy → тавматургія
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/15/effects/2/title"
+msgid "Learned spells ideal to\n advance current\n Thaumaturgy skill level:"
+msgstr "Вивчені закляття, придатні\n для розвитку поточного\n рівня тавматургії:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Level → Рівень, Spell → Закляття, skill → навичка, Thaumaturgy → тавматургія
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/15/effects/2/title_short"
+msgid "Learned spells\n ideal to advance\n current\n Thaumaturgy\n skill level:"
+msgstr "Вивчені закляття\n для розвитку\n поточного рівня\n навички\n тавматургії:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/15/effects/2/value"
+msgid "%s"
+msgstr "%s"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Spell → Закляття, Thaumaturgy → тавматургія, Tier → ступінь
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/15/effects/3/title"
+msgid "Spells in current\n Thaumaturgy tier:"
+msgstr "Закляття поточного\n ступеня тавматургії:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Spell → Закляття, Thaumaturgy → тавматургія, Tier → ступінь
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/15/effects/3/title_short"
+msgid "Spells in current\n Thaumaturgy\n tier:"
+msgstr "Закляття поточного\n ступеня\n тавматургії:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/15/effects/3/value"
+msgid "%s"
+msgstr "%s"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Spell → Закляття, spellcasting → чаклування
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/15/effects/4/title"
+msgid "Able to fail casting\n of learned spells:"
+msgstr "Можливий збій чаклування\n вивчених заклять:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/15/effects/4/value"
+msgid "%s"
+msgstr "%s"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: skill → навичка, Thaumaturgy → тавматургія, spellbook → книга заклять, spellcasting → чаклування, Tier → ступінь, INT → ІНТ, Stat → характеристика
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/15/effects/5/title"
+msgid "Highest Thaumaturgy tier\n to Spellbook-Cast\n without fumbling:\n (Using skill + INT stat)"
+msgstr "Найвищий ступінь\nтавматургії з книги\nбез помилки:\n(за навичкою + ІНТ)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/15/effects/5/value"
+msgid "%s"
+msgstr "%s"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Magic → магія
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/16/name"
+msgid "Magic"
+msgstr "Магія"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Level → Рівень, Spell → Закляття, spellbook → книга заклять, Magic → магія
+#. тон: technical, command
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/16/description"
+msgid "Allows higher level magic spells to be learned from spellbooks. Equip spells via the Magic menu and use the Cast command, or wield spellbooks and use the Defend command to use magic."
+msgstr "Дає змогу вивчати з книг заклять магічні закляття вищих рівнів. Споряджайте закляття в меню магії та використовуйте команду «Застосування» або беріть до рук книги заклять і використовуйте команду «Захист», щоб чаклувати."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Spell → Закляття, Dominate → підкорення
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/16/legend_text"
+msgid "Auto-learn Dominate spell."
+msgstr "Автоматично вивчається закляття «силовий снаряд»."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Spell → Закляття, bonus → бонус, INT → ІНТ, Stat → характеристика, Spell Power → сила заклять
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/16/effects/0/title"
+msgid "Base spell power bonus:\n (Using INT stat)"
+msgstr "Базовий бонус сили заклять:\n(за ІНТ)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/16/effects/0/value"
+msgid "%+d%%"
+msgstr "%+d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: skill → навичка, Magic → магія, Tier → ступінь, INT → ІНТ, Stat → характеристика
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/16/effects/1/title"
+msgid "Highest Magic tier\n able to learn:\n (Using skill + INT stat)"
+msgstr "Найвищий ступінь\nмагії для вивчення:\n(за навичкою + ІНТ)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/16/effects/1/value"
+msgid "%s"
+msgstr "%s"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Spell → Закляття, Magic → магія, Tier → ступінь
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/16/effects/2/title"
+msgid "Spells in current\n Magic tier:"
+msgstr "Закляття поточного\n ступеня магії:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/16/effects/2/value"
+msgid "%s"
+msgstr "%s"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: spellcasting → чаклування
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/17/name"
+msgid "Casting"
+msgstr "Чаклування"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Spell → Закляття, mana → мана, spellbook → книга заклять, spellcasting → чаклування, MP → ОМ, Regeneration → регенерація, MP Regen → відновлення ОМ
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/17/description"
+msgid "Improves reliability of Casting and Spellbook-Casting spells, reducing chances to fumble or over-expend mana. Increases passive MP regen."
+msgstr "Підвищує надійність чаклування заклять і чаклування з книг заклять, зменшуючи шанс невдачі або перевитрати мани. Збільшує пасивне відновлення ОМ."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Spell → Закляття, MP → ОМ, Forcebolt → силовий снаряд
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/17/legend_text"
+msgid "Auto-learn Forcebolt spell with (0) MP cost."
+msgstr "Автоматично вивчає закляття «силовий снаряд» із витратою (0) ОМ."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: skill → навичка, INT → ІНТ, MP → ОМ, Regeneration → регенерація, MP Regen → відновлення ОМ
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/17/effects/0/title"
+msgid "MP Regen INT multiplier\n from skill:"
+msgstr "Множник відновлення ОМ\n за ІНТ від навички:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: INT → ІНТ
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/17/effects/0/value"
+msgid "%dx INT"
+msgstr "%dx ІНТ"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Item → предмет, race → раса, MP → ОМ, Regeneration → регенерація, MP Regen → відновлення ОМ
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/17/effects/1/title"
+msgid "Base MP Regen rate:\n (Before item/race\n modifiers)"
+msgstr "Базове відновлення ОМ:\n (До модифікаторів\n предметів/раси)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: MP → ОМ
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/17/effects/1/value"
+msgid "1 MP every\n%.2f seconds"
+msgstr "1 ОМ кожні\n%.2f с"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Spell → Закляття, spellcasting → чаклування
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/17/effects/2/title"
+msgid "Able to fail casting\n of learned spells:"
+msgstr "Можливий збій чаклування\n вивчених заклять:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/17/effects/2/value"
+msgid "%s"
+msgstr "%s"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: skill → навичка, spellbook → книга заклять, spellcasting → чаклування, Magic → магія, Tier → ступінь, INT → ІНТ, Stat → характеристика
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/17/effects/3/title"
+msgid "Highest Magic tier\n to Spellbook-Cast\n without fumbling:\n (Using skill + INT stat)"
+msgstr "Найвищий ступінь\nмагії з книги\nбез помилки:\n(за навичкою + ІНТ)"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/17/effects/3/value"
+msgid "%s"
+msgstr "%s"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: swimming → плавання
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/18/name"
+msgid "Swimming"
+msgstr "Плавання"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: swimming → плавання, speed → швидкість
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/18/description"
+msgid "Increases movement speed while swimming in liquids."
+msgstr "Збільшує швидкість руху під час плавання в рідинах."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: Lava → лава, Water → вода
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/18/legend_text"
+msgid "Permanent water-walking over water and lava."
+msgstr "Постійне ходіння по воді й лаві."
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: swimming → плавання, speed → швидкість
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/18/effects/0/title"
+msgid "Movement speed\n while swimming:"
+msgstr "Швидкість руху\n під час плавання:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/18/effects/0/value"
+msgid "%d%%"
+msgstr "%d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: speed → швидкість, penalty → штраф
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/18/effects/1/title"
+msgid "Base speed multiplier\n penalty in liquids:"
+msgstr "Базовий штраф множника\n швидкості в рідинах:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/18/effects/1/value"
+msgid "%+d%%"
+msgstr "%+d%%"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. сутності: swimming → плавання, skill → навичка, bonus → бонус, speed → швидкість
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/18/effects/2/title"
+msgid "Bonus speed multiplier\n from Swimming skill:"
+msgstr "Бонус множника швидкості\n від навички плавання:"
+
+#. вікно навичок: name — навичка, description — опис, effects — рядки таблиці «назва: значення»
+#. тон: technical
+#, fuzzy
+#: data/skillsheet_entries.json
+msgctxt "skills/18/effects/2/value"
+msgid "+%d%%"
+msgstr "+%d%%"

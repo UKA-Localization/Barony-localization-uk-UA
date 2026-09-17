@@ -1,0 +1,3549 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Light → світло
+#, fuzzy
+#: data/status_effects.json
+msgctxt "sustained_effects/SUSTAIN_LIGHT/name"
+msgid "Light"
+msgstr "Світло"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Magic → магія, Light → світло
+#, fuzzy
+#: data/status_effects.json
+msgctxt "sustained_effects/SUSTAIN_LIGHT/desc"
+msgid "Sustaining a magical source of light"
+msgstr "Підтримка магічного джерела світла"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Deep Shade → глибока тінь
+#, fuzzy
+#: data/status_effects.json
+msgctxt "sustained_effects/SUSTAIN_SHADE/name"
+msgid "Deep Shade"
+msgstr "Глибока тінь"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Magic → магія
+#, fuzzy
+#: data/status_effects.json
+msgctxt "sustained_effects/SUSTAIN_SHADE/desc"
+msgid "Sustaining a magical source of shade"
+msgstr "Підтримка магічного джерела тіні"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: marked → позначений, Arcane Mark → магічна мітка
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "sustained_effects/EFF_SHADOW_TAGGED/name/0"
+msgid "Arcane Mark\n(Active on %s)"
+msgstr "Магічна мітка\n(активна на %s)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: marked → позначений, Arcane Mark → магічна мітка
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "sustained_effects/EFF_SHADOW_TAGGED/name/1"
+msgid "Arcane Mark (Active on %s)"
+msgstr "Магічна мітка (активна на %s)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: marked → позначений, Arcane Mark → магічна мітка, target → ціль
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "sustained_effects/EFF_SHADOW_TAGGED/name/2"
+msgid "Arcane Mark (Unknown target)"
+msgstr "Магічна мітка (невідома ціль)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Spell → Закляття, Damage → шкода, Teleportation → телепортація, Weakness → слабкість, Resistance → опір, target → ціль, Damage Resistance → опір пошкодженням
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "sustained_effects/EFF_SHADOW_TAGGED/desc"
+msgid "Nullifies racial damage resistances/weaknesses of target\nTeleportation spells are refocused to target"
+msgstr "Усуває расові опори/слабкості цілі до шкоди\nЗакляття телепортації перенаправляються на ціль"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Oversatiated → пересичення
+#. тон: excited
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_HUNGER/name/0"
+msgid "Oversatiated!"
+msgstr "Пересичення!"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Hungry → голодний
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_HUNGER/name/1"
+msgid "Hungry"
+msgstr "Голодний"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Hungry → голодний, Very Hungry → дуже голодний
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_HUNGER/name/2"
+msgid "Very Hungry"
+msgstr "Дуже голодний"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Starving → вмирає з голоду
+#. тон: fear
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_HUNGER/name/3"
+msgid "Starving!"
+msgstr "Вмирає з голоду!"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Strength → сила, Dexterity → спритність
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_HUNGER/desc/0"
+msgid "Suffering from overeating:\n- Strength\n- Dexterity"
+msgstr "Наслідки переїдання:\n- Сила\n- Спритність"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Effect → ефект, will → воля
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_HUNGER/desc/1"
+msgid "Failure to eat will incur negative effects"
+msgstr "Якщо не їсти, виникнуть негативні ефекти"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Strength → сила, Food → їжа, Dexterity → спритність
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_HUNGER/desc/2"
+msgid "Suffering from lack of food:\n- Strength\n- Dexterity"
+msgstr "Наслідки нестачі їжі:\n- Сила\n- Спритність"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода, Strength → сила, Food → їжа, Time → час, HP → ОЗ, Dexterity → спритність, Regeneration → регенерація, Intelligence → інтелект, Perception → чуття, Max HP → макс. ОЗ, HP Regen → відновлення ОЗ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_HUNGER/desc/3"
+msgid "Suffering from lack of food:\n- HP regen disabled\n- Taking % Max HP damage over time\n- Strength\n- Dexterity\n- Intelligence\n- Perception"
+msgstr "Наслідки нестачі їжі:\n- Відновлення ОЗ вимкнено\n- Періодична шкода в % макс. ОЗ\n- Сила\n- Спритність\n- Інтелект\n- Чуття"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Oversatiated → пересичення
+#. тон: excited
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BLOOD_HUNGER/name/0"
+msgid "Oversatiated!"
+msgstr "Пересичення!"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Hungry → голодний
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BLOOD_HUNGER/name/1"
+msgid "Hungry"
+msgstr "Голодний"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Hungry → голодний, Very Hungry → дуже голодний
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BLOOD_HUNGER/name/2"
+msgid "Very Hungry"
+msgstr "Дуже голодний"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Starving → вмирає з голоду
+#. тон: fear
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BLOOD_HUNGER/name/3"
+msgid "Starving!"
+msgstr "Вмирає з голоду!"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Strength → сила, Dexterity → спритність
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BLOOD_HUNGER/desc/0"
+msgid "Suffering from overeating:\n- Strength\n- Dexterity"
+msgstr "Наслідки переїдання:\n- Сила\n- Спритність"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Effect → ефект, will → воля
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BLOOD_HUNGER/desc/1"
+msgid "Failure to eat will incur negative effects"
+msgstr "Якщо не їсти, виникнуть негативні ефекти"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Strength → сила, Food → їжа, Dexterity → спритність
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BLOOD_HUNGER/desc/2"
+msgid "Suffering from lack of food:\n- Strength\n- Dexterity"
+msgstr "Наслідки нестачі їжі:\n- Сила\n- Спритність"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода, Strength → сила, Food → їжа, Time → час, Dexterity → спритність, Intelligence → інтелект, Perception → чуття
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BLOOD_HUNGER/desc/3"
+msgid "Suffering from lack of food, taking damage over time:\n- Strength\n- Dexterity\n- Intelligence\n- Perception"
+msgstr "Наслідки нестачі їжі та шкода із часом:\n- Сила\n- Спритність\n- Інтелект\n- Чуття"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Boiler → котел, superheated → перегрітий
+#. тон: technical, excited
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_AUTOMATON_HUNGER/name/0"
+msgid "Boiler Status:\nSUPERHEATED"
+msgstr "Стан котла:\nПЕРЕГРІТИЙ"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Boiler → котел, Nominal → норма
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_AUTOMATON_HUNGER/name/1"
+msgid "Boiler Status:\nNOMINAL"
+msgstr "Стан котла:\nНОРМА"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Boiler → котел, Critically Low → критично низький
+#. тон: technical, fear
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_AUTOMATON_HUNGER/name/2"
+msgid "Boiler Status:\nCRITICALLY LOW"
+msgstr "Стан котла:\nКРИТИЧНО НИЗЬКИЙ"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Boiler → котел, superheated → перегрітий
+#. тон: technical, excited
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_AUTOMATON_HUNGER/name/3"
+msgid "Boiler Status: SUPERHEATED"
+msgstr "Стан котла: ПЕРЕГРІТИЙ"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Boiler → котел, Nominal → норма
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_AUTOMATON_HUNGER/name/4"
+msgid "Boiler Status: NOMINAL"
+msgstr "Стан котла: НОРМА"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Boiler → котел, Critically Low → критично низький
+#. тон: technical, fear
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_AUTOMATON_HUNGER/name/5"
+msgid "Boiler Status: CRITICALLY LOW"
+msgstr "Стан котла: КРИТИЧНО НИЗЬКИЙ"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: HT → ТЕП, Dexterity → спритність, Nominal → норма
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_AUTOMATON_HUNGER/desc/0"
+msgid "Producing HT at 200% nominal rate, up to 400% when HT below 50% capacity\nReduced Dexterity when HT is less than 25% capacity"
+msgstr "Вироблення ТЕП зі швидкістю 200% від норми, до 400%, коли запас ТЕП нижчий за 50%\nЗнижена спритність, коли запас ТЕП менший за 25%"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: HT → ТЕП, Dexterity → спритність
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_AUTOMATON_HUNGER/desc/1"
+msgid "Producing HT steadily\nReduced Dexterity when HT is less than 25% capacity"
+msgstr "Стабільне вироблення ТЕП\nЗнижена спритність, коли запас ТЕП менший за 25%"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Strength → сила, HT → ТЕП, Boiler → котел, Dexterity → спритність, Perception → чуття
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_AUTOMATON_HUNGER/desc/2"
+msgid "Losing HT rapidly due to empty boiler, unit malfunction may occur at 0 HT\nReduced Dexterity when HT is less than 25% capacity\n- Strength\n- Perception"
+msgstr "Стрімка втрата ТЕП через порожній котел; за 0 ТЕП можливий збій\nЗнижена спритність, коли запас ТЕП менший за 25%\n- Сила\n- Чуття"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: HT → ТЕП, Boiler → котел, Dexterity → спритність
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_AUTOMATON_HUNGER/desc/3"
+msgid "Losing HT rapidly due to empty boiler, unit malfunction may occur at 0 HT\nReduced Dexterity when HT is less than 25% capacity"
+msgstr "Стрімка втрата ТЕП через порожній котел; за 0 ТЕП можливий збій\nЗнижена спритність, коли запас ТЕП менший за 25%"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Wanted → у розшуку
+#. тон: threat
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WANTED/name"
+msgid "Wanted!"
+msgstr "У розшуку!"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Merchant → торговець, Guild → гільдія, enemy → ворог
+#. тон: solemn, threat
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WANTED/desc/0"
+msgid "Decreed an enemy of the Merchant's Guild for your %s crimes:"
+msgstr "За %s скоєних вами злочинів вас оголошено ворогом Гільдії торговців:"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Assassination → убивство ударом у спину
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WANTED/desc/1"
+msgid "Assassination"
+msgstr "Убивство ударом у спину"
+
+#. ефект стану: name — коротка назва, desc — опис
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WANTED/desc/2"
+msgid "Inciting violence"
+msgstr "Підбурювання до насильства"
+
+#. ефект стану: name — коротка назва, desc — опис
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WANTED/desc/3"
+msgid "Accessory to violence"
+msgstr "Співучасть у насильстві"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. тон: joke
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WANTED/desc/4"
+msgid "Outlawed facewear"
+msgstr "Заборонене лицевбрання"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Trespassing → незаконне проникнення, Wanted → у розшуку
+#. тон: threat
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WANTED_IN_SHOP/name"
+msgid "Wanted!\n(Trespassing)"
+msgstr "У розшуку!\n(Незаконне проникнення)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Merchant → торговець, Guild → гільдія, enemy → ворог
+#. тон: solemn, threat
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WANTED_IN_SHOP/desc/0"
+msgid "Decreed an enemy of the Merchant's Guild for your %s crimes:"
+msgstr "За %s скоєних вами злочинів вас оголошено ворогом Гільдії торговців:"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Assassination → убивство ударом у спину
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WANTED_IN_SHOP/desc/1"
+msgid "Assassination"
+msgstr "Убивство ударом у спину"
+
+#. ефект стану: name — коротка назва, desc — опис
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WANTED_IN_SHOP/desc/2"
+msgid "Inciting violence"
+msgstr "Підбурювання до насильства"
+
+#. ефект стану: name — коротка назва, desc — опис
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WANTED_IN_SHOP/desc/3"
+msgid "Accessory to violence"
+msgstr "Співучасть у насильстві"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. тон: joke
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WANTED_IN_SHOP/desc/4"
+msgid "Outlawed facewear"
+msgstr "Заборонене лицевбрання"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Burning → горіння
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BURNING/name"
+msgid "Burning"
+msgstr "Горіння"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода, Time → час
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BURNING/desc"
+msgid "Taking damage over time"
+msgstr "З часом зазнаєте шкоди"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Free Action → вільна дія, Action → дія
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_FREEACTION/name"
+msgid "Free Action"
+msgstr "Вільна дія"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: paralysis → параліч, cure ailment → лікування недуг, Slow → сповільнення, Sleep → сон
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_FREEACTION/desc"
+msgid "Cures [Sleep], [Slow], [Paralyze]"
+msgstr "Лікує [Сон], [Сповільнення], [Параліч]"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Warning → попередження, Lesser Warning → Слабке попередження
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_LESSERWARNING/name"
+msgid "Lesser Warning"
+msgstr "Слабке попередження"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: monster → монстр, location → місце
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_LESSERWARNING/desc"
+msgid "Revealing location of moving monsters on the map"
+msgstr "Показує на мапі місце рухомих монстрів"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Degeneration → дегенерація
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_HPOFF/name"
+msgid "Degeneration"
+msgstr "Дегенерація"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: HP → ОЗ, Regeneration → регенерація, HP Regen → відновлення ОЗ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_HPOFF/desc/0"
+msgid "Base HP regen disabled"
+msgstr "Базове відновлення ОЗ вимкнено"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Hunger → Голод, Spell → Закляття, Potion → Зілля, Settings → Налаштування, Food → їжа, HP → ОЗ, Regeneration → регенерація, Restore → відновлення, HP Regen → відновлення ОЗ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_HPOFF/desc/1"
+msgid "Base HP Regen disabled due to Hunger being disabled in Game Settings\nRestore HP by consuming food and using potions/spells"
+msgstr "Базове відновлення ОЗ вимкнено, бо Голод вимкнено в Налаштуваннях гри\nВідновлюйте ОЗ їжею, зіллями та закляттями"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Burning → горіння, Resistance → опір, Burning Resistance → Опір горінню
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RESISTFIRE/name"
+msgid "Burning Resistance"
+msgstr "Опір горінню"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Burning → горіння
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RESISTFIRE/desc"
+msgid "Immune to [Burning]"
+msgstr "Імунітет до [Горіння]"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: poison → отруєння, poison resistance → опір отруті, Resistance → опір
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RESISTPOISON/name"
+msgid "Poison Resistance"
+msgstr "Опір отруті"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Spell → Закляття, poison → отруєння, cure ailment → лікування недуг, acid → кислота
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RESISTPOISON/desc"
+msgid "Cures [Poison]\nResist Poison, Acid spells"
+msgstr "Лікує [Отруєння]\nОпір закляттям отруєння й кислоти"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Slow → сповільнення, Slow Digestion → сповільнене травлення
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SLOWDIGESTION/name"
+msgid "Slow Digestion"
+msgstr "Сповільнене травлення"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Food → їжа, Starvation → голодна смерть, Satiation → ситість, Food Satiation → ситність їжі
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SLOWDIGESTION/desc"
+msgid "Increased food satiation and delayed starvation"
+msgstr "Підвищена ситність їжі та відтермінована голодна смерть"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Strangled → задушення
+#. тон: fear
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_STRANGULATION/name"
+msgid "Strangled!"
+msgstr "Задушення!"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода, Time → час
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_STRANGULATION/desc"
+msgid "Taking damage over time\nUnable to drink or eat"
+msgstr "Отримання шкоди з часом\nНе можна пити чи їсти"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Warning → попередження
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WARNING/name"
+msgid "Warning"
+msgstr "Попередження"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: monster → монстр, location → місце
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WARNING/desc"
+msgid "Revealing location of monsters on the map"
+msgstr "Показує місце монстрів на мапі"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Waterbreathing → підводне дихання
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WATERBREATHING/name"
+msgid "Waterbreathing"
+msgstr "Підводне дихання"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: swimming → плавання, speed → швидкість
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WATERBREATHING/desc"
+msgid "Uninhibited movement speed while swimming"
+msgstr "Швидкість руху не знижується під час плавання"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Conflict → Ворожнеча
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_CONFLICT/name"
+msgid "Conflict"
+msgstr "Ворожнеча"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: monster → монстр
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_CONFLICT/desc"
+msgid "Inciting nearby monsters to attack anything in sight"
+msgstr "Провокує сусідніх монстрів атакувати все, що бачать"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Waterwalking → ходіння по воді
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WATERWALKING/name"
+msgid "Waterwalking"
+msgstr "Ходіння по воді"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Lava → лава, Water → вода
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WATERWALKING/desc"
+msgid "Floating over water and lava"
+msgstr "Ширяння над водою та лавою"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Lifesaving → порятунок життя
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_LIFESAVING/name"
+msgid "Lifesaving"
+msgstr "Порятунок життя"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: death → смерть, Revival → відродження
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_LIFESAVING/desc"
+msgid "Revival on death"
+msgstr "Відродження в разі смерті"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Push → відштовхування
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_PUSH/name"
+msgid "Push"
+msgstr "Відштовхування"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: boulder → валун
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_PUSH/desc"
+msgid "Able to move boulders"
+msgstr "Можна рухати валуни"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Sneaking → скрадання
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SNEAK/name"
+msgid "Sneaking"
+msgstr "Скрадання"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Detection → виявлення
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SNEAK/desc"
+msgid "Reduced detection range"
+msgstr "Зменшена дальність виявлення"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Goatman → козолюд, Drunk → сп'яніння
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DRUNK_GOATMAN/name"
+msgid "Drunk (Goatman)"
+msgstr "Сп'яніння (козолюд)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода, Strength → сила, Dexterity → спритність, Constitution → статура, Intelligence → інтелект, Resistance → опір, Damage Resistance → опір пошкодженням
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DRUNK_GOATMAN/desc"
+msgid "+ Strength\n+ Constitution\n+ 20% Damage Resistance\n- Dexterity\n- Intelligence"
+msgstr "+ сила\n+ статура\n+ 20% опору пошкодженням\n- спритність\n- інтелект"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: bounty → замовлення, bounty target → ціль замовлення, target → ціль
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BOUNTY_TARGET/name/0"
+msgid "Bounty Target\n(Active)"
+msgstr "Ціль замовлення\n(активна)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: bounty → замовлення, bounty target → ціль замовлення, target → ціль
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BOUNTY_TARGET/name/1"
+msgid "Bounty Target (Active)"
+msgstr "Ціль замовлення (активна)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: gold piece → золота монета, marked → позначений, bonus → бонус, bounty → замовлення, bounty target → ціль замовлення, target → ціль
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BOUNTY_TARGET/desc"
+msgid "Receive bonus gold by killing your marked Bounty target"
+msgstr "Отримайте бонусні золоті монети, вбивши позначену ціль замовлення"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Inspiration → Натхнення
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_INSPIRATION/name"
+msgid "Inspiration"
+msgstr "Натхнення"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: ally → союзник, Follower → послідовник, XP → ОД, Player → гравець, LVL → РІВ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_INSPIRATION/desc"
+msgid "Ally players and followers gaining increased XP when lower LVL than yourself"
+msgstr "Союзні гравці й послідовники отримують більше ОД, якщо їхній РІВ нижчий за ваш"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Retaliation → удар у відповідь
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RELATIATION/name"
+msgid "Retaliation"
+msgstr "Удар у відповідь"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: melee → ближній бій, Damage → шкода
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RELATIATION/desc"
+msgid "Dealing damage to melee attackers on receiving damage"
+msgstr "Завдання шкоди нападникам у ближньому бою у відповідь на отриману шкоду"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Assistance → допомога
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ASSISTANCE/name"
+msgid "Assistance"
+msgstr "Допомога"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Item → предмет, Assist Item → предмет допомоги
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ASSISTANCE/desc/0"
+msgid "Claimed one or more Assist Items"
+msgstr "Отримано один чи більше предметів допомоги"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: PTS → ОЧК, Assistance → допомога
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ASSISTANCE/desc/1"
+msgid "%d Assistance Pts (Self)"
+msgstr "%d ОЧК допомоги (власні)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: party → група, PTS → ОЧК, Assistance → допомога
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ASSISTANCE/desc/2"
+msgid "%d Assistance Pts (Party Total)"
+msgstr "%d ОЧК допомоги (усього в групі)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Score → рахунок, Score Penalty → штраф до рахунку, penalty → штраф
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ASSISTANCE/desc/3"
+msgid "%d%% Score Penalty"
+msgstr "%d%% штрафу до рахунку"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Stability → стійкість
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_STABILITY/name"
+msgid "Stability"
+msgstr "Стійкість"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: knockback → відкидання, Effect → ефект, slippery → слизький
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_STABILITY/desc"
+msgid "Reduced effects of knockback and slippery terrain"
+msgstr "Послаблені ефекти відкидання й слизької поверхні"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Vandal → вандал
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_VANDALISE/name/0"
+msgid "Vandal"
+msgstr "Вандал"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, Vandal → вандал
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_VANDALISE/name/1"
+msgid "Vandal (Tier I)"
+msgstr "Вандал (ступінь I)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, Vandal → вандал
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_VANDALISE/name/2"
+msgid "Vandal (Tier II)"
+msgstr "Вандал (ступінь II)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, Vandal → вандал
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_VANDALISE/name/3"
+msgid "Vandal (Tier III)"
+msgstr "Вандал (ступінь III)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, Vandal → вандал
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_VANDALISE/name/4"
+msgid "Vandal (Tier IV)"
+msgstr "Вандал (ступінь IV)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: floor → поверх, bonus → бонус, Tier → ступінь, Effect → ефект, object → об'єкт, MP → ОМ, Destroy → знищення
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_VANDALISE/desc/0"
+msgid "Effects increase as you destroy more objects\nEffects reset each floor\nGaining a tier provides bonus MP"
+msgstr "Ефекти посилюються, що більше об'єктів ви знищуєте\nЕфекти скидаються на кожному поверсі\nЗдобуття ступеня дає бонус ОМ"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: melee → ближній бій, Damage → шкода, bonus → бонус
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_VANDALISE/desc/1"
+msgid "%+d Melee Damage bonus"
+msgstr "%+d бонусу до шкоди в ближньому бою"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: speed → швидкість
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_VANDALISE/desc/2"
+msgid "%+d%% Movement Speed"
+msgstr "%+d%% швидкості руху"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: speed → швидкість, Cast Speed → швидкість застосування
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_VANDALISE/desc/3"
+msgid "%+d%% Cast Speed"
+msgstr "%+d%% швидкості застосування"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Overcharge → надзаряджання
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_OVERCHARGE_COUNT/name"
+msgid "Overcharge"
+msgstr "Надзаряджання"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Spell → Закляття, Charge → заряд, Effect → ефект, HP → ОЗ, MP → ОМ, will → воля, Memorize Spell → запам'ятати закляття, Cast → застосування
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_OVERCHARGE_COUNT/desc"
+msgid "The next memorized spell cast will be kept charged for a number of successive casts\nSuccessive casts will consume HP when out of MP\nCanceling the charged spell dispels the effect"
+msgstr "Наступне застосування запам'ятованого закляття збереже заряд для кількох повторних застосувань\nКоли ОМ вичерпано, повторні застосування витрачатимуть ОЗ\nСкасування зарядженого закляття розвіює ефект"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Wealth → багатство
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WEALTH/name/0"
+msgid "Wealth"
+msgstr "Багатство"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, Wealth → багатство
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WEALTH/name/1"
+msgid "Wealth (Tier I)"
+msgstr "Багатство (ступінь I)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, Wealth → багатство
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WEALTH/name/2"
+msgid "Wealth (Tier II)"
+msgstr "Багатство (ступінь II)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, Wealth → багатство
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WEALTH/name/3"
+msgid "Wealth (Tier III)"
+msgstr "Багатство (ступінь III)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, Wealth → багатство
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WEALTH/name/4"
+msgid "Wealth (Tier IV)"
+msgstr "Багатство (ступінь IV)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: MP → ОМ, Regenerating → регенерація
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WEALTH/desc/0"
+msgid "+%d%% chance to gain +1 MP while regenerating MP"
+msgstr "+%d%% шансу отримати +1 ОМ під час відновлення ОМ"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: gold piece → золота монета, Effect → ефект
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WEALTH/desc/1"
+msgid "Effect increases with quantity of gold carried"
+msgstr "Ефект посилюється залежно від кількості золотих монет при собі"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: asleep → сон
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ASLEEP/name"
+msgid "Asleep"
+msgstr "Сон"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ASLEEP/desc"
+msgid "Unable to move or see"
+msgstr "Не можна рухатися чи бачити"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: poison → отруєння
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_POISONED/name"
+msgid "Poisoned"
+msgstr "Отруєння"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода, Time → час
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_POISONED/desc"
+msgid "Taking damage over time"
+msgstr "Отримання шкоди з часом"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: confused → спантеличений
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_CONFUSED/name"
+msgid "Confused"
+msgstr "Спантеличений"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_CONFUSED/desc"
+msgid "Movement is reversed"
+msgstr "Рух відбувається у зворотному напрямку"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Drunk → сп'яніння
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DRUNK/name"
+msgid "Drunk"
+msgstr "Сп'яніння"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Strength → сила, Dexterity → спритність
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DRUNK/desc"
+msgid "+ Strength\n- Dexterity"
+msgstr "+ сила\n- спритність"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Invisibility → невидимість
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_INVISIBLE/name"
+msgid "Invisible"
+msgstr "Невидимість"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: melee → ближній бій, enemy → ворог
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_INVISIBLE/desc"
+msgid "Unable to be detected by enemies outside of melee range"
+msgstr "Вороги поза межами ближнього бою не виявляють вас"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: blindness → сліпота
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BLIND/name"
+msgid "Blinded"
+msgstr "Сліпота"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BLIND/desc"
+msgid "Unable to see"
+msgstr "Ви нічого не бачите"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: greasy → засмальцьований
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GREASY/name"
+msgid "Greasy"
+msgstr "Засмальцьованість"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: weapon → зброя
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GREASY/desc"
+msgid "Held weapons may slip from your grasp"
+msgstr "Зброя в руках може вислизнути"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Messy → забруднення
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MESSY/name"
+msgid "Messy"
+msgstr "Забруднення"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MESSY/desc"
+msgid "Unable to see"
+msgstr "Ви нічого не бачите"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: speed → швидкість
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_FAST/name"
+msgid "Speed"
+msgstr "Швидкість"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Dexterity → спритність, speed → швидкість
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_FAST/desc"
+msgid "Increased Dexterity and movement speed"
+msgstr "Підвищено спритність і швидкість руху"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: paralyzed → паралізований
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_PARALYZED/name"
+msgid "Paralyzed"
+msgstr "Параліч"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_PARALYZED/desc"
+msgid "Unable to move or act"
+msgstr "Неможливо рухатися чи діяти"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Levitation → левітація
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_LEVITATING/name"
+msgid "Levitating"
+msgstr "Левітація"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Lava → лава, Water → вода
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_LEVITATING/desc"
+msgid "Floating over chasms, water and lava"
+msgstr "Ширяння над прірвами, водою та лавою"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Telepathy → телепатія
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_TELEPATH/name"
+msgid "Telepathy"
+msgstr "Телепатія"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: monster → монстр, wall → стіна
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_TELEPATH/desc"
+msgid "See monsters through walls"
+msgstr "Ви бачите монстрів крізь стіни"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Vomiting → блювання
+#. тон: excited
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_VOMITING/name"
+msgid "Vomiting!"
+msgstr "Блювання!"
+
+#. ефект стану: name — коротка назва, desc — опис
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_VOMITING/desc"
+msgid "Suffering from an upset stomach"
+msgstr "Розлад шлунка"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: bleeding → кровотеча
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BLEEDING/name"
+msgid "Bleeding"
+msgstr "Кровотеча"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода, Time → час
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BLEEDING/desc"
+msgid "Taking damage over time"
+msgstr "Поступове отримання шкоди"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: slowed → уповільнений
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SLOW/name"
+msgid "Slowed"
+msgstr "Уповільнення"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: speed → швидкість
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SLOW/desc"
+msgid "Reduced movement speed"
+msgstr "Знижено швидкість руху"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Magic → магія, magic resistance → опір магії, Resistance → опір
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MAGICRESIST/name"
+msgid "Magic Resistance"
+msgstr "Опір магії"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Magic → магія, magic resistance → опір магії, Resistance → опір
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MAGICRESIST/desc"
+msgid "+1 Magic Resistance"
+msgstr "+1 до опору магії"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Reflect Magic → відбиття магії, Magic → магія
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MAGICREFLECT/name"
+msgid "Reflect Magic"
+msgstr "Відбиття магії"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Spell → Закляття, enemy → ворог
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MAGICREFLECT/desc"
+msgid "Reflecting enemy spells"
+msgstr "Відбиття ворожих заклять"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Vampire → вампір, curse → прокляття, Vampiric Curse → вампірське прокляття
+#. тон: threat
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_VAMPIRICAURA/name/0"
+msgid "Vampiric Curse"
+msgstr "Вампірське прокляття"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Vampire → вампір, Vampiric Aura → вампірична аура
+#. тон: threat
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_VAMPIRICAURA/name/1"
+msgid "Vampiric Aura"
+msgstr "Вампірична аура"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Hunger → Голод, Stealth → потайність, Unarmed → без зброї, Strength → сила, Dexterity → спритність, bleed → кровотеча, Lifesteal → Викрадення здоров'я
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_VAMPIRICAURA/desc/0"
+msgid "+ Strength and Dexterity\nIncreased hunger rate\nIncreased chance to inflict [bleed] status while unarmed\nChance to lifesteal on unarmed lethal stealth attacks"
+msgstr "+ Сила та спритність\nШвидше настає голод\nПідвищено шанс спричинити [кровотечу] без зброї\nШанс викрасти здоров'я смертельною потайною атакою без зброї"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Hunger → Голод, Unarmed → без зброї, Strength → сила, HP → ОЗ, Dexterity → спритність, Regeneration → регенерація, bleed → кровотеча, Lifesteal → Викрадення здоров'я, HP Regen → відновлення ОЗ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_VAMPIRICAURA/desc/1"
+msgid "+ Strength and Dexterity\nIncreased hunger rate\nIncreased chance to inflict [bleed] status while unarmed\nChance to lifesteal on all unarmed attacks\nNatural HP regen is disabled"
+msgstr "+ Сила та спритність\nШвидше настає голод\nПідвищено шанс спричинити [кровотечу] без зброї\nШанс викрасти здоров'я будь-якою атакою без зброї\nПриродне відновлення ОЗ вимкнено"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: shrine → святиня, buff → підсилення, Red Shrine Buff → благословення червоного святилища
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SHRINE_RED_BUFF/name"
+msgid "Red Shrine Buff"
+msgstr "Благословення червоного святилища"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Strength → сила, Constitution → статура
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SHRINE_RED_BUFF/desc"
+msgid "+ Strength\n+ Constitution"
+msgstr "+ Сила\n+ Статура"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: shrine → святиня, buff → підсилення, Green Shrine Buff → благословення зеленого святилища
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SHRINE_GREEN_BUFF/name"
+msgid "Green Shrine Buff"
+msgstr "Благословення зеленого святилища"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Dexterity → спритність, Perception → чуття
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SHRINE_GREEN_BUFF/desc"
+msgid "+ Dexterity\n+ Perception"
+msgstr "+ Спритність\n+ Чуття"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: shrine → святиня, buff → підсилення, Blue Shrine Buff → благословення синього святилища
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SHRINE_BLUE_BUFF/name"
+msgid "Blue Shrine Buff"
+msgstr "Благословення синього святилища"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Magic → магія, magic resistance → опір магії, Intelligence → інтелект, Resistance → опір
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SHRINE_BLUE_BUFF/desc"
+msgid "+ Intelligence\n+1 Magic Resistance"
+msgstr "+ Інтелект\n+1 до опору магії"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: health → здоров'я, Health Regeneration → відновлення здоров'я, Regeneration → регенерація
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_HP_REGEN/name"
+msgid "Health Regeneration"
+msgstr "Відновлення здоров'я"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: HP → ОЗ, Regeneration → регенерація, HP Regen → відновлення ОЗ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_HP_REGEN/desc"
+msgid "+2 [HP Regen]"
+msgstr "+2 [відновлення ОЗ]"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: mana → мана, Mana Regeneration → відновлення мани, Regeneration → регенерація
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MP_REGEN/name"
+msgid "Mana Regeneration"
+msgstr "Відновлення мани"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: MP → ОМ, Regeneration → регенерація, MP Regen → відновлення ОМ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MP_REGEN/desc"
+msgid "+2 [MP Regen]"
+msgstr "+2 [відновлення ОМ]"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Pacified → умиротворення
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_PACIFY/name"
+msgid "Pacified"
+msgstr "Умиротворення"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_PACIFY/desc"
+msgid "Unable to attack or voluntarily move"
+msgstr "Неможливо атакувати чи рухатися за власним бажанням"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: polymorph → перетворення
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_POLYMORPH/name"
+msgid "Polymorphed"
+msgstr "Перетворення"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: monster → монстр
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_POLYMORPH/desc"
+msgid "Disguised as another monster"
+msgstr "Маскування під іншого монстра"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Hungover → похмілля
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WITHDRAWAL/name"
+msgid "Hungover"
+msgstr "Похмілля"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Dexterity → спритність
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WITHDRAWAL/desc"
+msgid "- Dexterity\nCurable by intoxication"
+msgstr "- Спритність\nЛікується сп'янінням"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Strength → сила
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_POTION_STR/name"
+msgid "Strength"
+msgstr "Сила"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Strength → сила, Perception → чуття
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_POTION_STR/desc"
+msgid "+ Strength\n- Perception"
+msgstr "+ Сила\n- Чуття"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Rat → Щур, Form → форма, Rat Form → форма щура
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SHAPESHIFT/name/0"
+msgid "Rat Form"
+msgstr "Форма щура"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Form → форма, Arthropod Form → форма членистоногого
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SHAPESHIFT/name/1"
+msgid "Arthropod Form"
+msgstr "Форма членистоногого"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Troll → Троль, Form → форма, Troll Form → форма троля
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SHAPESHIFT/name/2"
+msgid "Troll Form"
+msgstr "Форма троля"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Imp → імп, Form → форма, Imp Form → форма біса
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SHAPESHIFT/name/3"
+msgid "Imp Form"
+msgstr "Форма біса"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Level → Рівень, Spell → Закляття, swimming → плавання, Level Up → підвищення рівня, DEX → СПР, Shaman → шаман, Food → їжа, class → клас, INT → ІНТ, PER → ЧУТ, speed → швидкість, Detect Food → виявлення їжі, access → доступ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SHAPESHIFT/desc/0"
+msgid "+ DEX/INT/PER\nFaster swimming\nHigher chance to gain DEX/INT on level up\n(Shaman class only) Access to spells [Detect Food] and [Speed]"
+msgstr "+ СПР/ІНТ/ЧУТ\nШвидше плавання\nВищий шанс підвищити СПР/ІНТ з рівнем\n(Лише клас шамана) Доступ до заклять [виявлення їжі] та [швидкість]"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Level → Рівень, Spell → Закляття, poison → отруєння, Level Up → підвищення рівня, STR → СИЛ, Shaman → шаман, Web → павутина, class → клас, CON → СТА, PER → ЧУТ, Spray Web → викид павутини, access → доступ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SHAPESHIFT/desc/1"
+msgid "+ PER/STR/CON\nHigher chance to gain PER/CON on level up\n(Shaman class only) Access to spells [Spray Web] and [Poison]"
+msgstr "+ ЧУТ/СИЛ/СТА\nВищий шанс підвищити ЧУТ/СТА з рівнем\n(Лише клас шамана) Доступ до заклять [викид павутини] та [отруєння]"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Troll → Троль, Level → Рівень, Spell → Закляття, Level Up → підвищення рівня, STR → СИЛ, DEX → СПР, Shaman → шаман, Fear → страх, class → клас, CON → СТА, Blood → кров, Power Strike → потужний удар, Troll's Blood → кров троля, Strike → удар, access → доступ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SHAPESHIFT/desc/2"
+msgid "+ STR/CON\n- DEX\nHigher chance to gain STR/CON on level up\n(Shaman class only) Access to spells [Power Strike], [Fear] and [Troll's Blood]"
+msgstr "+ СИЛ/СТА\n- СПР\nВищий шанс підвищити СИЛ/СТА з рівнем\n(Лише клас шамана) Доступ до заклять [потужний удар], [страх] і [кров троля]"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Level → Рівень, Spell → Закляття, Levitation → левітація, Level Up → підвищення рівня, Shaman → шаман, Elemental Focus → стихійне зосередження, class → клас, CHR → ХАР, INT → ІНТ, PER → ЧУТ, Elemental → елементаль, Lightning → блискавка, Confuse → спантеличення, focus → магічний фокус, access → доступ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SHAPESHIFT/desc/3"
+msgid "Provides levitation\n+ INT/PER\nHigher chance to gain CHR/INT on level up\n(Shaman class only) Access to spells [Lightning], [Confuse] and [Elemental Focus]"
+msgstr "Надає левітацію\n+ ІНТ/ЧУТ\nВищий шанс підвищити ХАР/ІНТ з рівнем\n(Лише клас шамана) Доступ до заклять [блискавка], [спантеличення] та [стихійне зосередження]"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Webbed → Обплутання павутиною, Web → павутина
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WEBBED/name"
+msgid "Webbed"
+msgstr "Обплутання павутиною"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: melee → ближній бій, knockback → відкидання, speed → швидкість, Strike → удар
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WEBBED/desc"
+msgid "Reduced movement speed\nKnocked back when receiving melee strikes"
+msgstr "Знижено швидкість руху\nУдари ближнього бою відкидають вас"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Fear → страх
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_FEAR/name"
+msgid "Fear"
+msgstr "Страх"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_FEAR/desc"
+msgid "Unable to attack or voluntarily move"
+msgstr "Неможливо атакувати чи рухатися за власним бажанням"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Elemental Focus → стихійне зосередження, Elemental → елементаль, focus → магічний фокус
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MAGICAMPLIFY/name"
+msgid "Elemental Focus"
+msgstr "Стихійне зосередження"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Spell → Закляття, spellcasting → чаклування, Damage → шкода, Magic → магія, Magic Missile → магічний снаряд, Cold → холод, Fire → вогонь, Lightning → блискавка, missile → снаряд
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MAGICAMPLIFY/desc"
+msgid "Increased damage and shorter range when casting [Fire], [Cold], [Lightning] or [Magic Missile] spells"
+msgstr "Збільшена шкода й менша дальність під час чаклування заклять [вогонь], [холод], [блискавка] або [магічний снаряд]"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: marked → позначений, Arcane Marked → магічна мітка
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SHADOW_TAGGED/name"
+msgid "Arcane Marked"
+msgstr "Магічна мітка"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода, Weakness → слабкість, Resistance → опір, Nullified → нейтралізований, Damage Resistance → опір пошкодженням
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SHADOW_TAGGED/desc"
+msgid "Racial damage resistances/weaknesses nullified on self"
+msgstr "Власні расові опори пошкодженням/слабкості нейтралізовано"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Troll → Троль, Blood → кров, Troll's Blood → кров троля
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_TROLLS_BLOOD/name"
+msgid "Troll's Blood"
+msgstr "Кров троля"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: HP → ОЗ, Regeneration → регенерація, HP Regen → відновлення ОЗ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_TROLLS_BLOOD/desc"
+msgid "+1 [HP Regen]"
+msgstr "+1 [відновлення ОЗ]"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Flutter → пурхання
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_FLUTTER/name"
+msgid "Flutter"
+msgstr "Пурхання"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Levitation → левітація, Duration → тривалість
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_FLUTTER/desc"
+msgid "Levitating for a short duration"
+msgstr "Короткочасна левітація"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Rooted → Укорінення
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ROOTED/name"
+msgid "Rooted"
+msgstr "Укорінення"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ROOTED/desc"
+msgid "Unable to move"
+msgstr "Не можна рухатися"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Resistance → опір, Nausea Resistance → опір нудоті
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_NAUSEA_PROTECTION/name"
+msgid "Nausea Resistance"
+msgstr "Опір нудоті"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: arrow → стріла, indigestion → нетравлення, Hunting → мисливський, Drunk → сп'яніння
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_NAUSEA_PROTECTION/desc"
+msgid "Immune to vomit inducing events such as indigestion, hunting arrows or drunkenness"
+msgstr "Несприйнятливість до блювання від нетравлення, мисливських стріл, сп'яніння тощо"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Stamina → витривалість
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_CON_BONUS/name"
+msgid "Stamina"
+msgstr "Витривалість"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Effect → ефект, HP → ОЗ, Constitution → статура
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_CON_BONUS/desc"
+msgid "+ Constitution\nEffect increases with lower remaining HP"
+msgstr "+ Статура\nЕфект посилюється зі зменшенням решти ОЗ"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Mentality → ментальність
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_PWR/name"
+msgid "Mentality"
+msgstr "Ментальність"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Spell → Закляття, Effect → ефект, MP → ОМ, Spell Power → сила заклять
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_PWR/desc"
+msgid "+ Spell Power\nEffect increases with lower remaining MP"
+msgstr "+ Сила заклять\nЕфект посилюється зі зменшенням решти ОМ"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Agility → спритність
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_AGILITY/name"
+msgid "Agility"
+msgstr "Спритність"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Magic → магія, Dexterity → спритність
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_AGILITY/desc"
+msgid "+ Dexterity\n+30% Chance to evade physical and magical attacks"
+msgstr "+ Спритність\n+30% шансу ухилитися від фізичних і магічних атак"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Rally → згуртування
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RALLY/name"
+msgid "Rally"
+msgstr "Згуртування"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Rally → згуртування
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RALLY/desc"
+msgid "+ Rallied"
+msgstr "+ Згуртування"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Healing → зцілення, marigold → чорнобривець, Marigold Healing → лікування чорнобривцем
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MARIGOLD/name"
+msgid "Marigold Healing"
+msgstr "Лікування чорнобривцем"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Time → час, HP → ОЗ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MARIGOLD/desc"
+msgid "+ Restoring HP over time"
+msgstr "+ Відновлення ОЗ із часом"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, flute → флейта
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_FLUTE/name/0"
+msgid "Flute (Tier I)"
+msgstr "Флейта (ступінь I)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, flute → флейта
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_FLUTE/name/1"
+msgid "Flute (Tier II)"
+msgstr "Флейта (ступінь II)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, flute → флейта
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_FLUTE/name/2"
+msgid "Flute (Tier III)"
+msgstr "Флейта (ступінь III)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, flute → флейта
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_FLUTE/name/3"
+msgid "Flute (Tier IV)"
+msgstr "Флейта (ступінь IV)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: DEX → СПР
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_FLUTE/desc/0"
+msgid "%+d DEX"
+msgstr "%+d СПР"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: critical strike → критичний удар, Charge → заряд, speed → швидкість, Critical Charge Speed → швидкість заряджання критичного удару
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_FLUTE/desc/1"
+msgid "%+d%% Critical Charge Speed"
+msgstr "%+d%% швидкості заряджання критичного удару"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, lyre → ліра
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_LYRE/name/0"
+msgid "Lyre (Tier I)"
+msgstr "Ліра (ступінь I)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, lyre → ліра
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_LYRE/name/1"
+msgid "Lyre (Tier II)"
+msgstr "Ліра (ступінь II)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, lyre → ліра
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_LYRE/name/2"
+msgid "Lyre (Tier III)"
+msgstr "Ліра (ступінь III)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, lyre → ліра
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_LYRE/name/3"
+msgid "Lyre (Tier IV)"
+msgstr "Ліра (ступінь IV)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: PER → ЧУТ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_LYRE/desc/0"
+msgid "%+d PER"
+msgstr "%+d ЧУТ"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода, Resistance → опір, Damage Resistance → опір пошкодженням
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_LYRE/desc/1"
+msgid "%+d%% Damage Resistance"
+msgstr "%+d%% опору пошкодженням"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, drum → барабан
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_DRUM/name/0"
+msgid "Drum (Tier I)"
+msgstr "Барабан (ступінь I)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, drum → барабан
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_DRUM/name/1"
+msgid "Drum (Tier II)"
+msgstr "Барабан (ступінь II)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, drum → барабан
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_DRUM/name/2"
+msgid "Drum (Tier III)"
+msgstr "Барабан (ступінь III)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, drum → барабан
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_DRUM/name/3"
+msgid "Drum (Tier IV)"
+msgstr "Барабан (ступінь IV)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: STR → СИЛ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_DRUM/desc/0"
+msgid "%+d STR"
+msgstr "%+d СИЛ"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: armor → обладунок, melee → ближній бій, Armor Pierce → пробиття броні
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_DRUM/desc/1"
+msgid "%+d%% chance Armor Pierce on melee attacks"
+msgstr "%+d%% шансу пробити броню в ближньому бою"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, lute → лютня
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_LUTE/name/0"
+msgid "Lute (Tier I)"
+msgstr "Лютня (ступінь I)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, lute → лютня
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_LUTE/name/1"
+msgid "Lute (Tier II)"
+msgstr "Лютня (ступінь II)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, lute → лютня
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_LUTE/name/2"
+msgid "Lute (Tier III)"
+msgstr "Лютня (ступінь III)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, lute → лютня
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_LUTE/name/3"
+msgid "Lute (Tier IV)"
+msgstr "Лютня (ступінь IV)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: PWR → ПОТ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_LUTE/desc/0"
+msgid "%+d%% PWR"
+msgstr "%+d%% ПОТ"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Evasion → ухилення
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_LUTE/desc/1"
+msgid "%+d%% Evasion"
+msgstr "%+d%% ухилення"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, horn → ріг
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_HORN/name/0"
+msgid "Horn (Tier I)"
+msgstr "Ріг (ступінь I)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, horn → ріг
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_HORN/name/1"
+msgid "Horn (Tier II)"
+msgstr "Ріг (ступінь II)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, horn → ріг
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_HORN/name/2"
+msgid "Horn (Tier III)"
+msgstr "Ріг (ступінь III)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, horn → ріг
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_HORN/name/3"
+msgid "Horn (Tier IV)"
+msgstr "Ріг (ступінь IV)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: CON → СТА
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_HORN/desc/0"
+msgid "%+d CON"
+msgstr "%+d СТА"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: melee → ближній бій, Damage → шкода, Retaliation → удар у відповідь
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENSEMBLE_HORN/desc/1"
+msgid "%+d Retaliation Damage to melee attackers"
+msgstr "%+d шкоди ударом у відповідь нападникам у ближньому бою"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Lifted → знятий
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_LIFT/name"
+msgid "Lifted"
+msgstr "Знятий"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода, Effect → ефект, CON → СТА
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_LIFT/desc"
+msgid "Prevents movement.\nTaking damage on effect\nend based on CON"
+msgstr "Унеможливлює рух.\nНаприкінці ефекту завдає шкоди\nзалежно від СТА"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: spirit → дух, Guard → охорона, Guard Spirit → захист духу
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GUARD_SPIRIT/name"
+msgid "Guard Spirit"
+msgstr "Захист духу"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Charge → заряд, RES → ОПР, Depleted → вичерпаний
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GUARD_SPIRIT/desc"
+msgid "+RES\nBuilds charges while active.\nAttacks deplete charges."
+msgstr "+ОПР\nНакопичує заряди, поки діє.\nАтаки вичерпують заряди."
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Guard → охорона, Guard Body → захист тіла
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GUARD_BODY/name"
+msgid "Guard Body"
+msgstr "Захист тіла"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Charge → заряд, AC → КЗ, Depleted → вичерпаний
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GUARD_BODY/desc"
+msgid "+AC\nBuilds charges while active\nAttacks deplete charges"
+msgstr "+КЗ\nНакопичує заряди, поки діє\nАтаки вичерпують заряди"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Guard → охорона, Divine Guard → божественний захист
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DIVINE_GUARD/name"
+msgid "Divine Guard"
+msgstr "Божественний захист"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Charge → заряд, AC → КЗ, RES → ОПР, Depleted → вичерпаний
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DIVINE_GUARD/desc"
+msgid "+AC\n+RES\nBuilds charges while active.\nAttacks deplete charges."
+msgstr "+КЗ\n+ОПР\nНакопичує заряди, поки діє.\nАтаки вичерпують заряди."
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Nimbleness → спритність
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_NIMBLENESS/name"
+msgid "Nimbleness"
+msgstr "Спритність"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: DEX → СПР
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_NIMBLENESS/desc"
+msgid "+DEX"
+msgstr "+СПР"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: greater might → велика міць
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GREATER_MIGHT/name"
+msgid "Greater Might"
+msgstr "Велика міць"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: STR → СИЛ, Push → відштовхування
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GREATER_MIGHT/desc"
+msgid "+STR\n+Push"
+msgstr "+СИЛ\n+Відштовхування"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Counsel → настанова
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_COUNSEL/name"
+msgid "Counsel"
+msgstr "Настанова"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: INT → ІНТ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_COUNSEL/desc"
+msgid "+INT"
+msgstr "+ІНТ"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Sturdiness → міцність
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_STURDINESS/name"
+msgid "Sturdiness"
+msgstr "Міцність"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: CON → СТА
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_STURDINESS/desc"
+msgid "+CON"
+msgstr "+СТА"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: blessed → благословенний, Blessed Meals → благословенні страви
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BLESS_FOOD/name"
+msgid "Blessed Meals"
+msgstr "Благословенні страви"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Food → їжа, Nourished → ситість
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BLESS_FOOD/desc"
+msgid "Grants [Nourished]\nwhen non-spoiled food"
+msgstr "Надає [Ситість]\nвід несвіжої їжі"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Pinpoint → визначення місця
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_PINPOINT/name"
+msgid "Pinpoint"
+msgstr "Визначення місця"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода, caster → заклинач
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_PINPOINT/desc"
+msgid "Takes additional damage upon being attacked by the caster."
+msgstr "Зазнає додаткової шкоди від атак заклинача."
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: penance → покута
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_PENANCE/name"
+msgid "Penance"
+msgstr "Покута"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: caster → заклинач
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_PENANCE/desc"
+msgid "Friendly to the caster."
+msgstr "Дружній до заклинача."
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Trap → пастка, Guard → охорона, Trap Guard → захист від пасток
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SACRED_PATH/name"
+msgid "Trap Guard"
+msgstr "Захист від пасток"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Trap → пастка, Damage → шкода
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SACRED_PATH/desc"
+msgid "Reduced damage from traps."
+msgstr "Зменшена шкода від пасток."
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: enemy → ворог, Detect Enemy → виявлення ворога
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DETECT_ENEMY/name"
+msgid "Detect Enemy"
+msgstr "Виявлення ворога"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: hostile → ворожий, caster → заклинач
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DETECT_ENEMY/desc"
+msgid "Revealed to hostile caster."
+msgstr "Видимий ворожому заклиначу."
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Blood → кров, ward → оберіг, Blood Ward → кров'яний оберіг
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BLOOD_WARD/name"
+msgid "Blood Ward"
+msgstr "Кров'яний оберіг"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Spell → Закляття, poison → отруєння, Damage → шкода, Elemental → елементаль, creature → істота, bleed → кровотеча
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BLOOD_WARD/desc"
+msgid "Taking reduced damage from poisonous\ncreatures and elemental spells\nImmune to [Poison / Bleed]"
+msgstr "Зменшена шкода від отруйних\nістот і стихійних заклять\nІмунітет до [Отруєння / Кровотечі]"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Blood → кров, True Blood → істинна кров
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_TRUE_BLOOD/name"
+msgid "True Blood"
+msgstr "Істинна кров"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: poison → отруєння, paralysis → параліч, Damage → шкода, Slow → сповільнення, bleed → кровотеча, Immunity → імунітет
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_TRUE_BLOOD/desc"
+msgid "Reduces sting damage.\nImmunity to:n-Slow\n-Paralyze\n-Poison\n-Bleed"
+msgstr "Зменшує шкоду від ужалень.\nІмунітет до:n-Сповільнення\n-Паралічу\n-Отруєння\n-Кровотечі"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Divine Zeal → божественний запал
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DIVINE_ZEAL/name"
+msgid "Divine Zeal"
+msgstr "Божественний запал"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода, enemy → ворог, smite → священний удар
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DIVINE_ZEAL/desc"
+msgid "Physical attacks inflict additional Smite damage to susceptible enemies"
+msgstr "Фізичні атаки завдають вразливим ворогам додаткової шкоди священним ударом"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Maximise → збільшення
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MAXIMISE/name"
+msgid "Maximise"
+msgstr "Збільшення"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: STR → СИЛ, DEX → СПР, XP → ОД, CON → СТА
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MAXIMISE/desc"
+msgid "+STR\n+CON\n-DEX\nIncreases XP yield"
+msgstr "+СИЛ\n+СТА\n-СПР\nЗбільшує отримані ОД"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Minimise → зменшення
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MINIMISE/name"
+msgid "Minimise"
+msgstr "Зменшення"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: STR → СИЛ, DEX → СПР, XP → ОД, CON → СТА
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MINIMISE/desc"
+msgid "+DEX\n-STR\n-CON\nReduces XP yield"
+msgstr "+СПР\n-СИЛ\n-СТА\nЗменшує отримані ОД"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Weakness → слабкість
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WEAKNESS/name"
+msgid "Weakness"
+msgstr "Слабкість"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: melee → ближній бій, ATK → АТК
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_WEAKNESS/desc"
+msgid "Melee ATK reduced"
+msgstr "АТК у ближньому бою знижено"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Incoherence → незв'язність
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_INCOHERENCE/name"
+msgid "Incoherence"
+msgstr "Незв'язність"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: PWR → ПОТ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_INCOHERENCE/desc"
+msgid "PWR Reduced"
+msgstr "ПОТ знижено"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Overcharge → надзаряджання, Charge → заряд
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_OVERCHARGE/name"
+msgid "Overcharge"
+msgstr "Надзаряджання"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: spellbook → книга заклять, Magic → магія, PWR → ПОТ, off-hand → друга рука, magicstaff → магічний посох, focus → магічний фокус
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_OVERCHARGE/desc"
+msgid "Applies +PWR to:\n-Magicstaffs\n-Off-Hand Spellbooks\n-Magic Foci"
+msgstr "Надає +ПОТ для:\n-Магічних посохів\n-Книг заклять у другій руці\n-Магічних фокусів"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: weapon → зброя, Envenom Weapon → отруєння зброї
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENVENOM_WEAPON/name"
+msgid "Envenom Weapon"
+msgstr "Отруєння зброї"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: poison → отруєння, weapon → зброя, Damage → шкода
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ENVENOM_WEAPON/desc"
+msgid "Weapon attacks have a chance\n to inflict additional poisoned damage"
+msgstr "Атаки зброєю можуть\n завдати додаткової шкоди отруєнням"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: slippery → слизький
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MAGIC_GREASE/name"
+msgid "Slippery"
+msgstr "Слизькість"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MAGIC_GREASE/desc"
+msgid "Reduced control of movement"
+msgstr "Погіршене керування рухом"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: compelled → примусове підкорення
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_COMMAND/name"
+msgid "Compel"
+msgstr "Підкорення"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_COMMAND/desc"
+msgid "Forced to obey one command"
+msgstr "Змушений виконати одну команду"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Mimic → мімік, Void → Порожнеча
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MIMIC_VOID/name"
+msgid "EFF_MIMIC_VOID"
+msgstr "EFF_MIMIC_VOID"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Mimic → мімік, Void → Порожнеча
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MIMIC_VOID/desc"
+msgid "EFF_MIMIC_VOID"
+msgstr "EFF_MIMIC_VOID"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: cursed → проклятий, Cursed Flesh → проклята плоть
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_CURSE_FLESH/name"
+msgid "Cursed Flesh"
+msgstr "Проклята плоть"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: revenant skull → череп ревенанта
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_CURSE_FLESH/desc"
+msgid "Spawning a Revenant Skull when killed."
+msgstr "Після смерті породжує череп ревенанта."
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Numb → оніміння
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_NUMBING_BOLT/name"
+msgid "Numb"
+msgstr "Оніміння"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_NUMBING_BOLT/desc"
+msgid "Can't feel the next hit taken."
+msgstr "Не відчуває наступного удару."
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Undying → невмирущість
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DELAY_PAIN/name"
+msgid "Undying"
+msgstr "Невмирущість"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DELAY_PAIN/desc"
+msgid "Delaying damage taken"
+msgstr "Відкладає отриману шкоду"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Seek Other → пошук іншого
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SEEK_CREATURE/name"
+msgid "Seek Other"
+msgstr "Пошук іншого"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: compelled → примусове підкорення, creature → істота
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SEEK_CREATURE/desc"
+msgid "Compelled to seek out another creature"
+msgstr "Змушений шукати іншу істоту"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Scapegoat → цап-відбувайло
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_TABOO/name"
+msgid "Scapegoat"
+msgstr "Цап-відбувайло"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: creature → істота, hostile → ворожий
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_TABOO/desc"
+msgid "Makes all creatures hostile to you"
+msgstr "Робить усіх істот ворожими до вас"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Courage → хоробрість
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_COURAGE/name"
+msgid "Courage"
+msgstr "Хоробрість"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: STR → СИЛ, CON → СТА
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_COURAGE/desc"
+msgid "+STR\n+CON"
+msgstr "+СИЛ\n+СТА"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Cowardice → боягузтво
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_COWARDICE/name"
+msgid "Cowardice"
+msgstr "Боягузтво"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: STR → СИЛ, CON → СТА
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_COWARDICE/desc"
+msgid "-CON\n-STR"
+msgstr "-СТА\n-СИЛ"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Spores → спори
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SPORES/name"
+msgid "Spores"
+msgstr "Спори"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: poison → отруєння, Slow → сповільнення, Spores → спори
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SPORES/desc"
+msgid "Releasing clouds of spores when hit,\n-Inflicts [Poison / Slow]"
+msgstr "Вивільняє хмари спор при ударі,\n-Накладає [Отруєння / Сповільнення]"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Abundance → достаток
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ABUNDANCE/name"
+msgid "Abundance"
+msgstr "Достаток"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Food → їжа, Depleted → вичерпаний
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ABUNDANCE/desc"
+msgid "Food has a chance to not deplete upon consumption"
+msgstr "Їжа може не вичерпатися після споживання"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Greater Abundance → великий достаток, Abundance → достаток
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GREATER_ABUNDANCE/name"
+msgid "Greater Abundance"
+msgstr "Великий достаток"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Potion → Зілля, Food → їжа, Depleted → вичерпаний
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GREATER_ABUNDANCE/desc"
+msgid "Food and potions have a chance to not deplete upon consumption"
+msgstr "Їжа й зілля можуть не вичерпатися після споживання"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Preserve → збереження
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_PRESERVE/name"
+msgid "Preserve"
+msgstr "Збереження"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: equipment → спорядження, MP → ОМ, Equipment Degradation → зношення спорядження
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_PRESERVE/desc"
+msgid "Preventing equipment degradation at the cost of MP"
+msgstr "Запобігає зношенню спорядження ціною ОМ"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Form → форма, mist form → туманна форма
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MIST_FORM/name"
+msgid "Mist Form"
+msgstr "Туманна форма"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: MP → ОМ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MIST_FORM/desc"
+msgid "Evading attacks at the cost of MP."
+msgstr "Ухилення від атак ціною ОМ."
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: shield → щит, Kinetic Shield → кінетичний щит
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_FORCE_SHIELD/name"
+msgid "Kinetic Shield"
+msgstr "Кінетичний щит"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Item → предмет, AC → КЗ, off-hand → друга рука
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_FORCE_SHIELD/desc"
+msgid "Adds AC to Off-Hand items"
+msgstr "Додає КЗ предметам у другій руці"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Lighten Load → полегшити ношу
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_LIGHTEN_LOAD/name"
+msgid "Lighten Load"
+msgstr "Полегшити ношу"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: SPD → ШВД, WGT → ВАГ, penalty → штраф, inventory → інвентар
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_LIGHTEN_LOAD/desc"
+msgid "Reduced the SPD penalty of inventory WGT"
+msgstr "Знижено штраф ШВД від ВАГ інвентарю"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Attract → притягання
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ATTRACT_ITEMS/name"
+msgid "Attract"
+msgstr "Притягання"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Levitation → левітація, Item → предмет
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ATTRACT_ITEMS/desc"
+msgid "Levitates and draws in nearby items."
+msgstr "Підіймає в повітря й притягує предмети поблизу."
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Return → повернення
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RETURN_ITEM/name"
+msgid "Return"
+msgstr "Повернення"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: weapon → зброя, thrown → метальний, floor → поверх, MP → ОМ, Return → повернення
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RETURN_ITEM/desc"
+msgid "Thrown weapons return from the floor at the cost of MP."
+msgstr "Метальна зброя повертається з поверху ціною ОМ."
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: door → двері, demesne door → двері володіння
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DEMESNE_DOOR/name"
+msgid "Demesne Door"
+msgstr "Двері володіння"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: ATK → АТК, PWR → ПОТ, AC → КЗ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DEMESNE_DOOR/desc"
+msgid "+AC\n+ATK\n+PWR"
+msgstr "+КЗ\n+АТК\n+ПОТ"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Reflector → відбивач
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_REFLECTOR_SHIELD/name"
+msgid "Reflector"
+msgstr "Відбивач"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: defending → захист, Reflect Magic → відбиття магії, Item → предмет, Magic → магія, projectile → снаряд, off-hand → друга рука
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_REFLECTOR_SHIELD/desc"
+msgid "Off-Hand items reflect magic projectiles while defending."
+msgstr "Під час захисту предмети в другій руці відбивають магічні снаряди."
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Dizzy → запаморочення
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DIZZY/name"
+msgid "Dizzy"
+msgstr "Запаморочення"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Spin → обертання
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DIZZY/desc"
+msgid "Spinning uncontrollably"
+msgstr "Неконтрольоване обертання"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Spin → обертання
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SPIN/name"
+msgid "Spin"
+msgstr "Обертання"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SPIN/desc"
+msgid "Forcing you to turn the opposite direction."
+msgstr "Змушує вас повертатися в протилежний бік."
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Spell → Закляття, critical strike → критичний удар, Critical Spell → критичне закляття
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_CRITICAL_SPELL/name"
+msgid "Critical Spell"
+msgstr "Критичне закляття"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Spell → Закляття, MP → ОМ, Cast → застосування
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_CRITICAL_SPELL/desc"
+msgid "Next spell cast remains prepared with reduced MP cost"
+msgstr "Наступне застосоване закляття лишається підготовленим зі зниженою витратою ОМ"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Magic → магія, Magic Well → магічний колодязь
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MAGIC_WELL/name"
+msgid "Magic Well"
+msgstr "Магічний колодязь"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Effect → ефект, MP → ОМ, PWR → ПОТ, Duration → тривалість
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MAGIC_WELL/desc"
+msgid "Increases PWR for each MP spent during the effect duration."
+msgstr "Збільшує ПОТ за кожне витрачене ОМ протягом дії ефекту."
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Static → Статичний заряд
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_STATIC/name"
+msgid "Static"
+msgstr "Статичний заряд"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Spell → Закляття, Damage → шкода, Elemental → елементаль, Lightning → блискавка
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_STATIC/desc"
+msgid "Taking increased damage from lightning elemental spells"
+msgstr "Збільшує шкоду від заклять елементаля блискавки"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Magic → магія, Absorb → поглинання, Absorb Magic → поглинання магії
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ABSORB_MAGIC/name"
+msgid "Absorb Magic"
+msgstr "Поглинання магії"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Spell → Закляття, Magic → магія, PWR → ПОТ, projectile → снаряд, Cast → застосування
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_ABSORB_MAGIC/desc"
+msgid "Negates incoming magic projectiles\nEach negated spell increases PWR of the next spell cast"
+msgstr "Нівелює вхідні магічні снаряди\nКожне нівельоване закляття збільшує ПОТ наступного застосованого закляття"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: cloak → плащ, flame cloak → вогняний покров, Flame → полум'я
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_FLAME_CLOAK/name"
+msgid "Flame Cloak"
+msgstr "Вогняний покров"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода, Burning → горіння, enemy → ворог, Flame → полум'я, Fire → вогонь
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_FLAME_CLOAK/desc"
+msgid "Nullifies [Burning] Damage\nCatches fire near flame sources\nIgnites enemies on contact"
+msgstr "Нейтралізує шкоду від [Burning]\nЗаймається біля джерел полум'я\nПідпалює ворогів при дотику"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Dusted → запилення
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DUSTED/name"
+msgid "Dusted"
+msgstr "Запилення"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: enemy → ворог, Perception → чуття
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DUSTED/desc"
+msgid "More visible to enemies\n- Perception"
+msgstr "Помітніші для ворогів\n- чуття"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: ration → пайок
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RATION_SPICY/name"
+msgid "Ration (Spicy)"
+msgstr "Пайок (пряний)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Strength → сила, Dexterity → спритність
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RATION_SPICY/desc"
+msgid "+4 Strength\n+4 Dexterity"
+msgstr "+4 Сила\n+4 Спритність"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: ration → пайок
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RATION_SOUR/name"
+msgid "Ration (Sour)"
+msgstr "Пайок (кислий)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Spell → Закляття, Spell Power → сила заклять, Intelligence → інтелект
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RATION_SOUR/desc"
+msgid "+4 Intelligence\n+25% Spell Power"
+msgstr "+4 Інтелект\n+25% Сила заклять"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: ration → пайок
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RATION_BITTER/name"
+msgid "Ration (Bitter)"
+msgstr "Пайок (гіркий)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Constitution → статура, Perception → чуття
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RATION_BITTER/desc"
+msgid "+4 Constitution\n+4 Perception"
+msgstr "+4 статури\n+4 чуття"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: ration → пайок
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RATION_HEARTY/name"
+msgid "Ration (Hearty)"
+msgstr "Пайок (ситний)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Strength → сила, Constitution → статура
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RATION_HEARTY/desc"
+msgid "+4 Strength\n+4 Constitution"
+msgstr "+4 Сила\n+4 Статура"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: ration → пайок
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RATION_HERBAL/name"
+msgid "Ration (Herbal)"
+msgstr "Пайок (трав'яний)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Magic → магія, magic resistance → опір магії, Charisma → харизма, Resistance → опір
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RATION_HERBAL/desc"
+msgid "+4 Charisma\n+20% Magic Resistance"
+msgstr "+4 Харизма\n+20% Опір магії"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: ration → пайок
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RATION_SWEET/name"
+msgid "Ration (Sweet)"
+msgstr "Пайок (солодкий)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: HP → ОЗ, MP → ОМ, Regeneration → регенерація, MP Regen → відновлення ОМ, HP Regen → відновлення ОЗ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RATION_SWEET/desc"
+msgid "+1 [HP Regen]\n+1 [MP Regen]"
+msgstr "+1 [відновлення ОЗ]\n+1 [відновлення ОМ]"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, Growth → зростання
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GROWTH/name/0"
+msgid "Growth (Tier I)"
+msgstr "Зростання (ступінь I)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, Growth → зростання
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GROWTH/name/1"
+msgid "Growth (Tier II)"
+msgstr "Зростання (ступінь II)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Tier → ступінь, Growth → зростання
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GROWTH/name/2"
+msgid "Growth (Tier III)"
+msgstr "Зростання (ступінь III)"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: rotten → гнилий, Food → їжа, Growth → зростання, LVL → РІВ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GROWTH/desc/0"
+msgid "Growth blooms on gaining LVLs and chance % when eating rotten food"
+msgstr "Зростання розквітає з отриманням РІВ і з імовірністю % від споживання гнилої їжі"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Water → вода, Growth → зростання, LVL → РІВ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GROWTH/desc/1"
+msgid "Growth blooms on gaining LVLs and chance % when drinking water"
+msgstr "Зростання розквітає з отриманням РІВ і з імовірністю % від пиття води"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Effect → ефект, speed → швидкість, Spores → спори
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GROWTH/desc/2"
+msgid "Spores effect speed improved"
+msgstr "Швидкість ефекту спор підвищено"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Ranged → дальній бій, Damage → шкода, Magic → магія, Spores → спори
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GROWTH/desc/3"
+msgid "Spores also triggers on receiving magic damage and ranged attacks"
+msgstr "Спори також спрацьовують від отриманої магічної шкоди й атак дальнього бою"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: poison → отруєння, AC → КЗ, DMG → ШКД
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GROWTH/desc/4"
+msgid "%+d AC / Poison DMG"
+msgstr "%+d КЗ / ШКД отруєння"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Resistance → опір, Physical Resistance → опір фізичній шкоді
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GROWTH/desc/5"
+msgid "%+d%% Physical Resistance"
+msgstr "%+d%% опору фізичній шкоді"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: PWR → ПОТ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GROWTH/desc/6"
+msgid "%+d%% PWR"
+msgstr "%+d%% ПОТ"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: MP → ОМ, RGN → РЕГ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GROWTH/desc/7"
+msgid "%+d%% MP RGN"
+msgstr "%+d%% РЕГ ОМ"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: speed → швидкість
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GROWTH/desc/8"
+msgid "%+d%% Movement Speed"
+msgstr "%+d%% швидкості руху"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: poison → отруєння, speed → швидкість
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GROWTH/desc/9"
+msgid "%+d%% Inflicted Poison speed"
+msgstr "%+d%% швидкості накладеного отруєння"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода, Germinate → пророщення
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GROWTH/desc/10"
+msgid "%+d%% Germinate Damage"
+msgstr "%+d%% шкоди пророщення"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода, Fire → вогонь
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_GROWTH/desc/11"
+msgid "%+d%% Fire Damage taken"
+msgstr "%+d%% отриманої шкоди вогнем"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Thorns → шипи
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_THORNS/name"
+msgid "Thorns"
+msgstr "Шипи"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: melee → ближній бій
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_THORNS/desc"
+msgid "Retaliates against melee attackers"
+msgstr "Завдає удару у відповідь нападникам ближнього бою"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Bladevine → лезолоза
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BLADEVINES/name"
+msgid "Bladevines"
+msgstr "Лезолози"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Bladevine → лезолоза
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BLADEVINES/desc"
+msgid "EFF_BLADEVINES"
+msgstr "EFF_BLADEVINES"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Mycelium → міцелій, Bastion → бастіон
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BASTION_MUSHROOM/name"
+msgid "Bastion Mycelium"
+msgstr "Міцелій бастіону"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: mushroom → гриб, Bastion → бастіон
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BASTION_MUSHROOM/desc"
+msgid "EFF_BASTION_MUSHROOM"
+msgstr "EFF_BASTION_MUSHROOM"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Root → корінь, Bastion → бастіон
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BASTION_ROOTS/name"
+msgid "Bastion Roots"
+msgstr "Корені бастіону"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: slowed → уповільнений
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BASTION_ROOTS/desc/0"
+msgid "Slowed"
+msgstr "Уповільнення"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Thorns → шипи, Bladevine → лезолоза, Root → корінь
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BASTION_ROOTS/desc/1"
+msgid "Roots inherit Thorns and Bladevines"
+msgstr "Корені успадковують шипи й лезолози"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: PER → ЧУТ, PWR → ПОТ, Growth → зростання
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_BASTION_ROOTS/desc/2"
+msgid "PWR increase +10 per growth"
+msgstr "ПОТ зростає на +10 за кожне зростання"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Peace → мир
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_FOCI_LIGHT_PEACE/name"
+msgid "Peace"
+msgstr "Мир"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Time → час, HP → ОЗ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_FOCI_LIGHT_PEACE/desc"
+msgid "HP restoring over time"
+msgstr "Поступово відновлює ОЗ"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Justice → справедливість
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_FOCI_LIGHT_JUSTICE/name"
+msgid "Justice"
+msgstr "Справедливість"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода, smite → священний удар
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_FOCI_LIGHT_JUSTICE/desc"
+msgid "Physical attacks deal additional Smite damage."
+msgstr "Фізичні атаки завдають додаткової шкоди священним ударом."
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: providence → провидіння
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_FOCI_LIGHT_PROVIDENCE/name"
+msgid "Providence"
+msgstr "Провидіння"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Hunger → Голод, Slow → сповільнення
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_FOCI_LIGHT_PROVIDENCE/desc"
+msgid "Slows hunger"
+msgstr "Сповільнює голод"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Purity → чистота
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_FOCI_LIGHT_PURITY/name"
+msgid "Purity"
+msgstr "Чистота"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Effect → ефект, Status Effect → ефект стану
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_FOCI_LIGHT_PURITY/desc"
+msgid "Protects against harmful status effects."
+msgstr "Захищає від шкідливих ефектів стану."
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Sanctuary → прихисток
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_FOCI_LIGHT_SANCTUARY/name"
+msgid "Sanctuary"
+msgstr "Прихисток"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: AC → КЗ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_FOCI_LIGHT_SANCTUARY/desc"
+msgid "Improves AC"
+msgstr "Підвищує КЗ"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Void → Порожнеча, Stasis → стазис
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_STASIS/name"
+msgid "Void Stasis"
+msgstr "Стазис Порожнечі"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_STASIS/desc"
+msgid "Unable to move or act\nCannot be damaged"
+msgstr "Неможливо рухатися чи діяти\nНеможливо зазнати шкоди"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Nourished → ситість
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_HP_MP_REGEN/name"
+msgid "Nourished"
+msgstr "Ситість"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: blessed → благословенний, Food → їжа, Effect → ефект, HP → ОЗ, MP → ОМ, indigestion → нетравлення
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_HP_MP_REGEN/desc"
+msgid "Restoring HP/MP every 5s from eating blessed food\nEffect is lost on indigestion"
+msgstr "Відновлює ОЗ/ОМ кожні 5 с від споживання благословенної їжі\nЕфект зникає через нетравлення"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Disrupted → Порушення
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DISRUPTED/name"
+msgid "Disrupted"
+msgstr "Порушення"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: AC → КЗ
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DISRUPTED/desc"
+msgid "Reduced movement and AC"
+msgstr "Знижено швидкість руху та КЗ"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Frostbitten → Обмороження
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_FROST/name"
+msgid "Frostbitten"
+msgstr "Обмороження"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_FROST/desc"
+msgid "Reduced movement"
+msgstr "Знижено швидкість руху"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Magician → маг, Magicians' Bubble → бульбашка чарівників
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MAGICIANS_ARMOR/name"
+msgid "Magicians' Bubble"
+msgstr "Бульбашка чарівників"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода, Charge → заряд, enemy → ворог
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_MAGICIANS_ARMOR/desc"
+msgid "Intercepts all damage from enemies while charges remain."
+msgstr "Перехоплює всю шкоду від ворогів, доки лишаються заряди."
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: spirit → дух, Fowl Spirit → пташиний дух
+#. тон: joke
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_PROJECT_SPIRIT/name"
+msgid "Fowl Spirit"
+msgstr "Пташиний дух"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Form → форма, duck → качка
+#. тон: joke, technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_PROJECT_SPIRIT/desc"
+msgid "Inhabiting the the form of a ghostly duck"
+msgstr "Перебування у формі примарної качки"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Defy Flesh → непокора плоті
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DEFY_FLESH/name"
+msgid "Defy Flesh"
+msgstr "Непокора плоті"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода, Magic → магія
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DEFY_FLESH/desc"
+msgid "Taking additional magic damage when hit"
+msgstr "Отримання додаткової магічної шкоди від ударів"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Pinpoint → визначення місця
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_PINPOINT_DAMAGE/name"
+msgid "Pinpoint"
+msgstr "Визначення місця"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода, smite → священний удар, caster → заклинач
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_PINPOINT_DAMAGE/desc"
+msgid "Taking extra Smite damage when attacked by the caster."
+msgstr "Отримання додаткової шкоди священним ударом від атак заклинача."
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Radiant → сяйний, Radiant Heart → сяйливе серце
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RADIANT_HEART/name/0"
+msgid "Radiant Heart"
+msgstr "Сяйливе серце"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Radiant → сяйний, Radiant Heart → сяйливе серце
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RADIANT_HEART/name/1"
+msgid "Radiant Heart"
+msgstr "Сяйливе серце"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: stone → камінь, Stone Heart → кам'яне серце
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RADIANT_HEART/name/2"
+msgid "Stone Heart"
+msgstr "Кам'яне серце"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: stone → камінь, Stone Heart → кам'яне серце
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RADIANT_HEART/name/3"
+msgid "Stone Heart"
+msgstr "Кам'яне серце"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Levitation → левітація, CHR → ХАР, Time → час, CON → СТА, PWR → ПОТ, Fervor → запал, Fire → вогонь, Resistance → опір, FR → ЗАП
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RADIANT_HEART/desc/0"
+msgid "Dissipates below 60% Fervor (FR)\nLevitation\n+PWR/-CON from CHR\n+25% Fire Resistance\nFR depleting over time"
+msgstr "Розсіюється за запалу (ЗАП) нижче 60%\nЛевітація\n+ПОТ/-СТА від ХАР\n+25% опору вогню\nЗАП із часом вичерпується"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Spell → Закляття, Levitation → левітація, Effect → ефект, CHR → ХАР, Time → час, CON → СТА, MP → ОМ, PWR → ПОТ, Fervor → запал, Fire → вогонь, Breathe Fire → вогняний подих, Resistance → опір, FR → ЗАП
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RADIANT_HEART/desc/1"
+msgid "Dissipates below 60% Fervor (FR)\n0 MP Spells\nBreathe Fire increased effects\nLevitation\n+PWR/-CON from CHR\n+25% Fire Resistance\nFR depleting over time"
+msgstr "Розсіюється за запалу (ЗАП) нижче 60%\nЗакляття за 0 ОМ\nПосилені ефекти вогняного подиху\nЛевітація\n+ПОТ/-СТА від ХАР\n+25% опору вогню\nЗАП із часом вичерпується"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: STR → СИЛ, DEX → СПР, CHR → ХАР, CON → СТА, Fervor → запал, FR → ЗАП
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RADIANT_HEART/desc/2"
+msgid "Dissipates above 40% Fervor (FR)\n+STR/CON from CHR\n-DEX from CHR"
+msgstr "Розсіюється за запалу (ЗАП) вище 40%\n+СИЛ/СТА від ХАР\n-СПР від ХАР"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: STR → СИЛ, DEX → СПР, Damage → шкода, CHR → ХАР, CON → СТА, Fervor → запал, FR → ЗАП
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_RADIANT_HEART/desc/3"
+msgid "Dissipates above 40% Fervor (FR)\nImmune to Damage\n+STR/CON from CHR\n-DEX from CHR"
+msgstr "Розсіюється за запалу (ЗАП) вище 40%\nНесприйнятливість до шкоди\n+СИЛ/СТА від ХАР\n-СПР від ХАР"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Fire → вогонь, Holy Fire → священний вогонь
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DIVINE_FIRE/name"
+msgid "Holy Fire"
+msgstr "Священний вогонь"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DIVINE_FIRE/desc"
+msgid "Damage taken is increased"
+msgstr "Отримувану шкоду збільшено"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Healing → зцілення, Healing Word → цілюще слово
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_HEALING_WORD/name"
+msgid "Healing Word"
+msgstr "Цілюще слово"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода, Effect → ефект, Healing → зцілення
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_HEALING_WORD/desc"
+msgid "Praying for healing\nEffect is lost on taking damage"
+msgstr "Молитва про зцілення\nЕфект зникає після отримання шкоди"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Fire → вогонь, Holy Fire → священний вогонь
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_HOLY_FIRE/name"
+msgid "Holy Fire"
+msgstr "Священний вогонь"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Burning → горіння, Fire → вогонь
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_HOLY_FIRE/desc"
+msgid "Burning from a supernatural fire source"
+msgstr "Горіння від надприродного джерела вогню"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Sigil → печатка
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SIGIL/name"
+msgid "Sigil"
+msgstr "Печатка"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода, Healing → зцілення, smite → священний удар, foe → ворог
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SIGIL/desc"
+msgid "Receiving additional healing\nFoes take additional Smite damage"
+msgstr "Одержуване зцілення посилено\nВороги отримують додаткову шкоду від священного удару"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Sanctuary → прихисток
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SANCTUARY/name"
+msgid "Sanctuary"
+msgstr "Прихисток"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. сутності: Damage → шкода, Tier → ступінь, PER → ЧУТ, Resistance → опір, Damage Resistance → опір пошкодженням
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_SANCTUARY/desc"
+msgid "Damage Resistance increased per tier"
+msgstr "Опір пошкодженням зростає з кожним ступенем"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DUCKED/name"
+msgid "EFF_DUCKED"
+msgstr "EFF_DUCKED"
+
+#. ефект стану: name — коротка назва, desc — опис
+#. тон: technical
+#, fuzzy
+#: data/status_effects.json
+msgctxt "effects/EFF_DUCKED/desc"
+msgid "EFF_DUCKED"
+msgstr "EFF_DUCKED"

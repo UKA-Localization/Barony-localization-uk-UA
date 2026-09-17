@@ -1,0 +1,3435 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: alembic → аламбік, Alchemist → алхімік
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "alembic/blurb/0"
+msgid "The ALEMBIC allows an alchemist to extract"
+msgstr "АЛАМБІК дає алхіміку змогу видобувати"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "alembic/blurb/1"
+msgid "and combine two fluids together, usually"
+msgstr "й поєднувати дві рідини, зазвичай"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Effect → ефект
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "alembic/blurb/2"
+msgid "resulting in a different effect."
+msgstr "одержуючи інакший ефект."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Skilled → вправний, Brewer → бровар
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "alembic/blurb/4"
+msgid "Skilled brewers use it to make"
+msgstr "Вправні броварі готують у ньому"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "alembic/blurb/5"
+msgid "more powerful concoctions."
+msgstr "потужніші суміші."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: crossbow → арбалет, arbalest → арбалет
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "arbalest/blurb/0"
+msgid "The arbalest is a specialized crossbow."
+msgstr "Арбалет — особливий різновид самостріла."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "arbalest/blurb/1"
+msgid "While it behaves similarly to its smaller"
+msgstr "Він діє подібно до меншого родича,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Slow → сповільнення
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "arbalest/blurb/2"
+msgid "counterpart, it is slow to rearm, has a"
+msgstr "але довго перезаряджається, має"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "arbalest/blurb/3"
+msgid "short range, and massive recoil."
+msgstr "малу дальність і страхітливу віддачу."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Strength → сила
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "arbalest/blurb/5"
+msgid "A fine tradeoff for its great strength."
+msgstr "Гідна плата за його величезну силу."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Axe → сокира
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "axes/blurb/0"
+msgid "What they lack in elegance, AXES make"
+msgstr "Чого СОКИРАМ бракує у витонченості,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "axes/blurb/1"
+msgid "up for by delivering blows that take the"
+msgstr "те вони надолужують ударами, від яких"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: enemy → ворог
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "axes/blurb/2"
+msgid "enemy's breath away."
+msgstr "ворогові перехоплює подих."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: armor → обладунок, foe → ворог
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "axes/blurb/3"
+msgid "Ideal against lightly armored foes,"
+msgstr "Ідеальні проти ворогів у легких обладунках,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Blade → лезо
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "axes/blurb/4"
+msgid "the heavy blade always bites, even"
+msgstr "важке лезо завжди вгризається навіть"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: armor → обладунок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "axes/blurb/5"
+msgid "against heavily armored targets."
+msgstr "у важкі обладунки цілей."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "backpacks/blurb/0"
+msgid "Elder adventurers usually recommend"
+msgstr "Бувалі шукачі пригод зазвичай радять"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Item → предмет
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "backpacks/blurb/1"
+msgid "against hoarding items, as death catches"
+msgstr "не збирати зайвого, бо смерть швидко"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "backpacks/blurb/2"
+msgid "up quickly to those who move slowly."
+msgstr "наздоганяє тих, хто рухається поволі."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "backpacks/blurb/4"
+msgid "Some professions insist that they simply"
+msgstr "Дехто все ж наполягає, що йому просто"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: backpack → наплічник
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "backpacks/blurb/5"
+msgid "need BACKPACKS for extra storage."
+msgstr "потрібні НАПЛІЧНИКИ для всього добра."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: threat
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "beartrap/blurb/0"
+msgid "A cruel and somewhat crude device,"
+msgstr "Жорстокий і доволі грубий пристрій:"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: beartrap → капкан
+#. тон: threat
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "beartrap/blurb/1"
+msgid "the beartrap snaps shut on the legs of"
+msgstr "капкан змикає щелепи на ногах"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: enemy → ворог
+#. тон: threat
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "beartrap/blurb/2"
+msgid "enemies, dealing a vicious bite."
+msgstr "ворогів, завдаючи лютих ран."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Trap → пастка
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "beartrap/blurb/3"
+msgid "Most are also snared by the trap,"
+msgstr "Здебільшого пастка ще й тримає їх,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Opening → відмикання
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "beartrap/blurb/4"
+msgid "opening them to attack until"
+msgstr "лишаючи беззахисними перед атаками,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "beartrap/blurb/5"
+msgid "the jaws release."
+msgstr "доки щелепи не розімкнуться."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Blood → кров, Technique → техніка
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "blood vials/blurb/0"
+msgid "With the proper technique, BLOOD can be"
+msgstr "Належна техніка дає змогу забрати КРОВ"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: threat
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "blood vials/blurb/1"
+msgid "stolen from victims before being soiled"
+msgstr "у жертв, перш ніж її запаскудять"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Dungeon → Підземелля
+#. тон: rude
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "blood vials/blurb/2"
+msgid "by the filthy dungeon floors."
+msgstr "мерзенні підлоги Підземелля."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Accursed → проклятий
+#. тон: solemn, threat
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "blood vials/blurb/4"
+msgid "Only the accursed and damned"
+msgstr "Лише прокляті й окаянні"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Any → будь-який
+#. тон: solemn, threat
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "blood vials/blurb/5"
+msgid "would have any use for it."
+msgstr "вона може на щось згодитися."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "boomerang/blurb/0"
+msgid "Tales tell of a tribe that crafts"
+msgstr "Легенди оповідають про плем'я, що кує"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: weapon → зброя
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "boomerang/blurb/1"
+msgid "a weapon that always returns to its"
+msgstr "зброю, яка завжди повертається до"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: thrown → метальний
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "boomerang/blurb/2"
+msgid " owner when thrown."
+msgstr "власника після кидка."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "boomerang/blurb/3"
+msgid "Once battered and old, it is offered"
+msgstr "Побиту й постарілу, її віддають"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Restore → відновлення
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "boomerang/blurb/4"
+msgid "to the firstborn. Those who restore"
+msgstr "первістку. Хто відновить"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: boomerang → бумеранг
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "boomerang/blurb/5"
+msgid "a BOOMERANG are said to be worthy."
+msgstr "БУМЕРАНГ, того вважають гідним."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: booze → хмільний напій, Lift → підняття
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "booze/blurb/0"
+msgid "Potent booze can lift the spirits a"
+msgstr "Міцний хмільний напій трохи підносить"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Strength → сила, Confidence → упевненість
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "booze/blurb/1"
+msgid "little and offer strength of confidence."
+msgstr "дух і додає впевненості."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "booze/blurb/2"
+msgid "However sloppy aim, dull wit, and"
+msgstr "Та криве око, тупий розум і"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: weaken → ослаблення
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "booze/blurb/3"
+msgid "a weak stomach may follow."
+msgstr "слабкий шлунок теж не забаряться."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: booze → хмільний напій
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "booze/blurb/4"
+msgid "One must decide if booze"
+msgstr "Кожен має вирішити, що таке хміль:"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "booze/blurb/5"
+msgid "is a vice or a treat."
+msgstr "порок чи насолода."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "bows/blurb/0"
+msgid "Beloved by skirmishers and knaves alike,"
+msgstr "Улюблені застрільниками й крутіями,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: arrow → стріла, bow → лук, Fire → вогонь
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "bows/blurb/1"
+msgid "bows of all varieties can fire arrows"
+msgstr "луки всіх різновидів випускають стріли,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: enemy → ворог
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "bows/blurb/2"
+msgid "to slay and pester enemies from afar."
+msgstr "щоб убивати й дошкуляти ворогам здаля."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Rogue → пройдисвіт, Expert → експерт, Hunter → мисливець
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "bows/blurb/4"
+msgid "Expert hunters and rogues"
+msgstr "Мисливці-експерти й пройдисвіти"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: ammunition → боєприпаси
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "bows/blurb/5"
+msgid "keep special ammunition on hand."
+msgstr "тримають напоготові особливі боєприпаси."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: material → матеріал
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "chakrams and shurikens/blurb/0"
+msgid "The fine material allows a sharper edge"
+msgstr "Добірний матеріал дає цій зброї гостріше"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: weapon → зброя, Spin → обертання
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "chakrams and shurikens/blurb/1"
+msgid "to these weapons, and their spin allows"
+msgstr "лезо, а завдяки обертанню вона може"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "chakrams and shurikens/blurb/2"
+msgid "them to ricochet off walls."
+msgstr "відскакувати від стін."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: excited
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "chakrams and shurikens/blurb/3"
+msgid "Crafty adventurers can take out"
+msgstr "Кмітливі шукачі пригод можуть бити"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: enemy → ворог
+#. тон: excited
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "chakrams and shurikens/blurb/4"
+msgid "enemies from around corners!"
+msgstr "ворогів навіть за рогом!"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: excited
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "chakrams and shurikens/blurb/5"
+msgid "A thrower's dream."
+msgstr "Мрія метальника."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Basic → базовий, simple → простий, Food → їжа, morsel → кусень їжі
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "cheese and apples/blurb/0"
+msgid "Basic MORSELS of simple food, a"
+msgstr "Базові КУСНІ простої їжі —"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Hungry → голодний
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "cheese and apples/blurb/1"
+msgid "hungry adventurer must eat several"
+msgstr "голодному шукачеві пригод треба з'їсти кілька,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "cheese and apples/blurb/2"
+msgid "to satiate themselves."
+msgstr "щоб насититися."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Strength → сила, Food → їжа
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "cheese and apples/blurb/3"
+msgid "One might only brave spoiled food if"
+msgstr "На зіпсовану їжу зважуються лише"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Hungry → голодний
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "cheese and apples/blurb/4"
+msgid "already desperately hungry, or perhaps"
+msgstr "з відчайдушного голоду або, можливо,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: joke, sarcasm
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "cheese and apples/blurb/5"
+msgid "lacking a refined palate."
+msgstr "за браком витонченого смаку."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: clothing → одяг, mundane → звичайний
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "cloaks & clothing/blurb/0"
+msgid "Mundane CLOTHING isn't as practical"
+msgstr "Звичайний ОДЯГ не такий практичний,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: armor → обладунок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "cloaks & clothing/blurb/1"
+msgid "as armor when faced with violence."
+msgstr "як обладунок у запалі бою."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: enchanted → зачарований
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "cloaks & clothing/blurb/3"
+msgid "But enchanted garments can convince"
+msgstr "Та зачароване вбрання може схилити"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "cloaks & clothing/blurb/4"
+msgid "adventurers to adopt more lightweight"
+msgstr "шукачів пригод до легшого"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "cloaks & clothing/blurb/5"
+msgid "attire for its other benefits."
+msgstr "одягу заради інших переваг."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Dungeon → Підземелля
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "cream pie/blurb/0"
+msgid "A dungeon delicacy, sometimes rigged"
+msgstr "Делікатес Підземелля, часом підлаштований"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Hungry → голодний
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "cream pie/blurb/1"
+msgid "to splatter into a hungry adventurer's"
+msgstr "так, щоб розляпатись на обличчя голодного"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Time → час
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "cream pie/blurb/2"
+msgid "face, blinding them for a time."
+msgstr "шукача пригод і тимчасово осліпити."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: pie → пиріг, thrown → метальний
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "cream pie/blurb/4"
+msgid "If one is not peckish, a PIE could be thrown"
+msgstr "Якщо їсти не кортить, ПИРІГ можна жбурнути"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: enemy → ворог, befuddle → спантеличення
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "cream pie/blurb/5"
+msgid "into an enemy's face to befuddle them."
+msgstr "ворогові в пику, щоб спантеличити."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Assistance → допомога, crossbow → арбалет
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crossbow/blurb/0"
+msgid "The crossbow is mechanically assisted,"
+msgstr "Механізм арбалета допомагає"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crossbow/blurb/1"
+msgid "allowing quick reloading and firing at"
+msgstr "швидко перезаряджати й стріляти"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crossbow/blurb/2"
+msgid "the pull of a trigger."
+msgstr "одним натиском на гачок."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crossbow/blurb/3"
+msgid "While it's lacking in range"
+msgstr "Хоч дальністю він поступається"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: bow → лук
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crossbow/blurb/4"
+msgid "compared to other bows, it can still"
+msgstr "іншим лукам, усе ж може"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Fire → вогонь, ammunition → боєприпаси
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crossbow/blurb/5"
+msgid "fire special ammunition."
+msgstr "стріляти особливими боєприпасами."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crowns & headdresses/blurb/0"
+msgid "Rare adornments, reserved for the"
+msgstr "Рідкісні прикраси для тих, хто"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crowns & headdresses/blurb/1"
+msgid "politically or magically attuned."
+msgstr "має політичний чи магічний хист."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crowns & headdresses/blurb/3"
+msgid "While seemingly symbolic in nature,"
+msgstr "Хоч на вигляд вони суто символічні,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Symbol → священний символ
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crowns & headdresses/blurb/4"
+msgid "powerful symbols can make"
+msgstr "могутні священні символи можуть"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crowns & headdresses/blurb/5"
+msgid "a powerful impact."
+msgstr "мати могутній вплив."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: excited
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crystal ammo/blurb/0"
+msgid "When you're looking for the finest,"
+msgstr "Якщо вам потрібні найкращі,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: excited
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crystal ammo/blurb/1"
+msgid "sharpest, and most lethal serrated"
+msgstr "найгостріші й найсмертоносніші зубці,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Any → будь-який, enemy → ворог
+#. тон: excited
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crystal ammo/blurb/2"
+msgid "barbs to harm any enemy, you can't"
+msgstr "що вразять будь-якого ворога, кращих"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: crystal → кристал, crystal ammo → кристалічні боєприпаси, ammunition → боєприпаси
+#. тон: excited
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crystal ammo/blurb/3"
+msgid "do better than CRYSTAL AMMO."
+msgstr "за КРИСТАЛІЧНІ БОЄПРИПАСИ не знайти."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: missile → снаряд, simple → простий
+#. тон: excited
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crystal ammo/blurb/5"
+msgid "An uncomplicated, superior missile."
+msgstr "Простий і неперевершений снаряд."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: crystal → кристал
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crystal armor/blurb/0"
+msgid "CRYSTAL so rare would normally never be"
+msgstr "Такий рідкісний КРИСТАЛ нізащо б не став"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: armor → обладунок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crystal armor/blurb/1"
+msgid "used as protective armor, especially"
+msgstr "захисним обладунком, особливо"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crystal armor/blurb/2"
+msgid "given its fragility."
+msgstr "з огляду на його крихкість."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Magic → магія, bounty → замовлення
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crystal armor/blurb/4"
+msgid "Only an incredible bounty of magical"
+msgstr "Лише неймовірний запас магічних"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: crystal → кристал
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crystal armor/blurb/5"
+msgid "crystal would justify using it this way."
+msgstr "кристалів виправдав би таке застосування."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: crystal → кристал, crystal shard → кристалічний уламок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crystal shard/blurb/0"
+msgid "While CRYSTAL SHARDS are dimmer than"
+msgstr "Хоч КРИСТАЛІЧНІ УЛАМКИ тьмяніші за"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: torch → смолоскип, Light → світло
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crystal shard/blurb/1"
+msgid "torches, their light is only visible to the"
+msgstr "смолоскипи, їхнє світло бачить лише"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crystal shard/blurb/2"
+msgid "wielder, and they never burn out."
+msgstr "власник, і вони ніколи не згасають."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crystal shard/blurb/4"
+msgid "However they are fragile, and using them"
+msgstr "Однак вони крихкі, а блокування ними"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: will → воля, Blocking → блокування
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "crystal shard/blurb/5"
+msgid "to block will cause them to shatter quickly."
+msgstr "швидко розіб'є їх."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: sad
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "death box/blurb/0"
+msgid "A locker containing all the worldly"
+msgstr "Скринька з усім земним майном"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: sad
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "death box/blurb/1"
+msgid "possessions of a dead adventurer."
+msgstr "загиблого шукача пригод."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: technical
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "death box/blurb/3"
+msgid "Carrying it slows the carrier by 25%."
+msgstr "Той, хто її несе, сповільнюється на 25%."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: broken → зламаний
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "death box/blurb/4"
+msgid "Once broken open, all the contents"
+msgstr "Коли її розбити, увесь вміст"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "death box/blurb/5"
+msgid "immediately spill out."
+msgstr "одразу висиплеться."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Potion → Зілля
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "defensive potions/blurb/0"
+msgid "DEFENSIVE POTIONS provide a generally"
+msgstr "ЗАХИСНІ ЗІЛЛЯ зазвичай дають"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Effect → ефект
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "defensive potions/blurb/1"
+msgid "beneficial effect to those who drink them."
+msgstr "корисний ефект тим, хто їх вип'є."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: ally → союзник
+#. тон: command, joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "defensive potions/blurb/3"
+msgid "When allies are in need, chuck a"
+msgstr "Коли союзникам сутужно, жбурніть"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: bottle → пляшка
+#. тон: command, joke, excited
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "defensive potions/blurb/4"
+msgid "helpful bottle at their face!"
+msgstr "корисну пляшку їм просто в лице!"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "djinnis brace/blurb/0"
+msgid "A traveler once found a lamp of wishes,"
+msgstr "Мандрівник якось знайшов лампу бажань,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Djinni → джин
+#. тон: solemn, threat
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "djinnis brace/blurb/1"
+msgid "occupied by a furious Djinni."
+msgstr "де жив розлючений джин."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Djinni → джин
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "djinnis brace/blurb/3"
+msgid "The traveler tried to free the Djinni"
+msgstr "Мандрівник намагався звільнити джина,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "djinnis brace/blurb/4"
+msgid "but its shackles were invulnerable."
+msgstr "та його кайдани були невразливі."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "djinnis brace/blurb/5"
+msgid "Only a wish could grant its freedom."
+msgstr "Лише бажання могло дарувати йому свободу."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Legend → легенда
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "dragons mail/blurb/0"
+msgid "Legend tells of a rivalry between a"
+msgstr "Легенда оповідає про суперництво"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "dragons mail/blurb/1"
+msgid "dragon and the traveler of myth. As they"
+msgstr "дракона й мандрівника з переказів. У"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: multiplayer → багатокористувацька гра
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "dragons mail/blurb/2"
+msgid "competed for fame, they became friends."
+msgstr "гонитві за славою вони стали друзями."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Dragon → дракон
+#. тон: solemn, sad
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "dragons mail/blurb/4"
+msgid "When the dragon later died, it"
+msgstr "Коли згодом дракон помер, він"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn, sad
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "dragons mail/blurb/5"
+msgid "offered its scales to the traveler."
+msgstr "заповів мандрівникові свою луску."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "dummybot/blurb/0"
+msgid "Originally devised as a portable and"
+msgstr "Спершу задумані як переносні й"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Dummybot → робот-манекен
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "dummybot/blurb/1"
+msgid "durable training companion, DUMMYBOTS"
+msgstr "міцні партнери для тренувань, роботи-манекени"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "dummybot/blurb/2"
+msgid "have been magically attuned to irritate"
+msgstr "були магічно налаштовані дратувати"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: foe → ворог
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "dummybot/blurb/3"
+msgid "and keep the attention of foes."
+msgstr "ворогів і приковувати їхню увагу."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "dummybot/blurb/4"
+msgid "While distracted, adventurers can"
+msgstr "Поки вороги відволіклися, шукачі"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Flanking → флангування
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "dummybot/blurb/5"
+msgid "can flank with less risk."
+msgstr "пригод можуть безпечніше флангувати."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Legend → легенда, Sword → меч
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "dyrnwyn/blurb/0"
+msgid "Legend tells of a sword that served"
+msgstr "Легенда оповідає про меч, що служив"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "dyrnwyn/blurb/1"
+msgid "high-born citizens with noble quests,"
+msgstr "шляхетним у їхніх благородних походах,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Fire → вогонь
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "dyrnwyn/blurb/2"
+msgid "offering fire and divine retribution."
+msgstr "даруючи вогонь і божественну відплату."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "dyrnwyn/blurb/4"
+msgid "Age and mixed purposes may have dulled"
+msgstr "Вік і суперечливе призначення могли"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Blade → лезо
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "dyrnwyn/blurb/5"
+msgid "its blade, but it can be restored."
+msgstr "затупити його лезо, та його можна відновити."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "empty bottle/blurb/0"
+msgid "These brittle vessels are best"
+msgstr "Ці крихкі посудини найкраще"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "empty bottle/blurb/1"
+msgid "used to collect the contents of"
+msgstr "підходять для збирання вмісту"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: fountain → фонтан, Water → вода, water pump → водяна помпа
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "empty bottle/blurb/2"
+msgid "fountains and water pumps."
+msgstr "фонтанів і водяних помп."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Brewer → бровар
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "empty bottle/blurb/4"
+msgid "A budding brewer needs all the potable"
+msgstr "Броварю-початківцю потрібна вся питна"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "empty bottle/blurb/5"
+msgid "liquid they can get to experiment with."
+msgstr "рідина, яку він зможе знайти для дослідів."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "face accessories/blurb/0"
+msgid "Adventurers may complement their role"
+msgstr "Шукачі пригод можуть доповнити свій образ"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "face accessories/blurb/1"
+msgid "with the right piece of eyewear, or by"
+msgstr "доречними окулярами або ж чимось,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "face accessories/blurb/2"
+msgid "holding something in their mouth."
+msgstr "затиснутим у роті."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Item → предмет
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "face accessories/blurb/4"
+msgid "These items confer a variety of benefits,"
+msgstr "Ці предмети дають різноманітні переваги,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "face accessories/blurb/5"
+msgid "but for some, style is more important."
+msgstr "та для декого стиль важливіший."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Leaves → листя, ammunition → боєприпаси
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "fire and hunting ammo/blurb/0"
+msgid "Some ammo leaves a lasting impression."
+msgstr "Деякі боєприпаси лишають тривалий слід."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Fire → вогонь, ammunition → боєприпаси, fire ammo → запалювальні боєприпаси
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "fire and hunting ammo/blurb/2"
+msgid "FIRE AMMO lights up the room and sets"
+msgstr "Запалювальні боєприпаси осявають залу й"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: enemy → ворог
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "fire and hunting ammo/blurb/3"
+msgid "enemies ablaze, but the debilitating"
+msgstr "підпалюють ворогів, а виснажливі"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Beast → звір, hunting ammo → мисливські боєприпаси, ammunition → боєприпаси
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "fire and hunting ammo/blurb/4"
+msgid "HUNTING AMMO can devastate beasts"
+msgstr "мисливські боєприпаси нищать звірів,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Poisoning → отруєння, Slow → сповільнення
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "fire and hunting ammo/blurb/5"
+msgid "while slowing and poisoning them."
+msgstr "водночас сповільнюючи й отруюючи їх."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Fear → страх
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "fist weapons/blurb/0"
+msgid "Perfect for those who fear the untimely"
+msgstr "Для тих, хто боїться невчасної поломки"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: weapon → зброя, fist → кулак
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "fist weapons/blurb/1"
+msgid "breakage of a weapon, fist weapons are"
+msgstr "зброї, кулачна зброя — саме те:"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: gauntlets → латні рукавиці
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "fist weapons/blurb/2"
+msgid "gauntlets that add a bit more"
+msgstr "латні рукавиці додають трохи"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "fist weapons/blurb/3"
+msgid "bite to each punch."
+msgstr "зубів кожному удару."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "fist weapons/blurb/4"
+msgid "The well-trained can stun an"
+msgstr "Добре навчений боєць може приголомшити"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: enemy → ворог, Strike → удар
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "fist weapons/blurb/5"
+msgid "enemy with a surprise strike."
+msgstr "ворога несподіваним ударом."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Legend → легенда, spear → спис
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "gungnir/blurb/0"
+msgid "Legends say this spear was forged"
+msgstr "Легенди кажуть, що цей спис викували"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "gungnir/blurb/1"
+msgid "for the gods so they may always"
+msgstr "для богів, аби кожен їхній удар"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Strike → удар
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "gungnir/blurb/2"
+msgid "land perfect strikes."
+msgstr "завжди влучав бездоганно."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Gungnir → Ґунґнір
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "gungnir/blurb/4"
+msgid "The untrained are deadly with GUNGNIR."
+msgstr "Навіть невмілий смертоносний із Ґунґніром."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: weapon → зброя
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "gungnir/blurb/5"
+msgid "This weapon is usually well-guarded."
+msgstr "Цю зброю зазвичай добре охороняють."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Tinkering → майстрування
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "gyrobot/blurb/0"
+msgid "Conceived first by tinkerers as a"
+msgstr "Спершу майстри задумали його як"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Gyrobot → гіробот, simple → простий
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "gyrobot/blurb/1"
+msgid "simple companion toy, the GYROBOT'S"
+msgstr "просту іграшку-компаньйона, та функції"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "gyrobot/blurb/2"
+msgid "function has grown to include"
+msgstr "гіробота згодом розширилися й тепер"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "gyrobot/blurb/3"
+msgid "many useful tasks."
+msgstr "охоплюють чимало корисних завдань."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Skilled → вправний, Tinkering → майстрування
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "gyrobot/blurb/4"
+msgid "A skilled tinkerer can command"
+msgstr "Вправний майстер може наказати"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "gyrobot/blurb/5"
+msgid "their pet to assist in many ways."
+msgstr "своєму улюбленцю допомагати по-різному."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "hats & hoods/blurb/0"
+msgid "Many professions and groups use iconic"
+msgstr "Чимало професій і спільнот мають знакові"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "hats & hoods/blurb/1"
+msgid "headwear that are practical and stylish."
+msgstr "практичні й стильні головні убори."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: command
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "hats & hoods/blurb/3"
+msgid "Perform and signal your role to others"
+msgstr "Виконуйте свою роль і покажіть її іншим,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: hat → капелюх, hood → каптур
+#. тон: command
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "hats & hoods/blurb/4"
+msgid "by donning the perfect HAT or HOOD."
+msgstr "вдягнувши ідеальний капелюх чи каптур."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "iron armor/blurb/0"
+msgid "While heavier than leather, it is twice"
+msgstr "Хоч він важчий за шкіряний обладунок,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "iron armor/blurb/1"
+msgid "as effective in protecting the wearer."
+msgstr "проте захищає власника вдвічі краще."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Strength → сила, iron → залізо
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "iron armor/blurb/2"
+msgid "One must be strong to move quickly in IRON."
+msgstr "Щоб швидко рухатися в залізі, треба бути сильним."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Hamlet → Поселення
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "iron armor/blurb/4"
+msgid "Hamlet was originally known"
+msgstr "Колись Поселення славилося"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Mines → Шахти, iron → залізо
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "iron armor/blurb/5"
+msgid "for its rich iron mines."
+msgstr "своїми багатими залізними шахтами."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Legend → легенда, Hunter → мисливець
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "khryselakatos/blurb/0"
+msgid "Favored by a legendary hunter,"
+msgstr "Улюблений луком легендарного мисливця,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: arrow → стріла, enchanted → зачарований, Khryselakatos → Хриселакатос
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "khryselakatos/blurb/1"
+msgid "KHRYSELAKATOS offers enchanted arrows"
+msgstr "ХРИСЕЛАКАТОС дарує зачаровані стріли"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "khryselakatos/blurb/2"
+msgid "from its unbreaking string."
+msgstr "зі своєї нерозривної тятиви."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn, sad
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "khryselakatos/blurb/4"
+msgid "Myths tell of its owner who was"
+msgstr "Міфи оповідають, як його власника"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn, sad
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "khryselakatos/blurb/5"
+msgid "stripped of godhood and banished."
+msgstr "позбавили божественності й вигнали."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "leather armor/blurb/0"
+msgid "Lightweight, inexpensive, and common, most"
+msgstr "Легкий, дешевий і поширений — більшість"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "leather armor/blurb/1"
+msgid "adventurers would much rather wear"
+msgstr "шукачів пригод радше вдягне"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: armor → обладунок, leather armor → шкіряний обладунок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "leather armor/blurb/2"
+msgid "LEATHER than no armor at all."
+msgstr "ШКІРЯНИЙ ОБЛАДУНОК, ніж не вдягне жодного."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: leather armor → шкіряний обладунок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "leather armor/blurb/4"
+msgid "A full outfit of leather can prevent"
+msgstr "Повний комплект шкіряного обладунку"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Damage → шкода, foe → ворог
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "leather armor/blurb/5"
+msgid "substantial damage from weaker foes."
+msgstr "добре захищає від слабших ворогів."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Skilled → вправний, Tinkering → майстрування
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "lockpick/blurb/0"
+msgid "Those skilled in tinkering can use these"
+msgstr "Вправні в майструванні можуть цими"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: chest → скриня, door → двері, tool → інструмент, simple → простий
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "lockpick/blurb/1"
+msgid "simple tools to unlock chests and doors,"
+msgstr "простими інструментами відмикати скрині й двері,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Trap → пастка, arrow → стріла
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "lockpick/blurb/2"
+msgid "disarm arrow traps, or adjust the"
+msgstr "знешкоджувати стрілові пастки чи регулювати"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Trap → пастка, Tinkering → майстрування
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "lockpick/blurb/3"
+msgid "springs of tinkered traps."
+msgstr "пружини майстрованих пасток."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Danger → Небезпека
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "lockpick/blurb/5"
+msgid "Handy for dealing with dangerous devices."
+msgstr "Зручні проти небезпечних пристроїв."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "maces/blurb/0"
+msgid "With a head designed to shatter and"
+msgstr "Їхні навершя створено, щоб трощити"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Mace → булава
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "maces/blurb/1"
+msgid "crush rigid targets, MACES are reliable"
+msgstr "й дробити тверді цілі. БУЛАВИ — надійна"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: armor → обладунок, weapon → зброя, Destroy Armor → знищення обладунку, knockback → відкидання
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "maces/blurb/2"
+msgid "weapons that destroy armor and can knock"
+msgstr "зброя, що нищить обладунки й здатна"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: armor → обладунок, enemy → ворог
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "maces/blurb/3"
+msgid "the most armored enemies senseless."
+msgstr "оглушити й найкраще захищених ворогів."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: enemy → ворог
+#. тон: threat
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "maces/blurb/4"
+msgid "In the right hands, enemies may not"
+msgstr "У вправних руках вороги можуть навіть"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: threat
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "maces/blurb/5"
+msgid "get the chance to fight back."
+msgstr "не дістати нагоди дати відсіч."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Magic → магія
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "mail & lore books/blurb/0"
+msgid "While magic users may be disappointed"
+msgstr "Шукачі магії можуть розчаруватися,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: ATK → АТК, mundane → звичайний
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "mail & lore books/blurb/1"
+msgid "when they seek power within these mundane"
+msgstr "шукаючи сили на цих звичайних"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "mail & lore books/blurb/2"
+msgid "pages, curious adventurers enjoy reading"
+msgstr "сторінках, та допитливі шукачі пригод"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "mail & lore books/blurb/3"
+msgid "the inked words for clues."
+msgstr "читають написане в пошуках підказок."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Boiler → котел
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "mail & lore books/blurb/5"
+msgid "Paper also burns well when fed to a boiler."
+msgstr "А ще папір добре горить у котлі."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: mask → маска
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "masks & visors/blurb/0"
+msgid "Some adventurers use MASKS to conceal"
+msgstr "Деякі шукачі пригод носять МАСКИ,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "masks & visors/blurb/1"
+msgid "or communicate their identity"
+msgstr "щоб приховати чи виразити свою особу."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "masks & visors/blurb/3"
+msgid "For others, practical facewear provides"
+msgstr "Для інших практичне спорядження обличчя"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "masks & visors/blurb/4"
+msgid "benefits that help fulfill their role."
+msgstr "дає переваги, потрібні для їхньої ролі."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Hungry → голодний
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "meat, fish, and bread/blurb/0"
+msgid "Hearty portions, treasured by hungry"
+msgstr "Ситні порції — скарб для голодних"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Dungeon → Підземелля
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "meat, fish, and bread/blurb/1"
+msgid "dungeon dwellers. If desperate for"
+msgstr "мешканців Підземелля. У скруті без"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Food → їжа
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "meat, fish, and bread/blurb/2"
+msgid "food, one may be able to eat up"
+msgstr "їжі можна з'їсти навіть"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "meat, fish, and bread/blurb/3"
+msgid "to two servings in and be satisfied,"
+msgstr "дві порції й насититися,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: command
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "meat, fish, and bread/blurb/4"
+msgid "being careful not to over-eat."
+msgstr "але стережіться переїдання."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: tool → інструмент
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "mining pick/blurb/0"
+msgid "These handy tools easily chop through"
+msgstr "Ці зручні інструменти легко рубають"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "mining pick/blurb/1"
+msgid "the earth, making shortcuts and providing"
+msgstr "землю, прокладаючи короткі шляхи й даючи"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: treasure → скарб
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "mining pick/blurb/2"
+msgid "access to hidden treasures."
+msgstr "доступ до прихованих скарбів."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Mines → Шахти, Equipment Degradation → зношення спорядження, mining pick → шахтарське кайло
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "mining pick/blurb/4"
+msgid "MINING PICKS break quickly but can make"
+msgstr "ШАХТАРСЬКІ КАЙЛА швидко ламаються, але"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "mining pick/blurb/5"
+msgid "all the difference when lost or trapped."
+msgstr "рятують, коли ви заблукали чи застрягли."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: mirror → дзеркало
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "mirrors/blurb/0"
+msgid "While there's no proof that mirrors can"
+msgstr "Хоч доказів, що дзеркала крадуть"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: soul → душа
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "mirrors/blurb/1"
+msgid "steal souls, they do appear to reflect both"
+msgstr "душі, немає, вони таки відбивають і"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Magic → магія, mundane → звичайний
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "mirrors/blurb/2"
+msgid "mundane and magical realities."
+msgstr "звичайну, і магічну реальність."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "mirrors/blurb/4"
+msgid "Some who gaze upon them learn more"
+msgstr "Дехто, вдивляючись у них, пізнає"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "mirrors/blurb/5"
+msgid "about themselves than they'd expect."
+msgstr "про себе більше, ніж сподівався."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "mystic orb/blurb/0"
+msgid "An enigmatic sphere that teems"
+msgstr "Загадкова сфера, що буяє"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: ATK → АТК, Magic → магія
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "mystic orb/blurb/1"
+msgid "with magical power."
+msgstr "магічною силою."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: pedestal → п'єдестал
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "mystic orb/blurb/2"
+msgid "A proper pedestal would allow"
+msgstr "Належний п'єдестал дав би змогу"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: ATK → АТК
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "mystic orb/blurb/3"
+msgid "its great power to be tapped, though"
+msgstr "черпати її велику силу, та"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: threat, solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "mystic orb/blurb/4"
+msgid "somebody is likely to pay dearly"
+msgstr "комусь, імовірно, доведеться дорого заплатити"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: artifact → артефакт
+#. тон: threat, solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "mystic orb/blurb/5"
+msgid "for such a priceless artifact."
+msgstr "за цей безцінний артефакт."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "noisemaker/blurb/0"
+msgid "The spring-powered mechanism uses a"
+msgstr "Пружинний механізм має грубу,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "noisemaker/blurb/1"
+msgid "crude but clever design to generate"
+msgstr "але хитру будову й породжує"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "noisemaker/blurb/2"
+msgid "fascinating noise that draws the"
+msgstr "дивовижний шум, що привертає"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: enemy → ворог
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "noisemaker/blurb/3"
+msgid "attention of nearby enemies."
+msgstr "увагу ворогів поблизу."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: foe → ворог
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "noisemaker/blurb/4"
+msgid "Great for distracting foes and"
+msgstr "Чудово відвертає увагу ворогів"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "noisemaker/blurb/5"
+msgid "luring them into an ambush."
+msgstr "і заманює їх у засідку."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Potion → Зілля
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "offensive potions/blurb/0"
+msgid "Many potions are useful for harming"
+msgstr "Чимало зіль допомагають завдавати шкоди"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Status Effect → ефект стану, foe → ворог
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "offensive potions/blurb/1"
+msgid "foes, often with devastating effects,"
+msgstr "ворогам, часто з нищівними ефектами,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: thrown → метальний, Damage → шкода
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "offensive potions/blurb/2"
+msgid "also dealing damage when thrown."
+msgstr "а метнуті — ще й ранять."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Potion → Зілля
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "offensive potions/blurb/4"
+msgid "Adventurers can drink OFFENSIVE POTIONS,"
+msgstr "Шукачі пригод можуть пити НАСТУПАЛЬНІ ЗІЛЛЯ,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "offensive potions/blurb/5"
+msgid "but it is usually done in ignorance."
+msgstr "але зазвичай лише через незнання."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "oracles treads/blurb/0"
+msgid "A traveler of ancient myth is said"
+msgstr "Кажуть, мандрівник із давнього міфу"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Darkness → темрява
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "oracles treads/blurb/1"
+msgid "to have entered a realm of darkness"
+msgstr "увійшов до оповитого темрявою краю,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "oracles treads/blurb/2"
+msgid "which concealed all evil."
+msgstr "де було приховане все зло."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "oracles treads/blurb/3"
+msgid "Witnesses wrote of the traveler feeling"
+msgstr "Свідки писали, що мандрівник відчував"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Danger → Небезпека
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "oracles treads/blurb/4"
+msgid "vibrations in the ground to seek danger,"
+msgstr "вібрації землі, аби знаходити небезпеку,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "oracles treads/blurb/5"
+msgid "quickly conquering the realm."
+msgstr "і швидко підкорив той край."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: weapon → зброя, Parashu → Парашу
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "parashu/blurb/0"
+msgid "Many may call their weapon PARASHU,"
+msgstr "Багато хто назве свою зброю ПАРАШУ,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Axe → сокира
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "parashu/blurb/1"
+msgid "but one such eternal axe can be"
+msgstr "та одній такій вічній сокирі можна"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Legend → легенда
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "parashu/blurb/2"
+msgid "restored to legendary lethality."
+msgstr "повернути легендарну смертоносність."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: weapon → зброя
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "parashu/blurb/4"
+msgid "It was once a weapon of gods and"
+msgstr "Колись вона була зброєю богів,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "parashu/blurb/5"
+msgid "is now found in lowly places."
+msgstr "а нині лежить у нужденних місцях."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Polearm → древкова зброя
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "polearms/blurb/0"
+msgid "Polearms offer leverage and balance,"
+msgstr "Древкова зброя дає важіль і рівновагу,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "polearms/blurb/1"
+msgid "proving especially effective against"
+msgstr "тож особливо ефективна проти"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Beast → звір
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "polearms/blurb/2"
+msgid "large and heavy beasts."
+msgstr "великих і важких звірів."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Skilled → вправний
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "polearms/blurb/4"
+msgid "In skilled hands, attacks with these"
+msgstr "У вправних руках атаки цією"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: weapon → зброя, foe → ворог
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "polearms/blurb/5"
+msgid "weapons can keep foes back."
+msgstr "зброєю стримують ворогів на відстані."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: boulder → валун
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "rocks & gems/blurb/0"
+msgid "All stones can be handy when you need"
+msgstr "Будь-який камінь стане в пригоді, коли"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Trap → пастка, enemy → ворог
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "rocks & gems/blurb/1"
+msgid "something to throw at a trap or enemy."
+msgstr "треба щось метнути в пастку чи ворога."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Gem → коштовний камінь
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "rocks & gems/blurb/3"
+msgid "But precious gems are beloved by"
+msgstr "Та коштовні камені однаково любі"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Automaton → автоматон, Shopkeeper → Крамар
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "rocks & gems/blurb/4"
+msgid "shopkeepers and automatons alike,"
+msgstr "крамарям та автоматонам,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "rocks & gems/blurb/5"
+msgid "or anyone tempted by greed."
+msgstr "і всім, кого спокушає жадоба."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: crystal → кристал
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "sentrybot and magic sentry/blurb/0"
+msgid "Using arcane crystal to bestow"
+msgstr "Наділяючи чарами кристала"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Tinkering → майстрування, Intelligence → інтелект
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "sentrybot and magic sentry/blurb/1"
+msgid "rudimentary intelligence, tinkerers"
+msgstr "примітивним інтелектом, майстри"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "sentrybot and magic sentry/blurb/2"
+msgid "have outfitted tripods with"
+msgstr "оснастили триноги головами,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: missile → снаряд
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "sentrybot and magic sentry/blurb/3"
+msgid "missile-slinging heads."
+msgstr "що жбурляють снаряди."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Fire → вогонь, sentry → вартовий
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "sentrybot and magic sentry/blurb/4"
+msgid "A sentry that is left alone to fire at"
+msgstr "Якщо лишити вартового обстрілювати"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Damage → шкода, enemy → ворог
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "sentrybot and magic sentry/blurb/5"
+msgid "enemies can deal devastating damage."
+msgstr "ворогів, він завдасть нищівної шкоди."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Legend → легенда
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "sharur/blurb/0"
+msgid "Legend tells of a wise one who traveled"
+msgstr "Легенда оповідає про мудреця, що ходив"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "sharur/blurb/1"
+msgid "from kingdom to kingdom offering advice."
+msgstr "від королівства до королівства з порадами."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Time → час
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "sharur/blurb/3"
+msgid "For a time, the kingdom would be"
+msgstr "Деякий час королівство неодмінно"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "sharur/blurb/4"
+msgid "guaranteed to prosper, but the"
+msgstr "процвітало, та зрештою"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn, sad
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "sharur/blurb/5"
+msgid "advisor would always be exiled."
+msgstr "порадника завжди виганяли."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: shield → щит, armor → обладунок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "shields/blurb/0"
+msgid "Shields provide passive armor to"
+msgstr "Щити дають пасивний захист"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "shields/blurb/1"
+msgid "adventurers wielding them, but actively"
+msgstr "для шукачів пригод, та активне"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Blocking → блокування
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "shields/blurb/2"
+msgid "blocking provides much more defense."
+msgstr "блокування захищає значно краще."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: shield → щит
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "shields/blurb/4"
+msgid "Some shields provide additional"
+msgstr "Деякі щити дають додаткові"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Blocking → блокування
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "shields/blurb/5"
+msgid "benefits while blocking."
+msgstr "переваги під час блокування."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: ammunition → боєприпаси
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "silver and piercing ammo/blurb/0"
+msgid "Some ammo is the right choice"
+msgstr "Вибір боєприпасів залежить"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: foe → ворог
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "silver and piercing ammo/blurb/1"
+msgid "depending on the foe."
+msgstr "від того, хто ваш ворог."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: piercing ammo → пробивні боєприпаси, ammunition → боєприпаси
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "silver and piercing ammo/blurb/3"
+msgid "PIERCING AMMO can penetrate the"
+msgstr "ПРОБИВНІ БОЄПРИПАСИ проб'ють"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: armor → обладунок, undead → нежить, Demonic → демонічна істота, Strength → сила
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "silver and piercing ammo/blurb/4"
+msgid "strongest armor. Undead and demonic"
+msgstr "найміцніші обладунки. Нежить і демонічні"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: silver → срібло, enemy → ворог, ammunition → боєприпаси, silver ammo → срібні боєприпаси
+#. тон: fear
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "silver and piercing ammo/blurb/5"
+msgid "enemies are more afraid of SILVER AMMO."
+msgstr "істоти найбільше бояться СРІБНИХ БОЄПРИПАСІВ."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "skeleton key/blurb/0"
+msgid "A locksmith managed to devise this"
+msgstr "Один слюсар винайшов такий"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: key → ключ
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "skeleton key/blurb/1"
+msgid "style of key which allows its user to"
+msgstr "ключ, яким можна відмикати"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: chest → скриня, door → двері, mundane → звичайний
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "skeleton key/blurb/2"
+msgid "operate mundane doors and chests."
+msgstr "звичайні двері та скрині."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "skeleton key/blurb/4"
+msgid "While it can't do everything a"
+msgstr "Хоч він не вміє всього, що й"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: lockpick → відмичка
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "skeleton key/blurb/5"
+msgid "lockpick can, it requires no training."
+msgstr "відмичка, зате не потребує навчання."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Basic → базовий, weapon → зброя, missile weapon → дистанційна зброя, missile → снаряд
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "slingshot/blurb/0"
+msgid "The most basic of missile weapons,"
+msgstr "Найпростіша дистанційна зброя —"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: slingshot → рогатка
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "slingshot/blurb/1"
+msgid "slingshots may not seem like much."
+msgstr "рогатка — може здатися дрібницею."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "slingshot/blurb/3"
+msgid "But when one needs to fight at a distance,"
+msgstr "Та коли треба битися на відстані,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: bullet → кулька
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "slingshot/blurb/4"
+msgid "one could do worse than flinging bullets"
+msgstr "не найгірша думка — жбурляти кульки"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "slingshot/blurb/5"
+msgid "and running away."
+msgstr "й накивати п'ятами."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Legend → легенда
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "sphinxs casque/blurb/0"
+msgid "Legend tells of a traveler who met"
+msgstr "Легенда оповідає про мандрівника, що зустрів"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Sphinx → сфінкс
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "sphinxs casque/blurb/1"
+msgid "a Sphinx with an impossible riddle."
+msgstr "сфінкса з нерозв'язною загадкою."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "sphinxs casque/blurb/3"
+msgid "The traveler thought for a moment, and"
+msgstr "Мандрівник на мить замислився й"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "sphinxs casque/blurb/4"
+msgid "responded with a question that the"
+msgstr "відповів запитанням, на яке"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Sphinx → сфінкс
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "sphinxs casque/blurb/5"
+msgid "Sphinx could not answer."
+msgstr "сфінкс не зміг дати відповіді."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Strength → сила, iron → залізо
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "steel armor/blurb/0"
+msgid "Stronger than iron, and only a little"
+msgstr "Міцніший за залізо й лише трохи"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "steel armor/blurb/1"
+msgid "heavier, one requires luck or wealth to"
+msgstr "важчий — потрібні удача чи багатство, щоб"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: armor → обладунок, steel → сталь, steel armor → сталевий обладунок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "steel armor/blurb/2"
+msgid "obtain and wear superior STEEL armor."
+msgstr "здобути й носити кращий СТАЛЕВИЙ ОБЛАДУНОК."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: steel → сталь
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "steel armor/blurb/4"
+msgid "The craft of STEEL is known to few smiths."
+msgstr "Таємницю СТАЛІ знають лише деякі ковалі."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: enemy → ворог
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "swift and springshot ammo/blurb/0"
+msgid "Turning the enemy into a pincushion"
+msgstr "Зробити з ворога подушечку для голок"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "swift and springshot ammo/blurb/1"
+msgid "before they can get close is a"
+msgstr "раніше, ніж він наблизиться, —"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "swift and springshot ammo/blurb/2"
+msgid "priority for many archers."
+msgstr "головне для багатьох лучників."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: ammunition → боєприпаси, swift ammo → швидкі боєприпаси
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "swift and springshot ammo/blurb/3"
+msgid "Lightweight SWIFT AMMO is faster to load,"
+msgstr "Легкі ШВИДКІ БОЄПРИПАСИ швидше заряджати,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: springshot ammo → пружинні боєприпаси, ammunition → боєприпаси
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "swift and springshot ammo/blurb/4"
+msgid "while SPRINGSHOT AMMO is armed by"
+msgstr "а ПРУЖИННІ БОЄПРИПАСИ механісти"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: knockback → відкидання, Mechanist → механіст
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "swift and springshot ammo/blurb/5"
+msgid "mechanists for powerful knockback."
+msgstr "озброюють для потужного відкидання."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Sword → меч
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "swords/blurb/0"
+msgid "Deadly against soft targets, SWORDS are"
+msgstr "Смертельні проти м'яких цілей, МЕЧІ"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: threat
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "swords/blurb/1"
+msgid "ideal for one grisly task: cutting flesh."
+msgstr "ідеальні для кривавої справи: різати плоть."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "swords/blurb/2"
+msgid "Rigid, or tough hides may repel a slash,"
+msgstr "Тверда чи міцна шкура може відбити розтин,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Blood → кров
+#. тон: threat
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "swords/blurb/3"
+msgid "but a masterful cut still draws blood."
+msgstr "та майстерний удар однаково пустить кров."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Trap → пастка, Tinkering → майстрування, lockpick → відмичка
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "teleportation trap/blurb/0"
+msgid "Like other tinkered traps, a lockpick"
+msgstr "Як і в інших майстрованих пастках, відмичка"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "teleportation trap/blurb/1"
+msgid "can make this ignore or detonate"
+msgstr "дає змогу ігнорувати дружні цілі"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "teleportation trap/blurb/2"
+msgid "on friendly targets."
+msgstr "або детонувати на них."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "teleportation trap/blurb/3"
+msgid "But it's also configurable as a"
+msgstr "А ще її можна налаштувати як"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Teleportation → телепортація
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "teleportation trap/blurb/4"
+msgid "TELEPORTATION destination, allowing"
+msgstr "місце призначення ТЕЛЕПОРТАЦІЇ"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Instant → миттєвий
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "teleportation trap/blurb/5"
+msgid "for controlled instant travel."
+msgstr "для керованої миттєвої подорожі."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: tin → консерва
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tin and tin opener/blurb/0"
+msgid "Tins hide away cooked, chopped vegetables"
+msgstr "Консерви приховують варені, січені овочі"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: meat → м'ясо
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tin and tin opener/blurb/1"
+msgid "and meats of various kinds, offering an"
+msgstr "та різне м'ясо, даруючи поживну"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Food → їжа
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tin and tin opener/blurb/2"
+msgid "invigorating and very filling meal."
+msgstr "й дуже ситну трапезу."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: tin → консерва, tin opener → консервний ніж
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tin and tin opener/blurb/4"
+msgid "However, a tin opener is required, and"
+msgstr "Проте потрібен консервний ніж, а"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: grease → мастило
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tin and tin opener/blurb/5"
+msgid "the grease inside can be a nuisance."
+msgstr "мастило всередині може дошкуляти."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Trap → пастка, Tinkering → майстрування
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tinkered traps/blurb/0"
+msgid "TINKERED TRAPS can be deployed"
+msgstr "МАЙСТРОВАНІ ПАСТКИ можна встановити"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: chest → скриня, door → двері
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tinkered traps/blurb/1"
+msgid "on floors, walls, doors, and chests."
+msgstr "на підлозі, стінах, дверях і скринях."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tinkered traps/blurb/2"
+msgid "When disturbed, they detonate,"
+msgstr "Якщо їх потривожити, вони детонують,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Effect → ефект
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tinkered traps/blurb/3"
+msgid "delivering their payload effect."
+msgstr "застосовуючи ефект свого заряду."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Tinkering → майстрування
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tinkered traps/blurb/4"
+msgid "Many tinkerers rearm the spent"
+msgstr "Чимало майстрів перезаряджають"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: metal scrap → металевий брухт, detonator → детонатор
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tinkered traps/blurb/5"
+msgid "detonator to save a little scrap."
+msgstr "використаний детонатор, заощаджуючи брухт."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Tinkering → майстрування, Tinkering Kit → набір для майстрування, Equipment Degradation → зношення спорядження
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tinkering kit/blurb/0"
+msgid "The TINKERING KIT can break down"
+msgstr "НАБІР ДЛЯ МАЙСТРУВАННЯ розбирає"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: gear → шестерня
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tinkering kit/blurb/1"
+msgid "most gear into reusable parts."
+msgstr "більшість спорядження на придатні деталі."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Skilled → вправний, Tinkering → майстрування
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tinkering kit/blurb/3"
+msgid "A skilled tinkerer can recombine them"
+msgstr "Вправний майстер може зібрати з них"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tinkering kit/blurb/4"
+msgid "into useful machines, each more efficient"
+msgstr "корисні механізми, і кожен діє краще,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Skilled → вправний
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tinkering kit/blurb/5"
+msgid "when made by more skilled hands."
+msgstr "що вправніші руки його виготовили."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: weapon → зброя, thrown → метальний
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tomahawks & daggers/blurb/0"
+msgid "Weapons built especially for throwing,"
+msgstr "Зброя, створена спеціально для метання,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Strike → удар
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tomahawks & daggers/blurb/1"
+msgid "these fly further and strike harder when"
+msgstr "летить далі й б'є сильніше, якщо"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tomahawks & daggers/blurb/2"
+msgid "a bit more effort is put into each throw."
+msgstr "докласти трохи більше сили до кидка."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: projectile → снаряд, missile → снаряд
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tomahawks & daggers/blurb/4"
+msgid "Heavier than missile projectiles,"
+msgstr "Важча за інші метальні снаряди,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: armor → обладунок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tomahawks & daggers/blurb/5"
+msgid "they also excel at penetrating armor."
+msgstr "вони також добре пробивають обладунки."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: confused → спантеличений, tomalley → томалі
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tomalley/blurb/0"
+msgid "TOMALLEY, not to be confused with"
+msgstr "ТОМАЛІ, не плутати з кукурудзяною"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tomalley/blurb/1"
+msgid "a stuffed cornmeal snack, is a sludge"
+msgstr "закускою з начинкою, — це слиз,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tomalley/blurb/2"
+msgid "that serves as an invertebrate's liver."
+msgstr "що править безхребетним за печінку."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Dungeon → Підземелля, Diminish → зменшення
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tomalley/blurb/3"
+msgid "Dungeon bugs often possess a small"
+msgstr "Підземні комахи часто мають трохи"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: meat → м'ясо
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tomalley/blurb/4"
+msgid "amount of meat covered with"
+msgstr "м'яса, вкритого цією"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "tomalley/blurb/5"
+msgid "this edible substance."
+msgstr "їстівною речовиною."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Light → світло
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "torch and lantern/blurb/0"
+msgid "When wielded, these provide light."
+msgstr "У руках вони дають світло."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: torch → смолоскип, lantern → ліхтар
+#. тон: command
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "torch and lantern/blurb/1"
+msgid "Raise a TORCH or LANTERN to see a"
+msgstr "Підніміть СМОЛОСКИП чи ЛІХТАР, щоб"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Blocking → блокування
+#. тон: command, excited
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "torch and lantern/blurb/2"
+msgid "little further, or block attacks!"
+msgstr "бачити далі або блокувати атаки!"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: torch → смолоскип, lantern → ліхтар
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "torch and lantern/blurb/4"
+msgid "TORCHES & LANTERS slowly"
+msgstr "СМОЛОСКИПИ Й ЛІХТАРІ поволі"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Equipment Degradation → зношення спорядження
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "torch and lantern/blurb/5"
+msgid "degrade as they burn."
+msgstr "зношуються, поки горять."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "towel/blurb/0"
+msgid "While not seeming like much on its own,"
+msgstr "Сам собою РУШНИК здається дрібницею,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: towel → рушник
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "towel/blurb/1"
+msgid "in the right situation, a TOWEL can"
+msgstr "та в слушну мить він може"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "towel/blurb/2"
+msgid "be a lifesaver."
+msgstr "врятувати вам життя."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: towel → рушник
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "towel/blurb/3"
+msgid "Towels make fine bandages"
+msgstr "З рушників виходять добрі бинти,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Strength → сила
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "towel/blurb/4"
+msgid "and clean up messes that might"
+msgstr "а ще ними прибирають те, що могло б"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "towel/blurb/5"
+msgid "ruin your next fight."
+msgstr "зіпсувати вам наступний бій."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Water → вода, fresh → свіжий
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "water/blurb/0"
+msgid "Fresh, clean WATER is a luxury"
+msgstr "Свіжа, чиста ВОДА — розкіш"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Dungeon → Підземелля
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "water/blurb/1"
+msgid "in the dungeons. It can satisfy an empty"
+msgstr "у Підземеллях. Вона ненадовго"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Brewer → бровар
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "water/blurb/2"
+msgid "stomach for a little while, and the brewer's"
+msgstr "тамовує голод, а запаси броваря"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "water/blurb/3"
+msgid "supply depends upon it."
+msgstr "залежать від неї."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "water/blurb/4"
+msgid "It's also handy for washing"
+msgstr "Нею також зручно змивати"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Magic → магія, Status Effect → ефект стану, Effect → ефект
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "water/blurb/5"
+msgid "away certain magic effects."
+msgstr "певні магічні ефекти."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: weapon → зброя, Punisher → каратель
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "whip/blurb/0"
+msgid "The specialty weapon of the Punisher,"
+msgstr "Особлива зброя карателя — батіг:"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Skilled → вправний, weapon → зброя
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "whip/blurb/1"
+msgid "skilled users can grasp weapons from"
+msgstr "вправні бійці вихоплюють ним зброю"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Whip → батіг
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "whip/blurb/2"
+msgid "unwary hands with the whip."
+msgstr "з рук необачних ворогів."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Strike → удар
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "whip/blurb/4"
+msgid "While it is slower to strike, it can"
+msgstr "Хоч удар ним повільніший, батіг дістає"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: weapon → зброя
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "whip/blurb/5"
+msgid "lash beyond the reach of other weapons."
+msgstr "далі, ніж інша зброя."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Master → майстер
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "wraiths gown/blurb/0"
+msgid "Seeking to master death, the traveler"
+msgstr "Прагнучи опанувати смерть, мандрівник"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Underworld → Потойбіччя
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "wraiths gown/blurb/1"
+msgid "of myth entered the Underworld."
+msgstr "із легенд увійшов до Потойбіччя."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Life → життя, spirit → дух
+#. тон: solemn, sad
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "wraiths gown/blurb/2"
+msgid "There resided a spirit who longed for life."
+msgstr "Там жив дух, що тужив за життям."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: spirit → дух
+#. тон: solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "wraiths gown/blurb/4"
+msgid "The traveler carried the spirit out,"
+msgstr "Мандрівник виніс духа звідти,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: sad, solemn
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "wraiths gown/blurb/5"
+msgid "but only its clothes crossed over."
+msgstr "та межу перетнув лише його одяг."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "quilted armor/blurb/0"
+msgid "While often used for padding underneath"
+msgstr "Хоч його часто піддягають під"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Metal → метал, armor → обладунок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "quilted armor/blurb/1"
+msgid "metal armors, tightly stitched layers"
+msgstr "металеві обладунки, щільно зшиті"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: protection → захист
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "quilted armor/blurb/2"
+msgid "of fine cloth make for good protection"
+msgstr "шари тонкої тканини й самі дають"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "quilted armor/blurb/3"
+msgid "on their own."
+msgstr "добрий захист."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "quilted armor/blurb/4"
+msgid "Stacks of fabric can reduce the"
+msgstr "Шари тканини здатні послабити"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: arrow → стріла, spearhead → наконечник списа
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "quilted armor/blurb/5"
+msgid "penetration of arrows and spearheads."
+msgstr "пробиття стріл і наконечників списів."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: armor → обладунок, chain armor → кольчужний обладунок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "chain armor/blurb/0"
+msgid "Fashioned by the finest smiths, chain armor"
+msgstr "Виготовлений найкращими ковалями, кольчужний обладунок"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "chain armor/blurb/1"
+msgid "is a rare commodity."
+msgstr "обладунок трапляється рідко."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "chain armor/blurb/2"
+msgid "While its flexibility makes it less protective"
+msgstr "Через гнучкість він захищає гірше"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: armor → обладунок, Metal → метал
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "chain armor/blurb/3"
+msgid "than other metal armors, it is particularly"
+msgstr "за інші металеві обладунки, він особливо"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "chain armor/blurb/4"
+msgid "adept at deflecting the cutting edges of "
+msgstr "відводить убік гострі леза"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Sword → меч, Axe → сокира
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "chain armor/blurb/5"
+msgid "swords and axes."
+msgstr "мечів і сокир."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: iron → залізо
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "frypan/blurb/0"
+msgid "Frontier cooks swear by this iron"
+msgstr "Прикордонні кухарі клянуться, що цей"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "frypan/blurb/1"
+msgid "cookware's indestructibility, so long"
+msgstr "залізний посуд незнищенний — якщо"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Metal → метал
+#. тон: joke, excited
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "frypan/blurb/2"
+msgid "as the metal is treated properly!"
+msgstr "правильно доглядати за металом!"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: campfire → багаття
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "frypan/blurb/3"
+msgid "A campfire is all that's needed for"
+msgstr "Щоб ця переносна кухня запрацювала,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "frypan/blurb/4"
+msgid "this portable kitchen to function."
+msgstr "потрібне лише багаття."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: shield → щит
+#. тон: joke, excited
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "frypan/blurb/5"
+msgid "While unwieldy, it can be used as a shield!"
+msgstr "Незграбна, зате годиться за щит!"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: humble → упокорення, ration → пайок
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "rations/blurb/0"
+msgid "Connoisseurs of the humble ration are"
+msgstr "Цінителі скромного пайка воліють"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Workshop Content → вміст майстерні
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "rations/blurb/1"
+msgid "content not knowing what goes into"
+msgstr "не знати, із чого зроблені"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Food → їжа
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "rations/blurb/2"
+msgid "their ready-packed meals."
+msgstr "їхні готові страви."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Skilled → вправний
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "rations/blurb/4"
+msgid "A skilled cook can make them tastier,"
+msgstr "Вправний кухар зробить їх смачнішими"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "rations/blurb/5"
+msgid "even for the pickiest of palates."
+msgstr "навіть для найбільших вередунів."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Food → їжа
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "sludge balls/blurb/0"
+msgid "Despite being a byproduct of food,"
+msgstr "Хоч це й побічний продукт їжі,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: sludge ball → куля зі слизу
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "sludge balls/blurb/1"
+msgid "SLUDGE BALLS have no nutritional value."
+msgstr "КУЛІ ЗІ СЛИЗУ зовсім не поживні."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "sludge balls/blurb/3"
+msgid "Resourceful adventurers use them"
+msgstr "Винахідливі шукачі пригод кидають їх"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: thrown → метальний, ammunition → боєприпаси
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "sludge balls/blurb/4"
+msgid "as thrown ammunition to humiliate and"
+msgstr "як боєприпаси, щоб водночас принизити"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: foe → ворог
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "sludge balls/blurb/5"
+msgid "debilitate their foes simultaneously."
+msgstr "й ослабити своїх ворогів."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: key → ключ
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "keys/blurb/0"
+msgid "While KEYS are typically found somewhere"
+msgstr "Зазвичай КЛЮЧІ лежать десь поруч"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: lock → замок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "keys/blurb/1"
+msgid "near their matching lock, some rare"
+msgstr "зі своїми замками, але деякі рідкісні"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: key → ключ
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "keys/blurb/2"
+msgid "keys are hidden much more carefully."
+msgstr "ключі ховають набагато ретельніше."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Metal → метал
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "keys/blurb/4"
+msgid "Those made from more precious metals"
+msgstr "Ключі з дорожчих металів відкривають"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: treasure → скарб
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "keys/blurb/5"
+msgid "give access to more precious treasures."
+msgstr "доступ до цінніших скарбів."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: flail → бойовий ціп
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "flails/blurb/0"
+msgid "Long-chain varieties of FLAIL are"
+msgstr "Різновиди ЦІПА з довгим ланцюгом"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "flails/blurb/1"
+msgid "rare, but the extra range provided is a"
+msgstr "рідкісні, проте більша досяжність дає"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Mace → булава, Advantage → перевага
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "flails/blurb/2"
+msgid "substantial advantage for a mace."
+msgstr "булаві істотну перевагу."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "flails/blurb/3"
+msgid "While whirling it overhead to build"
+msgstr "Поки ціп розкручують над головою,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: critical strike → критичний удар, Strike → удар
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "flails/blurb/4"
+msgid "momentum for a critical strike,"
+msgstr "набираючи розгін для критичного удару,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: enemy → ворог, Light → світло
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "flails/blurb/5"
+msgid "enemies face rapid light attacks."
+msgstr "ворогів засипають швидкими легкими ударами."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: claymore → клеймор
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "greatswords/blurb/0"
+msgid "Larger blades like the claymore"
+msgstr "Великі леза, як-от клеймор,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: steel → сталь
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "greatswords/blurb/1"
+msgid "are made of fine, sturdy steel,"
+msgstr "кують із добірної міцної сталі,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: parry → парирування, Weight → вага
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "greatswords/blurb/2"
+msgid "whose weight can parry other attacks."
+msgstr "чия вага дає змогу парирувати атаки."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "greatswords/blurb/3"
+msgid "Their broad and heavy cutting blades"
+msgstr "Їхні широкі важкі рубальні леза"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "greatswords/blurb/4"
+msgid "can be used to cleave through multiple"
+msgstr "критичним ударом можуть розсікти кількох"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: critical strike → критичний удар, foe → ворог, Strike → удар
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "greatswords/blurb/5"
+msgid "nearby foes with a critical strike."
+msgstr "ворогів поблизу."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "rapier/blurb/0"
+msgid "In the hands of a dextrous fencer, the"
+msgstr "У руках спритного фехтувальника"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: rapier → рапіра, parry → парирування
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "rapier/blurb/1"
+msgid "nimble RAPIER can riposte when parrying,"
+msgstr "моторна РАПІРА відповідає рипостом на парирування,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "rapier/blurb/2"
+msgid "allowing a talented swordsman to defeat"
+msgstr "даючи вправному мечнику здолати"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: foe → ворог
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "rapier/blurb/3"
+msgid "foes with a patient and consistent defense."
+msgstr "ворогів терплячим і надійним захистом."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "rapier/blurb/4"
+msgid "Their fine craftsmanship makes them an"
+msgstr "Завдяки тонкій роботі майстрів вони —"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: bard → бард
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "rapier/blurb/5"
+msgid "exceptionally rare favorite of Bards."
+msgstr "винятково рідкісна улюблена зброя бардів."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: duck → качка
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "duck/blurb/0"
+msgid "Like many birds, DUCKS are territorial"
+msgstr "Як і багато птахів, КАЧКИ пильнують територію"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Life → життя
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "duck/blurb/1"
+msgid "and loyal to their partners for life. They'll"
+msgstr "й на все життя вірні своїм парам. Вони"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "duck/blurb/2"
+msgid "courageously pester deadly threats, and"
+msgstr "відважно допікають смертельним загрозам"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "duck/blurb/3"
+msgid "are surprisingly deft at avoiding harm."
+msgstr "і напрочуд вправно уникають шкоди."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "duck/blurb/4"
+msgid "They may become distracted by fishing"
+msgstr "Та можуть відволіктися, щойно випаде"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "duck/blurb/5"
+msgid "opportunities."
+msgstr "нагода порибалити."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: tool → інструмент, simple → простий, bolas → бола
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "bolas/blurb/0"
+msgid "Simple BOLAS are a favorite tool for"
+msgstr "Прості БОЛА — улюблений інструмент"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Weight → вага
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "bolas/blurb/1"
+msgid "guerilla skirmishers, using weights at"
+msgstr "партизанів-застрільників: обважнювачі"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: projectile → снаряд
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "bolas/blurb/2"
+msgid "the end of cord to make a projectile"
+msgstr "на кінцях мотузки утворюють снаряд"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Entangled → сплутаний
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "bolas/blurb/3"
+msgid "with one job: Entangling its target."
+msgstr "з єдиним завданням — сплутати ціль."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Damage → шкода
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "bolas/blurb/4"
+msgid "While they deal little damage, victims"
+msgstr "Хоч шкода від них мала, обплутані"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "bolas/blurb/5"
+msgid "are very vulnerable while wrapped."
+msgstr "жертви стають дуже вразливими."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "shillelagh/blurb/0"
+msgid "A knobby length of wood is cured"
+msgstr "Сучкувату дерев'яну палицю витримують"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "shillelagh/blurb/1"
+msgid "according to folk tradition, making"
+msgstr "за народним звичаєм, роблячи"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: shillelagh → шилейла
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "shillelagh/blurb/2"
+msgid "SHILLELAGHS nearly unbreakable."
+msgstr "ШИЛЕЙЛИ майже незламними."
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: hermit → відлюдник
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "shillelagh/blurb/3"
+msgid "Hermits hollow and fill the clubbed"
+msgstr "Відлюдники видовбують і наповнюють булаву"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: Metal → метал
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "shillelagh/blurb/4"
+msgid "end with dense magically-reactive metal,"
+msgstr "і наповнюють його щільним магічно чутливим металом,"
+
+#. стаття компендіуму: blurb — короткий опис, details — детально; нарізано по рядках екрана (~45 символів), кожен ключ — свій рядок
+#. сутності: foe → ворог, Strike → удар
+#, fuzzy
+#: lang/compendium_lang/lang_items.json
+msgctxt "shillelagh/blurb/5"
+msgid "empowering strikes against hindered foes."
+msgstr "посилюючи удари проти скутих ворогів."

@@ -1,0 +1,213 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. меню навчальних випробувань: title — назва, desc — опис
+#. сутності: Dungeon → Підземелля, skill → навичка, Challenge → випробування
+#. тон: command, excited
+#, fuzzy
+#: data/tutorial_strings.json
+msgctxt "window_title"
+msgid "Take on 10 challenges that teach and test your adventuring skills, preparing you to\n take on the dungeon!"
+msgstr "Пройдіть 10 випробувань, що навчать і перевірять ваші пригодницькі навички,\n готуючи вас до підземелля!"
+
+#. меню навчальних випробувань: title — назва, desc — опис
+#. тон: command, technical
+#, fuzzy
+#: data/tutorial_strings.json
+msgctxt "default_hover_text"
+msgid "Hover over an entry for more information."
+msgstr "Наведіть на запис, щоб дізнатися більше."
+
+#. меню навчальних випробувань: title — назва, desc — опис
+#. сутності: trial → випробування, Hall of Trials → Зала випробувань, The Hall of Trials → Зала випробувань
+#, fuzzy
+#: data/tutorial_strings.json
+msgctxt "levels/tutorial_hub/title"
+msgid "The Hall of Trials"
+msgstr "Зала випробувань"
+
+#. меню навчальних випробувань: title — назва, desc — опис
+#. сутності: trial → випробування, Tutorial → навчання
+#, fuzzy
+#: data/tutorial_strings.json
+msgctxt "levels/tutorial_hub/desc"
+msgid "Description: The hub where all tutorial trials can be accessed."
+msgstr "Опис: Осередок, звідки доступні всі навчальні випробування."
+
+#. меню навчальних випробувань: title — назва, desc — опис
+#. сутності: Dungeon → Підземелля, melee → ближній бій, trial → випробування
+#, fuzzy
+#: data/tutorial_strings.json
+msgctxt "levels/tutorial1/title"
+msgid "Trial 1: Dungeon Basics and Melee Fighting"
+msgstr "Випробування 1: Основи підземелля та ближнього бою"
+
+#. меню навчальних випробувань: title — назва, desc — опис
+#. сутності: Dungeon → Підземелля, shield → щит, weapon → зброя, melee → ближній бій
+#. тон: command
+#, fuzzy
+#: data/tutorial_strings.json
+msgctxt "levels/tutorial1/desc"
+msgid "Description: Learn how to interact with the dungeon, how to attack with melee weapons,\n and defend with shields."
+msgstr "Опис: Навчіться взаємодіяти з підземеллям, атакувати зброєю ближнього бою\n та захищатися щитами."
+
+#. меню навчальних випробувань: title — назва, desc — опис
+#. сутності: arrow → стріла, weapon → зброя, thrown → метальний, trial → випробування, bow → лук, throwing weapon → метальна зброя
+#, fuzzy
+#: data/tutorial_strings.json
+msgctxt "levels/tutorial2/title"
+msgid "Trial 2: Bows, Arrows and Throwing Weapons"
+msgstr "Випробування 2: Луки, стріли та метальна зброя"
+
+#. меню навчальних випробувань: title — назва, desc — опис
+#. сутності: weapon → зброя, thrown → метальний, bow → лук, throwing weapon → метальна зброя
+#. тон: command
+#, fuzzy
+#: data/tutorial_strings.json
+msgctxt "levels/tutorial2/desc"
+msgid "Description: Learn about different bow and ammo types, and how to use throwing weapons."
+msgstr "Опис: Дізнайтеся про різні види луків і боєприпасів та навчіться користуватися метальною зброєю."
+
+#. меню навчальних випробувань: title — назва, desc — опис
+#. сутності: Dungeon → Підземелля, Trap → пастка, boulder → валун, spike trap → пастка з шипами, trial → випробування
+#, fuzzy
+#: data/tutorial_strings.json
+msgctxt "levels/tutorial3/title"
+msgid "Trial 3: Dungeon Traps, Spikes and Boulders"
+msgstr "Випробування 3: Пастки, шипи та валуни"
+
+#. меню навчальних випробувань: title — назва, desc — опис
+#. сутності: Trap → пастка, Danger → Небезпека, will → воля
+#. тон: command
+#, fuzzy
+#: data/tutorial_strings.json
+msgctxt "levels/tutorial3/desc"
+msgid "Description: Learn about the kinds of traps that you will encounter, how dangerous they \n are, and how to avoid them."
+msgstr "Опис: Дізнайтеся, які пастки вам траплятимуться, наскільки вони небезпечні\n та як їх уникати."
+
+#. меню навчальних випробувань: title — назва, desc — опис
+#. сутності: Appraisal → оцінювання, curse → прокляття, Food → їжа, trial → випробування
+#, fuzzy
+#: data/tutorial_strings.json
+msgctxt "levels/tutorial4/title"
+msgid "Trial 4: Food, Appraisal and Curses"
+msgstr "Випробування 4: Їжа, оцінювання та прокляття"
+
+#. меню навчальних випробувань: title — назва, desc — опис
+#. сутності: Hunger → Голод, Appraisal → оцінювання, Unidentified → нерозпізнаний, Item → предмет, Food → їжа
+#. тон: command
+#, fuzzy
+#: data/tutorial_strings.json
+msgctxt "levels/tutorial4/desc"
+msgid "Description: Learn about hunger and food, and how appraisal can help you mitigate the\n risk of unidentified items."
+msgstr "Опис: Дізнайтеся про голод і їжу та як оцінювання допомагає зменшити\n ризик від нерозпізнаних предметів."
+
+#. меню навчальних випробувань: title — назва, desc — опис
+#. сутності: spellbook → книга заклять, spellcasting → чаклування, trial → випробування, Magic → магія
+#, fuzzy
+#: data/tutorial_strings.json
+msgctxt "levels/tutorial5/title"
+msgid "Trial 5: Magic, Spellbooks and Casting"
+msgstr "Випробування 5: Магія, книги заклять і чаклування"
+
+#. меню навчальних випробувань: title — назва, desc — опис
+#. сутності: Spell → Закляття, Scroll → Сувій, magicstaff → магічний посох, Memorize Spell → запам'ятати закляття
+#. тон: command
+#, fuzzy
+#: data/tutorial_strings.json
+msgctxt "levels/tutorial5/desc"
+msgid "Description: Learn how to memorize spells and cast from scrolls, tomes and magicstaffs."
+msgstr "Опис: Навчіться запам'ятовувати закляття й застосовувати їх із сувоїв, фоліантів і магічних посохів."
+
+#. меню навчальних випробувань: title — назва, desc — опис
+#. сутності: Stealth → потайність, trial → випробування, sneak attack → прихована атака, Sneaking → скрадання
+#, fuzzy
+#: data/tutorial_strings.json
+msgctxt "levels/tutorial6/title"
+msgid "Trial 6: Stealth and Sneak Attacks"
+msgstr "Випробування 6: Потайність і приховані атаки"
+
+#. меню навчальних випробувань: title — назва, desc — опис
+#. сутності: Advantage → перевага, Flanking → флангування, Darkness → темрява, combat → бій
+#. тон: command
+#, fuzzy
+#: data/tutorial_strings.json
+msgctxt "levels/tutorial6/desc"
+msgid "Description: Learn how to approach combat at an advantage using darkness, flanking and \n assassinations."
+msgstr "Опис: Навчіться здобувати перевагу в бою завдяки темряві, флангуванню\n та вбивствам."
+
+#. меню навчальних випробувань: title — назва, desc — опис
+#. сутності: Follower → послідовник, trial → випробування, Follower Recruiting → найм послідовників
+#, fuzzy
+#: data/tutorial_strings.json
+msgctxt "levels/tutorial7/title"
+msgid "Trial 7: Follower Recruiting and Commands"
+msgstr "Випробування 7: Найм послідовників і команди"
+
+#. меню навчальних випробувань: title — назва, desc — опис
+#. сутності: Follower → послідовник
+#. тон: command
+#, fuzzy
+#: data/tutorial_strings.json
+msgctxt "levels/tutorial7/desc"
+msgid "Description: Learn how to lead followers in order to make the most of their versatile \n capabilities."
+msgstr "Опис: Навчіться керувати послідовниками, щоб якнайкраще використовувати їхні\n різноманітні здібності."
+
+#. меню навчальних випробувань: title — назва, desc — опис
+#. сутності: Potion → Зілля, Alchemy → алхімія, trial → випробування
+#, fuzzy
+#: data/tutorial_strings.json
+msgctxt "levels/tutorial8/title"
+msgid "Trial 8: Potions and Alchemy"
+msgstr "Випробування 8: Зілля та алхімія"
+
+#. меню навчальних випробувань: title — назва, desc — опис
+#. сутності: Potion → Зілля, thrown → метальний, alembic → аламбік
+#. тон: command
+#, fuzzy
+#: data/tutorial_strings.json
+msgctxt "levels/tutorial8/desc"
+msgid "Description: Learn the basics of drinking and throwing potions, as well as mixing your \n own with an alembic."
+msgstr "Опис: Опануйте основи пиття й метання зілля, а також змішування власного\n за допомогою аламбіка."
+
+#. меню навчальних випробувань: title — назва, desc — опис
+#. сутності: Tinkering → майстрування, trial → випробування
+#, fuzzy
+#: data/tutorial_strings.json
+msgctxt "levels/tutorial9/title"
+msgid "Trial 9: Tinkering"
+msgstr "Випробування 9: Майстрування"
+
+#. меню навчальних випробувань: title — назва, desc — опис
+#. сутності: skill → навичка, Tinkering → майстрування, lockpick → відмичка, gadget → пристрій
+#. тон: command
+#, fuzzy
+#: data/tutorial_strings.json
+msgctxt "levels/tutorial9/desc"
+msgid "Description: Learn about many gadgets that use the Tinkering skill, from lockpicking\n to crafting elaborate defenses."
+msgstr "Опис: Дізнайтеся про численні пристрої навички майстрування: від відмикання замків\n до створення складних засобів захисту."
+
+#. меню навчальних випробувань: title — назва, desc — опис
+#. сутності: Merchant → торговець, trial → випробування, shop → крамниця
+#, fuzzy
+#: data/tutorial_strings.json
+msgctxt "levels/tutorial10/title"
+msgid "Trial 10: Merchants and Shops"
+msgstr "Випробування 10: Торговці й крамниці"
+
+#. меню навчальних випробувань: title — назва, desc — опис
+#. сутності: Merchant → торговець
+#. тон: command
+#, fuzzy
+#: data/tutorial_strings.json
+msgctxt "levels/tutorial10/desc"
+msgid "Description: Learn about the enigmatic merchants, who are as picky as they are powerful,\n and how they can help you."
+msgstr "Опис: Дізнайтеся про загадкових торговців, настільки ж вибагливих, як і могутніх,\n та про те, як вони можуть вам допомогти."

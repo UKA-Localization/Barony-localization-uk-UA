@@ -1,0 +1,998 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Humanoid → гуманоїд
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/0/    HUMANOIDS/@"
+msgid "    HUMANOIDS"
+msgstr "    ГУМАНОЇДИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Human → людина
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/1/HUMANS/@"
+msgid "HUMANS"
+msgstr "ЛЮДИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Goblin → гоблін
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/2/GOBLIN/@"
+msgid "GOBLIN"
+msgstr "ГОБЛІН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: The Potato King → Картопляний король
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/3/THE POTATO KING/@"
+msgid "THE POTATO KING"
+msgstr "КАРТОПЛЯНИЙ КОРОЛЬ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Gnome → гном
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/4/GNOME/@"
+msgid "GNOME"
+msgstr "ГНОМ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Gnome → гном, Thief → злодій
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/5/GNOME THIEF/@"
+msgid "GNOME THIEF"
+msgstr "ГНОМ-ЗЛОДІЙ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Shopkeeper → Крамар
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/6/SHOPKEEPER/@"
+msgid "SHOPKEEPER"
+msgstr "КРАМАР"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Merchant → торговець, Mysterious Merchant → Таємничий торговець
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/7/MYSTERIOUS MERCHANT/@"
+msgid "MYSTERIOUS MERCHANT"
+msgstr "ТАЄМНИЧИЙ ТОРГОВЕЦЬ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Beast → звір
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/8/    BEASTS/@"
+msgid "    BEASTS"
+msgstr "    ЗВІРІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Rat → Щур
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/9/RAT/@"
+msgid "RAT"
+msgstr "ЩУР"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Algernon → Елджернон
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/10/ALGERNON/@"
+msgid "ALGERNON"
+msgstr "ЕЛДЖЕРНОН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Bat → кажан
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/11/BAT/@"
+msgid "BAT"
+msgstr "КАЖАН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Spider → Павук
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/12/SPIDER/@"
+msgid "SPIDER"
+msgstr "ПАВУК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Crab → краб
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/13/CRAB/@"
+msgid "CRAB"
+msgstr "КРАБ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Shelob → Шелоб
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/14/SHELOB/@"
+msgid "SHELOB"
+msgstr "ШЕЛОБ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Bubbles → Бульбашка
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/15/BUBBLES/@"
+msgid "BUBBLES"
+msgstr "БУЛЬБАШКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Troll → Троль
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/16/TROLL/@"
+msgid "TROLL"
+msgstr "ТРОЛЬ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Thumpus → Тумпус
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/17/THUMPUS/@"
+msgid "THUMPUS"
+msgstr "ТУМПУС"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Scorpion → скорпіон
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/18/SCORPION/@"
+msgid "SCORPION"
+msgstr "СКОРПІОН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Skrabblag → Скрабблаг
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/19/SKRABBLAG/@"
+msgid "SKRABBLAG"
+msgstr "СКРАББЛАГ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Scarab → скарабей
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/20/SCARAB/@"
+msgid "SCARAB"
+msgstr "СКАРАБЕЙ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Xyggi → Ксіґґі
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/21/XYGGI/@"
+msgid "XYGGI"
+msgstr "КСІҐҐІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Cockatrice → кокатрис
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/22/COCKATRICE/@"
+msgid "COCKATRICE"
+msgstr "КОКАТРИС"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Minotaur → Мінотавр
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/23/MINOTAUR/@"
+msgid "MINOTAUR"
+msgstr "МІНОТАВР"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Beastfolk → звіролюд
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/24/    BEASTFOLK/@"
+msgid "    BEASTFOLK"
+msgstr "    ЗВІРОЛЮДИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Insectoid → комахолюд
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/25/INSECTOID/@"
+msgid "INSECTOID"
+msgstr "КОМАХОЛЮД"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Bugbear → багбір
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/26/BUGBEAR/@"
+msgid "BUGBEAR"
+msgstr "БАГБІР"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Kobold → кобольд
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/27/KOBOLD/@"
+msgid "KOBOLD"
+msgstr "КОБОЛЬД"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Goatman → козолюд
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/28/GOATMAN/@"
+msgid "GOATMAN"
+msgstr "КОЗОЛЮД"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Gharbad → Ґарбад
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/29/GHARBAD/@"
+msgid "GHARBAD"
+msgstr "ҐАРБАД"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: undead → нежить
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/30/    UNDEAD/@"
+msgid "    UNDEAD"
+msgstr "    НЕЖИТЬ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Ghost → привид
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/31/GHOST/@"
+msgid "GHOST"
+msgstr "ПРИВИД"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Skeleton → скелет
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/32/SKELETON/@"
+msgid "SKELETON"
+msgstr "СКЕЛЕТ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Funny Bones → Веселі Кістки
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/33/FUNNY BONES/@"
+msgid "FUNNY BONES"
+msgstr "ВЕСЕЛІ КІСТКИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Ghoul → упир
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/34/GHOULS/@"
+msgid "GHOULS"
+msgstr "УПИРІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Coral Grimes → Корал Граймс
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/35/CORAL GRIMES/@"
+msgid "CORAL GRIMES"
+msgstr "КОРАЛ ГРАЙМС"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Ghoul → упир, Enslaved Ghoul → поневолений гуль
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/36/ENSLAVED GHOULS/@"
+msgid "ENSLAVED GHOULS"
+msgstr "ПОНЕВОЛЕНІ ГУЛІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: revenant skull → череп ревенанта
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/37/REVENANT SKULL/@"
+msgid "REVENANT SKULL"
+msgstr "ЧЕРЕП РЕВЕНАНТА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Vampire → вампір
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/38/VAMPIRE/@"
+msgid "VAMPIRE"
+msgstr "ВАМПІР"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Bram Kindly → Брам Добряк
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/39/BRAM KINDLY/@"
+msgid "BRAM KINDLY"
+msgstr "БРАМ ДОБРЯК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Shadow → тінь
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/40/SHADOW/@"
+msgid "SHADOW"
+msgstr "ТІНЬ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Artemisia → Артемісія
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/41/ARTEMISIA/@"
+msgid "ARTEMISIA"
+msgstr "АРТЕМІСІЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Baratheon → Баратеон
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/42/BARATHEON/@"
+msgid "BARATHEON"
+msgstr "БАРАТЕОН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Baron Herx → Барон Геркс, Herx → Геркс
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/43/BARON HERX/@"
+msgid "BARON HERX"
+msgstr "БАРОН ГЕРКС"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Erudyce → Ерудіса
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/44/ERUDYCE/@"
+msgid "ERUDYCE"
+msgstr "ЕРУДІСА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Orpheus → Орфей
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/45/ORPHEUS/@"
+msgid "ORPHEUS"
+msgstr "ОРФЕЙ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Demonic → демонічна істота
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/46/    DEMONICS/@"
+msgid "    DEMONICS"
+msgstr "    ДЕМОНІЧНІ ІСТОТИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Succubus → сукуб
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/47/SUCCUBUS/@"
+msgid "SUCCUBUS"
+msgstr "СУКУБ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Lilith → Ліліт
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/48/LILITH/@"
+msgid "LILITH"
+msgstr "ЛІЛІТ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Succubus → сукуб, Succubus Consort → консорт сукуба
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/49/SUCCUBUS CONSORTS/@"
+msgid "SUCCUBUS CONSORTS"
+msgstr "КОНСОРТИ СУКУБА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Incubus → інкуб
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/50/INCUBUS/@"
+msgid "INCUBUS"
+msgstr "ІНКУБ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Imp → імп
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/51/IMP/@"
+msgid "IMP"
+msgstr "ІМП"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Demon → демон
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/52/DEMON/@"
+msgid "DEMON"
+msgstr "ДЕМОН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Deu De'Breau → Деу Де'Бро
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/53/DEU DE'BREAU/@"
+msgid "DEU DE'BREAU"
+msgstr "ДЕУ ДЕ'БРО"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Baphomet → Бафомет
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/54/BAPHOMET/@"
+msgid "BAPHOMET"
+msgstr "БАФОМЕТ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Construct → конструкт
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/55/    CONSTRUCTS/@"
+msgid "    CONSTRUCTS"
+msgstr "    КОНСТРУКТИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Automaton → автоматон
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/56/AUTOMATON/@"
+msgid "AUTOMATON"
+msgstr "АВТОМАТОН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Crystal Golem → кристалічний голем, crystal → кристал
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/57/CRYSTAL GOLEM/@"
+msgid "CRYSTAL GOLEM"
+msgstr "КРИСТАЛІЧНИЙ ГОЛЕМ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Sentrybot → робот-вартовий
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/58/SENTRYBOT/@"
+msgid "SENTRYBOT"
+msgstr "РОБОТ-ВАРТОВИЙ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Spellbot → робот-заклинач
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/59/SPELLBOT/@"
+msgid "SPELLBOT"
+msgstr "РОБОТ-ЗАКЛИНАЧ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Dummybot → робот-манекен
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/60/DUMMYBOT/@"
+msgid "DUMMYBOT"
+msgstr "РОБОТ-МАНЕКЕН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Mimic → мімік
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/61/MIMIC/@"
+msgid "MIMIC"
+msgstr "МІМІК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Elemental → елементаль
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/62/    ELEMENTALS/@"
+msgid "    ELEMENTALS"
+msgstr "    ЕЛЕМЕНТАЛІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Slime → слиз
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/63/SLIMES/@"
+msgid "SLIMES"
+msgstr "СЛИЗИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: earth sprite → земляний дух
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents/64/EARTH SPRITE/@"
+msgid "EARTH SPRITE"
+msgstr "ЗЕМЛЯНИЙ ДУХ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Algernon → Елджернон
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/0/ALGERNON/@"
+msgid "ALGERNON"
+msgstr "ЕЛДЖЕРНОН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Artemisia → Артемісія
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/1/ARTEMISIA/@"
+msgid "ARTEMISIA"
+msgstr "АРТЕМІСІЯ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Automaton → автоматон
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/2/AUTOMATON/@"
+msgid "AUTOMATON"
+msgstr "АВТОМАТОН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Baphomet → Бафомет
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/3/BAPHOMET/@"
+msgid "BAPHOMET"
+msgstr "БАФОМЕТ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Baratheon → Баратеон
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/4/BARATHEON/@"
+msgid "BARATHEON"
+msgstr "БАРАТЕОН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Baron Herx → Барон Геркс, Herx → Геркс
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/5/BARON HERX/@"
+msgid "BARON HERX"
+msgstr "БАРОН ГЕРКС"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Bat → кажан
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/6/BAT/@"
+msgid "BAT"
+msgstr "КАЖАН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Bram Kindly → Брам Добряк
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/7/BRAM KINDLY/@"
+msgid "BRAM KINDLY"
+msgstr "БРАМ ДОБРЯК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Bubbles → Бульбашка
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/8/BUBBLES/@"
+msgid "BUBBLES"
+msgstr "БУЛЬБАШКА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Bugbear → багбір
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/9/BUGBEAR/@"
+msgid "BUGBEAR"
+msgstr "БАГБІР"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Cockatrice → кокатрис
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/10/COCKATRICE/@"
+msgid "COCKATRICE"
+msgstr "КОКАТРИС"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Coral Grimes → Корал Граймс
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/11/CORAL GRIMES/@"
+msgid "CORAL GRIMES"
+msgstr "КОРАЛ ГРАЙМС"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Crab → краб
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/12/CRAB/@"
+msgid "CRAB"
+msgstr "КРАБ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Crystal Golem → кристалічний голем, crystal → кристал
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/13/CRYSTAL GOLEM/@"
+msgid "CRYSTAL GOLEM"
+msgstr "КРИСТАЛІЧНИЙ ГОЛЕМ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Demon → демон
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/14/DEMON/@"
+msgid "DEMON"
+msgstr "ДЕМОН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Deu De'Breau → Деу Де'Бро
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/15/DEU DE'BREAU/@"
+msgid "DEU DE'BREAU"
+msgstr "ДЕУ ДЕ'БРО"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Dummybot → робот-манекен
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/16/DUMMYBOT/@"
+msgid "DUMMYBOT"
+msgstr "РОБОТ-МАНЕКЕН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: earth sprite → земляний дух
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/17/EARTH SPRITE/@"
+msgid "EARTH SPRITE"
+msgstr "ЗЕМЛЯНИЙ ДУХ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Ghoul → упир, Enslaved Ghoul → поневолений гуль
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/18/ENSLAVED GHOULS/@"
+msgid "ENSLAVED GHOULS"
+msgstr "ПОНЕВОЛЕНІ ГУЛІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Erudyce → Ерудіса
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/19/ERUDYCE/@"
+msgid "ERUDYCE"
+msgstr "ЕРУДІСА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Funny Bones → Веселі Кістки
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/20/FUNNY BONES/@"
+msgid "FUNNY BONES"
+msgstr "ВЕСЕЛІ КІСТКИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Gharbad → Ґарбад
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/21/GHARBAD/@"
+msgid "GHARBAD"
+msgstr "ҐАРБАД"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Ghost → привид
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/22/GHOST/@"
+msgid "GHOST"
+msgstr "ПРИВИД"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Ghoul → упир
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/23/GHOULS/@"
+msgid "GHOULS"
+msgstr "УПИРІ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Gnome → гном
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/24/GNOME/@"
+msgid "GNOME"
+msgstr "ГНОМ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Gnome → гном, Thief → злодій
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/25/GNOME THIEF/@"
+msgid "GNOME THIEF"
+msgstr "ГНОМ-ЗЛОДІЙ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Goatman → козолюд
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/26/GOATMAN/@"
+msgid "GOATMAN"
+msgstr "КОЗОЛЮД"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Goblin → гоблін
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/27/GOBLIN/@"
+msgid "GOBLIN"
+msgstr "ГОБЛІН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Human → людина
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/28/HUMANS/@"
+msgid "HUMANS"
+msgstr "ЛЮДИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Imp → імп
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/29/IMP/@"
+msgid "IMP"
+msgstr "ІМП"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Incubus → інкуб
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/30/INCUBUS/@"
+msgid "INCUBUS"
+msgstr "ІНКУБ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Insectoid → комахолюд
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/31/INSECTOID/@"
+msgid "INSECTOID"
+msgstr "КОМАХОЛЮД"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Kobold → кобольд
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/32/KOBOLD/@"
+msgid "KOBOLD"
+msgstr "КОБОЛЬД"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Lilith → Ліліт
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/33/LILITH/@"
+msgid "LILITH"
+msgstr "ЛІЛІТ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Mimic → мімік
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/34/MIMIC/@"
+msgid "MIMIC"
+msgstr "МІМІК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Minotaur → Мінотавр
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/35/MINOTAUR/@"
+msgid "MINOTAUR"
+msgstr "МІНОТАВР"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Merchant → торговець, Mysterious Merchant → Таємничий торговець
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/36/MYSTERIOUS MERCHANT/@"
+msgid "MYSTERIOUS MERCHANT"
+msgstr "ТАЄМНИЧИЙ ТОРГОВЕЦЬ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Orpheus → Орфей
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/37/ORPHEUS/@"
+msgid "ORPHEUS"
+msgstr "ОРФЕЙ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Rat → Щур
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/38/RAT/@"
+msgid "RAT"
+msgstr "ЩУР"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: revenant skull → череп ревенанта
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/39/REVENANT SKULL/@"
+msgid "REVENANT SKULL"
+msgstr "ЧЕРЕП РЕВЕНАНТА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Scarab → скарабей
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/40/SCARAB/@"
+msgid "SCARAB"
+msgstr "СКАРАБЕЙ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Scorpion → скорпіон
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/41/SCORPION/@"
+msgid "SCORPION"
+msgstr "СКОРПІОН"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Sentrybot → робот-вартовий
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/42/SENTRYBOT/@"
+msgid "SENTRYBOT"
+msgstr "РОБОТ-ВАРТОВИЙ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Shadow → тінь
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/43/SHADOW/@"
+msgid "SHADOW"
+msgstr "ТІНЬ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Shelob → Шелоб
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/44/SHELOB/@"
+msgid "SHELOB"
+msgstr "ШЕЛОБ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Shopkeeper → Крамар
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/45/SHOPKEEPER/@"
+msgid "SHOPKEEPER"
+msgstr "КРАМАР"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Skeleton → скелет
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/46/SKELETON/@"
+msgid "SKELETON"
+msgstr "СКЕЛЕТ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Skrabblag → Скрабблаг
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/47/SKRABBLAG/@"
+msgid "SKRABBLAG"
+msgstr "СКРАББЛАГ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Slime → слиз
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/48/SLIMES/@"
+msgid "SLIMES"
+msgstr "СЛИЗИ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Spellbot → робот-заклинач
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/49/SPELLBOT/@"
+msgid "SPELLBOT"
+msgstr "РОБОТ-ЗАКЛИНАЧ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Spider → Павук
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/50/SPIDER/@"
+msgid "SPIDER"
+msgstr "ПАВУК"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Succubus → сукуб, Succubus Consort → консорт сукуба
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/51/SUCCUBUS CONSORTS/@"
+msgid "SUCCUBUS CONSORTS"
+msgstr "КОНСОРТИ СУКУБА"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Succubus → сукуб
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/52/SUCCUBUS/@"
+msgid "SUCCUBUS"
+msgstr "СУКУБ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: The Potato King → Картопляний король
+#. тон: joke
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/53/THE POTATO KING/@"
+msgid "THE POTATO KING"
+msgstr "КАРТОПЛЯНИЙ КОРОЛЬ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Thumpus → Тумпус
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/54/THUMPUS/@"
+msgid "THUMPUS"
+msgstr "ТУМПУС"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Troll → Троль
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/55/TROLL/@"
+msgid "TROLL"
+msgstr "ТРОЛЬ"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Vampire → вампір
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/56/VAMPIRE/@"
+msgid "VAMPIRE"
+msgstr "ВАМПІР"
+
+#. пункти меню компендіуму — ВЕЛИКИМИ ЛІТЕРАМИ, як в оригіналі; рядки з пробілами на початку — заголовки розділів
+#. сутності: Xyggi → Ксіґґі
+#, fuzzy
+#: lang/compendium_lang/contents_monsters.json
+msgctxt "contents_alphabetical/57/XYGGI/@"
+msgid "XYGGI"
+msgstr "КСІҐҐІ"
