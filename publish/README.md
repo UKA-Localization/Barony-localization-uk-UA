@@ -9,6 +9,7 @@ Barony показує його в списку модів і бере як об�
 | `steam/description.uk.bbcode`, `steam/description.en.bbcode` | Опис сторінки Workshop українською та англійською у форматі Steam (BBCode) — вставляти як є. |
 | `steam/meta.md` | Назва, теги, id предмета Workshop, нотатки до оновлень. |
 | `github-release.md` | Шаблон нотаток до релізу на GitHub. |
+| `kuli.md` | Картка для КУЛІ (Каталог української локалізації, kuli.com.ua): поля форми, опис, короткий опис. |
 | `screenshots/` | Скриншоти для Workshop і README (PNG, 1920×1080). |
 
 ## Steam Workshop

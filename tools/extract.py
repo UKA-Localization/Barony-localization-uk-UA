@@ -8,7 +8,7 @@
 Що робить:
   source/            — копії файлів гри зі списків TXT_FILES, JSON_FILES, FILES (barony.py)
   translation/strings.tsv — усі рядки з lang/*.txt і JSON: file, key, original, translation, status, context, entities, tone
-  translation/files/ — файли, що перекладаються цілком (книги тощо): якщо файлу ще нема,
+  translation/files/ — файли, що перекладаються цілком (списки імен): якщо файлу ще нема,
                        кладеться копія оригіналу; наявні переклади не зачіпаються
 
 Наявні переклади, status, context, entities і tone у strings.tsv зберігаються. Для ключів, у яких змінився
@@ -26,7 +26,7 @@ from pathlib import Path
 from typing import Iterator
 
 from barony import (
-    DEFAULT_GAME_DIR, FILES, FILES_DIR, JSON_FILES, SOURCE_DIR, STRINGS_TSV, TXT_FILES, TXT_SECTION_CONTEXT,
+    DEFAULT_GAME_DIR, FILES, FILES_DIR, JSON_FILES, SOURCE_DIR, STRINGS_TSV, TXT_FILES, TXT_SECTION_CONTEXT, WHOLE_FILES, WHOLE_KEY,
     all_strings, file_context, game_files, ignored_strings, load_json, read_strings_tsv, read_text, rel, rules_for,
     translatable_strings, write_strings_tsv,
 )
@@ -38,7 +38,7 @@ def copy_from_game(game_dir: Path) -> int:
     if not (game_dir / "lang" / "en.txt").exists():
         print(f"не знайдено теку гри: {game_dir}", file=sys.stderr)
         return 1
-    patterns = TXT_FILES + list(JSON_FILES) + FILES
+    patterns = TXT_FILES + list(JSON_FILES) + WHOLE_FILES + FILES
     n = 0
     for src in game_files(game_dir, patterns):
         dst = SOURCE_DIR / src.relative_to(game_dir)
@@ -86,6 +86,10 @@ def extract_strings() -> list[tuple[str, str, str, str]]:
         context = file_context(relpath)
         for key, text in translatable_strings(load_json(path), rules_for(relpath)):
             out.append((relpath, key, text, context))
+    for path in game_files(SOURCE_DIR, WHOLE_FILES):
+        relpath = rel(path, SOURCE_DIR)
+        text = read_text(path).replace("\r\n", "\n").rstrip("\n")
+        out.append((relpath, WHOLE_KEY, text, f"{file_context(relpath)}; «{path.stem}»"))
     return out
 
 
