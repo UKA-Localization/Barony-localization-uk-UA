@@ -2,6 +2,23 @@
 
 Python 3.11+, без сторонніх пакетів.
 
+Виняток — окремі інструменти шрифтів: `extend_font_symbols.py` потребує
+`fonttools`, галерея — також `Pillow`, регресійні перевірки — `uharfbuzz`.
+Звичайна збірка мода цих залежностей не потребує.
+
+```bash
+python -m pip install fonttools Pillow uharfbuzz
+python tools/extend_font_symbols.py          # аудит; exit 1, якщо бракує символів
+python tools/extend_font_symbols.py --apply  # резервна копія й доповнення assets/fonts
+python tools/check_font_symbols.py PATH_TO_BACKUP
+python tools/review_font_symbols.py PATH_TO_BACKUP
+```
+
+Галерея всіх гліфів «було / стало» з кольоровим виділенням доповнень
+та звіт перевірок створюються в `build/font-review/`. Скрипт доповнення
+працює лише з відсутніми або порожніми символами; повторний запуск
+не змінює вже доповнених шрифтів. Оригінальні шрифти гри не перезаписуються.
+
 | Скрипт | Що робить |
 |---|---|
 | `barony.py` | спільний код: список файлів гри, які беремо (`TXT_FILES`, `JSON_FILES`, `FILES`), правила, які поля JSON перекладаються, парсер `en.txt`, читання/запис `strings.tsv` |
