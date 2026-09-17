@@ -4,7 +4,8 @@
 
   lang/en.txt, themes/*/lang/en.txt   «<id> <текст>#» або «<id>\\n<текст>#»; рядки з # — коментарі
   lang/*.json, data/**/*.json, …      JSON, у якому перекладається лише частина полів (див. JSON_FILES)
-  books/*.txt, *names-*.txt, …        прості текстові файли, перекладаються цілком (FILES)
+  books/*.txt                         книги: увесь текст файлу — один рядок strings.tsv з key=text (WHOLE_FILES)
+  *names-*.txt, …                     прості текстові файли, перекладаються цілком (FILES)
 
 Українська ставиться як мод (mods/<назва>/…): гра накладає файли мода поверх своїх,
 тому шлях у репозиторії = шлях у грі.
@@ -122,9 +123,14 @@ JSON_SIZE_LIMITS: dict[str, int] = {
 # lang/*.txt: один запис (до «#», з усіма рядками) читається в char data[1024] без перевірки меж.
 TXT_ENTRY_LIMIT = 1024
 
+# Текстові файли, що йдуть у strings.tsv одним рядком (key = WHOLE_KEY, переноси \n; у грі — CRLF)
+WHOLE_FILES = [
+    "books/*.txt",
+]
+WHOLE_KEY = "text"
+
 # Файли, що перекладаються цілком (копія в translation/files/ за тим самим шляхом)
 FILES = [
-    "books/*.txt",
     "npcnames-female.txt",
     "npcnames-male.txt",
     "playernames-female.txt",
@@ -134,6 +140,7 @@ FILES = [
 # Контекст рядків для перекладача (колонка context у strings.tsv): glob файлу -> опис.
 # Для lang/*.txt контекст — коментар розділу (# …) з самого файлу гри; тут — лише уточнення до деяких розділів.
 FILE_CONTEXT = {
+    "books/*.txt": "книга для читання в грі, цілий текст: абзаци через порожні рядки, табуляції й переноси зберігати як в оригіналі; заголовок — назва файлу (перекладена в lang/book_names.json)",
     "lang/item_names.json": "назви предметів в однині; name_identified — розпізнаний, name_unidentified — нерозпізнаний; з малої літери",
     "themes/*/lang/item_names.json": "назви предметів святкових тем (merry — різдвяна, scarony — геловінська); з малої літери",
     "lang/book_names.json": "назви книг для читання в грі — як заголовки",

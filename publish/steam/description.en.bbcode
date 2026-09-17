@@ -1,99 +1,54 @@
 [h1]🇺🇦 Barony Ukrainian Localization[/h1]
-[i]Game version: v5.0.2[/i]
+[i]Game version: v5.0.2 · localization release: 5.0.2-1[/i]
 
-A complete Ukrainian localization of Barony: the interface, dialogues, items, descriptions, names and most other in-game text are translated.
+Ukrainian localization of Barony: the interface, items, monsters, spells, compendium, achievements, story texts and seasonal themes. The original game files are not modified — the mod can be turned off at any time.
 
-[b]How to enable it:[/b]
-[list]
-[*]Launch Barony on Steam
-[*]Choose [b]Play Modded Game[/b]
-[*]Pick [b]«Українізатор»[/b] in the list of mods
-[/list]
+[b]Status:[/b] this is the first, [b]unproofread[/b] version. The texts are in Ukrainian but have not been reviewed by an editor yet — expect occasional inaccuracies, awkward wording or lines that run long. Proofreading is in progress; updates will follow as they are ready.
 
-[b]Important: if the game does not start or crashes on launch[/b], check this file:
-
-[code]/Books/compiled_books.json[/code]
-
-Try deleting it, restoring the original file, or setting its [b]Read-only[/b] attribute. See the details below.
+[h2]How to enable[/h2]
+[olist]
+[*]Subscribe to the mod.
+[*]Launch Barony: main menu → [b]Custom Content[/b] → [b]Workshop Mods[/b] → «Українська локалізація Barony» → [b]Load Mod[/b].
+[*]Restart the game if asked.
+[/olist]
 
 [h2]Alternative installation[/h2]
-
-The localization can also be installed directly into the game files.
-
-Open the mod folder:
+The mod files can be copied straight into the game folder — Ukrainian is then on from the start, without picking the mod in the menu:
 
 [code]Steam\steamapps\workshop\content\371970\3711160804[/code]
 
-Copy everything from it into the folder where Barony is installed, replacing the existing files.
+Copy the contents of this folder into the folder where Barony is installed, replacing the existing files.
 
-After that the game starts in Ukrainian right away, in the normal mode — no need to pick [b]Play Modded Game[/b] and the [b]«Українізатор»[/b] mod every time.
+[i]Back up first: verifying the game files in Steam restores the originals and undoes the changes.[/i]
 
-[i]Back up the original game files before replacing them. Verifying the game files through Steam may restore the originals and undo the changes.[/i]
+The same files are available as an archive on GitHub (Releases) for installing without the Workshop: unpack into [code]<game folder>\mods\uk-UA\[/code] and enable it via [b]Custom Content → Local Mods[/b].
 
-[h2]Features[/h2]
+[h2]What is translated[/h2]
 [list]
-[*]Interface, dialogues, items, names, descriptions and other text are translated
-[*]Compendium entries are translated
-[*]Maximum coverage of the game's text
-[*]Text baked into the maps and a few game-specific elements are not translated
-[*]The translation is machine-made and has not been fully proofread by hand
+[*]Interface: menus, settings, tooltips, in-game messages
+[*]Items, spells, monsters, classes and races, achievements
+[*]Compendium (all entries)
+[*]Story texts, the tutorial and all 34 books
+[*]Seasonal themes
+[*]Not translated: text baked into maps or the game code (e.g. the «LVL» label above the XP bar)
 [/list]
 
 [h2]Known issues[/h2]
-
-[b]Possible freezes[/b]
 [list]
-[*]Short freezes may occur while starting or loading the game
-[*]The likely cause is the fonts with an extended character set, which the game was not optimized for
+[*]The translation is not proofread — see "Status" above
+[*]Some lines may not fit narrow interface elements
+[*]Short freezes may occur on game start because of the fonts with an extended character set
 [/list]
 
-[b]The compiled_books.json problem[/b]
-[list]
-[*]Affected file: [code]/Books/compiled_books.json[/code]
-[*]The game writes the translation into it but does not always delete or restore the file on exit
-[*]Because of this the next launch may end with an error
-[/list]
-
-[b]Possible fixes:[/b]
-[list]
-[*]Delete [code]/Books/compiled_books.json[/code]
-[*]Restore its original version
-[*]Set the file's [b]Read-only[/b] attribute
-[/list]
-
-[i]Note: verifying or restoring the game files may reset the Read-only attribute.[/i]
-
-[b]Garbled characters[/b]
-[list]
-[*]Mojibake or other broken characters may appear in some places
-[*]These will be fixed gradually in future updates of the localization
-[/list]
-
-[b]Untranslated text on maps[/b]
-[list]
-[*]Some text is stored directly in the map files
-[*]Such elements cannot be translated with the standard localization tools
-[/list]
-
-[h2]Additional notes[/h2]
-
-This is a machine translation, so the text may contain mistakes, inaccuracies or awkward wording. That said, in my opinion the overall quality is good enough for a comfortable playthrough.
-
-If you find mistakes, inaccuracies, broken characters or untranslated lines — please report them.
-
-[h2]Project repository[/h2]
-
-The localization files and working materials are available in the repository:
+[h2]Bugs and suggestions[/h2]
+Found a mistake, an untranslated line or text overflowing its frame — leave a comment or open an issue on GitHub:
 
 [url=https://github.com/UKA-Localization/Barony-localization-uk-UA]Barony-localization-uk-UA — GitHub[/url]
 
-The project's name, structure or location may change in the future, so check the repository for up-to-date information.
+No technical skills are needed to help with proofreading: just read the texts and flag what sounds unnatural in Ukrainian.
 
-The project will be maintained as long as players are interested in it.
-
-If you would like to help — get in touch. Beyond this localization, translations of other games are possible in the future.
-
-No special technical skills are required to help. Simply reading the texts and checking whether they sound natural in Ukrainian is already a useful contribution.
+[h2]Credits[/h2]
+Turning Wheel LLC — for the game. Cyrillic fonts are based on the game's own fonts.
 
 [hr][/hr]
 A [url=https://github.com/UKA-Localization]UKA Localization[/url] project — Ukrainian game localizations.
