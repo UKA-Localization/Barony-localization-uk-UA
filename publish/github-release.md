@@ -9,11 +9,11 @@
 <розділ із CHANGELOG.md для цього тегу>
 
 ## Встановлення
-Розпакуйте архів так, щоб вийшло `<тека гри>\mods\uk-UA\`, у грі: Custom Content → Local Mods → uk-UA → Load Mod.
+Розпакуйте архів так, щоб вийшло `<тека гри>\mods\Barony Ukrainian Localization\`, у грі: Custom Content → Local Mods → Barony Ukrainian Localization → Load Mod.
 Або підпишіться в Steam Workshop: <посилання>.
 
 ## Стан
 Перекладено N з M рядків; чернеток (не вичитано) — K.
 ```
 
-Файл релізу: `Barony-uk-UA-<тег>.zip` — вміст `build/uk-UA/` у теці `uk-UA/`.
+Файл релізу: `Barony-uk-UA-<тег>.zip` — вміст `build/Barony Ukrainian Localization/` у теці `uk-UA/`.
