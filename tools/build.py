@@ -1,7 +1,7 @@
 """Збирає мод з українським перекладом і (за бажанням) ставить його в гру.
 
-    python tools/build.py                 # -> build/uk-UA/
-    python tools/build.py --install       # зібрати й скопіювати в <гра>/mods/uk-UA/
+    python tools/build.py                 # -> build/Barony Ukrainian Localization/
+    python tools/build.py --install       # зібрати й скопіювати в <гра>/mods/Barony Ukrainian Localization/
     python tools/build.py --drafts        # включити й чернетки (status непорожній) — для перевірки в грі
     python tools/build.py --uninstall     # прибрати мод із гри
     python tools/build.py --install --game "D:\\Games\\Barony"
@@ -14,7 +14,7 @@
   assets/**                               — як є (шрифти тощо)
 Рядки без перекладу лишаються англійськими.
 
-Увімкнути мод у грі: головне меню -> Custom Content -> Local Mods -> uk-UA -> Load Mod.
+Увімкнути мод у грі: головне меню -> Custom Content -> Local Mods -> Barony Ukrainian Localization -> Load Mod.
 """
 
 import argparse
@@ -31,7 +31,7 @@ from barony import (
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-MOD_NAME = "uk-UA"
+MOD_NAME = "Barony Ukrainian Localization"
 OUTPUT = BUILD_DIR / MOD_NAME
 
 
