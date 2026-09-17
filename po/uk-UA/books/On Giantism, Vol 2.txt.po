@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. книга для читання в грі, цілий текст: абзаци через порожні рядки, табуляції й переноси зберігати як в оригіналі; заголовок — назва файлу (перекладена в lang/book_names.json); «On Giantism, Vol 2»
+#, fuzzy
+#: books/On Giantism, Vol 2.txt
+msgctxt "text"
+msgid "\t\nOn Giantism\n\t\nVolume II\n\t\nWhile the guild is not entirely certain of the history and causes behind Giantism, one thing that is abundantly clear is its effects. Giant creatures are, quite obviously enough, capable of much greater destruction than their more naturally scaled counterparts, and they also seem significantly more irritable as well.\n\nThe first giants ever studied at length were thought to be the only ones of their kind, and that is indeed the namesake of the condition of Giantism itself. These first giants were reported to be so irritable at times that they would not tolerate even the company of fellow giants. It was not uncommon, in fact, for one giant to attack another simply for violating its sense of personal space. Against advisement, if one were to find themselves facing off against such a giant, a sharpened blade would serve better than a spear or mace; their meaty flesh is accustomed to smaller pricks and shrugging off blunt force.\n\t\nIt is certain that Giantism can transform any simple and humble creature into a beast few would dare trifle with - and for now, this is all that the guild has to report on them as well. As we continue to conduct more field research and report our findings, expect to see further volumes.\n\t\n\t\nUntil then, \nMaster Scribe\nFrancis Sierre\n\n\t"
+msgstr "\t\nПро гігантизм\n\t\nТом II\n\t\nХоча гільдія не має цілковитої певності щодо історії та причин гігантизму, одне є цілком очевидним — його наслідки. Велетенські істоти, вочевидь, здатні на значно більші руйнування, ніж їхні звичайні за розміром одноплемінники, а також, схоже, значно дратівливіші.\n\nПерші велетні, яких докладно досліджували, вважалися єдиними у своєму роді, і саме звідси походить сама назва стану — гігантизм. За свідченнями, ці перші велетні часом бували настільки дратівливими, що не терпіли навіть товариства інших велетнів. Насправді не рідкістю було, коли один велетень нападав на іншого лише за порушення особистого простору. Усупереч порадам, якщо комусь випаде зіткнутися з таким велетнем, нагострене лезо прислужиться краще за спис чи булаву; їхня м'ясиста плоть звикла до дрібних уколів і легко струшує тупі удари.\n\t\nДостеменно відомо, що гігантизм здатен перетворити будь-яку просту й упокорену істоту на звіра, з яким мало хто наважиться жартувати — і поки що це все, що гільдія може повідомити про них. У міру того, як ми продовжуватимемо польові дослідження та звітувати про наші знахідки, очікуйте нових томів.\n\t\n\t\nДо того часу,\nМайстер-писар\nФренсіс Сьєрр\n\n\t"

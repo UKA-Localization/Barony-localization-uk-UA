@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. книга для читання в грі, цілий текст: абзаци через порожні рядки, табуляції й переноси зберігати як в оригіналі; заголовок — назва файлу (перекладена в lang/book_names.json); «Lost Journal»
+#, fuzzy
+#: books/Lost Journal.txt
+msgctxt "text"
+msgid "Dearest Journal,\n\nIt's been roughly a week since I last wrote.\nI will now write as regularly as possible to record the history of the Goblin expedition of the mines. After becoming the most honored leader in Minetown, I have climbed my way up the political ladder of the Goblin system which is as easy as it sounds. They will listen to my every command.\n\nGoblins are rather interesting. Their political system is run based on action and power. If a Goblin opposed me, I'd kill him and drink his blood. This got me to the top in a matter of hours. Some might say \"Wow, you've really snapped from being isolated so long\", to which I say, \"Oh yeah. Big time\".\nI don't know where I got the idea to drink their blood. Something about my first night in the ruins. I dreamed of glowing eyes and pointy ears. Like a goblin. Better dressed. Some kind of goblin ghost maybe.\n\nAnyway, I equipped my loyal Goblins with the bones of dead Goblins and steel swords as available and we've already wiped out two camps and taken their loot. We're a sort of underground pirates, I guess. I always thought being a pirate would be awesome. And if I need to assert my dominance by drinking more Goblin blood, well I suppose it's blood well-spent. Other food doesn't even taste good anymore.\n\nI'll keep documenting for future generations to read from a first-hand source: their God-like leader's journey.\n\n-A"
+msgstr "Любий щоденнику,\n\nМинув приблизно тиждень відтоді, як я писав востаннє.\nТепер писатиму якомога регулярніше, щоб занотувати історію гоблінської експедиції в Шахтах. Ставши найшанованішим лідером Шахтарського містечка, я піднявся щаблями політичної драбини гоблінської системи — а це так само легко, як і звучить. Вони слухають кожен мій наказ.\n\nГобліни доволі цікаві. Їхня політична система тримається на діях і владі. Якщо гоблін мені противився, я вбивав його і пив його кров. Це вивело мене на вершину за лічені години. Дехто скаже: \"Отакої, ти й справді з'їхав з глузду від такої довгої самотності\", на що я відповідаю: \"О так. По-справжньому\".\nНе знаю, звідки в мене взялася ідея пити їхню кров. Щось пов'язане з моєю першою ніччю в руїнах. Мені снилися палахкі очі й гострі вуха. Як у гобліна. Тільки краще вбраного. Може, якийсь гоблінський привид.\n\nХай там як, я озброїв своїх вірних гоблінів кістками мертвих гоблінів і сталевими мечами, коли ті траплялися, і ми вже знищили два табори та забрали їхню здобич. Гадаю, ми свого роду підземні пірати. Я завжди думав, що бути піратом — це круто. А якщо мені знадобиться утверджувати свою владу, п'ючи ще більше гоблінської крові, що ж, гадаю, це кров, витрачена не марно. Інша їжа вже навіть не смакує так само.\n\nПродовжуватиму вести записи для прийдешніх поколінь, щоб вони прочитали з перших вуст: подорож їхнього богоподібного лідера.\n\n-А"

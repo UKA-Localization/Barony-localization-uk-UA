@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. книга для читання в грі, цілий текст: абзаци через порожні рядки, табуляції й переноси зберігати як в оригіналі; заголовок — назва файлу (перекладена в lang/book_names.json); «My Journal»
+#, fuzzy
+#: books/My Journal.txt
+msgctxt "text"
+msgid "\n\t-- My Journal --\n\t\n\tAfter traveling for days, I've finally found it: the ruined town once known as Hamlet. What a ghastly place! Little grandeur remains in the architecture I read about from my travel guide. Most of the abandoned streets are littered with debris, but a clear path winds from the gates of Hamlet to the Abandoned Mine.\n\n\tAs I approach the entrance to the mines, the ghoulish laughter and baleful glow emanating from within seem to diminish. The gateway is quite large, and the door only opens one way. Once I go in, it seems I shall not be coming out... but I am determined to dispel whatever evil has taken this place, and so I must proceed.\n\t\n\tMy only hope is that my quest not be in vain. Gods above: protect me as I enter this forsaken place!"
+msgstr "\n\t-- Мій щоденник --\n\t\n\tПісля днів подорожі я нарешті знайшов його: зруйноване місто, колись зване Поселенням. Яке жахливе місце! Від величі, про яку я читав у своєму путівнику, лишилося мало. Більшість покинутих вулиць завалені уламками, але чіткий шлях веде від брами Поселення до Покинутих Шахт.\n\n\tКоли я наближаюся до входу в шахти, моторошний сміх і лиховісне сяйво, що йдуть зсередини, ніби зменшуються. Прохід доволі великий, а двері відчиняються лише в один бік. Здається, увійшовши, я вже не вийду... але я сповнений рішучості розвіяти те зло, що заволоділо цим місцем, тож маю йти далі.\n\t\n\tЄдина моя надія — щоб цей похід не був марним. Боги на небесах, бережіть мене, коли я входжу в це прокляте місце!"

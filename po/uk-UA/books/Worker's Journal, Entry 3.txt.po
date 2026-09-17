@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barony uk-UA\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: tools/weblate.py\n"
+
+
+#. книга для читання в грі, цілий текст: абзаци через порожні рядки, табуляції й переноси зберігати як в оригіналі; заголовок — назва файлу (перекладена в lang/book_names.json); «Worker's Journal, Entry 3»
+#, fuzzy
+#: books/Worker's Journal, Entry 3.txt
+msgctxt "text"
+msgid "Day 11\n\nThe mines talk to me. I belong to the mines now. Others tried to escape, but we couldn't let them. They belonged underground, and now they shall stay underground. Most folks lost their family because of Baron Herx, and there are plots to keep him under here where he belongs. I support locking us in. We're too far removed. These mines stole my soul and gave me a purpose: To keep us safe under here. These walls...are...so beautiful. Anyone who tries to leave, I kill. When they bring Baron Herx down here for the trick, they've got me on the task of locking the door once they all leave. Fools. They shall never leave. No one will ever leave again."
+msgstr "День 11\n\nШахти говорять зі мною. Тепер я належу шахтам. Інші намагалися втекти, але ми не могли їм дозволити. Вони належали підземеллю, і тепер вони залишаться під землею. Більшість людей втратили свої родини через Барона Геркса, і є змова, щоб тримати його тут, під землею, де йому й місце. Я підтримую те, щоб замкнути нас тут. Ми надто далеко зайшли. Ці шахти вкрали мою душу і дали мені мету: берегти нас тут, унизу. Ці стіни...такі...прекрасні. Кожного, хто намагається піти, я вбиваю. Коли сюди приведуть Барона Геркса заради витівки, мені доручать замкнути двері, щойно всі підуть. Дурні. Вони ніколи не підуть. Більше ніхто ніколи не піде звідси."
