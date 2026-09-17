@@ -10,6 +10,9 @@
 - Чернетки перекладу всіх 34 книг; книги тепер у `strings.tsv` (`books/<назва>.txt`, один рядок на книгу), а не в `translation/files/`.
 - Weblate: книги — один компонент `books`.
 
+### Changed
+- Тека мода — `Barony Ukrainian Localization` (замість `uk-UA`): так мод називається в списку Local Mods і в архіві релізу.
+
 ## [5.0.2-1] — 2026-09-17
 
 Перший реліз: повна чернетка перекладу для Barony v5.0.2. Усі рядки мають `status=fuzzy` — не вичитано; книги не перекладено.
@@ -27,7 +30,7 @@
 - `tools/extract.py` — витягування рядків із файлів гри зі збереженням наявних перекладів.
 - `translation/glossary.tsv` як джерело глосарію і `tools/glossary.py`, що генерує з нього `GLOSSARY.md` та експорт для Weblate.
 - `tools/weblate.py` — синхронізація `strings.tsv` ⇄ PO-файли в гілці `weblate` для Weblate (компонент на файл гри + глосарій).
-- `tools/build.py` — збірка мода `build/uk-UA/` та встановлення в `mods/` гри.
+- `tools/build.py` — збірка мода `build/Barony Ukrainian Localization/` та встановлення в `mods/` гри.
 - `tools/validate.py` — перевірка плейсхолдерів у перекладах.
 - CI (GitHub Actions): глосарій, плейсхолдери, актуальність `translation/`, збірка мода.
 - Колонки `status` (непорожній — чернетка: не в мод, у Weblate — needs editing), `context` (опис рядка), `entities` (терміни глосарію в рядку) і `tone` (характер рядка) у `strings.tsv`; у `glossary.tsv` — `id` і `status`.

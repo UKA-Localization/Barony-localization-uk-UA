@@ -23,8 +23,8 @@
 
 Переклад — це мод, оригінальні файли гри не змінюються.
 
-1. Завантажте архів із [Releases](../../releases) і розпакуйте так, щоб вийшло `<тека гри>\mods\uk-UA\` (типово `C:\Program Files (x86)\Steam\steamapps\common\Barony\mods\uk-UA\`).
-2. У грі: головне меню → **Custom Content** → **Local Mods** → `uk-UA` → **Load Mod**.
+1. Завантажте архів із [Releases](../../releases) і розпакуйте так, щоб вийшло `<тека гри>\mods\Barony Ukrainian Localization\` (типово `C:\Program Files (x86)\Steam\steamapps\common\Barony\mods\Barony Ukrainian Localization\`).
+2. У грі: головне меню → **Custom Content** → **Local Mods** → `Barony Ukrainian Localization` → **Load Mod**.
 
 З репозиторію: `python tools/build.py --install` збирає мод і кладе його в гру, `--uninstall` прибирає; `--drafts` включає й невичитані чернетки (`status` непорожній), інакше беруться лише готові переклади.
 
@@ -64,7 +64,7 @@ build/                   — результат збірки (не в git)
 
 ## Публікація
 
-Steam Workshop: гра заливає мод сама (Custom Content → Upload, тека `mods/uk-UA`); назва, теги й описи (uk/en, BBCode) — у [publish/steam/](publish/steam/), обкладинка `publish/preview.png` потрапляє в мод при збірці. GitHub Releases — архів `build/uk-UA/` у теці `uk-UA/`, нотатки за [publish/github-release.md](publish/github-release.md). Деталі — [publish/README.md](publish/README.md).
+Steam Workshop: гра заливає мод сама (Custom Content → Upload, тека `mods/Barony Ukrainian Localization`); назва, теги й описи (uk/en, BBCode) — у [publish/steam/](publish/steam/), обкладинка `publish/preview.png` потрапляє в мод при збірці. GitHub Releases — архів `build/Barony Ukrainian Localization/` у теці `Barony Ukrainian Localization/`, нотатки за [publish/github-release.md](publish/github-release.md). Деталі — [publish/README.md](publish/README.md).
 
 ## Ліцензія
 

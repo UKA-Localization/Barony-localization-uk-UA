@@ -21,7 +21,7 @@ fix/typos        ●───●───●
 3. Від `main` створіть гілку `translate/<назва-файлу>` або `fix/<коротко-що>`.
 4. Перекладайте у [translation/strings.tsv](translation/strings.tsv): заповнюйте колонку `translation`, колонки `file`, `key`, `original` не чіпайте. Книги — теж рядки в `strings.tsv` (`books/<назва>.txt`, увесь текст книги, абзаци через `
 `); списки імен — у `translation/files/` (звичайні текстові файли). `source/` не редагується.
-5. Перевірте в грі: `python tools/build.py --install` (з `--drafts`, щоб побачити й чернетки), у грі Custom Content → Local Mods → uk-UA → Load Mod. Перед PR запустіть `python tools/validate.py` — перевірка плейсхолдерів. `build.py` також перевіряє ліміти гри: JSON читається у буфери фіксованого розміру (`JSON_SIZE_LIMITS` у `tools/barony.py`), запис `en.txt` — до 1024 байт; якщо білд скаржиться на розмір — тексти в тому файлі треба скоротити.
+5. Перевірте в грі: `python tools/build.py --install` (з `--drafts`, щоб побачити й чернетки), у грі Custom Content → Local Mods → Barony Ukrainian Localization → Load Mod. Перед PR запустіть `python tools/validate.py` — перевірка плейсхолдерів. `build.py` також перевіряє ліміти гри: JSON читається у буфери фіксованого розміру (`JSON_SIZE_LIMITS` у `tools/barony.py`), запис `en.txt` — до 1024 байт; якщо білд скаржиться на розмір — тексти в тому файлі треба скоротити.
 6. Відкрийте PR **у `main`**. В описі вкажіть, що перекладено і чи є спірні місця.
 
 ## Правила для PR

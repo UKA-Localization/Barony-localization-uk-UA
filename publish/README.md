@@ -14,7 +14,7 @@ Barony показує його в списку модів і бере як об�
 
 ## Steam Workshop
 
-Barony заливає моди сама: головне меню → **Custom Content** → **Upload** → тека `mods/uk-UA` → назва, опис, теги
+Barony заливає моди сама: головне меню → **Custom Content** → **Upload** → тека `mods/Barony Ukrainian Localization` → назва, опис, теги
 з `steam/` → **Upload**. Оновлення — там само, **Update**; опис при оновленні не перезаписується,
 тож після зміни `steam/description.*.bbcode` його треба оновити на сторінці Workshop вручну.
 
