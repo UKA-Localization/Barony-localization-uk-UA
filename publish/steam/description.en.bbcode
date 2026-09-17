@@ -30,14 +30,17 @@ The same files are available as an archive on GitHub (Releases) for installing w
 [*]Compendium (all entries)
 [*]Story texts, the tutorial and all 34 books
 [*]Seasonal themes
-[*]Not translated: text baked into maps or the game code (e.g. the «LVL» label above the XP bar)
+[*]Not translated: text baked into maps or the game code
 [/list]
 
 [h2]Known issues[/h2]
 [list]
 [*]The translation is not proofread — see "Status" above
 [*]Some lines may not fit narrow interface elements
-[*]Short freezes may occur on game start because of the fonts with an extended character set
+[*]Garbled characters (mojibake) appear in some places — being worked on, will be fixed in upcoming releases
+[*]Some letters in the fonts are drawn incorrectly and are hard to recognize — will also be fixed in upcoming releases
+[*]A few abbreviations are hard-coded in the game and stay in Latin (e.g. «LVL» above the XP bar) — may be resolved with a new version of the game
+[*][code]books/compiled_books.json[/code]: the game compiles the mod's books into this file and does not always restore the original after the mod is disabled — the books then stay in Ukrainian or the game complains on start. If that happens, delete the file or verify the game files in Steam. Likely to be resolved with a new version of the game
 [/list]
 
 [h2]Bugs and suggestions[/h2]
