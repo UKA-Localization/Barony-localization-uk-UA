@@ -9,7 +9,7 @@
 | Платформа | PC (Steam, Windows) |
 | Тип локалізації | текст (інтерфейс, ігровий текст, сюжет) |
 | Стан | у процесі (чернетка, вичитка триває) |
-| Версія | 5.0.2-2 (гра v5.0.2) |
+| Версія | 5.0.2-3 (гра v5.0.2) |
 | Автор | UKA Localization |
 | Завантажити | Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3711160804 · GitHub: https://github.com/UKA-Localization/Barony-localization-uk-UA/releases |
 | Джерело | https://github.com/UKA-Localization/Barony-localization-uk-UA |
